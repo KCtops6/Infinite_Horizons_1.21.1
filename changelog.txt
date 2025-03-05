@@ -5,18 +5,25 @@ Added Architectury API.
 Added Balm.
 Added Clumps.
 Added Create.
+Added Easy Anvils [Forge & Fabric].
+Added Easy Magic [Forge & Fabric].
 Added FTB Library (Forge).
 Added FTB Quests (Forge).
 Added FTB Teams (Forge).
 Added Jade 🔍.
 Added Just Enough Items (JEI).
 Added KubeJS.
+Added Leaves Be Gone [Forge & Fabric].
 Added Mouse Tweaks.
+Added Overflowing Bars [Forge & Fabric].
+Added Pick Up Notifier [Forge & Fabric].
 Added Puzzles Lib [Forge & Fabric].
+Added Resource Pack Overrides [Forge & Fabric].
 Added Rhino.
 Added Sophisticated Backpacks.
 Added Sophisticated Core.
 Added Sophisticated Storage.
+Added Trading Post [Forge & Fabric].
 Added Visual Workbench.
 Added Waystones.
 

@@ -135,3 +135,4 @@
 [05Mar2025 15:24:36.472] [Render thread/INFO] [flywheel/backend/shaders/]: Loaded 75 shader sources in 45.976 ms
 [05Mar2025 15:24:36.522] [Render thread/INFO] [com.simibubi.create.Create/]: Loaded 51 train hat configurations.
 [05Mar2025 15:24:36.524] [Render thread/INFO] [net.neoforged.neoforge.client.entity.animation.json.AnimationLoader/]: Loaded 0 entity animations
+[05Mar2025 15:25:51.647] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!

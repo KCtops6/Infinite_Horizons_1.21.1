@@ -12,6 +12,8 @@ Added Just Enough Items (JEI).
 Added KubeJS.
 Added Mouse Tweaks.
 Added Rhino.
+Added Sophisticated Backpacks.
+Added Sophisticated Core.
 Added Waystones.
 
 Ported Almost Unified Config from 1.20.1.

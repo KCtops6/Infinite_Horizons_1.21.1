@@ -1,0 +1,15 @@
+1.21.1-1.0-Beta
+Added Almost Unified.
+Added AppleSkin.
+Added Architectury API.
+Added Balm.
+Added Create.
+Added FTB Library (Forge).
+Added FTB Quests (Forge).
+Added FTB Teams (Forge).
+Added Jade 🔍.
+Added Just Enough Items (JEI).
+Added KubeJS.
+Added Mouse Tweaks.
+Added Rhino.
+Added Waystones.

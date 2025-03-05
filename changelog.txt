@@ -3,6 +3,7 @@ Added Almost Unified.
 Added AppleSkin.
 Added Architectury API.
 Added Balm.
+Added Clumps.
 Added Create.
 Added FTB Library (Forge).
 Added FTB Quests (Forge).

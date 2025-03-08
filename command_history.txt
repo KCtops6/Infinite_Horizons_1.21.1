@@ -1,0 +1,4 @@
+/time set day
+/gamerule doDaylightCycle false
+/locate structure minecraft:village_plains
+/tp @s 240 ~ -208

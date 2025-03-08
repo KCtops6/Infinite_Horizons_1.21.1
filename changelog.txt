@@ -10,6 +10,7 @@ Added Create.
 Added Easy Anvils [Forge & Fabric].
 Added Easy Magic [Forge & Fabric].
 Added Easy Villagers.
+Added Farmer's Delight.
 Added FerriteCore ((Neo)Forge).
 Added FTB Library (Forge).
 Added FTB Quests (Forge).
@@ -20,12 +21,14 @@ Added JourneyMap.
 Added Just Enough Items (JEI).
 Added KubeJS.
 Added Leaves Be Gone [Forge & Fabric].
+Added Moonlight Lib.
 Added Mouse Tweaks.
 Added Overflowing Bars [Forge & Fabric].
 Added Pick Up Notifier [Forge & Fabric].
 Added Puzzles Lib [Forge & Fabric].
 Added Resource Pack Overrides [Forge & Fabric].
 Added Rhino.
+Added Smarter Farmers (farmers replant).
 Added Sophisticated Backpacks.
 Added Sophisticated Core.
 Added Sophisticated Storage.

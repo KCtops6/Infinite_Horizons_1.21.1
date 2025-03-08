@@ -2,3 +2,4 @@
 /gamerule doDaylightCycle false
 /locate structure minecraft:village_plains
 /tp @s 240 ~ -208
+/gamemode survival

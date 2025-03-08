@@ -42,3 +42,35 @@ WebMapProperties{state=SavedOk, file=journeymap.webmap.config, configVersion=6.0
 CoreProperties{state=SavedOk, file=journeymap.core.config, configVersion=6.0.0-beta.39, maxPlayersData=32, mapSurfaceAboveCaves=true, dataCachingEnabled=true, maxAmbientCreaturesData=32, optionsManagerViewed=null, announceMod=true, ignoreSnow=false, colorPassive=#bbbbbb, colorPassiveLabel=#bbbbbb, mapShadows=true, mapBlendWater=true, playerIconFade=true, renderDistanceSurfaceMax=0, seedId=false, colorPetLabel=#0077ff, radarVerticalDistance=16, mapBlendGrass=true, recordCacheStats=false, hideSneakingEntities=true, initialSortOrder=Name, colorPlayerLabel=#ffffff, revealShape=jm.minimap.shape_circle, mapBiome=true, caveShader=jm.common.map_filter.default, mipmapLevels=5, colorVillagerLabel=#88e188, alwaysMapSurface=false, biomeShader=jm.common.map_filter.default, colorVillager=#88e188, mapPlants=false, colorPet=#0077ff, sortDescending=true, radarLateralDistance=64, mapBathymetry=false, mapCrops=true, maxMobsData=32, dayShader=jm.common.map_filter.default, mapPlantShadows=false, alwaysMapCaves=false, checkUpdates=true, colorHostileLabel=#ff0000, mapBlendFoliage=true, topoMax=0, hideSpectators=false, mappingEnabled=true, colorPlayer=#ffffff, cacheVillagersData=2200, logLevel=INFO, maxVillagersData=32, mapWaterBiomeColors=true, maxAnimalsData=32, mapTransparency=true, caveBlackAsClear=false, caveModeThreshold=2, legacyIcons=false, netherShader=jm.common.map_filter.default, caveIgnoreGlass=true, mapTopography=true, renderDistanceCaveMax=0, mapAntialiasing=true, colorSelf=#0000ff, cachePlayersData=2000, nightShader=jm.common.map_filter.default, cacheMobsData=3000, cachePlayerData=1000, splashViewed=null, colorHostile=#ff0000, topoShader=jm.common.map_filter.default, cacheAnimalsData=3100, ignoreHeightmaps=false, themeName=Purist, mapCaveLighting=true, renderDelay=2, mobIconFade=true, serverIp=false, glErrorChecking=false, autoMapPoll=2000}
 [15:47:57] [Render thread/DEBUG] [StatTimer] elapsed was slow: 2561.676414
 [15:47:57] [Render thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 1 avg 2561.68ms
+[15:48:06] [Render thread/INFO] [JourneymapClientNeoForge] Journeymap PostInit
+[15:48:06] [Render thread/DEBUG] [JourneymapClient] postInitialize ENTER
+[15:48:06] [Render thread/TRACE] [ThemeLoader] Initializing themes ...
+[15:48:08] [Render thread/INFO] [ThemeLoader] Preloaded theme textures: 73
+[15:48:08] [Render thread/DEBUG] [StatTimer] elapsed was slow: 1932.207446
+[15:48:08] [Render thread/INFO] [JourneymapClient] postInitialize EXIT, elapsed count 1 avg 1932.21ms
+[15:48:10] [Render thread/INFO] [ColorPalette] Color palette file generated for 0 blockstates in 11ms for: Default Palette
+[15:49:10] [Render thread/INFO] [TextureCache] [JourneyMap]: Purging Theme Images
+[15:49:10] [Render thread/INFO] [TextureCache] [JourneyMap]: Purging Region Images
+[15:49:10] [Render thread/INFO] [TextureCache] [JourneyMap]: Purging Mob Icon Images
+[15:49:11] [Server thread/INFO] [NeoForgeConfig] Loading JourneyMap Forge Configs
+[15:49:12] [Server thread/INFO] [PropertiesBase] global (FirstLoaded) Setting config file to version "6.0.0-beta.39": journeymap.server.global.config
+[15:49:12] [Server thread/INFO] [PropertiesBase] global (Valid) Creating config file: C:\Users\Kyle\curseforge\minecraft\Instances\1.21.1 - Infinite Horizons - Modded Superflat Survival\journeymap\server\6.0\journeymap.server.global.config
+[15:49:12] [Server thread/INFO] [PropertiesBase] default (FirstLoaded) Setting config file to version "6.0.0-beta.39": journeymap.server.default.config
+[15:49:12] [Server thread/INFO] [PropertiesBase] default (Valid) Creating config file: C:\Users\Kyle\curseforge\minecraft\Instances\1.21.1 - Infinite Horizons - Modded Superflat Survival\journeymap\server\6.0\journeymap.server.default.config
+[15:49:12] [Server thread/INFO] [PropertiesBase] minecraft~overworld (Valid) Creating config file: C:\Users\Kyle\curseforge\minecraft\Instances\1.21.1 - Infinite Horizons - Modded Superflat Survival\journeymap\server\6.0\journeymap.server.minecraft~overworld.config
+[15:49:12] [Server thread/INFO] [PropertiesBase] minecraft~the_end (Valid) Creating config file: C:\Users\Kyle\curseforge\minecraft\Instances\1.21.1 - Infinite Horizons - Modded Superflat Survival\journeymap\server\6.0\journeymap.server.minecraft~the_end.config
+[15:49:12] [Server thread/INFO] [PropertiesBase] minecraft~the_nether (Valid) Creating config file: C:\Users\Kyle\curseforge\minecraft\Instances\1.21.1 - Infinite Horizons - Modded Superflat Survival\journeymap\server\6.0\journeymap.server.minecraft~the_nether.config
+[15:49:21] [Render thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[15:49:21] [Render thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[15:49:22] [Render thread/INFO] [ModBlockDelegate] Custom modded block handling enabled for create
+[15:49:22] [Render thread/INFO] [WaypointHandler] Resetting Waypoints and Groups.
+[15:49:22] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from disk.
+[15:49:22] [Render thread/INFO] [WaypointGroupStore] Loaded 0 waypoint groups from disk.
+[15:49:22] [Render thread/INFO] [ClientWaypointDAO] Saving WaypointData.dat async:true
+[15:49:22] [Render thread/INFO] [ClientWaypointDAO] Saving WaypointData.dat async:true
+[15:49:22] [Render thread/INFO] [ClientWaypointDAO] Saving WaypointData.dat async:true
+[15:49:22] [Render thread/INFO] [ClientWaypointDAO] Saving WaypointData.dat async:true
+[15:49:22] [Render thread/INFO] [LegacyWaypointFileMigrator] 0 Legacy waypoints found that need to be migrated and backed up.
+[15:49:22] [Render thread/INFO] [ColorPalette] Color palette file generated for 0 blockstates in 2ms for: C:\Users\Kyle\curseforge\minecraft\Instances\1.21.1 - Infinite Horizons - Modded Superflat Survival\journeymap\colorpalette.json
+[15:49:22] [Render thread/INFO] [ColorPalette] Color palette file generated for 0 blockstates in 2ms for: C:\Users\Kyle\curseforge\minecraft\Instances\1.21.1 - Infinite Horizons - Modded Superflat Survival\journeymap\data\sp\New World\colorpalette.json
+[15:49:22] [Render thread/INFO] [JourneymapClient] Mapping started in C:\Users\Kyle\curseforge\minecraft\Instances\1.21.1 - Infinite Horizons - Modded Superflat Survival\journeymap\data\sp\New World\overworld. Memory: 1304MB total, 724MB free 

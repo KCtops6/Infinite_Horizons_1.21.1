@@ -6,12 +6,15 @@ ServerEvents.recipes(event => {
                 item: 'minecraft:sand'
             }
         ],
-        tool: { tag: 'forge:tools/pickaxes' },
-        result : [
+        result: [
             {
                 item: 'createsifter:dust'
             }
-        ]
+        ],
+        tool: {
+            type: "farmersdelight:tool_action",
+            action: "pickaxe_dig"
+        }
     })
     event.custom({
         type: 'farmersdelight:cutting',
@@ -20,12 +23,15 @@ ServerEvents.recipes(event => {
                 tag: 'forge:cobblestone'
             }
         ],
-        tool: { tag: 'forge:tools/pickaxes' },
-        result : [
+        result: [
             {
                 item: 'minecraft:gravel'
             }
-        ]
+        ],
+        tool: {
+            type: 'farmersdelight:tool_action',
+            action: 'pickaxe_dig'
+        }
     })
     event.custom({
         type: 'farmersdelight:cutting',
@@ -34,12 +40,15 @@ ServerEvents.recipes(event => {
                 item: 'minecraft:gravel'
             }
         ],
-        tool: { tag: 'forge:tools/pickaxes' },
-        result : [
+        result: [
             {
                 item: 'minecraft:sand'
             }
-        ]
+        ],
+        tool: {
+            type: "farmersdelight:tool_action",
+            action: "pickaxe_dig"
+        }
     })
     event.custom({
         type: 'farmersdelight:cutting',
@@ -48,8 +57,7 @@ ServerEvents.recipes(event => {
                 item: 'minecraft:gravel'
             }
         ],
-        tool: { tag: 'forge:tools/shovels' },
-        result : [
+        result: [
             {
                 item: 'minecraft:gravel'
             },
@@ -61,7 +69,11 @@ ServerEvents.recipes(event => {
                 item: 'minecraft:iron_nugget',
                 chance: 0.25
             }
-        ]
+        ],
+        tool: {
+            type: "farmersdelight:tool_action",
+            action: "shovel_dig"
+        }
     })
     event.custom({
         type: 'farmersdelight:cutting',
@@ -70,8 +82,7 @@ ServerEvents.recipes(event => {
                 item: 'minecraft:dirt'
             }
         ],
-        tool: { tag: 'forge:tools/shovels' },
-        result : [
+        result: [
             {
                 item: 'minecraft:dirt'
             },
@@ -79,7 +90,11 @@ ServerEvents.recipes(event => {
                 item: 'twigs:pebble',
                 chance: 0.75
             }
-        ]
+        ],
+        tool: {
+            type: "farmersdelight:tool_action",
+            action: "shovel_dig"
+        }
     })
     event.custom({
         type: 'farmersdelight:cutting',
@@ -88,8 +103,7 @@ ServerEvents.recipes(event => {
                 item: 'botania:dreamwood'
             }
         ],
-        tool: { tag: 'forge:tools/knives' },
-        result : [
+        result: [
             {
                 item: 'botania:dreamwood'
             },
@@ -97,7 +111,11 @@ ServerEvents.recipes(event => {
                 item: 'botania:dreamwood_twig',
                 chance: 0.75
             }
-        ]
+        ],
+        tool: {
+            type: "farmersdelight:tool_action",
+            action: "axe_dig"
+        }
     })
     event.custom({
         type: 'farmersdelight:cutting',
@@ -106,8 +124,7 @@ ServerEvents.recipes(event => {
                 item: 'botania:dreamwood_log'
             }
         ],
-        tool: { tag: 'forge:tools/knives' },
-        result : [
+        result: [
             {
                 item: 'botania:dreamwood_log'
             },
@@ -115,7 +132,11 @@ ServerEvents.recipes(event => {
                 item: 'botania:dreamwood_twig',
                 chance: 0.75
             }
-        ]
+        ],
+        tool: {
+            type: "farmersdelight:tool_action",
+            action: "axe_dig"
+        }
     })
     event.custom({
         type: 'farmersdelight:cutting',
@@ -124,8 +145,7 @@ ServerEvents.recipes(event => {
                 item: 'botania:livingwood'
             }
         ],
-        tool: { tag: 'forge:tools/knives' },
-        result : [
+        result: [
             {
                 item: 'botania:livingwood'
             },
@@ -133,7 +153,11 @@ ServerEvents.recipes(event => {
                 item: 'botania:livingwood_twig',
                 chance: 0.75
             }
-        ]
+        ],
+        tool: {
+            type: "farmersdelight:tool_action",
+            action: "axe_dig"
+        }
     })
     event.custom({
         type: 'farmersdelight:cutting',
@@ -142,8 +166,7 @@ ServerEvents.recipes(event => {
                 item: 'botania:livingwood_log'
             }
         ],
-        tool: { tag: 'forge:tools/knives' },
-        result : [
+        result: [
             {
                 item: 'botania:livingwood_log'
             },
@@ -151,6 +174,10 @@ ServerEvents.recipes(event => {
                 item: 'botania:livingwood_twig',
                 chance: 0.75
             }
-        ]
+        ],
+        tool: {
+            type: "farmersdelight:tool_action",
+            action: "axe_dig"
+        }
     })
 })

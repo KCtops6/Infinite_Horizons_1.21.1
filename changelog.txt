@@ -21,6 +21,7 @@ Added JourneyMap.
 Added Just Enough Items (JEI).
 Added KubeJS.
 Added Leaves Be Gone [Forge & Fabric].
+Added LootJS: KubeJS Addon.
 Added Moonlight Lib.
 Added Mouse Tweaks.
 Added Overflowing Bars [Forge & Fabric].

@@ -3,3 +3,10 @@
 /locate structure minecraft:village_plains
 /tp @s 240 ~ -208
 /gamemode survival
+/gamerule doDaylightCycle false
+/time set day
+/gamerule doDaylightCycle false
+/kubejs reload server-scripts
+/reload
+/kubejs reload server-scripts
+/reload

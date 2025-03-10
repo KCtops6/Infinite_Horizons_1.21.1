@@ -41,4 +41,4 @@ Added Waystones.
 
 Ported custom items from Infinite Horizons 1.20.1.
 Ported tag scripts from Infinite Horizons 1.20.1 (with some edits).
-Ported Farmer's Delight Cutting Board Recipes from Infinite Horizons 1.20.1.
+Ported Farmer's Delight Cutting Board Recipes from Infinite Horizons 1.20.1 (not yet implemented).

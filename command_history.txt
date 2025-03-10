@@ -10,3 +10,6 @@
 /reload
 /kubejs reload server-scripts
 /reload
+/gamerule doWeatherCycle false
+/weather clear
+/kubejs errors server

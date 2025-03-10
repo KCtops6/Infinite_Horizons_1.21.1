@@ -15,3 +15,6 @@
 /kubejs errors server
 /gamemode survival
 /clear
+/give KCtops6 kubejs:wooden_trowel
+/clear
+/give KCtops6 kubejs:stone_trowel

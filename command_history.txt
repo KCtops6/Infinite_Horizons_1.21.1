@@ -13,3 +13,5 @@
 /gamerule doWeatherCycle false
 /weather clear
 /kubejs errors server
+/gamemode survival
+/clear

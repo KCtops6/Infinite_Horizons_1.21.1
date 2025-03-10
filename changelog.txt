@@ -44,3 +44,4 @@ Ported tag scripts from Infinite Horizons 1.20.1 (with some edits).
 Ported Farmer's Delight Cutting Board Recipes from Infinite Horizons 1.20.1 (not yet implemented).
 Added Infinite Horizons Pebbles (Stone and Andesite).
 Added Infinite Horizons Wooden and Stone Trowel (for obtaining pebbles).
+Ported Shapeless and Shaped Crafting Recipes for Infinite Horizons 1.20.1 (Obviously not all used yet).

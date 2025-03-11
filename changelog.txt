@@ -3,6 +3,7 @@ Added Almost Unified.
 Added AppleSkin.
 Added Architectury API.
 Added Balm.
+Added Cobblegen Galore.
 Added Collective.
 Added Comforts (Fabric/Forge/Quilt).
 Added Clumps.

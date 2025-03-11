@@ -1,12 +1,3 @@
-/tp @s 240 ~ -208
-/gamemode survival
-/gamerule doDaylightCycle false
-/time set day
-/gamerule doDaylightCycle false
-/kubejs reload server-scripts
-/reload
-/kubejs reload server-scripts
-/reload
 /gamerule doWeatherCycle false
 /weather clear
 /kubejs errors server
@@ -48,3 +39,12 @@
 /give KCtops6 kubejs:stone_hammer
 /give KCtops6 gravel
 /clear
+/kubejs reload sre
+/kubejs reload server-scripts
+/reload
+/clear
+/kubejs reload server-scripts
+/reload
+/clear
+/kubejs reload server-scripts
+/reload

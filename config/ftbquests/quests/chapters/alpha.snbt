@@ -256,5 +256,58 @@
 			x: 4.0d
 			y: 1.0d
 		}
+		{
+			dependencies: ["3642E2D78B348AE3"]
+			id: "7C75AE73B3CCD66E"
+			tasks: [{
+				id: "46AEB24C5B2F89CF"
+				item: { count: 1, id: "kubejs:iron_trowel" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7C75AE73B3CCD66E"]
+			icon: {
+				id: "minecraft:copper_ingot"
+			}
+			id: "5A382D145AA88DD9"
+			tasks: [
+				{
+					id: "64F44EBB9305343B"
+					item: { count: 1, id: "create:crushed_raw_copper" }
+					type: "item"
+				}
+				{
+					id: "612FB13AED21863E"
+					item: { count: 1, id: "minecraft:copper_ingot" }
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["7C75AE73B3CCD66E"]
+			icon: {
+				id: "minecraft:gold_ingot"
+			}
+			id: "28018BE994F02339"
+			tasks: [
+				{
+					id: "4395800E0D49456B"
+					item: { count: 1, id: "create:crushed_raw_gold" }
+					type: "item"
+				}
+				{
+					id: "3C6D576FA6367F88"
+					item: { count: 1, id: "minecraft:gold_ingot" }
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 0.0d
+		}
 	]
 }

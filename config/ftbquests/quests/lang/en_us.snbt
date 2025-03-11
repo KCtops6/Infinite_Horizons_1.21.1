@@ -21,6 +21,9 @@
 	quest.26760351A93ADC05.quest_desc: ["The wind can be harnessed to generate rotational energy. Craft a &lWindmill Bearing&r and gather enough &lSails&r to build your Windmill. Once assembled, place it in an open area to capture the wind’s energy and power your mechanical systems. Let the wind carry you to new heights of automation!"]
 	quest.26760351A93ADC05.quest_subtitle: "Tapping into the Breeze"
 	quest.26760351A93ADC05.title: "Winds of Progress"
+	quest.28018BE994F02339.quest_desc: ["The &lIron Trowel&r lets you dig even deeper, uncovering &lCrushed Raw Gold&r from dirt and grass. Smelt it down to obtain &lGold Ingots&r, a valuable material for crafting advanced components and trading. Keep searching—gold is always a treasure worth finding!"]
+	quest.28018BE994F02339.quest_subtitle: "A Precious Find"
+	quest.28018BE994F02339.title: "Goldfinger"
 	quest.31950EF5E62EC10F.quest_desc: ["The natural flow of water can be transformed into rotational energy with a &lWater Wheel&r. Craft and place one near flowing water to generate power for your mechanical systems. This early energy source is key for automating tasks and building more complex machines. Use the power of the current to fuel your creations!"]
 	quest.31950EF5E62EC10F.quest_subtitle: "The Power of Water"
 	quest.31950EF5E62EC10F.title: "Harnessing the Current"
@@ -45,6 +48,9 @@
 	quest.579D7FD06F5DC4D7.quest_desc: ["The &lMechanical Press&r is a powerful tool for pressing, compacting, and packing materials into more efficient forms. Use it to create compacted items like Iron Sheets or packed materials for crafting. Powered by rotational energy, this press will save time and effort, allowing you to streamline your material processing and improve efficiency. Set it up and press your way to progress!"]
 	quest.579D7FD06F5DC4D7.quest_subtitle: "Compacting with Power"
 	quest.579D7FD06F5DC4D7.title: "Pressing Progress"
+	quest.5A382D145AA88DD9.quest_desc: ["With an &lIron Trowel&r, you can now extract &lCrushed Raw Copper&r while digging through dirt and grass. Smelt it in a furnace for a &lCopper Ingot&r, unlocking new crafting possibilities. Copper is essential for wires, machinery, and more—so start gathering and put it to good use!"]
+	quest.5A382D145AA88DD9.quest_subtitle: "Unearthing New Metals"
+	quest.5A382D145AA88DD9.title: "Copper Prospects"
 	quest.62DBB6855DF2639C.quest_desc: ["With wood in hand, it's time to craft one of the most important blocks in your journey—the Crafting Table. This essential workstation unlocks countless recipes, allowing you to turn raw materials into tools, building blocks, and more. Simply arrange four wooden planks in your inventory crafting grid to get started!"]
 	quest.62DBB6855DF2639C.quest_subtitle: "Crafting the Basics"
 	quest.62DBB6855DF2639C.title: "Workbench Wonders"
@@ -54,5 +60,8 @@
 	quest.7C42B99D6CD2EB48.quest_desc: ["Your Wooden Trowel was a good start, but a &lStone Trowel&r will serve you even better. With increased durability and improved drops, you'll gather resources more efficiently. Craft one and put it to the test—you might be surprised by what you find!"]
 	quest.7C42B99D6CD2EB48.quest_subtitle: "Improved Gathering"
 	quest.7C42B99D6CD2EB48.title: "A Better Trowel"
+	quest.7C75AE73B3CCD66E.quest_desc: ["The &lIron Trowel&r is a step up from its predecessors, allowing you to uncover even more exclusive materials while still gathering everything a &lStone Trowel&r could. With increased durability and better drops, this tool is essential for expanding your resource collection. Upgrade now and see what hidden treasures await beneath the surface!"]
+	quest.7C75AE73B3CCD66E.quest_subtitle: "The Iron Advantage"
+	quest.7C75AE73B3CCD66E.title: "Digging Deeper"
 	task.6509A635775E13FF.title: "Rotational Energy Setup"
 }

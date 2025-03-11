@@ -1,7 +1,8 @@
 ServerEvents.recipes(event => {
     const mappings = [
-        { input: '#minecraft:planks', output: 'kubejs:wooden_trowel'},
-        { input: 'minecraft:cobblestone', output: 'kubejs:stone_trowel'}
+        { input: '#minecraft:planks', output: 'kubejs:wooden_trowel' },
+        { input: 'minecraft:cobblestone', output: 'kubejs:stone_trowel' },
+        { input: 'minecraft:iron_ingot', output: 'kubejs:iron_trowel' }
     ]
 
     mappings.forEach(m => {

@@ -1,0 +1,253 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "alpha"
+	group: ""
+	icon: {
+		id: "minecraft:oak_log"
+	}
+	id: "17F179085511CF63"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "57401F4BD3952C56"
+			rewards: [
+				{
+					id: "3D235DE8F7328AB6"
+					item: {
+						count: 1
+						id: "minecraft:oak_sapling"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "625BC930A76F90BB"
+					item: {
+						count: 1
+						id: "farmersdelight:apple_pie_slice"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "651B5B9290C1744B"
+				item: { count: 1, id: "minecraft:oak_log" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["57401F4BD3952C56"]
+			id: "62DBB6855DF2639C"
+			rewards: [{
+				id: "239321A7667B6B20"
+				item: {
+					count: 1
+					id: "farmersdelight:smoked_ham"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [{
+				id: "5E90854D6BFDD0C0"
+				item: { count: 1, id: "minecraft:crafting_table" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["62DBB6855DF2639C"]
+			icon: {
+				id: "minecraft:cobblestone"
+			}
+			id: "40F041C17BEAADEE"
+			rewards: [{
+				id: "18E9A18849D00E22"
+				item: {
+					count: 1
+					id: "farmersdelight:chocolate_pie_slice"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "1C457F9FE212D05C"
+					item: { count: 1, id: "kubejs:wooden_trowel" }
+					type: "item"
+				}
+				{
+					id: "7DBAB9D9BA92F024"
+					item: { count: 1, id: "kubejs:stone_pebble" }
+					type: "item"
+				}
+				{
+					id: "4C41F6839585F188"
+					item: { count: 1, id: "minecraft:cobblestone" }
+					type: "item"
+				}
+				{
+					id: "7D39BCB884789B10"
+					item: { count: 1, id: "minecraft:furnace" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["40F041C17BEAADEE"]
+			icon: {
+				id: "minecraft:gravel"
+			}
+			id: "528AC4A13D35951B"
+			rewards: [{
+				id: "694E73BAE68614B5"
+				item: {
+					count: 1
+					id: "farmersdelight:mixed_salad"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "2407D224E136A0CF"
+					item: { count: 1, id: "kubejs:stone_hammer" }
+					type: "item"
+				}
+				{
+					id: "6885F73EF1301152"
+					item: { count: 1, id: "minecraft:gravel" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"528AC4A13D35951B"
+				"7C42B99D6CD2EB48"
+			]
+			icon: {
+				id: "minecraft:iron_ingot"
+			}
+			id: "3642E2D78B348AE3"
+			rewards: [{
+				id: "5C2A905BF57889EB"
+				item: {
+					count: 1
+					id: "farmersdelight:fruit_salad"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "3360BB1BF1AD9D1C"
+					item: { count: 1, id: "create:crushed_raw_iron" }
+					type: "item"
+				}
+				{
+					id: "5C89177F9F37A84E"
+					item: { count: 1, id: "minecraft:iron_ingot" }
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7C42B99D6CD2EB48"]
+			icon: {
+				id: "minecraft:andesite"
+			}
+			id: "4FCED4F5C0320523"
+			rewards: [{
+				id: "608C139FD7411007"
+				item: {
+					count: 1
+					id: "farmersdelight:barbecue_stick"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "12E3BCD173CB72EE"
+					item: { count: 1, id: "kubejs:andesite_pebble" }
+					type: "item"
+				}
+				{
+					id: "539DC93E8FF5EB62"
+					item: { count: 1, id: "minecraft:andesite" }
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"3642E2D78B348AE3"
+				"4FCED4F5C0320523"
+			]
+			id: "6F234337CE289CD4"
+			rewards: [{
+				id: "04251FC00A5DD359"
+				item: {
+					count: 1
+					id: "create:builders_tea"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [{
+				id: "5CE4AEB78104D5E9"
+				item: { count: 1, id: "create:andesite_alloy" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["40F041C17BEAADEE"]
+			id: "7C42B99D6CD2EB48"
+			tasks: [{
+				id: "113E1EC067647E14"
+				item: { count: 1, id: "kubejs:stone_trowel" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["528AC4A13D35951B"]
+			id: "2271A8EDA3C7F64C"
+			tasks: [{
+				id: "199E937AF94E0E15"
+				item: { count: 1, id: "minecraft:sand" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["2271A8EDA3C7F64C"]
+			id: "174AD92AAE3A1FAF"
+			tasks: [{
+				id: "20403F653E307559"
+				item: { count: 1, id: "minecraft:glass" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+	]
+}

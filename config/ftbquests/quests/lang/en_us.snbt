@@ -4,11 +4,17 @@
 	quest.04F3232804097839.quest_desc: ["The &lMillstone&r is the perfect tool to automate the grinding process. Use it to automatically turn &oCobblestone into Gravel&r and &oGravel into Sand&r—no more hammering by hand. Power it with rotational energy from a &lWater Wheel&r or &lWindmill&r, and let it run smoothly as it processes your materials for you. Set it up and watch the grinding never stop!"]
 	quest.04F3232804097839.quest_subtitle: "Automating the Hammer"
 	quest.04F3232804097839.title: "Grinding Efficiency"
+	quest.073087ED7AC745F3.quest_desc: ["The &lMechanical Mixer&r is an essential tool for combining ingredients into advanced recipes. Powered by rotational energy, it can mix materials like dough, alloys, and other compounds with ease. Set it up, power it with your existing energy source, and automate the mixing process for efficient crafting in your mechanical systems."]
+	quest.073087ED7AC745F3.quest_subtitle: "Crafting with Precision"
+	quest.073087ED7AC745F3.title: "Mixing Mastery"
 	quest.174AD92AAE3A1FAF.quest_desc: ["&lGlass&r is a vital material for many creations, from windows to containers. Craft Glass by smelting &lSand&r in a furnace. This simple yet essential block opens the door to new possibilities in building and crafting. Gather sand and let the furnace work its magic!"]
 	quest.174AD92AAE3A1FAF.quest_subtitle: "The Clear Path"
 	quest.174AD92AAE3A1FAF.title: "Transparent Progress"
 	quest.1B922950A7570482.quest_desc: ["Check the box to acknowledge that you have a working source of rotational energy."]
 	quest.1B922950A7570482.quest_subtitle: "Early Game Power"
+	quest.2204AA3E838C4962.quest_desc: ["Transform &oorganic matter&r and &owater&r into &lPulp&r using the Mechanical Mixer. Once you have enough pulp, use the Mechanical Press to turn it into &lCardboard&r. Cardboard serves as a cost-effective material, especially for crafting items like books. It’s a simple yet valuable resource that can streamline your crafting process. Get mixing and pressing to unlock its potential!"]
+	quest.2204AA3E838C4962.quest_subtitle: "From Pulp to Cardboard"
+	quest.2204AA3E838C4962.title: "Paper Trails"
 	quest.2271A8EDA3C7F64C.quest_desc: ["&lGravel&r can be more than just a building block—break it with a &lStone Hammer&r to turn it into &lSand&r. Sand opens up new crafting possibilities and resources for survival. Keep smashing gravel to uncover the many uses of sand!"]
 	quest.2271A8EDA3C7F64C.quest_subtitle: "From Gravel to Sand"
 	quest.2271A8EDA3C7F64C.title: "The Sands of Time"

@@ -241,5 +241,27 @@
 			x: 4.0d
 			y: -1.0d
 		}
+		{
+			dependencies: ["073087ED7AC745F3"]
+			icon: {
+				id: "create:cardboard"
+			}
+			id: "2204AA3E838C4962"
+			optional: true
+			tasks: [
+				{
+					id: "2FF31DA60566D620"
+					item: { count: 1, id: "create:pulp" }
+					type: "item"
+				}
+				{
+					id: "4329633ADB63E221"
+					item: { count: 1, id: "create:cardboard" }
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: -2.0d
+		}
 	]
 }

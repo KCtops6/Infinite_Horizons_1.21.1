@@ -47,3 +47,4 @@ Added Infinite Horizons Wooden and Stone Trowel (for obtaining pebbles).
 Ported Shapeless and Shaped Crafting Recipes for Infinite Horizons 1.20.1 (Obviously not all used yet).
 Added Infinite Horizons Stone Hammer (for early cobbleworks).
 Started Alpha Questline.
+Started Beta Questline.

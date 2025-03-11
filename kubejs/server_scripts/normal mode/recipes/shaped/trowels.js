@@ -4,7 +4,6 @@ ServerEvents.recipes(event => {
         { input: 'minecraft:cobblestone', output: 'kubejs:stone_trowel' },
         { input: 'minecraft:iron_ingot', output: 'kubejs:iron_trowel' }
     ]
-
     mappings.forEach(m => {
         event.shaped(
             Item.of(m.output, 1),

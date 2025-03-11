@@ -16,6 +16,8 @@ Added FerriteCore ((Neo)Forge).
 Added FTB Library (Forge).
 Added FTB Quests (Forge).
 Added FTB Teams (Forge).
+Added FTB Ultimine (Forge).
+Added FTB XMod Compat.
 Added Guard Villagers.
 Added Jade 🔍.
 Added JourneyMap.

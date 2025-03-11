@@ -33,6 +33,9 @@
 	quest.40F041C17BEAADEE.quest_desc: ["Without natural stone, you'll need to get creative. Craft a &lWooden Trowel&r and use it to break dirt or grass blocks—this will yield &lStone Pebbles&r. Gather four pebbles and craft them into a &lCobblestone&r block. With cobblestone in hand, sturdier tools and new possibilities await!"]
 	quest.40F041C17BEAADEE.quest_subtitle: "From Dirt to Stone"
 	quest.40F041C17BEAADEE.title: "The First Stones"
+	quest.43F89961BCA46925.quest_desc: ["Say goodbye to pebbles—the &lStone Block Generator&r provides a passive source of &lCobblestone&r, &lStone&r, &lAndesite&r, and more. Look at JEI for all recipes.  Crafted from Stone and Glass, this machine ensures you’ll never run out of essential building materials. Set it up, let it run, and focus on bigger projects!"]
+	quest.43F89961BCA46925.quest_subtitle: "A Steady Supply"
+	quest.43F89961BCA46925.title: "Infinite Stone"
 	quest.4ECFE2AB1E743F96.quest_desc: ["For even more power, upgrade your &lWater Wheel&r to the &lLarge Water Wheel&r. This improved version generates significantly more rotational energy, perfect for scaling up your mechanical systems. Craft it with additional materials, place it in flowing water, and watch your energy output soar, powering more advanced machines and automation."]
 	quest.4ECFE2AB1E743F96.quest_subtitle: "The Mighty Water Wheel"
 	quest.4ECFE2AB1E743F96.title: "Power Unleashed"

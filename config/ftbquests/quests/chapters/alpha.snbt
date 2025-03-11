@@ -309,5 +309,18 @@
 			x: 6.0d
 			y: 0.0d
 		}
+		{
+			dependencies: ["174AD92AAE3A1FAF"]
+			id: "43F89961BCA46925"
+			tasks: [{
+				id: "6EEA069CD0E19221"
+				item: { count: 1, id: "cobblegengalore:block_gen_stone" }
+				match_components: "fuzzy"
+				tags: [""]
+				type: "item"
+			}]
+			x: 3.0d
+			y: 4.0d
+		}
 	]
 }

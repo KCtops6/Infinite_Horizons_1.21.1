@@ -50,7 +50,7 @@ Ported Farmer's Delight Cutting Board Recipes from Infinite Horizons 1.20.1 (not
 Added Infinite Horizons Pebbles (Stone and Andesite).
 Added Infinite Horizons Wooden, Stone, and Iron Trowel (for obtaining pebbles and crushed raw ores).
 Ported Shapeless and Shaped Crafting Recipes for Infinite Horizons 1.20.1 (Obviously not all used yet).
-Added Infinite Horizons Stone Hammer (for early cobbleworks).
+Added Infinite Horizons Stone and Iron Hammer (for early cobbleworks).
 Started Alpha Questline.
 Started Beta Questline.
 Started Gamma Questline.

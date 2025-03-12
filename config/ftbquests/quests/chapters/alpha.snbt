@@ -190,7 +190,7 @@
 					type: "item"
 				}
 			]
-			x: 2.0d
+			x: 3.0d
 			y: -1.0d
 		}
 		{
@@ -347,8 +347,8 @@
 				item: { count: 1, id: "minecraft:tuff" }
 				type: "item"
 			}]
-			x: 1.0d
-			y: 2.0d
+			x: 2.0d
+			y: -2.0d
 		}
 		{
 			dependencies: ["518AD3B1EB3FADBF"]
@@ -373,8 +373,19 @@
 					type: "item"
 				}
 			]
-			x: 1.0d
-			y: 3.0d
+			x: 3.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["3642E2D78B348AE3"]
+			id: "102CBDC3FA5552DC"
+			tasks: [{
+				id: "7EE78E5C29F82AFF"
+				item: { count: 1, id: "kubejs:iron_hammer" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -1.0d
 		}
 	]
 }

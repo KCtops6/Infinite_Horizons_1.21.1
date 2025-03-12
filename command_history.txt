@@ -1,10 +1,3 @@
-/clear
-/kubejs reload server-scripts
-/reload
-/kubejs errors server
-/kubejs reload server-scripts
-/reload
-/kubejs reload server-scripts
 /reload
 /kubejs reload server-scripts
 /reload
@@ -47,4 +40,11 @@
 /gamemode survival
 /effect give KCtops6 minecraft:regeneration 100 100
 /kubejs hand
+/clear
+/give KCtops6 mysticalagriculture:inferium_seeds
+/clear
+/kubejs reload sr
+/kubejs reload server-scripts
+/reload
+/clera
 /clear

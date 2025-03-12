@@ -22,10 +22,12 @@ Added Guard Villagers.
 Added Jade 🔍.
 Added JourneyMap.
 Added Just Enough Items (JEI).
+Added Just Enough Resources (JER).
 Added KubeJS.
 Added Leaves Be Gone [Forge & Fabric].
 Added LootJS: KubeJS Addon.
 Added Moonlight Lib.
+Added MoreJS.
 Added Mouse Tweaks.
 Added Overflowing Bars [Forge & Fabric].
 Added Pick Up Notifier [Forge & Fabric].
@@ -51,3 +53,4 @@ Ported Shapeless and Shaped Crafting Recipes for Infinite Horizons 1.20.1 (Obvio
 Added Infinite Horizons Stone Hammer (for early cobbleworks).
 Started Alpha Questline.
 Started Beta Questline.
+Started Gamma Questline.

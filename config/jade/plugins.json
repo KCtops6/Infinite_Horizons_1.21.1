@@ -64,6 +64,9 @@
     "converter": true,
     "breeder": true
   },
+  "mysticalagradditions": {
+    "infused_farmland": true
+  },
   "jade": {
     "coordinates.rel": false,
     "registry_name.special": false,
@@ -77,6 +80,11 @@
   },
   "waystones": {
     "waystone": true
+  },
+  "mysticalagriculture": {
+    "infused_farmland": true,
+    "crop": true,
+    "inferium_crop": true
   },
   "balm": {
     "jade": true

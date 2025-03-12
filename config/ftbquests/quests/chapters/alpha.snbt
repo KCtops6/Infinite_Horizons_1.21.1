@@ -350,5 +350,31 @@
 			x: 1.0d
 			y: 2.0d
 		}
+		{
+			dependencies: ["518AD3B1EB3FADBF"]
+			icon: {
+				id: "minecraft:cobbled_deepslate"
+			}
+			id: "35B8E383C14A9B9D"
+			tasks: [
+				{
+					id: "70683F6F166E4C30"
+					item: { count: 1, id: "kubejs:tuff_gravel" }
+					type: "item"
+				}
+				{
+					id: "7824B6AE10A5FBF8"
+					item: { count: 1, id: "kubejs:deepslate_pebble" }
+					type: "item"
+				}
+				{
+					id: "204AF917C779A64F"
+					item: { count: 1, id: "minecraft:cobbled_deepslate" }
+					type: "item"
+				}
+			]
+			x: 1.0d
+			y: 3.0d
+		}
 	]
 }

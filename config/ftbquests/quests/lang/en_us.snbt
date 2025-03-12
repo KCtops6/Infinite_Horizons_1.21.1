@@ -31,6 +31,9 @@
 	quest.31950EF5E62EC10F.quest_desc: ["The natural flow of water can be transformed into rotational energy with a &lWater Wheel&r. Craft and place one near flowing water to generate power for your mechanical systems. This early energy source is key for automating tasks and building more complex machines. Use the power of the current to fuel your creations!"]
 	quest.31950EF5E62EC10F.quest_subtitle: "The Power of Water"
 	quest.31950EF5E62EC10F.title: "Harnessing the Current"
+	quest.35B8E383C14A9B9D.quest_desc: ["To obtain &lCobbled Deepslate&r, you'll need to process &lTuff&r step by step. Breaking Tuff with a Stone Hammer or better turns it into &lTuff Gravel&r. Using an Iron Trowel or better on Tuff Gravel gives you &lDeepslate Pebbles&r, which can be crafted into Cobbled Deepslate by combining four of them. While this method works, crafting Deepslate Seeds will save you time and effort in the long run!"]
+	quest.35B8E383C14A9B9D.quest_subtitle: "Crafting Cobbled Deepslate"
+	quest.35B8E383C14A9B9D.title: "Into the Depths"
 	quest.3642E2D78B348AE3.quest_desc: ["With a &lStone Trowel&r in hand, gravel becomes more than just a stepping stone—it’s your first source of iron. Sift through gravel to find &lCrushed Raw Iron&r, then smelt it down into a shiny &lIron Ingot&r. With iron, stronger tools and better equipment are within reach!"]
 	quest.3642E2D78B348AE3.quest_subtitle: "Sifting for Strength"
 	quest.3642E2D78B348AE3.title: "Iron Beginnings"

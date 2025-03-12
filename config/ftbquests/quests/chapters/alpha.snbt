@@ -436,5 +436,25 @@
 			x: 5.0d
 			y: -2.0d
 		}
+		{
+			dependencies: ["20CEFFF2715407F7"]
+			id: "07B1B6C8502FD122"
+			rewards: [{
+				id: "6436050F1D34B767"
+				item: {
+					count: 1
+					id: "minecraft:obsidian"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [{
+				id: "299DF698CB6F9F01"
+				item: { count: 1, id: "minecraft:obsidian" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -2.0d
+		}
 	]
 }

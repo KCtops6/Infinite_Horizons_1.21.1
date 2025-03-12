@@ -11,12 +11,21 @@
 	quest.073087ED7AC745F3.quest_desc: ["The &lMechanical Mixer&r is an essential tool for combining ingredients into advanced recipes. Powered by rotational energy, it can mix materials like dough, alloys, and other compounds with ease. Set it up, power it with your existing energy source, and automate the mixing process for efficient crafting in your mechanical systems."]
 	quest.073087ED7AC745F3.quest_subtitle: "Crafting with Precision"
 	quest.073087ED7AC745F3.title: "Mixing Mastery"
+	quest.07B1B6C8502FD122.quest_desc: ["&lObsidian&r is a crucial material for various advanced crafts, including portals and reinforced tools. The easiest way to obtain it is by combining lava and water, but with the right automation, you can produce it efficiently. Whether you mine it manually or find a way to generate it passively, having a steady supply of Obsidian will open the path to greater possibilities!"]
+	quest.07B1B6C8502FD122.quest_subtitle: "Obtaining Obsidian"
+	quest.07B1B6C8502FD122.title: "Unbreakable Resolve"
 	quest.0E2601518E952F8C.quest_desc: ["&lWater Seeds&r grow into &lWater Essence&r, which is useful for a few early-game recipes. While it may not be as versatile as some other essences, it's an essential resource for crafting basic items and progressing through the early stages of Mystical Agriculture. Start planting to unlock new crafting possibilities!"]
 	quest.0E2601518E952F8C.quest_subtitle: "Harnessing Water Essence"
 	quest.0E2601518E952F8C.title: "Seeds of the Sea"
+	quest.0E3F69CBC98336DE.quest_desc: ["&lInsanium&r is the next level after Supremium, representing the peak of your crafting journey. To craft Insanium Essence, you’ll need to create the &lSupremium Infusion Crystal&r. Combine Supremium Essence, the Imperium Infusion Crystal, and additional Prosperity Shards to craft the crystal. Once you have it, use it just as you did with previous essences to infuse and obtain Insanium Essence, unlocking the most powerful materials and items in your quest for ultimate strength!"]
+	quest.0E3F69CBC98336DE.quest_subtitle: "Insane Ambitions"
+	quest.0E3F69CBC98336DE.title: "The Pinnacle of Power"
 	quest.102CBDC3FA5552DC.quest_desc: ["The &lIron Hammer&r is a direct upgrade from the Stone Hammer, allowing you to break tougher materials with ease. It is essential for processing Tuff into Tuff Gravel and is required to obtain Deepslate Gravel. With this tool in hand, you're ready to break through stronger stone and progress further!"]
 	quest.102CBDC3FA5552DC.quest_subtitle: "Upgrading to Iron"
 	quest.102CBDC3FA5552DC.title: "A Stronger Strike"
+	quest.114F6DD75C9B7D22.quest_desc: ["The &lMaster Infusion Crystal&r combines the power of every previous crystal, offering infinite uses and the ability to infuse any essence you need. By crafting this ultimate crystal, you gain the convenience of accessing Prudentium, Tertium, Imperium, Supremium, and Insanium essences all in one item. It's a powerful tool for simplifying your crafting process, saving time and resources as you advance to even greater heights. Unlock this versatile crystal and wield its boundless potential!"]
+	quest.114F6DD75C9B7D22.quest_subtitle: "Crafting the Master Infusion Crystal"
+	quest.114F6DD75C9B7D22.title: "The Ultimate Infusion"
 	quest.166EC60FFAC9B4BD.quest_desc: ["To craft &lPrudentium Essence&r, you’ll first need to create an &lInferium Infusion Crystal&r by combining Inferium, Prosperity Shards, and a Diamond. This crystal is key to unlocking the next tier of Mystical Agriculture crops and resources. Use it wisely, as Prudentium Essence will help you take your farming and crafting to new heights."]
 	quest.166EC60FFAC9B4BD.quest_subtitle: "Infusing for Advancement"
 	quest.166EC60FFAC9B4BD.title: "The Path to Prudentium"

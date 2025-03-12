@@ -33,6 +33,7 @@ Added Overflowing Bars [Forge & Fabric].
 Added Pick Up Notifier [Forge & Fabric].
 Added Puzzles Lib [Forge & Fabric].
 Added Resource Pack Overrides [Forge & Fabric].
+Added Restricted Portals.
 Added Rhino.
 Added Smarter Farmers (farmers replant).
 Added Sophisticated Backpacks.

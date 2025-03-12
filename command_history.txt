@@ -1,11 +1,4 @@
 /reload
-/kubejs reload server-scripts
-/reload
-/kubejs reload server-scripts
-/reload
-/kubejs hand
-/kubejs reload server-scripts
-/reload
 /give KCtops6 gravel
 /give KCtops6 gravel 64
 /kubejs reload server-scripts
@@ -48,3 +41,10 @@
 /reload
 /clera
 /clear
+/kubejs reload server-scripts
+/reload
+/kubejs reload server-scripts
+/reload
+/kubejs reload ser
+/kubejs reload server-scripts
+/reload

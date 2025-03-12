@@ -1,9 +1,15 @@
-// StartupEvents.registry("block", (event) => {
-//     event.create("agronomancers_workbench")
-//     .displayName("Agronomancer's Workbench")
-//     .hardness(0.6)
-//     .resistance(0.6)
-//     .woodSoundType()
-//     .requiresTool(true)
-//     .tagBlock("mineable/pickaxe");
-// })
+StartupEvents.registry("block", (event) => {
+    event.create("tuff_gravel")
+    .displayName("Tuff Gravel")
+    .hardness(0.6)
+    .resistance(0.6)
+    .gravelSoundType()
+    .requiresTool(false)
+    .tagBlock("mineable/shovel")
+    .texture('up', 'kubejs:block/tuff_gravel')
+    .texture('down', 'kubejs:block/tuff_gravel')
+    .texture('north', 'kubejs:block/tuff_gravel')
+    .texture('south', 'kubejs:block/tuff_gravel')
+    .texture('east', 'kubejs:block/tuff_gravel')
+    .texture('west', 'kubejs:block/tuff_gravel');
+})

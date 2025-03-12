@@ -2,7 +2,7 @@
 	chapter.17F179085511CF63.title: "Alpha"
 	chapter.247639ED7F0AF536.title: "Gamma"
 	chapter.6B16A1E49845B379.title: "Beta"
-	quest.03552227F62B6320.quest_desc: ["Breaking Cobbled Deepslate with an Iron Hammer or better produces &lDeepslate Gravel&r, a valuable material with the potential for rare finds. Sifting through it can yield diamonds, lapis, and prosperity shards, making it an essential step for obtaining high-tier resources. The deeper you go, the greater the rewards!"]
+	quest.03552227F62B6320.quest_desc: ["Breaking Cobbled Deepslate with an Iron Hammer or better produces &lDeepslate Gravel&r, a valuable material with the potential for rare finds. Sifting through it can yield diamonds and lapis, making it an essential step for obtaining high-tier resources. The deeper you go, the greater the rewards!"]
 	quest.03552227F62B6320.quest_subtitle: "Deepslate Gravel Rewards"
 	quest.03552227F62B6320.title: "Sifting the Depths"
 	quest.04F3232804097839.quest_desc: ["The &lMillstone&r is the perfect tool to automate the grinding process. Use it to automatically turn &oCobblestone into Gravel&r and &oGravel into Sand&r—no more hammering by hand. Power it with rotational energy from a &lWater Wheel&r or &lWindmill&r, and let it run smoothly as it processes your materials for you. Set it up and watch the grinding never stop!"]
@@ -85,6 +85,9 @@
 	quest.6F234337CE289CD4.quest_desc: ["With &lAndesite&r and &lIron&r in hand, it’s time to craft the cornerstone of Create’s mechanical systems—&lAndesite Alloy&r. Combine Andesite with Iron to forge this versatile material. Andesite Alloy will be used in various Create machines, unlocking your potential for automation and advancement."]
 	quest.6F234337CE289CD4.quest_subtitle: "Forging the Andesite Alloy"
 	quest.6F234337CE289CD4.title: "The Heart of Creation"
+	quest.726CEB2724A750D7.quest_desc: ["Using an Iron Trowel or better on Gravel gives you a chance to obtain &lProsperity Shards&r, a key component in Mystical Agriculture. These shards are essential for crafting higher-tier resource crops. Keep sifting through gravel to gather what you need for future advancements!"]
+	quest.726CEB2724A750D7.quest_subtitle: "Finding Prosperity"
+	quest.726CEB2724A750D7.title: "Shards of Potential"
 	quest.780B474DBCE85FC2.quest_desc: ["&lInferium Essence&r is a powerful material dropped by mobs, and it plays a vital role in the &oMystical Agriculture&r mod. Use it to craft seeds for growing a variety of resources, from basic crops to rare materials. Start gathering this essence to unlock a whole new world of farming and resource generation!"]
 	quest.780B474DBCE85FC2.quest_subtitle: "Harnessing Inferium"
 	quest.780B474DBCE85FC2.title: "The Essence of Growth"

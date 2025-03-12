@@ -140,13 +140,43 @@
 		{
 			dependencies: ["7C75AE73B3CCD66E"]
 			id: "726CEB2724A750D7"
+			rewards: [{
+				count: 3
+				id: "73B6676861D36B02"
+				item: {
+					count: 1
+					id: "mysticalagriculture:prosperity_shard"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
 			tasks: [{
 				id: "7DFCE53E303A46F7"
 				item: { count: 1, id: "mysticalagriculture:prosperity_shard" }
 				type: "item"
 			}]
 			x: 1.0d
-			y: -1.0d
+			y: 1.0d
+		}
+		{
+			icon: {
+				id: "mysticalagriculture:prudentium_essence"
+			}
+			id: "166EC60FFAC9B4BD"
+			tasks: [
+				{
+					id: "5E79F82D7699B954"
+					item: { count: 1, id: "matc:inferium_crystal" }
+					type: "item"
+				}
+				{
+					id: "677ED19576B8DA69"
+					item: { count: 1, id: "mysticalagriculture:prudentium_essence" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 1.0d
 		}
 	]
 }

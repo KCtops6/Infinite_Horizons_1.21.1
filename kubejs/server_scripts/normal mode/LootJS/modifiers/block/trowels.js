@@ -55,4 +55,11 @@ LootJS.modifiers(event => {
         .addLoot(LootEntry.of('create:crushed_raw_zinc').randomChance(0.125))
         .randomChance(0.75)
         .removeLoot("minecraft:gravel")
+    
+    // Iron trowel gives deepslate pebbles when breaking tuff gravel.
+    event.addBlockModifier("kubejs:tuff_gravel")
+        .matchTool("kubejs:iron_trowel")
+        .addLoot(LootEntry.of("kubejs:deepslate_pebble").randomChance(0.75))
+        .randomChance(0.75)
+        .removeLoot("kubejs:tuff_gravel");
 })

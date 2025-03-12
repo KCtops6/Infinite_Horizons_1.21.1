@@ -281,29 +281,18 @@
 			dependencies: ["5C6BCB357546F47A"]
 			hide_dependency_lines: true
 			icon: {
-				id: "mysticalagriculture:stone_essence"
+				id: "mysticalagriculture:dirt_essence"
 			}
 			id: "37387A044CF14796"
-			rewards: [
-				{
-					id: "22E9841C0CC573A6"
-					item: {
-						count: 1
-						id: "mysticalagriculture:stone_seeds"
-					}
-					random_bonus: 2
-					type: "item"
+			rewards: [{
+				id: "22E9841C0CC573A6"
+				item: {
+					count: 1
+					id: "mysticalagriculture:dirt_seeds"
 				}
-				{
-					id: "41AF4E0E22A4005A"
-					item: {
-						count: 1
-						id: "mysticalagriculture:inferium_farmland"
-					}
-					random_bonus: 2
-					type: "item"
-				}
-			]
+				random_bonus: 2
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "3A0799BBD535590E"
@@ -318,6 +307,102 @@
 			]
 			x: 5.0d
 			y: 0.0d
+		}
+		{
+			dependencies: ["5C6BCB357546F47A"]
+			hide_dependency_lines: true
+			icon: {
+				id: "mysticalagriculture:wood_essence"
+			}
+			id: "19CB8B99AFF3FA10"
+			rewards: [{
+				id: "49D84BD1A45108C4"
+				item: {
+					count: 1
+					id: "mysticalagriculture:wood_seeds"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "4FD91694CB04B6A6"
+					item: { count: 1, id: "mysticalagriculture:wood_seeds" }
+					type: "item"
+				}
+				{
+					id: "0E092D05B3000ABC"
+					item: { count: 1, id: "mysticalagriculture:wood_essence" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["5C6BCB357546F47A"]
+			hide_dependency_lines: true
+			icon: {
+				id: "mysticalagriculture:ice_essence"
+			}
+			id: "3EA384F839BB5D14"
+			rewards: [{
+				id: "18E5D6D902A389F6"
+				item: {
+					count: 1
+					id: "mysticalagriculture:ice_seeds"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "3909E1DD254906EF"
+					item: { count: 1, id: "mysticalagriculture:ice_seeds" }
+					type: "item"
+				}
+				{
+					id: "1FB1C9421A63473B"
+					item: { count: 1, id: "mysticalagriculture:ice_essence" }
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"5C6BCB357546F47A"
+				"35B8E383C14A9B9D"
+			]
+			hide_dependency_lines: true
+			icon: {
+				id: "mysticalagriculture:deepslate_essence"
+			}
+			id: "54AC3A407F6DD9B1"
+			rewards: [{
+				id: "2264909B91ABB709"
+				item: {
+					count: 1
+					id: "mysticalagriculture:deepslate_seeds"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "7C020B5517FD343C"
+					item: { count: 1, id: "mysticalagriculture:deepslate_seeds" }
+					type: "item"
+				}
+				{
+					id: "1A200B0BF7712D1E"
+					item: { count: 1, id: "mysticalagriculture:deepslate_essence" }
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 1.0d
 		}
 	]
 }

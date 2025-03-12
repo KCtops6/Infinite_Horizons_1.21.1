@@ -23,6 +23,9 @@
 	quest.174AD92AAE3A1FAF.quest_desc: ["&lGlass&r is a vital material for many creations, from windows to containers. Craft Glass by smelting &lSand&r in a furnace. This simple yet essential block opens the door to new possibilities in building and crafting. Gather sand and let the furnace work its magic!"]
 	quest.174AD92AAE3A1FAF.quest_subtitle: "The Clear Path"
 	quest.174AD92AAE3A1FAF.title: "Transparent Progress"
+	quest.19CB8B99AFF3FA10.quest_desc: ["&lWood Seeds&r grow into &lWood Essence&r, providing the fastest way to obtain non-native wood types. This essence allows you to craft various wood-based materials, expanding your options for building and crafting. Plant these seeds to diversify your wood supply and explore new possibilities in your designs and creations."]
+	quest.19CB8B99AFF3FA10.quest_subtitle: "Growing New Timber"
+	quest.19CB8B99AFF3FA10.title: "The Essence of Wood"
 	quest.1B922950A7570482.quest_desc: ["Check the box to acknowledge that you have a working source of rotational energy."]
 	quest.1B922950A7570482.quest_subtitle: "Early Game Power"
 	quest.1DD31DACE3A3A35A.quest_desc: ["&lEarth Seeds&r grow into &lEarth Essence&r, which may not offer immediate benefits for early-game crafting, but it is vital for creating high-level gear in the end game. It's wise to start growing these now, so you’ll have a steady supply when you're ready to craft advanced equipment and unlock powerful recipes. Get a head start on your future progression!"]
@@ -55,6 +58,12 @@
 	quest.3642E2D78B348AE3.quest_desc: ["With a &lStone Trowel&r in hand, gravel becomes more than just a stepping stone—it’s your first source of iron. Sift through gravel to find &lCrushed Raw Iron&r, then smelt it down into a shiny &lIron Ingot&r. With iron, stronger tools and better equipment are within reach!"]
 	quest.3642E2D78B348AE3.quest_subtitle: "Sifting for Strength"
 	quest.3642E2D78B348AE3.title: "Iron Beginnings"
+	quest.37387A044CF14796.quest_desc: ["&lDirt Seeds&r grow into &lDirt Essence&r, a useful resource for several early-game crafts. This essence plays an important role in crafting essential materials and tools, making it a valuable asset as you progress through the early stages of Mystical Agriculture. Start planting and gather Dirt Essence to help with your initial crafting needs!"]
+	quest.37387A044CF14796.quest_subtitle: "Harnessing Dirt Essence"
+	quest.37387A044CF14796.title: "Seeds of the Earth"
+	quest.3EA384F839BB5D14.quest_desc: ["&lIce Seeds&r grow into &lIce Essence&r, a valuable resource for crafting ice-related items. While it may not be needed for every crafting recipe, it plays an important role in some unique and advanced items. Start planting Ice Seeds to prepare for the colder aspects of your progression and unlock more crafting opportunities."]
+	quest.3EA384F839BB5D14.quest_subtitle: "Harnessing Ice Essence"
+	quest.3EA384F839BB5D14.title: "Seeds of Winter"
 	quest.40F041C17BEAADEE.quest_desc: ["Without natural stone, you'll need to get creative. Craft a &lWooden Trowel&r and use it to break dirt or grass blocks—this will yield &lStone Pebbles&r. Gather four pebbles and craft them into a &lCobblestone&r block. With cobblestone in hand, sturdier tools and new possibilities await!"]
 	quest.40F041C17BEAADEE.quest_subtitle: "From Dirt to Stone"
 	quest.40F041C17BEAADEE.title: "The First Stones"

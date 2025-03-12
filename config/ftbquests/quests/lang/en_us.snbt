@@ -40,6 +40,9 @@
 	quest.2271A8EDA3C7F64C.quest_desc: ["&lGravel&r can be more than just a building block—break it with a &lStone Hammer&r to turn it into &lSand&r. Sand opens up new crafting possibilities and resources for survival. Keep smashing gravel to uncover the many uses of sand!"]
 	quest.2271A8EDA3C7F64C.quest_subtitle: "From Gravel to Sand"
 	quest.2271A8EDA3C7F64C.title: "The Sands of Time"
+	quest.245CC55733D2D5C6.quest_desc: ["&lTertium&r is the next level after Prudentium, and to unlock it, you’ll need to craft a &lPrudentium Infusion Crystal&r. Combine Prudentium Essence, a Tertium Infusion Crystal, and additional Prosperity Shards to create the crystal. Once crafted, use it in the same manner as before to infuse and obtain Tertium Essence, unlocking even more powerful resources for your journey!"]
+	quest.245CC55733D2D5C6.quest_subtitle: "Ascending to the Next Level"
+	quest.245CC55733D2D5C6.title: "The Tertium Infusion"
 	quest.26760351A93ADC05.quest_desc: ["The wind can be harnessed to generate rotational energy. Craft a &lWindmill Bearing&r and gather enough &lSails&r to build your Windmill. Once assembled, place it in an open area to capture the wind’s energy and power your mechanical systems. Let the wind carry you to new heights of automation!"]
 	quest.26760351A93ADC05.quest_subtitle: "Tapping into the Breeze"
 	quest.26760351A93ADC05.title: "Winds of Progress"
@@ -52,6 +55,9 @@
 	quest.31950EF5E62EC10F.quest_desc: ["The natural flow of water can be transformed into rotational energy with a &lWater Wheel&r. Craft and place one near flowing water to generate power for your mechanical systems. This early energy source is key for automating tasks and building more complex machines. Use the power of the current to fuel your creations!"]
 	quest.31950EF5E62EC10F.quest_subtitle: "The Power of Water"
 	quest.31950EF5E62EC10F.title: "Harnessing the Current"
+	quest.3276ACBC80D0AF10.quest_desc: ["&lSupremium&r is the pinnacle of progression, the next tier after Imperium. To obtain it, you'll need to craft the &lImperium Infusion Crystal&r by combining Imperium Essence, the Tertium Infusion Crystal, and additional Prosperity Shards. Once crafted, use it in the same manner as when you crafted earlier essences to infuse and obtain Supremium Essence, unlocking the ultimate resources and gear for your journey!"]
+	quest.3276ACBC80D0AF10.quest_subtitle: "Supreme Crafting Ablities"
+	quest.3276ACBC80D0AF10.title: "The Power of Supremium"
 	quest.35B8E383C14A9B9D.quest_desc: ["To obtain &lCobbled Deepslate&r, you'll need to process &lTuff&r step by step. Breaking Tuff with a Stone Hammer or better turns it into &lTuff Gravel&r. Using an Iron Trowel or better on Tuff Gravel gives you &lDeepslate Pebbles&r, which can be crafted into Cobbled Deepslate by combining four of them. While this method works, crafting Deepslate Seeds will save you time and effort in the long run!"]
 	quest.35B8E383C14A9B9D.quest_subtitle: "Crafting Cobbled Deepslate"
 	quest.35B8E383C14A9B9D.title: "Into the Depths"
@@ -112,6 +118,9 @@
 	quest.780B474DBCE85FC2.quest_desc: ["&lInferium Essence&r is a powerful material dropped by mobs, and it plays a vital role in the &oMystical Agriculture&r mod. Use it to craft seeds for growing a variety of resources, from basic crops to rare materials. Start gathering this essence to unlock a whole new world of farming and resource generation!"]
 	quest.780B474DBCE85FC2.quest_subtitle: "Harnessing Inferium"
 	quest.780B474DBCE85FC2.title: "The Essence of Growth"
+	quest.792527A0AEA5E9E2.quest_desc: ["&lImperium&r is the next tier after Tertium, and to access it, you need to craft the &lTertium Infusion Crystal&r. Combine Tertium Essence, the Prudentium Infusion Crystal, and additional Prosperity Shards to create the crystal. Once crafted, use it just as you did with Tertium to infuse and obtain Imperium Essence, granting access to even higher-level resources and crafting possibilities!"]
+	quest.792527A0AEA5E9E2.quest_subtitle: "Achieving New Heights"
+	quest.792527A0AEA5E9E2.title: "Reaching for Imperium"
 	quest.7C42B99D6CD2EB48.quest_desc: ["Your Wooden Trowel was a good start, but a &lStone Trowel&r will serve you even better. With increased durability and improved drops, you'll gather resources more efficiently. Craft one and put it to the test—you might be surprised by what you find!"]
 	quest.7C42B99D6CD2EB48.quest_subtitle: "Improved Gathering"
 	quest.7C42B99D6CD2EB48.title: "A Better Trowel"

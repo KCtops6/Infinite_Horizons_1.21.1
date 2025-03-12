@@ -404,5 +404,118 @@
 			x: 5.0d
 			y: 1.0d
 		}
+		{
+			dependencies: ["166EC60FFAC9B4BD"]
+			icon: {
+				id: "mysticalagriculture:tertium_essence"
+			}
+			id: "245CC55733D2D5C6"
+			rewards: [{
+				count: 3
+				id: "123374D0F215DA70"
+				item: {
+					count: 1
+					id: "mysticalagriculture:tertium_essence"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "6888500FBDE8DA03"
+					item: { count: 1, id: "matc:prudentium_crystal" }
+					type: "item"
+				}
+				{
+					id: "519192B7078538F5"
+					item: { count: 1, id: "mysticalagriculture:tertium_essence" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["245CC55733D2D5C6"]
+			icon: {
+				id: "mysticalagriculture:imperium_essence"
+			}
+			id: "792527A0AEA5E9E2"
+			rewards: [{
+				count: 3
+				id: "35A9A09FECD51601"
+				item: {
+					count: 1
+					id: "mysticalagriculture:imperium_essence"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "55D7600887E2029E"
+					item: { count: 1, id: "matc:tertium_crystal" }
+					type: "item"
+				}
+				{
+					id: "34FEA7A106813F5E"
+					item: { count: 1, id: "mysticalagriculture:imperium_essence" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["792527A0AEA5E9E2"]
+			icon: {
+				id: "mysticalagriculture:supremium_essence"
+			}
+			id: "3276ACBC80D0AF10"
+			rewards: [{
+				count: 3
+				id: "7C5014AA7488CBE8"
+				item: {
+					count: 1
+					id: "mysticalagriculture:supremium_essence"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "33F7CB66D186F966"
+					item: { count: 1, id: "matc:imperium_crystal" }
+					type: "item"
+				}
+				{
+					id: "1EA6D2729DF891CF"
+					item: { count: 1, id: "mysticalagriculture:supremium_essence" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			id: "114F6DD75C9B7D22"
+			tasks: [{
+				id: "7E6D92E7C212BE6D"
+				item: { count: 1, id: "mysticalagriculture:master_infusion_crystal" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 7.0d
+		}
+		{
+			id: "0E3F69CBC98336DE"
+			tasks: [{
+				id: "132C5BCE7B89D1C1"
+				item: { count: 1, id: "mysticalagriculture:supremium_essence" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
 	]
 }

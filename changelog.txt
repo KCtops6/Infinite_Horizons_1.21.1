@@ -29,6 +29,7 @@ Added LootJS: KubeJS Addon.
 Added Moonlight Lib.
 Added MoreJS.
 Added Mouse Tweaks.
+Added Nether Portal Spread.
 Added Overflowing Bars [Forge & Fabric].
 Added Pick Up Notifier [Forge & Fabric].
 Added Puzzles Lib [Forge & Fabric].

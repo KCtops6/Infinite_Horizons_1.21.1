@@ -25,6 +25,9 @@
 	quest.174AD92AAE3A1FAF.title: "Transparent Progress"
 	quest.1B922950A7570482.quest_desc: ["Check the box to acknowledge that you have a working source of rotational energy."]
 	quest.1B922950A7570482.quest_subtitle: "Early Game Power"
+	quest.1DD31DACE3A3A35A.quest_desc: ["&lEarth Seeds&r grow into &lEarth Essence&r, which may not offer immediate benefits for early-game crafting, but it is vital for creating high-level gear in the end game. It's wise to start growing these now, so you’ll have a steady supply when you're ready to craft advanced equipment and unlock powerful recipes. Get a head start on your future progression!"]
+	quest.1DD31DACE3A3A35A.quest_subtitle: "Preparing for Greater Power"
+	quest.1DD31DACE3A3A35A.title: "Rooted in the Earth"
 	quest.20CEFFF2715407F7.quest_desc: ["By using an Iron Trowel or better on Deepslate Gravel, you have a chance to uncover &lDiamonds&r. These precious gems are crucial for crafting powerful tools, advanced machinery, and progressing further. If you need a steady supply, consider finding ways to automate the process or work toward Diamond Seeds in the future!"]
 	quest.20CEFFF2715407F7.quest_subtitle: "Finding Diamonds"
 	quest.20CEFFF2715407F7.title: "Diamonds are Forever"
@@ -88,6 +91,9 @@
 	quest.62DBB6855DF2639C.quest_desc: ["With wood in hand, it's time to craft one of the most important blocks in your journey—the Crafting Table. This essential workstation unlocks countless recipes, allowing you to turn raw materials into tools, building blocks, and more. Simply arrange four wooden planks in your inventory crafting grid to get started!"]
 	quest.62DBB6855DF2639C.quest_subtitle: "Crafting the Basics"
 	quest.62DBB6855DF2639C.title: "Workbench Wonders"
+	quest.66CC1872F77E4EE6.quest_desc: ["&lAir Seeds&r grow into &lAir Essence&r, which may not be immediately useful for early-game crafting, but it becomes crucial for high-level gear in the end game. It’s best to start growing some now, as you’ll need it later for advanced recipes and powerful equipment. Planting these seeds early will save you time when you’re ready to push toward endgame progression."]
+	quest.66CC1872F77E4EE6.quest_subtitle: "Preparing for the Future"
+	quest.66CC1872F77E4EE6.title: "Winds of Change"
 	quest.6F234337CE289CD4.quest_desc: ["With &lAndesite&r and &lIron&r in hand, it’s time to craft the cornerstone of Create’s mechanical systems—&lAndesite Alloy&r. Combine Andesite with Iron to forge this versatile material. Andesite Alloy will be used in various Create machines, unlocking your potential for automation and advancement."]
 	quest.6F234337CE289CD4.quest_subtitle: "Forging the Andesite Alloy"
 	quest.6F234337CE289CD4.title: "The Heart of Creation"

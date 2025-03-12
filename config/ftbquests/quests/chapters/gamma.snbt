@@ -73,26 +73,15 @@
 				id: "mysticalagriculture:stone_essence"
 			}
 			id: "2D20B776E684B72F"
-			rewards: [
-				{
-					id: "1EBAD55EE54BEB3A"
-					item: {
-						count: 1
-						id: "mysticalagriculture:stone_seeds"
-					}
-					random_bonus: 2
-					type: "item"
+			rewards: [{
+				id: "1EBAD55EE54BEB3A"
+				item: {
+					count: 1
+					id: "mysticalagriculture:stone_seeds"
 				}
-				{
-					id: "0190692709B4A7C7"
-					item: {
-						count: 1
-						id: "mysticalagriculture:inferium_farmland"
-					}
-					random_bonus: 2
-					type: "item"
-				}
-			]
+				random_bonus: 2
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "701048A1BB170948"
@@ -286,6 +275,48 @@
 				}
 			]
 			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5C6BCB357546F47A"]
+			hide_dependency_lines: true
+			icon: {
+				id: "mysticalagriculture:stone_essence"
+			}
+			id: "37387A044CF14796"
+			rewards: [
+				{
+					id: "22E9841C0CC573A6"
+					item: {
+						count: 1
+						id: "mysticalagriculture:stone_seeds"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "41AF4E0E22A4005A"
+					item: {
+						count: 1
+						id: "mysticalagriculture:inferium_farmland"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "3A0799BBD535590E"
+					item: { count: 1, id: "mysticalagriculture:dirt_seeds" }
+					type: "item"
+				}
+				{
+					id: "1FEC9077A391B79B"
+					item: { count: 1, id: "mysticalagriculture:dirt_essence" }
+					type: "item"
+				}
+			]
+			x: 5.0d
 			y: 0.0d
 		}
 	]

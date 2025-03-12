@@ -1,5 +1,6 @@
 {
 	chapter.17F179085511CF63.title: "Alpha"
+	chapter.247639ED7F0AF536.title: "Gamma"
 	chapter.6B16A1E49845B379.title: "Beta"
 	quest.04F3232804097839.quest_desc: ["The &lMillstone&r is the perfect tool to automate the grinding process. Use it to automatically turn &oCobblestone into Gravel&r and &oGravel into Sand&r—no more hammering by hand. Power it with rotational energy from a &lWater Wheel&r or &lWindmill&r, and let it run smoothly as it processes your materials for you. Set it up and watch the grinding never stop!"]
 	quest.04F3232804097839.quest_subtitle: "Automating the Hammer"
@@ -24,6 +25,9 @@
 	quest.28018BE994F02339.quest_desc: ["The &lIron Trowel&r lets you dig even deeper, uncovering &lCrushed Raw Gold&r from dirt and grass. Smelt it down to obtain &lGold Ingots&r, a valuable material for crafting advanced components and trading. Keep searching—gold is always a treasure worth finding!"]
 	quest.28018BE994F02339.quest_subtitle: "A Precious Find"
 	quest.28018BE994F02339.title: "Goldfinger"
+	quest.2D20B776E684B72F.quest_desc: ["&lStone Seeds&r grow into &lStone Essence,&r which can be crafted into various stone-based materials. While a Stone Block Generator is more efficient for bulk production, these seeds provide an alternative way to obtain stone-related resources. Plant them and let nature do the work!"]
+	quest.2D20B776E684B72F.quest_subtitle: "A Rocky Harvest"
+	quest.2D20B776E684B72F.title: "Seeds of Stone"
 	quest.31950EF5E62EC10F.quest_desc: ["The natural flow of water can be transformed into rotational energy with a &lWater Wheel&r. Craft and place one near flowing water to generate power for your mechanical systems. This early energy source is key for automating tasks and building more complex machines. Use the power of the current to fuel your creations!"]
 	quest.31950EF5E62EC10F.quest_subtitle: "The Power of Water"
 	quest.31950EF5E62EC10F.title: "Harnessing the Current"
@@ -36,12 +40,18 @@
 	quest.43F89961BCA46925.quest_desc: ["Say goodbye to pebbles—the &lStone Block Generator&r provides a passive source of &lCobblestone&r, &lStone&r, &lAndesite&r, and more. Look at JEI for all recipes.  Crafted from Stone and Glass, this machine ensures you’ll never run out of essential building materials. Set it up, let it run, and focus on bigger projects!"]
 	quest.43F89961BCA46925.quest_subtitle: "A Steady Supply"
 	quest.43F89961BCA46925.title: "Infinite Stone"
+	quest.49C1E756D880F6AF.quest_desc: ["Unlock the ability to grow Inferium passively by crafting &lInferium Seeds&r. Plant and tend to these seeds to harvest Inferium Essence over time, giving you a steady supply of this crucial resource for Mystical Agriculture. Cultivate your own source of power and take your farming to the next level!"]
+	quest.49C1E756D880F6AF.quest_subtitle: "Growing Inferium"
+	quest.49C1E756D880F6AF.title: "Seeds of Power"
 	quest.4ECFE2AB1E743F96.quest_desc: ["For even more power, upgrade your &lWater Wheel&r to the &lLarge Water Wheel&r. This improved version generates significantly more rotational energy, perfect for scaling up your mechanical systems. Craft it with additional materials, place it in flowing water, and watch your energy output soar, powering more advanced machines and automation."]
 	quest.4ECFE2AB1E743F96.quest_subtitle: "The Mighty Water Wheel"
 	quest.4ECFE2AB1E743F96.title: "Power Unleashed"
 	quest.4FCED4F5C0320523.quest_desc: ["In the world of automation, &lAndesite&r is a crucial resource. Use a &lStone Trowel&r or better to break dirt or grass blocks and gather &lAndesite Pebbles&r. Combine four pebbles to craft Andesite, an essential material for Create’s &lAndesite Alloy&r. Gather wisely—this will be key to your mechanical creations!"]
 	quest.4FCED4F5C0320523.quest_subtitle: "Crafting the Building Blocks"
 	quest.4FCED4F5C0320523.title: "Andesite Essentials"
+	quest.518AD3B1EB3FADBF.quest_desc: ["By combining Stone with Fire Essence, you can craft &lTuff&r, an essential step toward obtaining Deepslate. If you're aiming to work with deeper, more resilient materials, this is your gateway to expansion. Start crafting and prepare for the next stage of stonework!"]
+	quest.518AD3B1EB3FADBF.quest_subtitle: "Crafting Tuff"
+	quest.518AD3B1EB3FADBF.title: "Toughen Up"
 	quest.528AC4A13D35951B.quest_desc: ["Sometimes, you need a little extra force to break through. Craft a &lStone Hammer&r, then use it to break cobblestone into &lGravel&r. This simple tool will help you expand your resource pool and provide the materials needed for future advancements. Keep hammering away."]
 	quest.528AC4A13D35951B.quest_subtitle: "Turning Stone into Gravel"
 	quest.528AC4A13D35951B.title: "Hammering the Basics"
@@ -54,17 +64,26 @@
 	quest.5A382D145AA88DD9.quest_desc: ["With an &lIron Trowel&r, you can now extract &lCrushed Raw Copper&r while digging through dirt and grass. Smelt it in a furnace for a &lCopper Ingot&r, unlocking new crafting possibilities. Copper is essential for wires, machinery, and more—so start gathering and put it to good use!"]
 	quest.5A382D145AA88DD9.quest_subtitle: "Unearthing New Metals"
 	quest.5A382D145AA88DD9.title: "Copper Prospects"
+	quest.5C6BCB357546F47A.quest_desc: ["To craft powerful Mystical Agriculture seeds, you'll need an &lInfusion Altar&r and eight &lInfusion Pedestals&r. This structure is essential for progressing through the mod, allowing you to create resource-generating crops. Set up your altar, gather your materials, and begin the infusion process to expand your farming potential!"]
+	quest.5C6BCB357546F47A.quest_subtitle: "The Infusion Altar"
+	quest.5C6BCB357546F47A.title: "Ritual of Growth"
 	quest.62DBB6855DF2639C.quest_desc: ["With wood in hand, it's time to craft one of the most important blocks in your journey—the Crafting Table. This essential workstation unlocks countless recipes, allowing you to turn raw materials into tools, building blocks, and more. Simply arrange four wooden planks in your inventory crafting grid to get started!"]
 	quest.62DBB6855DF2639C.quest_subtitle: "Crafting the Basics"
 	quest.62DBB6855DF2639C.title: "Workbench Wonders"
 	quest.6F234337CE289CD4.quest_desc: ["With &lAndesite&r and &lIron&r in hand, it’s time to craft the cornerstone of Create’s mechanical systems—&lAndesite Alloy&r. Combine Andesite with Iron to forge this versatile material. Andesite Alloy will be used in various Create machines, unlocking your potential for automation and advancement."]
 	quest.6F234337CE289CD4.quest_subtitle: "Forging the Andesite Alloy"
 	quest.6F234337CE289CD4.title: "The Heart of Creation"
+	quest.780B474DBCE85FC2.quest_desc: ["&lInferium Essence&r is a powerful material dropped by mobs, and it plays a vital role in the &oMystical Agriculture&r mod. Use it to craft seeds for growing a variety of resources, from basic crops to rare materials. Start gathering this essence to unlock a whole new world of farming and resource generation!"]
+	quest.780B474DBCE85FC2.quest_subtitle: "Harnessing Inferium"
+	quest.780B474DBCE85FC2.title: "The Essence of Growth"
 	quest.7C42B99D6CD2EB48.quest_desc: ["Your Wooden Trowel was a good start, but a &lStone Trowel&r will serve you even better. With increased durability and improved drops, you'll gather resources more efficiently. Craft one and put it to the test—you might be surprised by what you find!"]
 	quest.7C42B99D6CD2EB48.quest_subtitle: "Improved Gathering"
 	quest.7C42B99D6CD2EB48.title: "A Better Trowel"
 	quest.7C75AE73B3CCD66E.quest_desc: ["The &lIron Trowel&r is a step up from its predecessors, allowing you to uncover even more exclusive materials while still gathering everything a &lStone Trowel&r could. With increased durability and better drops, this tool is essential for expanding your resource collection. Upgrade now and see what hidden treasures await beneath the surface!"]
 	quest.7C75AE73B3CCD66E.quest_subtitle: "The Iron Advantage"
 	quest.7C75AE73B3CCD66E.title: "Digging Deeper"
+	quest.7D5453D77D188888.quest_desc: ["&lFire Seeds&r produce &lFire Essence&r, a versatile material used in various recipes. Most importantly, it can be crafted into &lLava Buckets&r, providing a renewable source of lava. Whether for smelting, power generation, or obsidian production, these seeds ensure you'll never run out of molten heat!"]
+	quest.7D5453D77D188888.quest_subtitle: "Harnessing Fire Essence"
+	quest.7D5453D77D188888.title: "Seeds of Flame"
 	task.6509A635775E13FF.title: "Rotational Energy Setup"
 }

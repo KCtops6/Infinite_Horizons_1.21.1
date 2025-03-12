@@ -190,7 +190,7 @@
 					type: "item"
 				}
 			]
-			x: 4.0d
+			x: 2.0d
 			y: -1.0d
 		}
 		{
@@ -321,6 +321,34 @@
 			}]
 			x: 3.0d
 			y: 4.0d
+		}
+		{
+			dependencies: [
+				"7D5453D77D188888"
+				"2AFC343E56D3BA1B"
+			]
+			id: "71B4677400CE51F3"
+			tasks: [{
+				id: "1D2B11A1D7A308F6"
+				item: { count: 1, id: "minecraft:lava_bucket" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"7D5453D77D188888"
+				"2D20B776E684B72F"
+			]
+			id: "518AD3B1EB3FADBF"
+			tasks: [{
+				id: "209EA558F209BD84"
+				item: { count: 1, id: "minecraft:tuff" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.0d
 		}
 	]
 }

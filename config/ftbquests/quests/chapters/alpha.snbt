@@ -393,12 +393,47 @@
 				"35B8E383C14A9B9D"
 			]
 			id: "03552227F62B6320"
+			rewards: [
+				{
+					count: 3
+					id: "23A88BA42ABD25AA"
+					item: {
+						count: 1
+						id: "kubejs:deepslate_gravel"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "077EC459D58E26D1"
+					item: {
+						count: 1
+						id: "farmersdelight:glow_berry_custard"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "6F1FD91115275812"
 				item: { count: 1, id: "kubejs:deepslate_gravel" }
 				type: "item"
 			}]
 			x: 4.0d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"7C75AE73B3CCD66E"
+				"03552227F62B6320"
+			]
+			id: "20CEFFF2715407F7"
+			tasks: [{
+				id: "3E2AF8081D2C9280"
+				item: { count: 1, id: "minecraft:diamond" }
+				type: "item"
+			}]
+			x: 5.0d
 			y: -2.0d
 		}
 	]

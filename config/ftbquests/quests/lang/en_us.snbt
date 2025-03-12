@@ -2,6 +2,9 @@
 	chapter.17F179085511CF63.title: "Alpha"
 	chapter.247639ED7F0AF536.title: "Gamma"
 	chapter.6B16A1E49845B379.title: "Beta"
+	quest.03552227F62B6320.quest_desc: ["Breaking Cobbled Deepslate with an Iron Hammer or better produces &lDeepslate Gravel&r, a valuable material with the potential for rare finds. Sifting through it can yield diamonds, lapis, and prosperity shards, making it an essential step for obtaining high-tier resources. The deeper you go, the greater the rewards!"]
+	quest.03552227F62B6320.quest_subtitle: "Deepslate Gravel Rewards"
+	quest.03552227F62B6320.title: "Sifting the Depths"
 	quest.04F3232804097839.quest_desc: ["The &lMillstone&r is the perfect tool to automate the grinding process. Use it to automatically turn &oCobblestone into Gravel&r and &oGravel into Sand&r—no more hammering by hand. Power it with rotational energy from a &lWater Wheel&r or &lWindmill&r, and let it run smoothly as it processes your materials for you. Set it up and watch the grinding never stop!"]
 	quest.04F3232804097839.quest_subtitle: "Automating the Hammer"
 	quest.04F3232804097839.title: "Grinding Efficiency"
@@ -16,6 +19,9 @@
 	quest.174AD92AAE3A1FAF.title: "Transparent Progress"
 	quest.1B922950A7570482.quest_desc: ["Check the box to acknowledge that you have a working source of rotational energy."]
 	quest.1B922950A7570482.quest_subtitle: "Early Game Power"
+	quest.20CEFFF2715407F7.quest_desc: ["By using an Iron Trowel or better on Deepslate Gravel, you have a chance to uncover &lDiamonds&r. These precious gems are crucial for crafting powerful tools, advanced machinery, and progressing further. If you need a steady supply, consider finding ways to automate the process or work toward Diamond Seeds in the future!"]
+	quest.20CEFFF2715407F7.quest_subtitle: "Finding Diamonds"
+	quest.20CEFFF2715407F7.title: "Diamonds are Forever"
 	quest.2204AA3E838C4962.quest_desc: ["Transform &oorganic matter&r and &owater&r into &lPulp&r using the Mechanical Mixer. Once you have enough pulp, use the Mechanical Press to turn it into &lCardboard&r. Cardboard serves as a cost-effective material, especially for crafting items like books. It’s a simple yet valuable resource that can streamline your crafting process. Get mixing and pressing to unlock its potential!"]
 	quest.2204AA3E838C4962.quest_subtitle: "From Pulp to Cardboard"
 	quest.2204AA3E838C4962.title: "Paper Trails"

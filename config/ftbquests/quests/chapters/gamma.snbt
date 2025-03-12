@@ -44,6 +44,7 @@
 			dependencies: [
 				"780B474DBCE85FC2"
 				"28018BE994F02339"
+				"726CEB2724A750D7"
 			]
 			icon: {
 				id: "mysticalagriculture:infusion_altar"
@@ -134,6 +135,17 @@
 				}
 			]
 			x: 3.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["7C75AE73B3CCD66E"]
+			id: "726CEB2724A750D7"
+			tasks: [{
+				id: "7DFCE53E303A46F7"
+				item: { count: 1, id: "mysticalagriculture:prosperity_shard" }
+				type: "item"
+			}]
+			x: 1.0d
 			y: -1.0d
 		}
 	]

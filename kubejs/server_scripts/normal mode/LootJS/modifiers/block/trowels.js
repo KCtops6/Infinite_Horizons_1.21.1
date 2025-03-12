@@ -63,4 +63,12 @@ LootJS.modifiers(event => {
         .addLoot(LootEntry.of("kubejs:deepslate_pebble").randomChance(0.75))
         .randomChance(0.75)
         .removeLoot("kubejs:tuff_gravel");
+    
+    // Iron trowel gives diamonds and lapis when breaking deepslate gravel.
+    event.addBlockModifier("kubejs:deepslate_gravel")
+        .matchTool("kubejs:iron_trowel")
+        .addLoot(LootEntry.of("minecraft:diamond").randomChance(0.125))
+        .addLoot(LootEntry.of("minecraft:lapis_lazuli").randomChance(0.25))
+        .randomChance(0.75)
+        .removeLoot("kubejs:deepslate_gravel");
 })

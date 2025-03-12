@@ -68,6 +68,7 @@
 		}
 		{
 			dependencies: ["5C6BCB357546F47A"]
+			hide_dependency_lines: true
 			icon: {
 				id: "mysticalagriculture:stone_essence"
 			}
@@ -104,11 +105,12 @@
 					type: "item"
 				}
 			]
-			x: 3.0d
+			x: 4.0d
 			y: 0.0d
 		}
 		{
 			dependencies: ["5C6BCB357546F47A"]
+			hide_dependency_lines: true
 			icon: {
 				id: "mysticalagriculture:fire_essence"
 			}
@@ -134,7 +136,7 @@
 					type: "item"
 				}
 			]
-			x: 3.0d
+			x: 5.0d
 			y: -1.0d
 		}
 		{
@@ -155,14 +157,29 @@
 				item: { count: 1, id: "mysticalagriculture:prosperity_shard" }
 				type: "item"
 			}]
-			x: 1.0d
-			y: 1.0d
+			x: 2.0d
+			y: 2.0d
 		}
 		{
+			dependencies: [
+				"726CEB2724A750D7"
+				"780B474DBCE85FC2"
+				"20CEFFF2715407F7"
+			]
 			icon: {
 				id: "mysticalagriculture:prudentium_essence"
 			}
 			id: "166EC60FFAC9B4BD"
+			rewards: [{
+				count: 3
+				id: "11B5D4D63CBF9263"
+				item: {
+					count: 1
+					id: "mysticalagriculture:prudentium_essence"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "5E79F82D7699B954"
@@ -176,7 +193,100 @@
 				}
 			]
 			x: 0.0d
-			y: 1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["5C6BCB357546F47A"]
+			hide_dependency_lines: true
+			icon: {
+				id: "mysticalagriculture:air_essence"
+			}
+			id: "66CC1872F77E4EE6"
+			rewards: [{
+				id: "6C3552F309F3F103"
+				item: {
+					count: 1
+					id: "mysticalagriculture:air_seeds"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "06F246CAD23E1A8D"
+					item: { count: 1, id: "mysticalagriculture:air_seeds" }
+					type: "item"
+				}
+				{
+					id: "2874D91B12397E56"
+					item: { count: 1, id: "mysticalagriculture:air_essence" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["5C6BCB357546F47A"]
+			hide_dependency_lines: true
+			icon: {
+				id: "mysticalagriculture:earth_essence"
+			}
+			id: "1DD31DACE3A3A35A"
+			rewards: [{
+				id: "0032C0772D750490"
+				item: {
+					count: 1
+					id: "mysticalagriculture:earth_seeds"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "222593F471D062C9"
+					item: { count: 1, id: "mysticalagriculture:earth_seeds" }
+					type: "item"
+				}
+				{
+					id: "11E2B08711D331ED"
+					item: { count: 1, id: "mysticalagriculture:earth_essence" }
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["5C6BCB357546F47A"]
+			hide_dependency_lines: true
+			icon: {
+				id: "mysticalagriculture:water_essence"
+			}
+			id: "0E2601518E952F8C"
+			rewards: [{
+				id: "7FF7050C05641379"
+				item: {
+					count: 1
+					id: "mysticalagriculture:water_seeds"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "0DBD9E58AFCF3213"
+					item: { count: 1, id: "mysticalagriculture:water_seeds" }
+					type: "item"
+				}
+				{
+					id: "23ECA6610FBBB837"
+					item: { count: 1, id: "mysticalagriculture:water_essence" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 0.0d
 		}
 	]
 }

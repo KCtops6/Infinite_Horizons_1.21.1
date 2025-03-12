@@ -11,9 +11,15 @@
 	quest.073087ED7AC745F3.quest_desc: ["The &lMechanical Mixer&r is an essential tool for combining ingredients into advanced recipes. Powered by rotational energy, it can mix materials like dough, alloys, and other compounds with ease. Set it up, power it with your existing energy source, and automate the mixing process for efficient crafting in your mechanical systems."]
 	quest.073087ED7AC745F3.quest_subtitle: "Crafting with Precision"
 	quest.073087ED7AC745F3.title: "Mixing Mastery"
+	quest.0E2601518E952F8C.quest_desc: ["&lWater Seeds&r grow into &lWater Essence&r, which is useful for a few early-game recipes. While it may not be as versatile as some other essences, it's an essential resource for crafting basic items and progressing through the early stages of Mystical Agriculture. Start planting to unlock new crafting possibilities!"]
+	quest.0E2601518E952F8C.quest_subtitle: "Harnessing Water Essence"
+	quest.0E2601518E952F8C.title: "Seeds of the Sea"
 	quest.102CBDC3FA5552DC.quest_desc: ["The &lIron Hammer&r is a direct upgrade from the Stone Hammer, allowing you to break tougher materials with ease. It is essential for processing Tuff into Tuff Gravel and is required to obtain Deepslate Gravel. With this tool in hand, you're ready to break through stronger stone and progress further!"]
 	quest.102CBDC3FA5552DC.quest_subtitle: "Upgrading to Iron"
 	quest.102CBDC3FA5552DC.title: "A Stronger Strike"
+	quest.166EC60FFAC9B4BD.quest_desc: ["To craft &lPrudentium Essence&r, you’ll first need to create an &lInferium Infusion Crystal&r by combining Inferium, Prosperity Shards, and a Diamond. This crystal is key to unlocking the next tier of Mystical Agriculture crops and resources. Use it wisely, as Prudentium Essence will help you take your farming and crafting to new heights."]
+	quest.166EC60FFAC9B4BD.quest_subtitle: "Infusing for Advancement"
+	quest.166EC60FFAC9B4BD.title: "The Path to Prudentium"
 	quest.174AD92AAE3A1FAF.quest_desc: ["&lGlass&r is a vital material for many creations, from windows to containers. Craft Glass by smelting &lSand&r in a furnace. This simple yet essential block opens the door to new possibilities in building and crafting. Gather sand and let the furnace work its magic!"]
 	quest.174AD92AAE3A1FAF.quest_subtitle: "The Clear Path"
 	quest.174AD92AAE3A1FAF.title: "Transparent Progress"

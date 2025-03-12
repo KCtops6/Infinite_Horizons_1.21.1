@@ -53,6 +53,7 @@ LootJS.modifiers(event => {
         .addLoot(LootEntry.of('create:crushed_raw_copper').randomChance(0.25))
         .addLoot(LootEntry.of('create:crushed_raw_gold').randomChance(0.125))
         .addLoot(LootEntry.of('create:crushed_raw_zinc').randomChance(0.125))
+        .addLoot(LootEntry.of('mysticalagriculture:prosperity_shard').randomChance(0.125))
         .randomChance(0.75)
         .removeLoot("minecraft:gravel")
     

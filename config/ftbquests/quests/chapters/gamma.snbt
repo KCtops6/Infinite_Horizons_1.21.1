@@ -1,0 +1,140 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "gamma"
+	group: ""
+	icon: {
+		id: "mysticalagriculture:inferium_essence"
+	}
+	id: "247639ED7F0AF536"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "780B474DBCE85FC2"
+			tasks: [{
+				id: "5EFA8413EE3D516F"
+				item: { count: 1, id: "mysticalagriculture:inferium_essence" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["780B474DBCE85FC2"]
+			id: "49C1E756D880F6AF"
+			rewards: [{
+				id: "1BEF3508D9F6840E"
+				item: {
+					count: 1
+					id: "mysticalagriculture:inferium_seeds"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [{
+				id: "4A3B0917983B346C"
+				item: { count: 1, id: "mysticalagriculture:inferium_seeds" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"780B474DBCE85FC2"
+				"28018BE994F02339"
+			]
+			icon: {
+				id: "mysticalagriculture:infusion_altar"
+			}
+			id: "5C6BCB357546F47A"
+			tasks: [
+				{
+					id: "6DBBD714A8533148"
+					item: { count: 1, id: "mysticalagriculture:infusion_altar" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "0D8EE7C00A3B7E7D"
+					item: { count: 1, id: "mysticalagriculture:infusion_pedestal" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5C6BCB357546F47A"]
+			icon: {
+				id: "mysticalagriculture:stone_essence"
+			}
+			id: "2D20B776E684B72F"
+			rewards: [
+				{
+					id: "1EBAD55EE54BEB3A"
+					item: {
+						count: 1
+						id: "mysticalagriculture:stone_seeds"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "0190692709B4A7C7"
+					item: {
+						count: 1
+						id: "mysticalagriculture:inferium_farmland"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "701048A1BB170948"
+					item: { count: 1, id: "mysticalagriculture:stone_seeds" }
+					type: "item"
+				}
+				{
+					id: "4408EE6D07C17EEF"
+					item: { count: 1, id: "mysticalagriculture:stone_essence" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5C6BCB357546F47A"]
+			icon: {
+				id: "mysticalagriculture:fire_essence"
+			}
+			id: "7D5453D77D188888"
+			rewards: [{
+				id: "5FC673A90B4BC2CE"
+				item: {
+					count: 1
+					id: "mysticalagriculture:fire_seeds"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "70447137460C1AD2"
+					item: { count: 1, id: "mysticalagriculture:fire_seeds" }
+					type: "item"
+				}
+				{
+					id: "6B29B677FE125F95"
+					item: { count: 1, id: "mysticalagriculture:fire_essence" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: -1.0d
+		}
+	]
+}

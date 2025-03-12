@@ -265,7 +265,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 0.0d
+			y: -1.0d
 		}
 		{
 			dependencies: ["7C75AE73B3CCD66E"]
@@ -386,6 +386,20 @@
 			}]
 			x: 4.0d
 			y: -1.0d
+		}
+		{
+			dependencies: [
+				"102CBDC3FA5552DC"
+				"35B8E383C14A9B9D"
+			]
+			id: "03552227F62B6320"
+			tasks: [{
+				id: "6F1FD91115275812"
+				item: { count: 1, id: "kubejs:deepslate_gravel" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -2.0d
 		}
 	]
 }

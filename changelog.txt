@@ -11,6 +11,7 @@ Added Create.
 Added Easy Anvils [Forge & Fabric].
 Added Easy Magic [Forge & Fabric].
 Added Easy Villagers.
+Added End Portal Recipe.
 Added Farmer's Delight.
 Added FerriteCore ((Neo)Forge).
 Added FTB Library (Forge).

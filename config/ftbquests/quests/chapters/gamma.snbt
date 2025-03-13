@@ -529,5 +529,40 @@
 			x: 0.0d
 			y: 6.0d
 		}
+		{
+			dependencies: [
+				"27115761CCA7ADB6"
+				"27AD5982B40072FD"
+				"37480F6CE7572160"
+				"166EC60FFAC9B4BD"
+			]
+			icon: {
+				id: "mysticalagriculture:nether_essence"
+			}
+			id: "275FAAEDB605ECD0"
+			rewards: [{
+				id: "6DD474B37721C369"
+				item: {
+					count: 1
+					id: "mysticalagriculture:nether_seeds"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "185E6F442E40801E"
+					item: { count: 1, id: "mysticalagriculture:nether_seeds" }
+					type: "item"
+				}
+				{
+					id: "7B82287859C3BA64"
+					item: { count: 1, id: "mysticalagriculture:nether_essence" }
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: 2.0d
+		}
 	]
 }

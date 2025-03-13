@@ -29,6 +29,9 @@
 	quest.114F6DD75C9B7D22.quest_desc: ["The &lMaster Infusion Crystal&r combines the power of every previous crystal, offering infinite uses and the ability to infuse any essence you need. By crafting this ultimate crystal, you gain the convenience of accessing Prudentium, Tertium, Imperium, Supremium, and Insanium essences all in one item. It's a powerful tool for simplifying your crafting process, saving time and resources as you advance to even greater heights. Unlock this versatile crystal and wield its boundless potential!"]
 	quest.114F6DD75C9B7D22.quest_subtitle: "Crafting the Master Infusion Crystal"
 	quest.114F6DD75C9B7D22.title: "The Ultimate Infusion"
+	quest.1284CA2D49C1FE72.quest_desc: ["The intense heat of the furnace can burn away the souls trapped in Soul Sand, leaving behind solidified &lScoria&r. This dark, volcanic stone is perfect for building or crafting unique blocks. Toss some Soul Sand into a furnace and see what remains after the fire has done its work."]
+	quest.1284CA2D49C1FE72.quest_subtitle: "Smelting the Sands of the Nether"
+	quest.1284CA2D49C1FE72.title: "Charred Remnants"
 	quest.166EC60FFAC9B4BD.quest_desc: ["To craft &lPrudentium Essence&r, you’ll first need to create an &lInferium Infusion Crystal&r by combining Inferium, Prosperity Shards, and a Diamond. This crystal is key to unlocking the next tier of Mystical Agriculture crops and resources. Use it wisely, as Prudentium Essence will help you take your farming and crafting to new heights."]
 	quest.166EC60FFAC9B4BD.quest_subtitle: "Infusing for Advancement"
 	quest.166EC60FFAC9B4BD.title: "The Path to Prudentium"
@@ -85,6 +88,9 @@
 	quest.37387A044CF14796.quest_desc: ["&lDirt Seeds&r grow into &lDirt Essence&r, a useful resource for several early-game crafts. This essence plays an important role in crafting essential materials and tools, making it a valuable asset as you progress through the early stages of Mystical Agriculture. Start planting and gather Dirt Essence to help with your initial crafting needs!"]
 	quest.37387A044CF14796.quest_subtitle: "Harnessing Dirt Essence"
 	quest.37387A044CF14796.title: "Seeds of the Earth"
+	quest.37480F6CE7572160.quest_desc: ["The Nether Portal’s corruption doesn’t stop at stone and sand—it even alters crops. When Wheat Crops are exposed to the portal’s energy, they transform into &lNether Wart&r, an essential ingredient for brewing powerful potions. If you want to harness the magic of alchemy, start by planting wheat in the right place and let the Nether do the rest!"]
+	quest.37480F6CE7572160.quest_subtitle: "From Wheat to Nether Wart"
+	quest.37480F6CE7572160.title: "Cursed Harvest"
 	quest.3EA384F839BB5D14.quest_desc: ["&lIce Seeds&r grow into &lIce Essence&r, a valuable resource for crafting ice-related items. While it may not be needed for every crafting recipe, it plays an important role in some unique and advanced items. Start planting Ice Seeds to prepare for the colder aspects of your progression and unlock more crafting opportunities."]
 	quest.3EA384F839BB5D14.quest_subtitle: "Harnessing Ice Essence"
 	quest.3EA384F839BB5D14.title: "Seeds of Winter"

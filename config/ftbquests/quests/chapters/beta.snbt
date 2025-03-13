@@ -263,5 +263,16 @@
 			x: 4.0d
 			y: -2.0d
 		}
+		{
+			dependencies: ["27115761CCA7ADB6"]
+			id: "1284CA2D49C1FE72"
+			tasks: [{
+				id: "18E42C63E1492A68"
+				item: { count: 1, id: "create:scoria" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
 	]
 }

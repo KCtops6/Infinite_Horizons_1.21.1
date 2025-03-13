@@ -456,5 +456,80 @@
 			x: 6.0d
 			y: -2.0d
 		}
+		{
+			dependencies: ["07B1B6C8502FD122"]
+			id: "5D00196D169F65C2"
+			rewards: [{
+				id: "67E8403AE64AF8D1"
+				item: {
+					count: 1
+					id: "farmersdelight:nether_salad"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [{
+				id: "6A18641F14187A7C"
+				item: { count: 1, id: "minecraft:flint_and_steel" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["5D00196D169F65C2"]
+			id: "74AED40DCEDCCA58"
+			tasks: [{
+				id: "57B3050D2AF8CF22"
+				item: { count: 1, id: "minecraft:magma_block" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["5D00196D169F65C2"]
+			id: "27AD5982B40072FD"
+			tasks: [{
+				id: "3375AC72ABEB32EE"
+				item: { count: 1, id: "minecraft:netherrack" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["5D00196D169F65C2"]
+			id: "01AEEA186BB50BB0"
+			tasks: [{
+				id: "32E2755DF41B0F32"
+				item: { count: 1, id: "minecraft:quartz" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["5D00196D169F65C2"]
+			id: "27115761CCA7ADB6"
+			tasks: [{
+				id: "313F7A19A601281A"
+				item: { count: 1, id: "minecraft:soul_sand" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["5D00196D169F65C2"]
+			id: "37480F6CE7572160"
+			tasks: [{
+				id: "538C3C2E6664155A"
+				item: { count: 1, id: "minecraft:nether_wart" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: -1.0d
+		}
 	]
 }

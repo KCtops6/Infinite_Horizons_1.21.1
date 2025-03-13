@@ -2,6 +2,9 @@
 	chapter.17F179085511CF63.title: "Alpha"
 	chapter.247639ED7F0AF536.title: "Gamma"
 	chapter.6B16A1E49845B379.title: "Beta"
+	quest.01AEEA186BB50BB0.quest_desc: ["The Nether Portal’s energy doesn’t just bring heat—it also alters stone into valuable resources. If you place Stone near an active portal, it will slowly transform into Nether Quartz Ore. Mine it to collect &lNether Quartz&r, an essential material for redstone components, decorative blocks, and more. Even without stepping into the Nether, you can still harness its unique resources!"]
+	quest.01AEEA186BB50BB0.quest_subtitle: "Harvesting Nether Quartz"
+	quest.01AEEA186BB50BB0.title: "Crystals of the Nether"
 	quest.03552227F62B6320.quest_desc: ["Breaking Cobbled Deepslate with an Iron Hammer or better produces &lDeepslate Gravel&r, a valuable material with the potential for rare finds. Sifting through it can yield diamonds and lapis, making it an essential step for obtaining high-tier resources. The deeper you go, the greater the rewards!"]
 	quest.03552227F62B6320.quest_subtitle: "Deepslate Gravel Rewards"
 	quest.03552227F62B6320.title: "Sifting the Depths"
@@ -55,6 +58,12 @@
 	quest.26760351A93ADC05.quest_desc: ["The wind can be harnessed to generate rotational energy. Craft a &lWindmill Bearing&r and gather enough &lSails&r to build your Windmill. Once assembled, place it in an open area to capture the wind’s energy and power your mechanical systems. Let the wind carry you to new heights of automation!"]
 	quest.26760351A93ADC05.quest_subtitle: "Tapping into the Breeze"
 	quest.26760351A93ADC05.title: "Winds of Progress"
+	quest.27115761CCA7ADB6.quest_desc: ["The Nether Portal’s influence reaches beyond stone, twisting Sand into &lSoul Sand&r. This eerie material is essential for farming Nether Wart, crafting Soul Torches, and even slowing down enemies. Place sand near the portal and let the transformation take place—who knows what lost souls might be lurking within?"]
+	quest.27115761CCA7ADB6.quest_subtitle: "The Birth of Soul Sand"
+	quest.27115761CCA7ADB6.title: "Whispering Sands"
+	quest.27AD5982B40072FD.quest_desc: ["The Nether Portal’s presence seeps into the world, corrupting nearby Stone into &lNetherrack&r. While it may not seem valuable at first, this fiery rock has its uses in crafting and smelting. Let the portal do its work, then gather as much as you need—no Nether travel required!"]
+	quest.27AD5982B40072FD.quest_subtitle: "The Spread of Netherrack"
+	quest.27AD5982B40072FD.title: "Corrupted Stone"
 	quest.28018BE994F02339.quest_desc: ["The &lIron Trowel&r lets you dig even deeper, uncovering &lCrushed Raw Gold&r from dirt and grass. Smelt it down to obtain &lGold Ingots&r, a valuable material for crafting advanced components and trading. Keep searching—gold is always a treasure worth finding!"]
 	quest.28018BE994F02339.quest_subtitle: "A Precious Find"
 	quest.28018BE994F02339.title: "Goldfinger"
@@ -112,6 +121,9 @@
 	quest.5C6BCB357546F47A.quest_desc: ["To craft powerful Mystical Agriculture seeds, you'll need an &lInfusion Altar&r and eight &lInfusion Pedestals&r. This structure is essential for progressing through the mod, allowing you to create resource-generating crops. Set up your altar, gather your materials, and begin the infusion process to expand your farming potential!"]
 	quest.5C6BCB357546F47A.quest_subtitle: "The Infusion Altar"
 	quest.5C6BCB357546F47A.title: "Ritual of Growth"
+	quest.5D00196D169F65C2.quest_desc: ["Even though you can’t enter the Nether just yet, activating a &lNether Portal&r still has its uses. Craft a &lFlint and Steel&r and light the portal to begin its transformation effect. Nearby blocks will slowly turn into their Nether equivalents, giving you access to some Nether-exclusive materials without ever stepping through. Keep this in mind as you plan for the late game when you’ll eventually unlock the &lNether Key&r and explore what lies beyond!"]
+	quest.5D00196D169F65C2.quest_subtitle: "Lighting the Nether Portal"
+	quest.5D00196D169F65C2.title: "A Gateway’s Influence"
 	quest.62DBB6855DF2639C.quest_desc: ["With wood in hand, it's time to craft one of the most important blocks in your journey—the Crafting Table. This essential workstation unlocks countless recipes, allowing you to turn raw materials into tools, building blocks, and more. Simply arrange four wooden planks in your inventory crafting grid to get started!"]
 	quest.62DBB6855DF2639C.quest_subtitle: "Crafting the Basics"
 	quest.62DBB6855DF2639C.title: "Workbench Wonders"
@@ -124,6 +136,9 @@
 	quest.726CEB2724A750D7.quest_desc: ["Using an Iron Trowel or better on Gravel gives you a chance to obtain &lProsperity Shards&r, a key component in Mystical Agriculture. These shards are essential for crafting higher-tier resource crops. Keep sifting through gravel to gather what you need for future advancements!"]
 	quest.726CEB2724A750D7.quest_subtitle: "Finding Prosperity"
 	quest.726CEB2724A750D7.title: "Shards of Potential"
+	quest.74AED40DCEDCCA58.quest_desc: ["With the Nether Portal active, its influence begins to spread. Any Stone placed near the portal will slowly transform into &lMagma Blocks&r, a useful material for various contraptions, traps, and even lava generation. Take advantage of this passive conversion to gather magma without ever stepping foot in the Nether!"]
+	quest.74AED40DCEDCCA58.quest_subtitle: "Magma from the Nether’s Influence"
+	quest.74AED40DCEDCCA58.title: "The Heat Spreads"
 	quest.780B474DBCE85FC2.quest_desc: ["&lInferium Essence&r is a powerful material dropped by mobs, and it plays a vital role in the &oMystical Agriculture&r mod. Use it to craft seeds for growing a variety of resources, from basic crops to rare materials. Start gathering this essence to unlock a whole new world of farming and resource generation!"]
 	quest.780B474DBCE85FC2.quest_subtitle: "Harnessing Inferium"
 	quest.780B474DBCE85FC2.title: "The Essence of Growth"

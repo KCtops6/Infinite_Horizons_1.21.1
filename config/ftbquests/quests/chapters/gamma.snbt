@@ -564,5 +564,26 @@
 			x: -2.0d
 			y: 2.0d
 		}
+		{
+			dependencies: ["1284CA2D49C1FE72"]
+			icon: {
+				id: "mysticalagriculture:soulium_dust"
+			}
+			id: "233FF73DF6AF2D93"
+			tasks: [
+				{
+					id: "4BBF47F63F953CA8"
+					item: { count: 1, id: "mysticalagriculture:soulstone" }
+					type: "item"
+				}
+				{
+					id: "0DDA8935C19A71B4"
+					item: { count: 1, id: "mysticalagriculture:soulium_dust" }
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: 0.0d
+		}
 	]
 }

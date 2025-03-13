@@ -55,6 +55,9 @@
 	quest.2271A8EDA3C7F64C.quest_desc: ["&lGravel&r can be more than just a building block—break it with a &lStone Hammer&r to turn it into &lSand&r. Sand opens up new crafting possibilities and resources for survival. Keep smashing gravel to uncover the many uses of sand!"]
 	quest.2271A8EDA3C7F64C.quest_subtitle: "From Gravel to Sand"
 	quest.2271A8EDA3C7F64C.title: "The Sands of Time"
+	quest.233FF73DF6AF2D93.quest_desc: ["The Nether’s corruption runs deep, even altering Scoria placed near a Nether Portal. This transformation yields &lSoulstone&r and Soulium Ore, materials infused with the essence of the lost. Break Soulium Ore to obtain &lSoulium Dust&r, a crucial component for crafting Mystical Agriculture’s Mob Seeds. If you seek to harness the power of creatures, you’ll need to start here."]
+	quest.233FF73DF6AF2D93.quest_subtitle: "Scoria’s Dark Transformation"
+	quest.233FF73DF6AF2D93.title: "The Essence of Souls"
 	quest.245CC55733D2D5C6.quest_desc: ["&lTertium&r is the next level after Prudentium, and to unlock it, you’ll need to craft a &lPrudentium Infusion Crystal&r. Combine Prudentium Essence, a Tertium Infusion Crystal, and additional Prosperity Shards to create the crystal. Once crafted, use it in the same manner as before to infuse and obtain Tertium Essence, unlocking even more powerful resources for your journey!"]
 	quest.245CC55733D2D5C6.quest_subtitle: "Ascending to the Next Level"
 	quest.245CC55733D2D5C6.title: "The Tertium Infusion"

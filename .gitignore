@@ -7,3 +7,4 @@ journeymap/
 crash-reports/
 local/
 command_history.json
+usercache.json

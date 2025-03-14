@@ -1,0 +1,11 @@
+/fill 183 85 32 200 85 0 minecraft:grass_block
+/fill 181 85 26 200 85 100 minecraft:grass_block
+/fill 182 85 26 200 85
+/fill 182 85 26 150 85 0 minecraft:grass_block
+/fill 169 85 26 200 85 0 minecraft:grass_block
+/fill 169 85 26 150 85 50 minecraft:grass_block
+/fill 181 85 38 150 85 50 minecraft:grass_block
+/fill 181 85 38 220 85 75 minecraft:grass_block
+/fill 181 85 38 150 85 50 minecraft:grass_block
+/fill 181 85 38 150 85 75 minecraft:grass_block
+/clear

@@ -69,6 +69,7 @@ LootJS.modifiers(event => {
         .matchTool("kubejs:iron_trowel")
         .addLoot(LootEntry.of("minecraft:diamond").randomChance(0.125))
         .addLoot(LootEntry.of("minecraft:lapis_lazuli").randomChance(0.25))
+        .addLoot(LootEntry.of("minecraft:redstone").randomChance(0.25))
         .randomChance(0.75)
         .removeLoot("kubejs:deepslate_gravel");
 })

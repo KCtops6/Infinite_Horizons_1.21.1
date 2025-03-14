@@ -433,7 +433,7 @@
 				}
 			]
 			x: 0.0d
-			y: 3.0d
+			y: 6.0d
 		}
 		{
 			dependencies: ["245CC55733D2D5C6"]
@@ -464,7 +464,7 @@
 				}
 			]
 			x: 0.0d
-			y: 4.0d
+			y: 7.0d
 		}
 		{
 			dependencies: ["792527A0AEA5E9E2"]
@@ -495,7 +495,7 @@
 				}
 			]
 			x: 0.0d
-			y: 5.0d
+			y: 8.0d
 		}
 		{
 			dependencies: ["0E3F69CBC98336DE"]
@@ -506,7 +506,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 7.0d
+			y: 10.0d
 		}
 		{
 			dependencies: ["3276ACBC80D0AF10"]
@@ -527,24 +527,23 @@
 				}
 			]
 			x: 0.0d
-			y: 6.0d
+			y: 9.0d
 		}
 		{
 			dependencies: [
-				"27115761CCA7ADB6"
-				"27AD5982B40072FD"
-				"37480F6CE7572160"
 				"166EC60FFAC9B4BD"
+				"5C6BCB357546F47A"
 			]
+			hide_dependency_lines: true
 			icon: {
-				id: "mysticalagriculture:nether_essence"
+				id: "mysticalagriculture:amethyst_essence"
 			}
 			id: "275FAAEDB605ECD0"
 			rewards: [{
 				id: "6DD474B37721C369"
 				item: {
 					count: 1
-					id: "mysticalagriculture:nether_seeds"
+					id: "mysticalagriculture:amethyst_seeds"
 				}
 				random_bonus: 2
 				type: "item"
@@ -552,12 +551,12 @@
 			tasks: [
 				{
 					id: "185E6F442E40801E"
-					item: { count: 1, id: "mysticalagriculture:nether_seeds" }
+					item: { count: 1, id: "mysticalagriculture:amethyst_seeds" }
 					type: "item"
 				}
 				{
 					id: "7B82287859C3BA64"
-					item: { count: 1, id: "mysticalagriculture:nether_essence" }
+					item: { count: 1, id: "mysticalagriculture:amethyst_essence" }
 					type: "item"
 				}
 			]
@@ -584,6 +583,729 @@
 			]
 			x: -2.0d
 			y: 0.0d
+		}
+		{
+			dependencies: [
+				"166EC60FFAC9B4BD"
+				"5C6BCB357546F47A"
+			]
+			hide_dependency_lines: true
+			icon: {
+				id: "mysticalagriculture:honey_essence"
+			}
+			id: "0A4836489D04FF80"
+			rewards: [
+				{
+					id: "10032BC9E3925417"
+					item: {
+						count: 1
+						id: "mysticalagriculture:honey_seeds"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "13C12C8BB9F9D47B"
+					item: {
+						count: 1
+						id: "farmersdelight:honey_glazed_ham"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "7C2BD9E9DF9AF856"
+					item: { count: 1, id: "mysticalagriculture:honey_seeds" }
+					type: "item"
+				}
+				{
+					id: "7B2FE4C827506124"
+					item: { count: 1, id: "mysticalagriculture:honey_essence" }
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"166EC60FFAC9B4BD"
+				"5C6BCB357546F47A"
+			]
+			hide_dependency_lines: true
+			icon: {
+				id: "mysticalagriculture:coral_essence"
+			}
+			id: "39F9B7656BCFF313"
+			optional: true
+			rewards: [{
+				id: "7A0F1223E2247B68"
+				item: {
+					count: 1
+					id: "mysticalagriculture:coral_seeds"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "7222C78707AECA05"
+					item: { count: 1, id: "mysticalagriculture:coral_seeds" }
+					type: "item"
+				}
+				{
+					id: "04947F4A68D107BA"
+					item: { count: 1, id: "mysticalagriculture:coral_essence" }
+					type: "item"
+				}
+			]
+			x: -4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"166EC60FFAC9B4BD"
+				"5C6BCB357546F47A"
+			]
+			hide_dependency_lines: true
+			icon: {
+				id: "mysticalagriculture:coal_essence"
+			}
+			id: "0EF473D1AB25C4C5"
+			rewards: [{
+				id: "71EC6E75532343F8"
+				item: {
+					count: 1
+					id: "mysticalagriculture:coal_seeds"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "400D58DDDAC04773"
+					item: { count: 1, id: "mysticalagriculture:coal_seeds" }
+					type: "item"
+				}
+				{
+					id: "149FD9F1DF09FFB3"
+					item: { count: 1, id: "mysticalagriculture:coal_essence" }
+					type: "item"
+				}
+			]
+			x: -5.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"166EC60FFAC9B4BD"
+				"5C6BCB357546F47A"
+				"27115761CCA7ADB6"
+				"27AD5982B40072FD"
+				"37480F6CE7572160"
+			]
+			hide_dependency_lines: true
+			icon: {
+				id: "mysticalagriculture:nether_essence"
+			}
+			id: "51747FB6033E44CA"
+			rewards: [{
+				id: "71A211C2AC26B5E4"
+				item: {
+					count: 1
+					id: "mysticalagriculture:nether_seeds"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "0504B7122D0E67FC"
+					item: { count: 1, id: "mysticalagriculture:nether_seeds" }
+					type: "item"
+				}
+				{
+					id: "5090150F8184B6C0"
+					item: { count: 1, id: "mysticalagriculture:nether_essence" }
+					type: "item"
+				}
+			]
+			x: -6.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"166EC60FFAC9B4BD"
+				"5C6BCB357546F47A"
+			]
+			hide_dependency_lines: true
+			icon: {
+				id: "mysticalagriculture:dye_essence"
+			}
+			id: "14E23476AD101304"
+			rewards: [{
+				id: "696DD6360F7894F8"
+				item: {
+					count: 1
+					id: "mysticalagriculture:dye_seeds"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "677A006FD50A67DB"
+					item: { count: 1, id: "mysticalagriculture:dye_seeds" }
+					type: "item"
+				}
+				{
+					id: "43CD2B3B2457E047"
+					item: { count: 1, id: "mysticalagriculture:dye_essence" }
+					type: "item"
+				}
+			]
+			x: -7.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"166EC60FFAC9B4BD"
+				"5C6BCB357546F47A"
+			]
+			hide_dependency_lines: true
+			icon: {
+				id: "mysticalagriculture:nature_essence"
+			}
+			id: "50AA14991528833D"
+			rewards: [{
+				id: "39F1B1B4F9418448"
+				item: {
+					count: 1
+					id: "mysticalagriculture:nature_seeds"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "43FFD45CD50BFB78"
+					item: { count: 1, id: "mysticalagriculture:nature_seeds" }
+					type: "item"
+				}
+				{
+					id: "025A9DEFAAE43624"
+					item: { count: 1, id: "mysticalagriculture:nature_essence" }
+					type: "item"
+				}
+			]
+			x: -8.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"166EC60FFAC9B4BD"
+				"5C6BCB357546F47A"
+			]
+			hide_dependency_lines: true
+			icon: {
+				id: "mysticalagriculture:pig_essence"
+			}
+			id: "3EF6C5B6FCA2917F"
+			rewards: [
+				{
+					id: "52D71BB34E3D68AE"
+					item: {
+						count: 1
+						id: "mysticalagriculture:pig_seeds"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "14099E1E778F80DE"
+					item: {
+						count: 1
+						id: "farmersdelight:smoked_ham"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "48B33041F0B15EB9"
+					item: { count: 1, id: "mysticalagriculture:pig_seeds" }
+					type: "item"
+				}
+				{
+					id: "2F914C63BAD3A346"
+					item: { count: 1, id: "mysticalagriculture:pig_essence" }
+					type: "item"
+				}
+			]
+			x: -8.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"166EC60FFAC9B4BD"
+				"5C6BCB357546F47A"
+			]
+			hide_dependency_lines: true
+			icon: {
+				id: "mysticalagriculture:chicken_essence"
+			}
+			id: "46AF7CB0ADC39F68"
+			rewards: [
+				{
+					id: "72525A2A40070D30"
+					item: {
+						count: 1
+						id: "mysticalagriculture:chicken_seeds"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "2BB40D0515A3DA8F"
+					item: {
+						count: 1
+						id: "farmersdelight:roast_chicken"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "7BAD67F474355CEA"
+					item: { count: 1, id: "mysticalagriculture:chicken_seeds" }
+					type: "item"
+				}
+				{
+					id: "64619C7875B25B37"
+					item: { count: 1, id: "mysticalagriculture:chicken_essence" }
+					type: "item"
+				}
+			]
+			x: -7.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"166EC60FFAC9B4BD"
+				"5C6BCB357546F47A"
+			]
+			hide_dependency_lines: true
+			icon: {
+				id: "mysticalagriculture:cow_essence"
+			}
+			id: "32245E61F86CBB8E"
+			rewards: [
+				{
+					id: "2561DF884ECE3433"
+					item: {
+						count: 1
+						id: "mysticalagriculture:cow_seeds"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "7903BF6FE90E9C3E"
+					item: {
+						count: 1
+						id: "farmersdelight:beef_stew"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "34BD9EAFF34881C7"
+					item: { count: 1, id: "mysticalagriculture:cow_seeds" }
+					type: "item"
+				}
+				{
+					id: "57C309E60725F785"
+					item: { count: 1, id: "mysticalagriculture:cow_essence" }
+					type: "item"
+				}
+			]
+			x: -6.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"166EC60FFAC9B4BD"
+				"5C6BCB357546F47A"
+			]
+			hide_dependency_lines: true
+			icon: {
+				id: "mysticalagriculture:sheep_essence"
+			}
+			id: "34CAA2174F107E50"
+			rewards: [
+				{
+					id: "67A8819408631409"
+					item: {
+						count: 1
+						id: "mysticalagriculture:sheep_seeds"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "35E69383D05A2890"
+					item: {
+						count: 1
+						id: "farmersdelight:pasta_with_mutton_chop"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "69B8060E70B0B883"
+					item: { count: 1, id: "mysticalagriculture:sheep_seeds" }
+					type: "item"
+				}
+				{
+					id: "0C6F2A3935CC7DDC"
+					item: { count: 1, id: "mysticalagriculture:sheep_essence" }
+					type: "item"
+				}
+			]
+			x: -5.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"166EC60FFAC9B4BD"
+				"5C6BCB357546F47A"
+			]
+			hide_dependency_lines: true
+			icon: {
+				id: "mysticalagriculture:squid_essence"
+			}
+			id: "0254E09CD6298AE0"
+			rewards: [
+				{
+					id: "4F2E24C626034AD3"
+					item: {
+						count: 1
+						id: "mysticalagriculture:squid_seeds"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "389CBF508E63DAF9"
+					item: {
+						count: 1
+						id: "farmersdelight:squid_ink_pasta"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "63D487C6BEAF6EBC"
+					item: { count: 1, id: "mysticalagriculture:squid_seeds" }
+					type: "item"
+				}
+				{
+					id: "6FE3E5E945BEC108"
+					item: { count: 1, id: "mysticalagriculture:squid_essence" }
+					type: "item"
+				}
+			]
+			x: -4.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"166EC60FFAC9B4BD"
+				"5C6BCB357546F47A"
+			]
+			hide_dependency_lines: true
+			icon: {
+				id: "mysticalagriculture:fish_essence"
+			}
+			id: "1AF74B5C0867A081"
+			rewards: [
+				{
+					id: "366E20158ED89D86"
+					item: {
+						count: 1
+						id: "mysticalagriculture:fish_seeds"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "7005C934BEBD4C09"
+					item: {
+						count: 1
+						id: "farmersdelight:baked_cod_stew"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "040E7EE152D7CAB4"
+					item: { count: 1, id: "mysticalagriculture:fish_seeds" }
+					type: "item"
+				}
+				{
+					id: "0F6416B9D8A6812E"
+					item: { count: 1, id: "mysticalagriculture:fish_essence" }
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"166EC60FFAC9B4BD"
+				"5C6BCB357546F47A"
+			]
+			hide_dependency_lines: true
+			icon: {
+				id: "mysticalagriculture:slime_essence"
+			}
+			id: "1579F3D1E91940BD"
+			rewards: [{
+				id: "380C4241633A7F1C"
+				item: {
+					count: 1
+					id: "mysticalagriculture:slime_seeds"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "6D19FA97EEB8BE8F"
+					item: { count: 1, id: "mysticalagriculture:slime_seeds" }
+					type: "item"
+				}
+				{
+					id: "0412EF387D9AA5F6"
+					item: { count: 1, id: "mysticalagriculture:slime_essence" }
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"166EC60FFAC9B4BD"
+				"5C6BCB357546F47A"
+			]
+			hide_dependency_lines: true
+			icon: {
+				id: "mysticalagriculture:turtle_essence"
+			}
+			id: "3184DE24BE1CE6C8"
+			rewards: [{
+				id: "06B419580E6344EC"
+				item: {
+					count: 1
+					id: "mysticalagriculture:turtle_seeds"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "6684218601D4D6A9"
+					item: { count: 1, id: "mysticalagriculture:turtle_seeds" }
+					type: "item"
+				}
+				{
+					id: "124F187F52AAA39C"
+					item: { count: 1, id: "mysticalagriculture:turtle_essence" }
+					type: "item"
+				}
+			]
+			x: -8.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"166EC60FFAC9B4BD"
+				"5C6BCB357546F47A"
+			]
+			hide_dependency_lines: true
+			icon: {
+				id: "mysticalagriculture:armadillo_essence"
+			}
+			id: "4DDAD3C6DB61772F"
+			rewards: [{
+				id: "4C2D636905AA2724"
+				item: {
+					count: 1
+					id: "mysticalagriculture:armadillo_seeds"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "110699F191C14C9F"
+					item: { count: 1, id: "mysticalagriculture:armadillo_seeds" }
+					type: "item"
+				}
+				{
+					id: "14D7CAFBF546D7A2"
+					item: { count: 1, id: "mysticalagriculture:armadillo_essence" }
+					type: "item"
+				}
+			]
+			x: -7.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"166EC60FFAC9B4BD"
+				"5C6BCB357546F47A"
+			]
+			hide_dependency_lines: true
+			icon: {
+				id: "mysticalagriculture:sulfur_essence"
+			}
+			id: "77698223E71E6E8E"
+			rewards: [{
+				id: "781BED0EDD954DA0"
+				item: {
+					count: 1
+					id: "mysticalagriculture:sulfur_seeds"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "6966B53AE33A4B58"
+					item: { count: 1, id: "mysticalagriculture:sulfur_seeds" }
+					type: "item"
+				}
+				{
+					id: "68642E5618D0FCF0"
+					item: { count: 1, id: "mysticalagriculture:sulfur_essence" }
+					type: "item"
+				}
+			]
+			x: -6.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"166EC60FFAC9B4BD"
+				"5C6BCB357546F47A"
+			]
+			hide_dependency_lines: true
+			icon: {
+				id: "mysticalagriculture:aluminum_essence"
+			}
+			id: "45954B3B5A15BAB1"
+			rewards: [{
+				id: "2A59F4BC840C0F99"
+				item: {
+					count: 1
+					id: "mysticalagriculture:aluminum_seeds"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "5A819B170951E295"
+					item: { count: 1, id: "mysticalagriculture:aluminum_seeds" }
+					type: "item"
+				}
+				{
+					id: "676F93310B19CD71"
+					item: { count: 1, id: "mysticalagriculture:aluminum_essence" }
+					type: "item"
+				}
+			]
+			x: -5.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"166EC60FFAC9B4BD"
+				"5C6BCB357546F47A"
+			]
+			hide_dependency_lines: true
+			icon: {
+				id: "mysticalagriculture:apatite_essence"
+			}
+			id: "3E9EF2ED3C05EE34"
+			rewards: [{
+				id: "38F81227829BB324"
+				item: {
+					count: 1
+					id: "mysticalagriculture:apatite_seeds"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "383532143CDABAAD"
+					item: { count: 1, id: "mysticalagriculture:apatite_seeds" }
+					type: "item"
+				}
+				{
+					id: "34A26D5FA72A8153"
+					item: { count: 1, id: "mysticalagriculture:apatite_essence" }
+					type: "item"
+				}
+			]
+			x: -4.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"166EC60FFAC9B4BD"
+				"5C6BCB357546F47A"
+			]
+			hide_dependency_lines: true
+			icon: {
+				id: "mysticalagriculture:limestone_essence"
+			}
+			id: "7F0AC6B1D0CCBDE4"
+			rewards: [{
+				id: "45F3C21892EEFFDB"
+				item: {
+					count: 1
+					id: "mysticalagriculture:limestone_seeds"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "0EBBABB6BC308AB6"
+					item: { count: 1, id: "mysticalagriculture:limestone_seeds" }
+					type: "item"
+				}
+				{
+					id: "4573D7AD5B0B2312"
+					item: { count: 1, id: "mysticalagriculture:limestone_essence" }
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: 4.0d
 		}
 	]
 }

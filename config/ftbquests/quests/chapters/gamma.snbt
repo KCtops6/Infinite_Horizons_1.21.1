@@ -581,8 +581,8 @@
 					type: "item"
 				}
 			]
-			x: -2.0d
-			y: 0.0d
+			x: 2.0d
+			y: 4.0d
 		}
 		{
 			dependencies: [
@@ -806,6 +806,7 @@
 			dependencies: [
 				"166EC60FFAC9B4BD"
 				"5C6BCB357546F47A"
+				"1DFAEDA158D3563B"
 			]
 			hide_dependency_lines: true
 			icon: {
@@ -851,6 +852,7 @@
 			dependencies: [
 				"166EC60FFAC9B4BD"
 				"5C6BCB357546F47A"
+				"1DFAEDA158D3563B"
 			]
 			hide_dependency_lines: true
 			icon: {
@@ -895,6 +897,7 @@
 			dependencies: [
 				"166EC60FFAC9B4BD"
 				"5C6BCB357546F47A"
+				"1DFAEDA158D3563B"
 			]
 			hide_dependency_lines: true
 			icon: {
@@ -940,6 +943,7 @@
 			dependencies: [
 				"166EC60FFAC9B4BD"
 				"5C6BCB357546F47A"
+				"1DFAEDA158D3563B"
 			]
 			hide_dependency_lines: true
 			icon: {
@@ -984,6 +988,7 @@
 			dependencies: [
 				"166EC60FFAC9B4BD"
 				"5C6BCB357546F47A"
+				"1DFAEDA158D3563B"
 			]
 			hide_dependency_lines: true
 			icon: {
@@ -1028,6 +1033,7 @@
 			dependencies: [
 				"166EC60FFAC9B4BD"
 				"5C6BCB357546F47A"
+				"1DFAEDA158D3563B"
 			]
 			hide_dependency_lines: true
 			icon: {
@@ -1073,6 +1079,7 @@
 			dependencies: [
 				"166EC60FFAC9B4BD"
 				"5C6BCB357546F47A"
+				"1DFAEDA158D3563B"
 			]
 			hide_dependency_lines: true
 			icon: {
@@ -1107,6 +1114,7 @@
 			dependencies: [
 				"166EC60FFAC9B4BD"
 				"5C6BCB357546F47A"
+				"1DFAEDA158D3563B"
 			]
 			hide_dependency_lines: true
 			icon: {
@@ -1141,6 +1149,7 @@
 			dependencies: [
 				"166EC60FFAC9B4BD"
 				"5C6BCB357546F47A"
+				"1DFAEDA158D3563B"
 			]
 			hide_dependency_lines: true
 			icon: {
@@ -1305,6 +1314,63 @@
 				}
 			]
 			x: -3.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"726CEB2724A750D7"
+				"233FF73DF6AF2D93"
+			]
+			id: "2DE910ED267EC744"
+			rewards: [{
+				id: "0711AF5B274500BD"
+				item: {
+					count: 1
+					id: "mysticalagriculture:soul_jar"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [{
+				id: "302C7BB33F4DABB9"
+				item: { count: 1, id: "mysticalagriculture:soul_jar" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2DE910ED267EC744"]
+			id: "1DFAEDA158D3563B"
+			tasks: [{
+				id: "2D66A3FE7B0A711D"
+				item: { count: 1, id: "mysticalagriculture:soulium_dagger" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["1DFAEDA158D3563B"]
+			id: "18691A60F7FBE38E"
+			optional: true
+			tasks: [{
+				id: "3D8B7EF33A0D0C30"
+				item: { count: 1, id: "mysticalagriculture:soul_extractor" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["233FF73DF6AF2D93"]
+			id: "2EEB389CD9B0976B"
+			tasks: [{
+				id: "216DCC1A1640CA2D"
+				item: { count: 1, id: "mysticalagriculture:tinkering_table" }
+				type: "item"
+			}]
+			x: 3.0d
 			y: 4.0d
 		}
 	]

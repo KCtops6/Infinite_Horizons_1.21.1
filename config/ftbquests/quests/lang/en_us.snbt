@@ -20,6 +20,9 @@
 	quest.07B1B6C8502FD122.quest_desc: ["&lObsidian&r is a crucial material for various advanced crafts, including portals and reinforced tools. The easiest way to obtain it is by combining lava and water, but with the right automation, you can produce it efficiently. Whether you mine it manually or find a way to generate it passively, having a steady supply of Obsidian will open the path to greater possibilities!"]
 	quest.07B1B6C8502FD122.quest_subtitle: "Obtaining Obsidian"
 	quest.07B1B6C8502FD122.title: "Unbreakable Resolve"
+	quest.0886E9D3C195E26E.quest_desc: ["Lapis Lazuli is obtained by breaking deepslate gravel with an Iron Trowel or better. This valuable material is essential for enchanting and crafting magical items. Gather lapis to enhance your gear and unlock new crafting possibilities."]
+	quest.0886E9D3C195E26E.quest_subtitle: "A Shimmering Resource"
+	quest.0886E9D3C195E26E.title: "Shards of Blue"
 	quest.0A4836489D04FF80.quest_desc: ["With &lHoney Seeds&r, you can produce &lHoney Essence&r, a renewable way to get honey without needing to rely on beehives. Perfect for those sticky situations where more honey is needed."]
 	quest.0A4836489D04FF80.quest_subtitle: "Grow Your Own Honey"
 	quest.0A4836489D04FF80.title: "Sweet Harvest"
@@ -56,6 +59,9 @@
 	quest.174AD92AAE3A1FAF.quest_desc: ["&lGlass&r is a vital material for many creations, from windows to containers. Craft Glass by smelting &lSand&r in a furnace. This simple yet essential block opens the door to new possibilities in building and crafting. Gather sand and let the furnace work its magic!"]
 	quest.174AD92AAE3A1FAF.quest_subtitle: "The Clear Path"
 	quest.174AD92AAE3A1FAF.title: "Transparent Progress"
+	quest.18691A60F7FBE38E.quest_desc: ["The &lSoul Extractor&r offers an easier alternative to the Soulium Dagger in certain situations. Rather than needing to kill mobs, it allows you to extract the essence of a mob by using items associated with that particular creature. This method provides a more efficient way to gather mob resources for Mystical Agriculture Mob Seeds, bypassing the need for combat and making the process more versatile. Use the Soul Extractor to enhance your mob farming setup with less effort."]
+	quest.18691A60F7FBE38E.quest_subtitle: "The Versatility of the Soul Extractor"
+	quest.18691A60F7FBE38E.title: "Efficient Soul Extraction"
 	quest.19CB8B99AFF3FA10.quest_desc: ["&lWood Seeds&r grow into &lWood Essence&r, providing the fastest way to obtain non-native wood types. This essence allows you to craft various wood-based materials, expanding your options for building and crafting. Plant these seeds to diversify your wood supply and explore new possibilities in your designs and creations."]
 	quest.19CB8B99AFF3FA10.quest_subtitle: "Growing New Timber"
 	quest.19CB8B99AFF3FA10.title: "The Essence of Wood"
@@ -64,9 +70,15 @@
 	quest.1AF74B5C0867A081.title: "Essence of the Fish"
 	quest.1B922950A7570482.quest_desc: ["Check the box to acknowledge that you have a working source of rotational energy."]
 	quest.1B922950A7570482.quest_subtitle: "Early Game Power"
+	quest.1BEB220EF0DCE259.quest_desc: ["The &lEnchanting Table&r is a powerful tool that allows you to imbue your items with magical enchantments. To craft one, you'll need Diamonds, Obsidian, and Bookshelves for enhancing its functionality. Use this table to upgrade your gear and gain an edge in your adventures."]
+	quest.1BEB220EF0DCE259.quest_subtitle: "Unlock the Magic"
+	quest.1BEB220EF0DCE259.title: "Crafting the Enchanting Table"
 	quest.1DD31DACE3A3A35A.quest_desc: ["&lEarth Seeds&r grow into &lEarth Essence&r, which may not offer immediate benefits for early-game crafting, but it is vital for creating high-level gear in the end game. It's wise to start growing these now, so you’ll have a steady supply when you're ready to craft advanced equipment and unlock powerful recipes. Get a head start on your future progression!"]
 	quest.1DD31DACE3A3A35A.quest_subtitle: "Preparing for Greater Power"
 	quest.1DD31DACE3A3A35A.title: "Rooted in the Earth"
+	quest.1DFAEDA158D3563B.quest_desc: ["The &lSoulium Dagger&r is a powerful tool used to fill Soul Jars by slaying the mob whose essence you wish to capture. Use the dagger to collect the soul of your target and store it in the jar, allowing you to craft Mystical Agriculture Mob Seeds for efficient farming of mob-based resources. This method allows for controlled resource gathering from mobs, enhancing your ability to progress in your journey."]
+	quest.1DFAEDA158D3563B.quest_subtitle: "The Power of the Soulium Dagger"
+	quest.1DFAEDA158D3563B.title: "Capturing Souls"
 	quest.20CEFFF2715407F7.quest_desc: ["By using an Iron Trowel or better on Deepslate Gravel, you have a chance to uncover &lDiamonds&r. These precious gems are crucial for crafting powerful tools, advanced machinery, and progressing further. If you need a steady supply, consider finding ways to automate the process or work toward Diamond Seeds in the future!"]
 	quest.20CEFFF2715407F7.quest_subtitle: "Finding Diamonds"
 	quest.20CEFFF2715407F7.title: "Diamonds are Forever"
@@ -100,6 +112,12 @@
 	quest.2D20B776E684B72F.quest_desc: ["&lStone Seeds&r grow into &lStone Essence,&r which can be crafted into various stone-based materials. While a Stone Block Generator is more efficient for bulk production, these seeds provide an alternative way to obtain stone-related resources. Plant them and let nature do the work!"]
 	quest.2D20B776E684B72F.quest_subtitle: "A Rocky Harvest"
 	quest.2D20B776E684B72F.title: "Seeds of Stone"
+	quest.2DE910ED267EC744.quest_desc: ["The &lSoul Jar&r is an essential tool used in crafting &oMystical Agriculture Mob Seeds&r. By capturing the essence of mobs, this jar allows you to create seeds that will grow into the resources dropped by these creatures. Use it to unlock a new way to farm mob-based materials and improve your resource gathering."]
+	quest.2DE910ED267EC744.quest_subtitle: "Harness the Essence of Mobs"
+	quest.2DE910ED267EC744.title: "Crafting with the Soul Jar"
+	quest.2EEB389CD9B0976B.quest_desc: ["The &lTinkering Table&r is a crucial tool for upgrading Mystical Agriculture tools, weapons, and armor. By using this table, you can enhance the capabilities of your gear, improving its durability, effectiveness, and special attributes. Whether you’re looking to make your tools more efficient or strengthen your armor, the Tinkering Table is the key to unlocking the full potential of your mystical creations."]
+	quest.2EEB389CD9B0976B.quest_subtitle: "Upgrading Your Mystical Gear"
+	quest.2EEB389CD9B0976B.title: "Tinkering for Power"
 	quest.3184DE24BE1CE6C8.quest_desc: ["With &lTurtle Seeds&r, you can grow &lTurtle Essence&r, providing a steady source of turtle-related resources like scutes. No need to search the beaches—plant these seeds for all your turtle crafting needs."]
 	quest.3184DE24BE1CE6C8.quest_subtitle: "Shelled Growth"
 	quest.3184DE24BE1CE6C8.title: "Essence of the Turtle"
@@ -194,6 +212,9 @@
 	quest.5D00196D169F65C2.quest_desc: ["Even though you can’t enter the Nether just yet, activating a &lNether Portal&r still has its uses. Craft a &lFlint and Steel&r and light the portal to begin its transformation effect. Nearby blocks will slowly turn into their Nether equivalents, giving you access to some Nether-exclusive materials without ever stepping through. Keep this in mind as you plan for the late game when you’ll eventually unlock the &lNether Key&r and explore what lies beyond!"]
 	quest.5D00196D169F65C2.quest_subtitle: "Lighting the Nether Portal"
 	quest.5D00196D169F65C2.title: "A Gateway’s Influence"
+	quest.617A387AA59B3D89.quest_desc: ["The &lCrafter&r is a low-capacity storage block designed for automated crafting. It functions as a crafting table that crafts items when powered, ejecting them into the world or into a container it faces. Its inventory can be locked to prevent unwanted items from being inserted, allowing you to control the crafting process. Utilize this tool to streamline your automated crafting setups and enhance your efficiency."]
+	quest.617A387AA59B3D89.quest_subtitle: "Harness the Power of the Crafter"
+	quest.617A387AA59B3D89.title: "Crafting with Automation"
 	quest.62DBB6855DF2639C.quest_desc: ["With wood in hand, it's time to craft one of the most important blocks in your journey—the Crafting Table. This essential workstation unlocks countless recipes, allowing you to turn raw materials into tools, building blocks, and more. Simply arrange four wooden planks in your inventory crafting grid to get started!"]
 	quest.62DBB6855DF2639C.quest_subtitle: "Crafting the Basics"
 	quest.62DBB6855DF2639C.title: "Workbench Wonders"

@@ -285,7 +285,7 @@
 					type: "item"
 				}
 			]
-			x: 7.0d
+			x: 6.0d
 			y: -1.0d
 		}
 		{
@@ -306,7 +306,7 @@
 					type: "item"
 				}
 			]
-			x: 7.0d
+			x: 6.0d
 			y: 0.0d
 		}
 		{
@@ -453,7 +453,7 @@
 				item: { count: 1, id: "minecraft:obsidian" }
 				type: "item"
 			}]
-			x: 7.0d
+			x: 6.0d
 			y: -2.0d
 		}
 		{
@@ -473,7 +473,7 @@
 				item: { count: 1, id: "minecraft:flint_and_steel" }
 				type: "item"
 			}]
-			x: 8.0d
+			x: 7.0d
 			y: -2.0d
 		}
 		{
@@ -484,7 +484,7 @@
 				item: { count: 1, id: "minecraft:magma_block" }
 				type: "item"
 			}]
-			x: 8.0d
+			x: 7.0d
 			y: -3.0d
 		}
 		{
@@ -495,7 +495,7 @@
 				item: { count: 1, id: "minecraft:netherrack" }
 				type: "item"
 			}]
-			x: 9.0d
+			x: 8.0d
 			y: -2.0d
 		}
 		{
@@ -506,7 +506,7 @@
 				item: { count: 1, id: "minecraft:quartz" }
 				type: "item"
 			}]
-			x: 9.0d
+			x: 8.0d
 			y: -3.0d
 		}
 		{
@@ -517,7 +517,7 @@
 				item: { count: 1, id: "minecraft:soul_sand" }
 				type: "item"
 			}]
-			x: 9.0d
+			x: 8.0d
 			y: -1.0d
 		}
 		{
@@ -528,7 +528,7 @@
 				item: { count: 1, id: "minecraft:nether_wart" }
 				type: "item"
 			}]
-			x: 8.0d
+			x: 7.0d
 			y: -1.0d
 		}
 		{
@@ -543,7 +543,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: -3.0d
+			y: -4.0d
 		}
 		{
 			dependencies: ["03552227F62B6320"]
@@ -554,7 +554,32 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: -4.0d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"07B1B6C8502FD122"
+				"0886E9D3C195E26E"
+			]
+			id: "1BEB220EF0DCE259"
+			tasks: [{
+				id: "02BE2C450C831D8B"
+				item: { count: 1, id: "minecraft:enchanting_table" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["11332A8490D1FD31"]
+			id: "617A387AA59B3D89"
+			tasks: [{
+				id: "603212E5A0D8AA3D"
+				item: { count: 1, id: "minecraft:crafter" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -5.0d
 		}
 	]
 }

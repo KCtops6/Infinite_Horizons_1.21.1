@@ -8,7 +8,7 @@
 	quest.0254E09CD6298AE0.quest_desc: ["With &lSquid Seeds&r, you can grow &lSquid Essence&r, unlocking the ability to obtain ink and other squid-related resources without needing to dive into the water. Plant these seeds and harvest the essence for your crafting needs."]
 	quest.0254E09CD6298AE0.quest_subtitle: "Ink in the Soil"
 	quest.0254E09CD6298AE0.title: "Essence of the Squid"
-	quest.03552227F62B6320.quest_desc: ["Breaking Cobbled Deepslate with an Iron Hammer or better produces &lDeepslate Gravel&r, a valuable material with the potential for rare finds. Sifting through it can yield diamonds and lapis, making it an essential step for obtaining high-tier resources. The deeper you go, the greater the rewards!"]
+	quest.03552227F62B6320.quest_desc: ["Breaking Cobbled Deepslate with an Iron Hammer or better produces &lDeepslate Gravel&r, a valuable material with the potential for rare finds. Sifting through it can yield rare items, making it an essential step for obtaining high-tier resources. The deeper you go, the greater the rewards!"]
 	quest.03552227F62B6320.quest_subtitle: "Deepslate Gravel Rewards"
 	quest.03552227F62B6320.title: "Sifting the Depths"
 	quest.04F3232804097839.quest_desc: ["The &lMillstone&r is the perfect tool to automate the grinding process. Use it to automatically turn &oCobblestone into Gravel&r and &oGravel into Sand&r—no more hammering by hand. Power it with rotational energy from a &lWater Wheel&r or &lWindmill&r, and let it run smoothly as it processes your materials for you. Set it up and watch the grinding never stop!"]
@@ -35,6 +35,9 @@
 	quest.102CBDC3FA5552DC.quest_desc: ["The &lIron Hammer&r is a direct upgrade from the Stone Hammer, allowing you to break tougher materials with ease. It is essential for processing Tuff into Tuff Gravel and is required to obtain Deepslate Gravel. With this tool in hand, you're ready to break through stronger stone and progress further!"]
 	quest.102CBDC3FA5552DC.quest_subtitle: "Upgrading to Iron"
 	quest.102CBDC3FA5552DC.title: "A Stronger Strike"
+	quest.11332A8490D1FD31.quest_desc: ["&lRedstone dust&r can be obtained by breaking deepslate gravel with an Iron Trowel or better. This essential material unlocks a world of possibilities, from circuits to automation. Start collecting redstone dust to enhance your creations and power your machines."]
+	quest.11332A8490D1FD31.quest_subtitle: "Harnessing the Power of Sparks"
+	quest.11332A8490D1FD31.title: "Essence of Redstone"
 	quest.114F6DD75C9B7D22.quest_desc: ["The &lMaster Infusion Crystal&r combines the power of every previous crystal, offering infinite uses and the ability to infuse any essence you need. By crafting this ultimate crystal, you gain the convenience of accessing Prudentium, Tertium, Imperium, Supremium, and Insanium essences all in one item. It's a powerful tool for simplifying your crafting process, saving time and resources as you advance to even greater heights. Unlock this versatile crystal and wield its boundless potential!"]
 	quest.114F6DD75C9B7D22.quest_subtitle: "Crafting the Master Infusion Crystal"
 	quest.114F6DD75C9B7D22.title: "The Ultimate Infusion"

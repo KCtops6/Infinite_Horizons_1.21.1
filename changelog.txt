@@ -60,6 +60,7 @@ Started Gamma Questline.
 
 1.21.1-1.1-Beta
 Added Applied Energistics 2.
+Added FTB Filter System.
 Added Generator Galore.
 Added GuideME.
 

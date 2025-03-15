@@ -302,5 +302,8 @@
 	quest.7F0AC6B1D0CCBDE4.quest_subtitle: "Stone of Strength"
 	quest.7F0AC6B1D0CCBDE4.title: "Essence of Limestone"
 	task.154ED8DD236C5EE5.title: "Reliable Power Source for Applied Energistics 2"
+	task.2EC0140CC254EA63.title: "Craft a fluid storage cell."
+	task.5A9ADEB7C349E1CA.title: "Craft an item storage cell."
 	task.6509A635775E13FF.title: "Rotational Energy Setup"
+	task.7DC414DB130CC223.title: "Craft a digital crafting storage block."
 }

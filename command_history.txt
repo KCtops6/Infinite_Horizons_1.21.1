@@ -9,3 +9,5 @@
 /fill 181 85 38 150 85 50 minecraft:grass_block
 /fill 181 85 38 150 85 75 minecraft:grass_block
 /clear
+/kubejs reload server-scripts
+/reload

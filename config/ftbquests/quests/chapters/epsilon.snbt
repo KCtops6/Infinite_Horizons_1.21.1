@@ -338,7 +338,7 @@
 				item: { count: 1, id: "ae2:fluix_covered_cable" }
 				type: "item"
 			}]
-			x: 8.0d
+			x: 6.0d
 			y: 1.0d
 		}
 		{
@@ -350,7 +350,7 @@
 				item: { count: 1, id: "ae2:fluix_covered_dense_cable" }
 				type: "item"
 			}]
-			x: 9.0d
+			x: 5.0d
 			y: 2.0d
 		}
 		{
@@ -364,8 +364,8 @@
 				item: { count: 1, id: "ae2:fluix_smart_dense_cable" }
 				type: "item"
 			}]
-			x: 10.0d
-			y: 1.0d
+			x: 6.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["6257C7D4102D7321"]
@@ -375,19 +375,29 @@
 				item: { count: 1, id: "ae2:fluix_smart_cable" }
 				type: "item"
 			}]
-			x: 9.0d
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["7ADBBD37DB050502"]
+			id: "3DC0E5725CA94F35"
+			tasks: [{
+				id: "2F458414BCE6EAA9"
+				item: { count: 1, id: "ae2:drive" }
+				type: "item"
+			}]
+			x: 7.0d
 			y: 1.0d
 		}
 		{
-			dependencies: ["22E95D4A61DE44E1"]
-			id: "6872BDBFC8CCE5D0"
+			id: "3D921ED7E39594E2"
 			tasks: [{
-				id: "5FF6B8A3FE9E0138"
-				item: { count: 1, id: "ae2:cell_component_1k" }
+				id: "5A9ADEB7C349E1CA"
+				item: { count: 1, id: "ae2:item_storage_cell_1k" }
 				type: "item"
 			}]
-			x: 2.0d
-			y: 3.0d
+			x: 7.0d
+			y: 2.0d
 		}
 	]
 }

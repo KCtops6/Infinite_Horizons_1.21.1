@@ -1,6 +1,8 @@
 {
 	chapter.17F179085511CF63.title: "Alpha"
 	chapter.247639ED7F0AF536.title: "Gamma"
+	chapter.2F34CC58AE75DDE7.chapter_subtitle: ["Power Generation"]
+	chapter.2F34CC58AE75DDE7.title: "Delta"
 	chapter.6B16A1E49845B379.title: "Beta"
 	quest.01AEEA186BB50BB0.quest_desc: ["The Nether Portal’s energy doesn’t just bring heat—it also alters stone into valuable resources. If you place Stone near an active portal, it will slowly transform into Nether Quartz Ore. Mine it to collect &lNether Quartz&r, an essential material for redstone components, decorative blocks, and more. Even without stepping into the Nether, you can still harness its unique resources!"]
 	quest.01AEEA186BB50BB0.quest_subtitle: "Harvesting Nether Quartz"
@@ -11,6 +13,12 @@
 	quest.03552227F62B6320.quest_desc: ["Breaking Cobbled Deepslate with an Iron Hammer or better produces &lDeepslate Gravel&r, a valuable material with the potential for rare finds. Sifting through it can yield rare items, making it an essential step for obtaining high-tier resources. The deeper you go, the greater the rewards!"]
 	quest.03552227F62B6320.quest_subtitle: "Deepslate Gravel Rewards"
 	quest.03552227F62B6320.title: "Sifting the Depths"
+	quest.0372C7453493CA18.quest_desc: ["The &lHoney Generator&r is a sweet upgrade, offering a more efficient power source that converts honey into energy. With a generation rate of 64 FE/t and a transfer rate of 512 FE/t, it consumes only 0.5 FE/t while drawing power from honey. This upgrade from the Culinary Generator provides a buffer capacity of 500,000 FE, ensuring that your energy needs are met with this naturally sweet solution!"]
+	quest.0372C7453493CA18.quest_subtitle: "Upgrade to the Honey Generator"
+	quest.0372C7453493CA18.title: "Sweet Power"
+	quest.040ABB916C18346A.quest_desc: ["The &lEmerald Generator&r takes power generation to the next level, offering an impressive 256 FE/t generation rate and 512 FE/t transfer rate. With a massive 500,000 FE buffer capacity and a low 0.4 consumption rate, this upgrade is incredibly efficient. Fueling on solid resources, it guarantees a long-lasting and reliable energy supply for your systems. Upgrade from a Diamond Generator or craft an Emerald Generator to supercharge your energy network."]
+	quest.040ABB916C18346A.quest_subtitle: "The ultimate upgrade for your energy needs"
+	quest.040ABB916C18346A.title: "Emerald Power Surge"
 	quest.04F3232804097839.quest_desc: ["The &lMillstone&r is the perfect tool to automate the grinding process. Use it to automatically turn &oCobblestone into Gravel&r and &oGravel into Sand&r—no more hammering by hand. Power it with rotational energy from a &lWater Wheel&r or &lWindmill&r, and let it run smoothly as it processes your materials for you. Set it up and watch the grinding never stop!"]
 	quest.04F3232804097839.quest_subtitle: "Automating the Hammer"
 	quest.04F3232804097839.title: "Grinding Efficiency"
@@ -23,6 +31,9 @@
 	quest.0886E9D3C195E26E.quest_desc: ["Lapis Lazuli is obtained by breaking deepslate gravel with an Iron Trowel or better. This valuable material is essential for enchanting and crafting magical items. Gather lapis to enhance your gear and unlock new crafting possibilities."]
 	quest.0886E9D3C195E26E.quest_subtitle: "A Shimmering Resource"
 	quest.0886E9D3C195E26E.title: "Shards of Blue"
+	quest.08AA4A1FF88BADA2.quest_desc: ["The &lPotion Generator&r taps into the power of potions to generate energy. With a generation rate of 8 FE/t and a transfer rate of 512 FE/t, it consumes 1 FE/t, drawing its fuel from potions. This upgrade from the Culinary Generator provides a buffer capacity of 250,000 FE, allowing you to harness the magical energy of potions for your power needs."]
+	quest.08AA4A1FF88BADA2.quest_subtitle: "Upgrade to the Potion Generator"
+	quest.08AA4A1FF88BADA2.title: "Brewing Power"
 	quest.0A4836489D04FF80.quest_desc: ["With &lHoney Seeds&r, you can produce &lHoney Essence&r, a renewable way to get honey without needing to rely on beehives. Perfect for those sticky situations where more honey is needed."]
 	quest.0A4836489D04FF80.quest_subtitle: "Grow Your Own Honey"
 	quest.0A4836489D04FF80.title: "Sweet Harvest"
@@ -56,12 +67,21 @@
 	quest.166EC60FFAC9B4BD.quest_desc: ["To craft &lPrudentium Essence&r, you’ll first need to create an &lInferium Infusion Crystal&r by combining Inferium, Prosperity Shards, and a Diamond. This crystal is key to unlocking the next tier of Mystical Agriculture crops and resources. Use it wisely, as Prudentium Essence will help you take your farming and crafting to new heights."]
 	quest.166EC60FFAC9B4BD.quest_subtitle: "Infusing for Advancement"
 	quest.166EC60FFAC9B4BD.title: "The Path to Prudentium"
+	quest.169040E33441DBE9.quest_desc: ["The &lEnchantment Generator&r is a powerful upgrade, taking your energy generation to the next level. With a generation rate of 40 FE/t and a transfer rate of 1,024 FE/t, this generator draws its power from the very essence of enchantments. It consumes energy at a rate of 1 FE/t and offers a buffer capacity of 1,000,000 FE, making it an excellent choice for systems that require both efficiency and substantial energy reserves. Upgrade from the Obsidian Generator to the Enchantment Generator and unlock the power of enchantments as a unique fuel source."]
+	quest.169040E33441DBE9.quest_subtitle: "Harness the energy of magical forces"
+	quest.169040E33441DBE9.title: "The Power of Enchantment"
 	quest.174AD92AAE3A1FAF.quest_desc: ["&lGlass&r is a vital material for many creations, from windows to containers. Craft Glass by smelting &lSand&r in a furnace. This simple yet essential block opens the door to new possibilities in building and crafting. Gather sand and let the furnace work its magic!"]
 	quest.174AD92AAE3A1FAF.quest_subtitle: "The Clear Path"
 	quest.174AD92AAE3A1FAF.title: "Transparent Progress"
 	quest.18691A60F7FBE38E.quest_desc: ["The &lSoul Extractor&r offers an easier alternative to the Soulium Dagger in certain situations. Rather than needing to kill mobs, it allows you to extract the essence of a mob by using items associated with that particular creature. This method provides a more efficient way to gather mob resources for Mystical Agriculture Mob Seeds, bypassing the need for combat and making the process more versatile. Use the Soul Extractor to enhance your mob farming setup with less effort."]
 	quest.18691A60F7FBE38E.quest_subtitle: "The Versatility of the Soul Extractor"
 	quest.18691A60F7FBE38E.title: "Efficient Soul Extraction"
+	quest.1883DFF81CD530A0.quest_desc: ["The &lGold Generator&r is a step up from the Iron Generator, doubling the generation rate to 32 FE/t while improving efficiency with a reduced fuel consumption rate of 0.8. It also features a larger 30,000 FE internal buffer and a higher transfer rate of 128 FE/t. Like its predecessors, it runs on solid fuel and does not support a charge slot or 64x upgrades. Upgrade from an Iron Generator or craft one from scratch to keep your machines running smoothly."]
+	quest.1883DFF81CD530A0.quest_subtitle: "More power, more efficiency"
+	quest.1883DFF81CD530A0.title: "Going for Gold"
+	quest.196A568A00583805.quest_desc: ["The &lCopper Generator&r is your first step toward automated power. It runs on solid fuel, generating 8 FE per tick while transferring up to 32 FE/t. With a 5000 FE internal buffer, it can keep basic machines running smoothly. However, it lacks a charge slot and doesn’t support a 64x upgrade, so you’ll need to plan ahead for future power needs."]
+	quest.196A568A00583805.quest_subtitle: "A simple generator to get things going"
+	quest.196A568A00583805.title: "A Copper Start"
 	quest.19CB8B99AFF3FA10.quest_desc: ["&lWood Seeds&r grow into &lWood Essence&r, providing the fastest way to obtain non-native wood types. This essence allows you to craft various wood-based materials, expanding your options for building and crafting. Plant these seeds to diversify your wood supply and explore new possibilities in your designs and creations."]
 	quest.19CB8B99AFF3FA10.quest_subtitle: "Growing New Timber"
 	quest.19CB8B99AFF3FA10.title: "The Essence of Wood"
@@ -130,6 +150,9 @@
 	quest.3276ACBC80D0AF10.quest_desc: ["&lSupremium&r is the pinnacle of progression, the next tier after Imperium. To obtain it, you'll need to craft the &lImperium Infusion Crystal&r by combining Imperium Essence, the Tertium Infusion Crystal, and additional Prosperity Shards. Once crafted, use it in the same manner as when you crafted earlier essences to infuse and obtain Supremium Essence, unlocking the ultimate resources and gear for your journey!"]
 	quest.3276ACBC80D0AF10.quest_subtitle: "Supreme Crafting Ablities"
 	quest.3276ACBC80D0AF10.title: "The Power of Supremium"
+	quest.346117052F12664B.quest_desc: ["The &lIron Generator&r is an upgrade from the Copper Generator, doubling the generation rate to 16 FE/t and increasing the transfer rate to 64 FE/t. With a 10,000 FE internal buffer, it provides more consistent energy for your machines. It still runs on solid fuel and lacks a charge slot or 64x upgrade support, but it’s a solid choice for scaling up your power network. Upgrade from a Copper Generator or craft one from scratch."]
+	quest.346117052F12664B.quest_subtitle: "A stronger, more efficient generator"
+	quest.346117052F12664B.title: " Ironing Out Your Power"
 	quest.34CAA2174F107E50.quest_desc: ["With &lSheep Seeds&r, you can grow &lSheep Essence&r, granting you easy access to wool and other sheep-related resources. No need to herd or shear—just plant these seeds for a constant supply of all things woolly."]
 	quest.34CAA2174F107E50.quest_subtitle: "Wool in Abundance"
 	quest.34CAA2174F107E50.title: "Essence of the Sheep"
@@ -158,6 +181,9 @@
 	quest.3EA384F839BB5D14.quest_desc: ["&lIce Seeds&r grow into &lIce Essence&r, a valuable resource for crafting ice-related items. While it may not be needed for every crafting recipe, it plays an important role in some unique and advanced items. Start planting Ice Seeds to prepare for the colder aspects of your progression and unlock more crafting opportunities."]
 	quest.3EA384F839BB5D14.quest_subtitle: "Harnessing Ice Essence"
 	quest.3EA384F839BB5D14.title: "Seeds of Winter"
+	quest.3ED909426B9083D9.quest_desc: ["The &lDiamond Generator&r outshines the Gold Generator with a 64 FE/t generation rate and a transfer rate of 256 FE/t. It also boasts a significantly larger 100,000 FE buffer while improving fuel efficiency with a consumption rate of just 0.6. Still running on solid fuel, this generator ensures a steady and powerful energy supply for your machines. Upgrade from a Gold Generator or craft one to take your power system to the next level."]
+	quest.3ED909426B9083D9.quest_subtitle: "Twice the power, even more efficient"
+	quest.3ED909426B9083D9.title: "Diamond Power"
 	quest.3EF6C5B6FCA2917F.quest_desc: ["With &lPig Seeds&r, you can grow &lPig Essence&r, a vital material for crafting all things related to pigs. No need to find or breed pigs—just let the seeds take care of it and enjoy the bounty that follows."]
 	quest.3EF6C5B6FCA2917F.quest_subtitle: "Raising Livestock in the Soil"
 	quest.3EF6C5B6FCA2917F.title: "Essence of the Pig"
@@ -182,6 +208,9 @@
 	quest.4ECFE2AB1E743F96.quest_desc: ["For even more power, upgrade your &lWater Wheel&r to the &lLarge Water Wheel&r. This improved version generates significantly more rotational energy, perfect for scaling up your mechanical systems. Craft it with additional materials, place it in flowing water, and watch your energy output soar, powering more advanced machines and automation."]
 	quest.4ECFE2AB1E743F96.quest_subtitle: "The Mighty Water Wheel"
 	quest.4ECFE2AB1E743F96.title: "Power Unleashed"
+	quest.4FC13F2C6001CFC4.quest_desc: ["The &lEnder Generator&r marks a significant leap forward in your energy production capabilities. With a generation rate of 96 FE/t and a transfer rate of 512 FE/t, it offers powerful and reliable energy for even the most demanding systems. Fueled by Ender Pearls and Ender Eyes, it consumes a bit more at 1 FE/t, but the results are worth it. With a buffer capacity of 500,000 FE, this generator offers the energy reserves necessary for long-term operations. Upgrade from Obsidian to Ender and bring your energy production into the next dimension."]
+	quest.4FC13F2C6001CFC4.quest_subtitle: "Harness the power of the End for unstoppable energy"
+	quest.4FC13F2C6001CFC4.title: "The Ender Power Shift"
 	quest.4FCED4F5C0320523.quest_desc: ["In the world of automation, &lAndesite&r is a crucial resource. Use a &lStone Trowel&r or better to break dirt or grass blocks and gather &lAndesite Pebbles&r. Combine four pebbles to craft Andesite, an essential material for Create’s &lAndesite Alloy&r. Gather wisely—this will be key to your mechanical creations!"]
 	quest.4FCED4F5C0320523.quest_subtitle: "Crafting the Building Blocks"
 	quest.4FCED4F5C0320523.title: "Andesite Essentials"
@@ -212,24 +241,38 @@
 	quest.5D00196D169F65C2.quest_desc: ["Even though you can’t enter the Nether just yet, activating a &lNether Portal&r still has its uses. Craft a &lFlint and Steel&r and light the portal to begin its transformation effect. Nearby blocks will slowly turn into their Nether equivalents, giving you access to some Nether-exclusive materials without ever stepping through. Keep this in mind as you plan for the late game when you’ll eventually unlock the &lNether Key&r and explore what lies beyond!"]
 	quest.5D00196D169F65C2.quest_subtitle: "Lighting the Nether Portal"
 	quest.5D00196D169F65C2.title: "A Gateway’s Influence"
+	quest.5D769F0200A177C1.quest_desc: ["The &lMagmatic Generator&r is a significant upgrade, providing efficient power from the ever-flowing force of lava. With a generation rate of 40 FE/t and a transfer rate of 512 FE/t, it allows you to convert lava into Forge Energy (FE) efficiently. It consumes lava at a rate of 0.4 FE/t and has a substantial buffer capacity of 500,000 FE. Upgrade your Obsidian Generator to the Magmatic Generator and unlock the power of lava as a fuel source, enabling a steady stream of energy for your expanding needs."]
+	quest.5D769F0200A177C1.quest_subtitle: "Harnessing the Magma"
 	quest.617A387AA59B3D89.quest_desc: ["The &lCrafter&r is a low-capacity storage block designed for automated crafting. It functions as a crafting table that crafts items when powered, ejecting them into the world or into a container it faces. Its inventory can be locked to prevent unwanted items from being inserted, allowing you to control the crafting process. Utilize this tool to streamline your automated crafting setups and enhance your efficiency."]
 	quest.617A387AA59B3D89.quest_subtitle: "Harness the Power of the Crafter"
 	quest.617A387AA59B3D89.title: "Crafting with Automation"
 	quest.62DBB6855DF2639C.quest_desc: ["With wood in hand, it's time to craft one of the most important blocks in your journey—the Crafting Table. This essential workstation unlocks countless recipes, allowing you to turn raw materials into tools, building blocks, and more. Simply arrange four wooden planks in your inventory crafting grid to get started!"]
 	quest.62DBB6855DF2639C.quest_subtitle: "Crafting the Basics"
 	quest.62DBB6855DF2639C.title: "Workbench Wonders"
+	quest.64A01D798C19E655.quest_desc: ["The &lHalitosis Generator&r is the pinnacle of your energy-generating journey. With an impressive generation rate of 128 FE/t and an incredible transfer rate of 16,384 FE/t, this generator can handle massive energy demands. Fueled by Dragon's Breath, it provides a robust and efficient energy source, consuming at a rate of 1 FE/t. The Halitosis Generator offers a substantial buffer capacity of 9,800,000 FE, ensuring that your systems stay powered even during prolonged periods of high demand. Upgrade from Ender to Halitosis and tap into the awe-inspiring power of the Dragon's Breath."]
+	quest.64A01D798C19E655.quest_subtitle: "Channel the mighty force of the Dragon"
+	quest.64A01D798C19E655.title: "The Breath of Power"
+	quest.662C6D7106C0C6D2.quest_desc: ["The &lCulinary Generator&r is a unique power source that transforms food into energy. With a generation rate of 8 FE/t and a transfer rate of 256 FE/t, it offers a steady 1 FE/t consumption rate, all while using food as fuel. This upgrade from the Gold Generator provides a buffer capacity of 100,000 FE, giving you a more sustainable and flavorful energy solution. Use your harvested food to power your machines with this food-based generator upgrade!"]
+	quest.662C6D7106C0C6D2.quest_subtitle: "Upgrade to the Culinary Generator"
+	quest.662C6D7106C0C6D2.title: "A Taste of Power"
 	quest.66CC1872F77E4EE6.quest_desc: ["&lAir Seeds&r grow into &lAir Essence&r, which may not be immediately useful for early-game crafting, but it becomes crucial for high-level gear in the end game. It’s best to start growing some now, as you’ll need it later for advanced recipes and powerful equipment. Planting these seeds early will save you time when you’re ready to push toward endgame progression."]
 	quest.66CC1872F77E4EE6.quest_subtitle: "Preparing for the Future"
 	quest.66CC1872F77E4EE6.title: "Winds of Change"
 	quest.6F234337CE289CD4.quest_desc: ["With &lAndesite&r and &lIron&r in hand, it’s time to craft the cornerstone of Create’s mechanical systems—&lAndesite Alloy&r. Combine Andesite with Iron to forge this versatile material. Andesite Alloy will be used in various Create machines, unlocking your potential for automation and advancement."]
 	quest.6F234337CE289CD4.quest_subtitle: "Forging the Andesite Alloy"
 	quest.6F234337CE289CD4.title: "The Heart of Creation"
+	quest.720A2F80D5E73A17.quest_desc: ["The &lNetherite Generator&r is the ultimate power source, capable of generating 256 FE/t with a transfer rate of 1024 FE/t. This upgrade from the Diamond Generator provides an efficient 0.4 FE/t consumption rate and boasts a buffer capacity of 1,000,000 FE. By using solid fuels, the Netherite Generator brings a reliable, high-output energy source to your setup. Upgrade now to harness the power of Netherite and fuel your machines with the most advanced energy production available."]
+	quest.720A2F80D5E73A17.quest_subtitle: "Upgrade to the pinnacle of energy generation"
+	quest.720A2F80D5E73A17.title: "Harnessing the Power of Netherite"
 	quest.726CEB2724A750D7.quest_desc: ["Using an Iron Trowel or better on Gravel gives you a chance to obtain &lProsperity Shards&r, a key component in Mystical Agriculture. These shards are essential for crafting higher-tier resource crops. Keep sifting through gravel to gather what you need for future advancements!"]
 	quest.726CEB2724A750D7.quest_subtitle: "Finding Prosperity"
 	quest.726CEB2724A750D7.title: "Shards of Potential"
 	quest.74AED40DCEDCCA58.quest_desc: ["With the Nether Portal active, its influence begins to spread. Any Stone placed near the portal will slowly transform into &lMagma Blocks&r, a useful material for various contraptions, traps, and even lava generation. Take advantage of this passive conversion to gather magma without ever stepping foot in the Nether!"]
 	quest.74AED40DCEDCCA58.quest_subtitle: "Magma from the Nether’s Influence"
 	quest.74AED40DCEDCCA58.title: "The Heat Spreads"
+	quest.76B1BFA765F786BE.quest_desc: ["The &lObsidian Generator&r is a powerful upgrade that brings your energy generation to a new level. With a generation rate of 128 FE/t and a transfer rate of 512 FE/t, this generator ensures a stable and efficient energy flow. With a substantial buffer capacity of 500,000 FE and a consumption rate of just 0.6, it is an excellent choice for long-term power needs. Fueling on solid resources, it offers a seamless upgrade from the Diamond Generator, providing the energy boost your systems demand."]
+	quest.76B1BFA765F786BE.quest_subtitle: "A new tier of efficiency for energy generation"
+	quest.76B1BFA765F786BE.title: "Obsidian Power Surge"
 	quest.77698223E71E6E8E.quest_desc: ["With &lSulfur Seeds&r, you can grow &lSulfur Essence&r, a key ingredient for crafting explosives and other sulfur-based items. Plant these seeds to easily obtain sulfur without the need for dangerous mining or hunting."]
 	quest.77698223E71E6E8E.quest_subtitle: "The Spark of Industry"
 	quest.77698223E71E6E8E.title: "Essence of Sulfur"

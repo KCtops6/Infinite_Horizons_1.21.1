@@ -1,6 +1,8 @@
 {
 	chapter.17F179085511CF63.title: "Alpha"
 	chapter.247639ED7F0AF536.title: "Gamma"
+	chapter.2D39554C6E6B5360.chapter_subtitle: ["Digital Storage"]
+	chapter.2D39554C6E6B5360.title: "Epsilon"
 	chapter.2F34CC58AE75DDE7.chapter_subtitle: ["Power Generation"]
 	chapter.2F34CC58AE75DDE7.title: "Delta"
 	chapter.6B16A1E49845B379.title: "Beta"
@@ -46,6 +48,8 @@
 	quest.0EF473D1AB25C4C5.quest_desc: ["With &lCoal Seeds&r, you can grow &lCoal Essence&r, allowing you to craft coal without ever touching a pickaxe. A renewable fuel source is always a good investment!"]
 	quest.0EF473D1AB25C4C5.quest_subtitle: "Coal Without Mining"
 	quest.0EF473D1AB25C4C5.title: "Growing Fuel"
+	quest.0F4C5B2728A47022.quest_desc: ["You've successfully set up a solid foundation for power generation, providing a reliable energy source for your Applied Energistics 2 network. With this setup, you’ll be able to support your AE2 systems, ensuring a smooth and efficient operation. Check this quest to acknowledge that you're ready to power your devices!"]
+	quest.0F4C5B2728A47022.quest_subtitle: "Ensure a Steady Energy Flow"
 	quest.102CBDC3FA5552DC.quest_desc: ["The &lIron Hammer&r is a direct upgrade from the Stone Hammer, allowing you to break tougher materials with ease. It is essential for processing Tuff into Tuff Gravel and is required to obtain Deepslate Gravel. With this tool in hand, you're ready to break through stronger stone and progress further!"]
 	quest.102CBDC3FA5552DC.quest_subtitle: "Upgrading to Iron"
 	quest.102CBDC3FA5552DC.title: "A Stronger Strike"
@@ -297,5 +301,6 @@
 	quest.7F0AC6B1D0CCBDE4.quest_desc: ["With &lLimestone Seeds&r, you can grow &lLimestone Essence&r, providing you with a steady supply of limestone for construction and crafting. Plant these seeds and harness the power of this durable stone without the need to mine for it."]
 	quest.7F0AC6B1D0CCBDE4.quest_subtitle: "Stone of Strength"
 	quest.7F0AC6B1D0CCBDE4.title: "Essence of Limestone"
+	task.154ED8DD236C5EE5.title: "Reliable Power Source for Applied Energistics 2"
 	task.6509A635775E13FF.title: "Rotational Energy Setup"
 }

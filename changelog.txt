@@ -64,5 +64,7 @@ Added FTB Filter System.
 Added Generator Galore.
 Added GuideME.
 
+Updated FTB Library (Forge).
+
 Started Delta Questline (for power generation).
 Started Epsilon Questline (for digital storage).

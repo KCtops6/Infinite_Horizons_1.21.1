@@ -4,13 +4,17 @@
 	filename: "delta"
 	group: ""
 	icon: {
-		id: "minecraft:redstone"
+		id: "generatorgalore:iron_generator"
 	}
 	id: "2F34CC58AE75DDE7"
 	order_index: 3
 	quest_links: [ ]
 	quests: [
 		{
+			dependencies: [
+				"11332A8490D1FD31"
+				"5A382D145AA88DD9"
+			]
 			id: "196A568A00583805"
 			tasks: [{
 				id: "1083FDFDB1E22EEF"
@@ -42,7 +46,10 @@
 			y: 0.0d
 		}
 		{
-			dependencies: ["346117052F12664B"]
+			dependencies: [
+				"346117052F12664B"
+				"28018BE994F02339"
+			]
 			icon: {
 				id: "generatorgalore:gold_generator"
 			}
@@ -85,7 +92,10 @@
 			y: -1.0d
 		}
 		{
-			dependencies: ["1883DFF81CD530A0"]
+			dependencies: [
+				"1883DFF81CD530A0"
+				"20CEFFF2715407F7"
+			]
 			icon: {
 				id: "generatorgalore:diamond_generator"
 			}
@@ -171,7 +181,10 @@
 			y: -1.0d
 		}
 		{
-			dependencies: ["3ED909426B9083D9"]
+			dependencies: [
+				"3ED909426B9083D9"
+				"07B1B6C8502FD122"
+			]
 			icon: {
 				id: "generatorgalore:obsidian_generator"
 			}
@@ -299,6 +312,27 @@
 			]
 			x: 3.0d
 			y: -2.0d
+		}
+		{
+			dependencies: ["720A2F80D5E73A17"]
+			icon: {
+				id: "generatorgalore:netherstar_generator"
+			}
+			id: "74596AC8CCF849C2"
+			tasks: [
+				{
+					id: "5B203968EE9BC570"
+					item: { count: 1, id: "generatorgalore:netherstar_generator" }
+					type: "item"
+				}
+				{
+					id: "38FB22FEDAEF2365"
+					item: { count: 1, id: "generatorgalore:netherite_to_netherstar_upgrade" }
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 1.0d
 		}
 	]
 }

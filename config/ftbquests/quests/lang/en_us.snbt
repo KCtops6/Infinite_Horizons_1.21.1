@@ -267,6 +267,9 @@
 	quest.726CEB2724A750D7.quest_desc: ["Using an Iron Trowel or better on Gravel gives you a chance to obtain &lProsperity Shards&r, a key component in Mystical Agriculture. These shards are essential for crafting higher-tier resource crops. Keep sifting through gravel to gather what you need for future advancements!"]
 	quest.726CEB2724A750D7.quest_subtitle: "Finding Prosperity"
 	quest.726CEB2724A750D7.title: "Shards of Potential"
+	quest.74596AC8CCF849C2.quest_desc: ["The &lNetherstar Generator&r represents the pinnacle of energy production, harnessing the immense power of Nether Stars. This generator boasts a massive generation rate of 4092 FE/t and a transfer rate of 16384 FE/t. It consumes 2400 FE/t and has a buffer capacity of 9,800,000 FE. To fuel this powerhouse, you'll need to use Nether Stars, making this upgrade a crucial step in powering your advanced systems."]
+	quest.74596AC8CCF849C2.quest_subtitle: "Upgrade to the Netherstar Generator"
+	quest.74596AC8CCF849C2.title: "Harnessing the Power of the Netherstar"
 	quest.74AED40DCEDCCA58.quest_desc: ["With the Nether Portal active, its influence begins to spread. Any Stone placed near the portal will slowly transform into &lMagma Blocks&r, a useful material for various contraptions, traps, and even lava generation. Take advantage of this passive conversion to gather magma without ever stepping foot in the Nether!"]
 	quest.74AED40DCEDCCA58.quest_subtitle: "Magma from the Nether’s Influence"
 	quest.74AED40DCEDCCA58.title: "The Heat Spreads"

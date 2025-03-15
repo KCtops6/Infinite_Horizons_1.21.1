@@ -61,3 +61,4 @@ Started Gamma Questline.
 1.21.1-1.1-Beta
 Added Generator Galore.
 
+Started Delta Questline (for power generation).

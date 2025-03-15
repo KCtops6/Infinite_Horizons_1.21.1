@@ -57,3 +57,7 @@ Added Infinite Horizons Stone and Iron Hammer (for early cobbleworks).
 Started Alpha Questline.
 Started Beta Questline.
 Started Gamma Questline.
+
+1.21.1-1.1-Beta
+Added Generator Galore.
+

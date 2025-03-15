@@ -1,0 +1,6338 @@
+{
+  "export": {
+    "filesSelection": [
+      {
+        "path": "config",
+        "isSelected": true
+      },
+      {
+        "path": "config\\almostunified",
+        "isSelected": true
+      },
+      {
+        "path": "config\\almostunified\\unification",
+        "isSelected": true
+      },
+      {
+        "path": "config\\almostunified\\unification\\materials.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\almostunified\\.gitignore",
+        "isSelected": true
+      },
+      {
+        "path": "config\\almostunified\\debug.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\almostunified\\debug.json.bak",
+        "isSelected": true
+      },
+      {
+        "path": "config\\almostunified\\duplicates.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\almostunified\\duplicates.json.bak",
+        "isSelected": true
+      },
+      {
+        "path": "config\\almostunified\\placeholders.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\almostunified\\startup.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\almostunified\\startup.json.bak",
+        "isSelected": true
+      },
+      {
+        "path": "config\\almostunified\\tags.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\almostunified\\unify.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\collective",
+        "isSelected": true
+      },
+      {
+        "path": "config\\collective\\entity_names.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ftbquests",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ftbquests\\quests",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ftbquests\\quests\\chapters",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ftbquests\\quests\\chapters\\alpha.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ftbquests\\quests\\chapters\\beta.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ftbquests\\quests\\chapters\\gamma.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ftbquests\\quests\\lang",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ftbquests\\quests\\lang\\en_us.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ftbquests\\quests\\chapter_groups.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ftbquests\\quests\\data.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jade",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jade\\hide-blocks.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jade\\hide-entities.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jade\\jade.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jade\\plugins.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jade\\sort-order.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jei",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jei\\world",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jei\\world\\local",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jei\\world\\local\\New_World",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jei\\world\\local\\New_World\\bookmarks.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jei\\blacklist.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jei\\ingredient-list-mod-sort-order.ini",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jei\\ingredient-list-type-sort-order.ini",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jei\\jei-client.ini",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jei\\jei-colors.ini",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jei\\jei-debug.ini",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jei\\jei-mod-id-format.ini",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jei\\recipe-category-sort-order.ini",
+        "isSelected": true
+      },
+      {
+        "path": "config\\netherportalspread",
+        "isSelected": true
+      },
+      {
+        "path": "config\\netherportalspread\\spreadsettings.txt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\pickupnotifier",
+        "isSelected": true
+      },
+      {
+        "path": "config\\pickupnotifier\\pickupnotifier-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\pickupnotifier\\pickupnotifier-server.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\villagernames",
+        "isSelected": true
+      },
+      {
+        "path": "config\\villagernames\\customnames.txt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\appleskin-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\balm-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\cobblegengalore-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\collective.json5",
+        "isSelected": true
+      },
+      {
+        "path": "config\\comforts-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\comforts-server.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\create-client-1.toml.bak",
+        "isSelected": true
+      },
+      {
+        "path": "config\\create-client-2.toml.bak",
+        "isSelected": true
+      },
+      {
+        "path": "config\\create-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\create-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\create-server.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\cucumber-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\cucumber-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\cucumber-tags.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\easyanvils-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\easyanvils-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\easyanvils-server.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\easymagic-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\easymagic-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\easymagic-server.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\easy_villagers-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\easy_villagers-server.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\endportalrecipe.json5",
+        "isSelected": true
+      },
+      {
+        "path": "config\\entityculling.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\farmersdelight-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\farmersdelight-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ferritecore-mixin.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\flywheel-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fml.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ftblibrary-client.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ftbquests-client.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ftbxmodcompat.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\guardvillagers-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\guardvillagers-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\guardvillagers-startup.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jei-server.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jeresources-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\journeymap-server.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\leavesbegone-server.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\matc-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\matc-server.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\moonlight-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\moonlight-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\MouseTweaks.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\mysticalagradditions-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\mysticalagriculture-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\neoforge-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\neoforge-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\neoforge-server.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\netherportalspread.json5",
+        "isSelected": true
+      },
+      {
+        "path": "config\\overflowingbars-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ponder-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\resourcepackoverrides.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\restrictedportals-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\smarterfarmers-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\sophisticatedbackpacks-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\sophisticatedbackpacks-server.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\sophisticatedcore-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\sophisticatedcore-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\sophisticatedstorage-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\sophisticatedstorage-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\sophisticatedstorage-server.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\tradingpost-server.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\villagernames.json5",
+        "isSelected": true
+      },
+      {
+        "path": "config\\visualworkbench-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\visualworkbench-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\waystones-common-1.toml.bak",
+        "isSelected": true
+      },
+      {
+        "path": "config\\waystones-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "debug",
+        "isSelected": false
+      },
+      {
+        "path": "debug\\disconnect-2025-03-08_16.14.00-client.txt",
+        "isSelected": false
+      },
+      {
+        "path": "debug\\disconnect-2025-03-08_16.17.32-client.txt",
+        "isSelected": false
+      },
+      {
+        "path": "debug\\disconnect-2025-03-08_16.20.24-client.txt",
+        "isSelected": false
+      },
+      {
+        "path": "defaultconfigs",
+        "isSelected": false
+      },
+      {
+        "path": "defaultconfigs\\ftbultimine",
+        "isSelected": false
+      },
+      {
+        "path": "defaultconfigs\\ftbultimine\\ftbultimine-client.snbt",
+        "isSelected": false
+      },
+      {
+        "path": "defaultconfigs\\ftbultimine\\ftbultimine-server.snbt",
+        "isSelected": false
+      },
+      {
+        "path": "defaultconfigs\\ftbxmodcompat",
+        "isSelected": false
+      },
+      {
+        "path": "defaultconfigs\\ftbxmodcompat\\ftbxmodcompat.snbt",
+        "isSelected": false
+      },
+      {
+        "path": "downloads",
+        "isSelected": false
+      },
+      {
+        "path": "downloads\\log.json",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\config",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\config\\6.0",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\config\\6.0\\journeymap.core.config",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\config\\6.0\\journeymap.fullmap.config",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\config\\6.0\\journeymap.minimap.config",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\config\\6.0\\journeymap.minimap2.config",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\config\\6.0\\journeymap.rendering.config",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\config\\6.0\\journeymap.topo.config",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\config\\6.0\\journeymap.waypoint.config",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\config\\6.0\\journeymap.webmap.config",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\mp",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\mp\\offline",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\4",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\biome",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\biome\\-1,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\biome\\-1,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\biome\\0,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\biome\\0,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\cache",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\cache\\r.-1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\cache\\r.-1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\cache\\r.0.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\cache\\r.0.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\day",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\day\\-1,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\day\\-1,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\day\\0,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\day\\0,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\night",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\night\\-1,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\night\\-1,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\night\\0,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\night\\0,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\topo",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\topo\\cache",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\topo\\cache\\r.-1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\topo\\cache\\r.-1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\topo\\cache\\r.0.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\topo\\cache\\r.0.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\topo\\-1,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\topo\\-1,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\topo\\0,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\topo\\0,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\the_nether",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\the_nether\\4",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\the_nether\\4\\cache",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\the_nether\\4\\cache\\r.-1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\the_nether\\4\\cache\\r.-1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\the_nether\\4\\cache\\r.0.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\the_nether\\4\\cache\\r.0.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\the_nether\\4\\-1,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\the_nether\\4\\-1,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\the_nether\\4\\0,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\the_nether\\4\\0,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\the_nether\\biome",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\the_nether\\biome\\-1,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\the_nether\\biome\\-1,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\the_nether\\biome\\0,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\the_nether\\biome\\0,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\the_nether\\cache",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\the_nether\\cache\\r.-1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\the_nether\\cache\\r.-1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\the_nether\\cache\\r.0.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\the_nether\\cache\\r.0.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\the_nether\\day",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\the_nether\\topo",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\the_nether\\topo\\cache",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\the_nether\\topo\\cache\\r.-1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\the_nether\\topo\\cache\\r.-1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\the_nether\\topo\\cache\\r.0.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\the_nether\\topo\\cache\\r.0.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\the_nether\\topo\\-1,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\the_nether\\topo\\-1,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\the_nether\\topo\\0,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\the_nether\\topo\\0,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\waypoints",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\waypoints\\WaypointData.dat",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\guardvillagers",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\guardvillagers\\guard.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\guardvillagers\\guard_outlined.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\cat_all_black.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\cat_all_black_outlined.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\cat_black.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\cat_black_outlined.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\cat_british_shorthair.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\cat_british_shorthair_outlined.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\cat_calico.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\cat_calico_outlined.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\cat_jellie.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\cat_jellie_outlined.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\cat_persian.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\cat_persian_outlined.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\cat_ragdoll.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\cat_ragdoll_outlined.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\cat_red.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\cat_red_outlined.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\cat_siamese.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\cat_siamese_outlined.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\cat_tabby.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\cat_tabby_outlined.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\cat_white.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\cat_white_outlined.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\chicken.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\chicken_outlined.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\cow.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\cow_outlined.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\creeper.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\creeper_outlined.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\enderman.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\enderman_outlined.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\hoglin.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\hoglin_outlined.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\horse_black.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\horse_black_outlined.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\horse_brown.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\horse_brown_outlined.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\horse_white.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\horse_white_outlined.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\iron_golem.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\iron_golem_outlined.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\llama_brown.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\llama_brown_outlined.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\llama_creamy.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\llama_creamy_outlined.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\pig.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\piglin.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\piglin_outlined.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\piglin_zombified_piglin.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\piglin_zombified_piglin_outlined.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\pig_outlined.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\sheep.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\sheep_outlined.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\skeleton.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\skeleton_outlined.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\skeleton_wither_skeleton.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\skeleton_wither_skeleton_outlined.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\slime_magmacube.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\slime_magmacube_outlined.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\spider.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\spider_outlined.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\villager.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\villager_armorer.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\villager_armorer_outlined.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\villager_farmer.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\villager_farmer_outlined.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\villager_nitwit.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\villager_nitwit_outlined.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\villager_outlined.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\wandering_trader.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\wandering_trader_outlined.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\zombie.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\zombie_outlined.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\container",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\container\\htoolbar_begin.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\container\\htoolbar_end.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\container\\htoolbar_inner.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\container\\vtoolbar_begin.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\container\\vtoolbar_end.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\container\\vtoolbar_inner.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\control",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\control\\flat_button_disabled.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\control\\flat_button_hover.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\control\\flat_button_off.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\control\\flat_button_on.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\control\\flat_toggle_disabled.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\control\\flat_toggle_hover.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\control\\flat_toggle_off.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\control\\flat_toggle_on.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\about.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\actions.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\alert.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\animals.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\automap.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\biome.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\browser.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\caves.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\close.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\colorpalette.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\day.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\delete.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\disable.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\follow.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\grid.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\keys.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\layers.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\monsters.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\night.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\options.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\pets.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\players.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\reset.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\savemap.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\search.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\server.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\topo.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\villagers.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\waypoints.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\zoomin.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\zoomout.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap\\circle",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap\\circle\\flat_compass_point.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap\\circle\\flat_mask_256.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap\\circle\\flat_mask_512.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap\\circle\\flat_rim_256.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap\\circle\\flat_rim_512.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap\\circle\\pur_compass_point.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap\\circle\\pur_mask_256.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap\\circle\\pur_mask_512.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap\\circle\\pur_rim_256.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap\\circle\\pur_rim_512.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap\\square",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap\\square\\flat_bottom.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap\\square\\flat_bottomleft.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap\\square\\flat_bottomright.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap\\square\\flat_compass_point.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap\\square\\flat_left.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap\\square\\flat_right.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap\\square\\flat_top.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap\\square\\flat_topleft.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap\\square\\flat_topright.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap\\square\\pur_bottom.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap\\square\\pur_bottomleft.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap\\square\\pur_bottomright.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap\\square\\pur_compass_point.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap\\square\\pur_left.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap\\square\\pur_right.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap\\square\\pur_top.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap\\square\\pur_topleft.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap\\square\\pur_topright.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\DesertTemple.theme2.json",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\EndCity.theme2.json",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\ForestMansion.theme2.json",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\NetherFortress.theme2.json",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\OceanMonument.theme2.json",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\Purist.theme2.json",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\Stronghold.theme2.json",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\container",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\container\\htoolbar_begin.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\container\\htoolbar_end.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\container\\htoolbar_inner.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\container\\vtoolbar_begin.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\container\\vtoolbar_end.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\container\\vtoolbar_inner.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\control",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\control\\flat_button_disabled.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\control\\flat_button_hover.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\control\\flat_button_off.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\control\\flat_button_on.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\control\\flat_toggle_disabled.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\control\\flat_toggle_hover.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\control\\flat_toggle_off.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\control\\flat_toggle_on.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\icon",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\icon\\about.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\icon\\actions.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\icon\\alert.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\icon\\animals.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\icon\\automap.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\icon\\biome.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\icon\\browser.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\icon\\caves.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\icon\\close.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\icon\\colorpalette.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\icon\\day.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\icon\\delete.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\icon\\disable.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\icon\\follow.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\icon\\grid.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\icon\\keys.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\icon\\layers.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\icon\\monsters.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\icon\\night.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\icon\\options.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\icon\\pets.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\icon\\players.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\icon\\reset.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\icon\\savemap.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\icon\\search.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\icon\\server.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\icon\\topo.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\icon\\villagers.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\icon\\waypoints.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\icon\\zoomin.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\icon\\zoomout.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\minimap",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\minimap\\square",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\minimap\\square\\flat_bottom.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\minimap\\square\\flat_bottomleft.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\minimap\\square\\flat_bottomright.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\minimap\\square\\flat_compass_point.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\minimap\\square\\flat_left.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\minimap\\square\\flat_right.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\minimap\\square\\flat_top.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\minimap\\square\\flat_topleft.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\minimap\\square\\flat_topright.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\minimap\\square\\pur_bottom.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\container",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\container\\htoolbar_begin.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\container\\htoolbar_end.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\container\\htoolbar_inner.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\container\\unkown.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\container\\vtoolbar_begin.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\container\\vtoolbar_end.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\container\\vtoolbar_inner.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\control",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\control\\flat_button_disabled.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\control\\flat_button_hover.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\control\\flat_button_off.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\control\\flat_button_on.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\control\\flat_toggle_disabled.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\control\\flat_toggle_hover.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\control\\flat_toggle_off.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\control\\flat_toggle_on.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\icon",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\icon\\about.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\icon\\actions.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\icon\\alert.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\icon\\animals.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\icon\\automap.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\icon\\biome.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\icon\\browser.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\icon\\caves.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\icon\\close.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\icon\\colorpalette.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\icon\\day.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\icon\\delete.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\icon\\disable.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\icon\\follow.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\icon\\grid.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\icon\\keys.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\icon\\layers.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\icon\\monsters.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\icon\\night.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\icon\\options.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\icon\\pets.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\icon\\players.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\icon\\reset.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\icon\\savemap.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\icon\\search.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\icon\\server.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\icon\\topo.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\icon\\villagers.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\icon\\waypoints.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\icon\\zoomin.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\icon\\zoomout.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\minimap",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\minimap\\square",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\minimap\\square\\flat_bottom.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\minimap\\square\\flat_bottomleft.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\minimap\\square\\flat_bottomright.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\minimap\\square\\flat_compass_point.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\minimap\\square\\flat_left.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\minimap\\square\\flat_right.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\minimap\\square\\flat_top.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\minimap\\square\\flat_topleft.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\minimap\\square\\flat_topright.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\minimap\\square\\pur_bottom.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\_flat\\vault.theme2.json",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault\\vault.theme2.json",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\container",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\container\\htoolbar_begin.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\container\\htoolbar_end.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\container\\htoolbar_inner.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\container\\unkown.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\container\\vtoolbar_begin.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\container\\vtoolbar_end.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\container\\vtoolbar_inner.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\control",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\control\\flat_button_disabled.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\control\\flat_button_hover.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\control\\flat_button_off.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\control\\flat_button_on.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\control\\flat_toggle_disabled.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\control\\flat_toggle_hover.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\control\\flat_toggle_off.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\control\\flat_toggle_on.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\icon",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\icon\\about.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\icon\\actions.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\icon\\alert.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\icon\\animals.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\icon\\automap.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\icon\\biome.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\icon\\browser.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\icon\\caves.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\icon\\close.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\icon\\colorpalette.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\icon\\day.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\icon\\delete.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\icon\\disable.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\icon\\follow.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\icon\\grid.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\icon\\keys.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\icon\\layers.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\icon\\monsters.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\icon\\night.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\icon\\options.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\icon\\pets.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\icon\\players.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\icon\\reset.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\icon\\savemap.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\icon\\search.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\icon\\server.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\icon\\topo.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\icon\\villagers.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\icon\\waypoints.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\icon\\zoomin.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\icon\\zoomout.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\minimap",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\minimap\\square",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\minimap\\square\\flat_bottom.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\minimap\\square\\flat_bottomleft.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\minimap\\square\\flat_bottomright.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\minimap\\square\\flat_compass_point.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\minimap\\square\\flat_left.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\minimap\\square\\flat_right.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\minimap\\square\\flat_top.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\minimap\\square\\flat_topleft.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\minimap\\square\\flat_topright.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\minimap\\square\\pur_bottom.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\vault_flat\\vault.theme2.json",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\container",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\container\\htoolbar_begin.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\container\\htoolbar_end.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\container\\htoolbar_inner.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\container\\vtoolbar_begin.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\container\\vtoolbar_end.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\container\\vtoolbar_inner.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\control",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\control\\button_disabled.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\control\\button_hover.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\control\\button_off.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\control\\button_on.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\control\\toggle_disabled.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\control\\toggle_hover.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\control\\toggle_off.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\control\\toggle_on.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\icon",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\icon\\about.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\icon\\actions.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\icon\\alert.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\icon\\animals.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\icon\\automap.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\icon\\biome.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\icon\\browser.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\icon\\caves.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\icon\\close.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\icon\\colorpalette.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\icon\\day.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\icon\\delete.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\icon\\disable.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\icon\\follow.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\icon\\grid.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\icon\\keys.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\icon\\layers.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\icon\\monsters.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\icon\\night.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\icon\\options.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\icon\\pets.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\icon\\players.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\icon\\reset.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\icon\\savemap.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\icon\\search.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\icon\\topo.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\icon\\villagers.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\icon\\waypoints.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\icon\\zoomin.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\icon\\zoomout.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\minimap",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\minimap\\circle",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\minimap\\circle\\compass_point.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\minimap\\circle\\mask_256.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\minimap\\circle\\mask_512.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\minimap\\circle\\rim_256.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\minimap\\circle\\rim_512.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\minimap\\square",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\minimap\\square\\pur_bottom.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\minimap\\square\\pur_bottomleft.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\minimap\\square\\pur_bottomright.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\minimap\\square\\pur_left.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\minimap\\square\\pur_right.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\minimap\\square\\pur_top.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\minimap\\square\\pur_topleft.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\minimap\\square\\pur_topright.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\minimap\\square\\vic_bottom.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\minimap\\square\\vic_bottomleft.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\minimap\\square\\vic_bottomright.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\minimap\\square\\vic_compass_point.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\minimap\\square\\vic_left.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\minimap\\square\\vic_right.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\minimap\\square\\vic_top.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\minimap\\square\\vic_topleft.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\minimap\\square\\vic_topright.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\victorian_\\victorian_.theme2.json",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\default.theme.config",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\server",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\server\\6.0",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\server\\6.0\\journeymap.server.default.config",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\server\\6.0\\journeymap.server.global.config",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\server\\6.0\\journeymap.server.minecraft~overworld.config",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\server\\6.0\\journeymap.server.minecraft~the_end.config",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\server\\6.0\\journeymap.server.minecraft~the_nether.config",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\journeymap.log",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\models",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\models\\block",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\models\\block\\agronomancers_workbench.json",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\models\\item",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\models\\item\\iron_hammer.json",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\models\\item\\iron_trowel.json",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\models\\item\\stone_hammer.json",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\models\\item\\stone_trowel.json",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\models\\item\\wooden_trowel.json",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\block",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\block\\deepslate_gravel.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\block\\tuff_gravel.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\allay_catalyst.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\aluminum_dust.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\aluminum_ingot.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\aluminum_nugget.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\aluminum_plate.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\alumium_gear.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\ancient_glyph.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\andesite_pebble.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\apatite_dust.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\apatite_gem.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\arrow.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\ashen_vessel.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\axolotl_catalyst.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\basalz_catalyst.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\bat_catalyst.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\bee_catalyst.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\black_bronze_gear.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\black_steel_gear.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\blaze_catalyst.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\blitz_catalyst.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\blizz_catalyst.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\blue_candle.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\blue_steel_gear.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\bomb.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\boomerang.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\bow.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\brass_dust.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\brass_ingot.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\brass_nugget.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\brass_plate.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\bronze_dust.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\bronze_gear.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\bronze_ingot.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\bronze_nugget.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\bronze_plate.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\brown_mushroom_spores.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\camel_catalyst.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\charcoal_dust.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\chicken_fried_steak_ingot.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\chicken_fried_steak_sword.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\cinnabar_dust.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\cinnabar_gem.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\coal_dust.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\cobalt_brass_gear.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\compass.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\constantan_dust.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\constantan_gear.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\constantan_ingot.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\constantan_nugget.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\constantan_plate.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\copper_dust.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\copper_gear.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\copper_mesh.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\copper_nugget.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\copper_plate.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\dark_matter.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\deepslate_pebble.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\desert_temple_dungeon_key.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\diamond_dust.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\diamond_gear.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\dolphin_catalyst.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\dragonfire_relic.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\dragon_eye_gem.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\drowned_catalyst.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\dungeon_key.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\duranium_gear.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\e-logic_controller.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\elder_guardian_catalyst.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\electrum_dust.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\electrum_gear.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\electrum_ingot.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\electrum_nugget.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\electrum_plate.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\elementium_dust.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\elementium_ingot.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\emerald_dust.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\emerald_gear.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\enderium_dust.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\enderium_gear.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\enderium_ingot.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\enderium_nugget.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\enderium_plate.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\ender_addon.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\ender_controller.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\ender_pearl_dust.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\end_gateway_key.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\end_stone_dust.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\evoker_catalyst.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\explorer_map.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\food.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\forbidden_transmutation_matter.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\fox_catalyst.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\frog_catalyst.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\ghast_catalyst.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\glow_squid_catalyst.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\goat_catalyst.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\gold_dust.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\gold_gear.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\gold_plate.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\guardian_catalyst.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\hoglin_catalyst.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\hss-g_gear.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\hss-s_gear.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\husk_catalyst.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\infernal_reagent.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\infernal_sigil.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\infinite_void_rune.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\infinitium_dust.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\infinitium_ingot.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\infinitium_nugget.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\infinitium_plate.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\invar_dust.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\invar_gear.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\invar_ingot.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\invar_nugget.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\invar_plate.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\iridium_gear.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\iron_dust.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\iron_gear.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\iron_hammer.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\iron_mesh.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\iron_plate.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\iron_trowel.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\jungle_temple_dungeon_key.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\ladder.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\lapis_dust.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\lapis_gear.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\lava_infuser.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\lead_dust.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\lead_gear.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\lead_ingot.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\lead_nugget.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\lead_plate.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\llama_catalyst.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\lumium_dust.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\lumium_gear.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\lumium_ingot.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\lumium_nugget.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\lumium_plate.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\magical_boomerang.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\magical_sword.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\magma_core.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\magma_cube_catalyst.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\manasteel_dust.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\manasteel_gear.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\manasteel_ingot.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\manasteel_nugget.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\manasteel_plate.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\mekanism_mystery_box.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\naquadah_alloy_gear.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\naquadria_gear.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\netherite_dust.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\netherite_gear.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\netherite_mesh.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\netherite_nugget.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\netherite_plate.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\netherite_wire.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\nether_addon.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\nether_gemstone.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\nickel_dust.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\nickel_gear.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\nickel_ingot.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\nickel_nugget.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\nickel_plate.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\niter_dust.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\niter_gem.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\obsidian_dust.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\osmiridium_gear.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\osmium_dust.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\osmium_ingot.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\osmium_nugget.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\parrot_catalyst.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\piglin_catalyst.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\pillager_catalyst.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\polar_bear_catalyst.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\potin_gear.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\purpur_lantern.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\quartz_dust.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\quartz_gear.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\recorder.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\red_candle.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\red_steel_gear.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\rhodium_gear.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\rubber_gear.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\ruby_dust.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\ruby_gear.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\ruby_gem.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\rune_of_the_end.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\rune_of_the_nether.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\ruridit_gear.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\ruthenium_gear.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\sapphire_dust.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\sapphire_gear.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\sapphire_gem.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\sawdust.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\shulker_catalyst.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\shulker_shell_chip.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\signalum_dust.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\signalum_gear.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\signalum_ingot.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\signalum_nugget.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\signalum_plate.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\silicon.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\silicone_rubber_gear.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\silver_arrow.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\silver_dust.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\silver_gear.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\silver_ingot.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\silver_nugget.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\silver_plate.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\slime_catalyst.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\soul_prism.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\stainless_steel_gear.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\stargazer_lens.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\steel_dust.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\steel_gear.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\steel_ingot.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\steel_nugget.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\steel_plate.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\stone_alloy.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\stone_gear.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\stone_hammer.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\stone_pebble.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\stone_trowel.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\stray_catalyst.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\stronghold_dungeon_key.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\sulfur_dust.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\sulfur_gem.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\sword.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\terrasteel_dust.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\terrasteel_gear.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\terrasteel_ingot.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\terrasteel_nugget.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\terrasteel_plate.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\tin_dust.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\tin_gear.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\tin_ingot.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\tin_nugget.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\tin_plate.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\titanium_gear.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\token_of_the_end.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\token_of_the_nether.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\trinium_gear.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\tritanium_gear.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\tungstensteel_gear.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\tungsten_carbide_gear.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\tungsten_gear.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\ultimet_gear.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\uranium_dust.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\uranium_ingot.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\uranium_nugget.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\vanadium_steel_gear.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\voidshade_moss.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\voidwalker_reagent.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\voidwalker_sigil.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\void_cake.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\void_cake_base.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\void_flour.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\void_glyph.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\warden_catalyst.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\weak_echo_shard.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\white_sword.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\wither_controller.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\wither_skeletal_contractor.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\wither_skeleton_catalyst.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\wooden_shield.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\wooden_trowel.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\wood_gear.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\wrought_iron_gear.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\zinc_dust.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\zinc_ingot.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\zinc_nugget.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\zinc_plate.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\client_scripts",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\client_scripts\\main.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\config",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\config\\client.json",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\config\\common.json",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\config\\web_server.json",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\data",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\expert mode",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\LootJS",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\LootJS\\modifiers",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\LootJS\\modifiers\\block",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\LootJS\\modifiers\\block\\hammers.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\LootJS\\modifiers\\block\\tree_bark.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\LootJS\\modifiers\\block\\trowels.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\recipes",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\recipes\\blasting",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\recipes\\campfire cooking",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\recipes\\custom",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\recipes\\custom\\farmers delight",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\recipes\\custom\\farmers delight\\cutting.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\recipes\\shaped",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\recipes\\shaped\\hammers.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\recipes\\shaped\\trowels.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\recipes\\shapeless",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\recipes\\shapeless\\two_by_two.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\recipes\\smelting",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\recipes\\smithing",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\recipes\\smoking",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\recipes\\stonecutting",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\tags",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\tags\\item",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\tags\\item\\dusts.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\tags\\item\\ender_pearl_dust.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\tags\\item\\end_stone_dust.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\tags\\item\\gears.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\tags\\item\\gems.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\tags\\item\\ingots.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\tags\\item\\nuggets.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\tags\\item\\plates.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\tags\\item\\sawdust.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\tags\\item\\stone_alloy.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\tags\\item\\storage_blocks.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\startup_scripts",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\startup_scripts\\registry",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\startup_scripts\\registry\\blocks.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\startup_scripts\\registry\\catalysts.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\startup_scripts\\registry\\difficulty.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\startup_scripts\\registry\\items.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\startup_scripts\\registry\\materials.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\startup_scripts\\registry\\tools.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\startup_scripts\\replacingKubeJSDisplay.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\README.txt",
+        "isSelected": true
+      },
+      {
+        "path": "local",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\block",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\block\\05",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\block\\05\\05e1704a1a733d2c8ed1b56a785ca846_64.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\block\\06",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\block\\06\\06f416c68e1b3fbab2d672f61f608f6d_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\block\\a8",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\block\\a8\\a87beb58211e353e91675c3907144dec_64.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\block\\b2",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\block\\b2\\b275b08f5de43e2b85f3445feecb2b94_64.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\block\\bf",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\block\\bf\\bf82ea29af423f8b817ef037ed07cf33_64.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\block\\ec",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\block\\ec\\ecffd91118c93d028cfe609bdb3d19e4_64.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\block\\fe",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\block\\fe\\fe5f94ff14d3314bb9f33a512882ae12_64.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\block_tag",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\block_tag\\bb",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\block_tag\\bb\\bb062a65c7f1328db99631ecaadaabc2_16.gif",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\00",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\00\\0089d255ea823a95b8085ec161ec563f_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\00\\0089d255ea823a95b8085ec161ec563f_64.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\00\\00f43183952e316fabfce26e57e95383_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\03",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\03\\032e01d664943f2495a8862179efe330_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\03\\03c068bdd0643f3587f8f6845da111b0_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\05",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\05\\05f2db1057ea390486ddb3d784d888e2_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\05\\05f2db1057ea390486ddb3d784d888e2_64.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\06",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\06\\061d47104af8304e9444a7d555f72224_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\06\\06721a0120ac32b5864685de651c80c2_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\08",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\08\\0828d42c502833c29932fe8f7bb6d895_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\08\\085226db40ea39a78322e61356a78494_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\08\\08c43176125d376293cc450b5f112cc6_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\0a",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\0a\\0a1a47ba70e63326990b2a595bb384a9_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\0d",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\0d\\0d27d548ffcd31969b2b478e9be35d4c_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\0f",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\0f\\0fa14f4766d13a0283631fa0cfee7107_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\10",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\10\\10f0f080fec034cdad4615a5215a351c_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\17",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\17\\1741ec087ec53baf9321e02d191081e5_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\1b",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\1b\\1b4f5b8acb073400b1dce1c2cf42e21a_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\1b\\1b4f5b8acb073400b1dce1c2cf42e21a_64.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\1d",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\1d\\1d3200772fd33edbba64727f05264615_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\1d\\1d8ee54f7b553a09962f6e83a749da8b_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\1e",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\1e\\1e938c8c43d6327381d87724c422f799_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\1e\\1ecd545772483ac8bd867a9b6c6c7587_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\21",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\21\\21d10be129a33bdcb76333bd1e563cdc_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\21\\21d4cddd5a913c9d8a9455bd21fe23a8_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\22",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\22\\22ae5c5daa6b359b9b480f9a5fd8d177_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\23",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\23\\231eddace30e390b941f3cbfdcab4794_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\26",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\26\\26770b5e5d793f1f9841c930f99510ce_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\29",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\29\\295cfdb07c043b06a1761ede1fb6c98e_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\29\\2976d7f142eb34958121062d12d73dc9_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\29\\29a04960573b36e4b4db8e0e503d9337_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\2c",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\2c\\2c49848f6f3f3418b426e77e486bf23b_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\2c\\2c49848f6f3f3418b426e77e486bf23b_64.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\2d",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\2d\\2d75c9930bd23ae2bed92f469f684e28_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\2e",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\2e\\2e0a08a4134c30e0b8befd9f9e0fffc8_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\2e\\2ed1ad06db233584944c2e0d87ba3ae8_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\32",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\32\\320c02ed5f473889806b6c264f7b4b98_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\33",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\33\\33e66ac4a9a93572919aa583521177f0_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\35",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\35\\3511e2a6d9c434549629ab3ae7407329_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\35\\35fb9144460537528a70d6c3c8b5745a_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\37",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\37\\372b6f636de33b2eb5984075a6d85cd1_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\38",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\38\\38036bdc097335daab2ef65020fa11b2_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\3c",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\3c\\3c20d327d66d341f9ac5d05d9eff14f9_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\3e",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\3e\\3e69943fc9c2339dad21f348d4566642_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\42",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\42\\4214f68b9c813b3caa75734f823d162f_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\44",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\44\\443d8b19825d3f8abf3264bcba15722d_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\44\\4460be4207073d578e2fb3b929df0c6b_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\45",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\45\\45010add68f93adbb10ebff31cfbb4c2_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\45\\45bf1e37f9a33f4e9708424c1bdb0196_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\46",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\46\\469c59eaac0431e4856c241bb2586cd2_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\4a",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\4a\\4a9a525326ae3b5b89daa8cc1d84dde1_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\4c",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\4c\\4c91187c835d3ef88bcc13deb20d627e_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\4d",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\4d\\4d406186f7b43199b08c635478b50905_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\4d\\4d9a6e8133f03c31b336ad3f527fa43f_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\4d\\4db9562c82313677a4511da7c7f3b8d1_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\4d\\4dc8122753973f48bba7e7d4c15f54d4_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\4f",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\4f\\4f03e5473bb23f74beafe4bc0bef6eba_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\4f\\4f7ea80136c03a178bcb01118a086317_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\50",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\50\\5058e4b5b8c43a44a442247fe5cc61ca_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\50\\5072c7e7e1393418aaeebdbe2c495e83_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\53",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\53\\533fe55552f03cd4b3eb13be850fd986_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\53\\53e6dd75f3b93511acb9d7cd048bfa5f_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\56",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\56\\5652bfe5e6543d6bbf7ef8fb48d47556_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\56\\567ae0aa692934b49d71111735117751_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\57",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\57\\57607c2f7da735578b33d8da7f71f43b_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\57\\57f6e3e0238535bb8c7dfacbadcc02bd_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\58",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\58\\58b061cb74fd32dfa85a7687bf01598a_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\59",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\59\\5906baa7d7ad358098f5f0f550027617_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\59\\5906baa7d7ad358098f5f0f550027617_64.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\59\\592aed608b913844a6a261efddbe2c2f_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\5f",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\5f\\5f21438acb1a39759f0419490c68b0f8_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\65",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\65\\6538685278423589a31e1328f499541f_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\6a",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\6a\\6a250745812b3e03936c0313e7d7d129_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\6a\\6a9f0696d8373fc0ab718384494e6323_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\6c",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\6c\\6cc0006b13883c3988b268bd946c0976_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\6c\\6cfe8ce17c8c3eae8069e6bce189c344_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\6d",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\6d\\6de92a6cdbeb31e0bbade420d3892bda_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\6e",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\6e\\6e90f68c08a23d44a6c82beb248b2f9b_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\6e\\6eaa71acf66f344d9af35f6109e2ceb3_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\6f",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\6f\\6fac6dcef818391a8808acf51f0e8aad_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\6f\\6fac6dcef818391a8808acf51f0e8aad_64.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\71",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\71\\71938063644936228575962e0438b881_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\75",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\75\\750ed14f7cf23c7780d582619e283b64_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\75\\753c19e2e9d93db78d6b65bbe0660b59_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\75\\75b5465930e83dfb986ceb6111de21e6_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\75\\75be2cd4643d3e609c2321a665a3810d_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\77",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\77\\77b37970dcf03b8694417d953d69569f_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\7a",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\7a\\7a8d83ac577338cdab870efa54f2b998_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\7b",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\7b\\7bd08321444d3ef2b70bf73191120882_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\7c",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\7c\\7cd28322f7c63c6b83fccfd6f60f1932_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\7c\\7cfd228d463a3b959200f71660e6b407_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\7d",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\7d\\7d23055a435539b8b71db3fdabce7f44_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\82",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\82\\82700ed332b33ae48247f9cf1833b7b2_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\82\\82fd5aea33c6398194fc2cca9afa6425_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\83",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\83\\835ac710bfdf3b1b8ca1f37a3f12b0fb_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\83\\835d969375f43de28962bf187d88fe26_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\88",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\88\\88dfd2bbad6f3133bfef6a4a0d142651_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\89",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\89\\89754491a44c3578a535457a42f084df_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\8a",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\8a\\8a068048e55832e1bb9326c8ed3d22b7_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\8a\\8a5c7cb534173d7b842715f3bf7e5a16_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\8f",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\8f\\8f2f74da66b03e2a98257f51448d75f0_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\91",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\91\\918089277cad38bc8931c172589af2fb_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\92",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\92\\9250b8529d9c35058416869428d949d3_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\93",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\93\\9309f2d722983a0eb7ef0762292e2950_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\9b",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\9b\\9bc80940179c355baffed39d8132e173_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\9d",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\9d\\9d5a772e98d93afa9bf613c08eda3d2d_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\9f",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\9f\\9fcc798ab0473dbdbf36d930f1429edd_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\a4",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\a4\\a46059a4de4a3c938bfd776c591e917d_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\a5",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\a5\\a51a7cdcb0e03b328e5be079b395a309_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\a7",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\a7\\a765d7a1905c3397a90ebdf5a212feec_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\a8",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\a8\\a8567e3232ed39d7a4b5020b5c454af6_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\a8\\a87beb58211e353e91675c3907144dec_64.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\aa",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\aa\\aa1c4949af613097b7d1a04402aa5a82_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\ac",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\ac\\acd05b2d6a4936eb88d9b0dc5519f6a7_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\b0",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\b0\\b00105e9872737e6a58d8ff34f49ecf9_64.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\b0\\b0353e3c26c23e7ea19787538665ae17_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\b1",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\b1\\b13f9a8377303a0eafd5147b91dbdc7f_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\b2",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\b2\\b26a8957707134be8a344ac76aaffe75_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\b2\\b275b08f5de43e2b85f3445feecb2b94_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\b2\\b275b08f5de43e2b85f3445feecb2b94_64.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\b3",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\b3\\b3c692492c9b3c519c1e2483f33d42cb_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\b4",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\b4\\b473d89cbc7d326cbeb7470fed20a964_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\b5",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\b5\\b57094412ebc3ee0a388a97cf8de8ca4_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\b9",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\b9\\b94213cec52a380e83b95e9b7ff8e97d_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\ba",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\ba\\baed8820877935228f9b00854a7bef4f_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\bc",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\bc\\bc4a0198c73c322d8b32b1aa7c4174aa_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\bd",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\bd\\bd046e7ea6103570bd923d06b1dc09ae_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\bf",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\bf\\bf82ea29af423f8b817ef037ed07cf33_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\bf\\bf82ea29af423f8b817ef037ed07cf33_64.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\c0",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\c0\\c09912ca27833c3e9be9801aae6feaa8_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\c3",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\c3\\c331c4044acb338c927dea61348c40ed_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\c4",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\c4\\c4586424a62935ebbfa4a711f81f135c_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\c5",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\c5\\c56d2969c69e3ab888d36f86126a552d_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\c6",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\c6\\c656f63513163816bdf00e1449d659f5_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\c9",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\c9\\c92257f25252385b816cb9b63450c4ad_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\cc",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\cc\\cc60a5c3e7f9365f94e1e6d875f45f84_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\cd",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\cd\\cd7271afb2103b90a36865bf92ca0dfd_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\cf",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\cf\\cfa6d242e93d36b3920390e2b8b41e03_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\d0",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\d0\\d021e226176933d2841db56e69da0e3c_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\d0\\d0f5bb3133d635d4b2aad954a766fd1c_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\d3",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\d3\\d316e25834bf3658a48345aa89bed7a8_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\d3\\d3b67c6d53853a2ba0fa2b18598483cb_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\d5",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\d5\\d58e69f742ce387f95847201e525f4d4_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\d6",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\d6\\d6d64d832f3b3f658dda363a6e9a9d2c_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\d7",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\d7\\d74a53fb8c1134c5bdf00ec6950ba041_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\d7\\d78e205b776737c6a205b078fe514630_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\d7\\d7a763e1125533b2a499631f06868429_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\d7\\d7a763e1125533b2a499631f06868429_64.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\d8",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\d8\\d85d99cc11fc34f3a098e3b67d9ef1a3_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\d8\\d878ab0305d7361ea7f5d7cfc50f5a6b_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\da",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\da\\daaf57d05db938feb4f72aebacf54b29_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\db",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\db\\db7d0aeb169f36ebad8865ddc15f296b_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\dc",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\dc\\dc75515936b23ec8be42591e6100848e_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\dc\\dcb275b32aba33d996a31df97b7e8cae_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\dd",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\dd\\dd5688b58e623723a84f5449e8487cd8_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\e1",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\e1\\e161ca73fb6930ac9820c38897c48eea_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\e2",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\e2\\e21eed70bb2d3785886d3dae3ccc2350_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\e2\\e2bf93e2f3a133e8bacad00c185988d3_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\e2\\e2f56d6ffb473af092199e9f4b3e542a_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\e5",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\e5\\e598544e4d8137f788bd3e96cbc2b4f8_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\ea",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\ea\\ea0dad804c9c3319b2652a94ad4e6d16_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\eb",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\eb\\ebff3523b9463c57b9b795da2c738b7d_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\ec",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\ec\\ecffd91118c93d028cfe609bdb3d19e4_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\ec\\ecffd91118c93d028cfe609bdb3d19e4_64.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\ed",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\ed\\ede375fd8aa230bfa8857805041149be_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\ee",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\ee\\ee6ba89e649c35cdb301c32fee6aabd5_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\f0",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\f0\\f0a570e001ef36ae9fe48dd780c507c8_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\fc",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\fc\\fcf05c5aed303b88919183f271b8f3b8_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\fd",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\fd\\fdea352c6f8331498cbc0fa2923eb83c_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\fd\\fdea352c6f8331498cbc0fa2923eb83c_64.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\fe",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\fe\\fe1c4374f65f3296863980df94107b02_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\ff",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\ff\\ff14cde04b5d30ae9d9f6d8845d540b1_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\ff\\ff156f52d3ee323b9b3a9e206688a20b_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item_tag",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item_tag\\68",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item_tag\\68\\687a881705ea3853ad4158503e13de97_16.gif",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item_tag\\9e",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item_tag\\9e\\9e96c393287f3af4be6cb6aee73e0375_16.gif",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item_tag\\a9",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item_tag\\a9\\a9d223d0ab1938189b6ea13985994b0b_16.gif",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item_tag\\d1",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item_tag\\d1\\d16e073d8d333814966ef2ffe4e355fd_16.gif",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item_tag\\d4",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item_tag\\d4\\d4c56111123b30698b800de6beb2f804_16.gif",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item_tag\\d5",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item_tag\\d5\\d55cac3172ca37df8cc725338f1848b6_16.gif",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item_tag\\ec",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item_tag\\ec\\ec34161aab9b3ce9ad8d3bb455efb401_16.gif",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\export",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\exported_packs",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\local_server_scripts",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\dev.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbultimine-client.snbt",
+        "isSelected": false
+      },
+      {
+        "path": "logs",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\almostunified",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\almostunified\\almostunified.log",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\kubejs",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\kubejs\\client.log",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\kubejs\\server.log",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\kubejs\\startup.log",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\telemetry",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\telemetry\\20250308-1.json.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\telemetry\\20250308-10.json.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\telemetry\\20250308-11.json.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\telemetry\\20250308-12.json.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\telemetry\\20250308-2.json.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\telemetry\\20250308-3.json.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\telemetry\\20250308-4.json.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\telemetry\\20250308-5.json.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\telemetry\\20250308-6.json.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\telemetry\\20250308-7.json.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\telemetry\\20250308-8.json.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\telemetry\\20250308-9.json.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\telemetry\\20250309-1.json.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\telemetry\\20250310-1.json.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\telemetry\\20250310-2.json.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\telemetry\\20250310-3.json.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\telemetry\\20250310-4.json.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\telemetry\\20250310-5.json.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\telemetry\\20250310-6.json.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\telemetry\\20250310-7.json.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\telemetry\\20250310-8.json.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\telemetry\\20250311-1.json.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\telemetry\\20250311-10.json.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\telemetry\\20250311-11.json.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\telemetry\\20250311-2.json.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\telemetry\\20250311-3.json.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\telemetry\\20250311-4.json.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\telemetry\\20250311-5.json.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\telemetry\\20250311-6.json.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\telemetry\\20250311-7.json.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\telemetry\\20250311-8.json.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\telemetry\\20250311-9.json.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\telemetry\\20250312-1.json.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\telemetry\\20250312-2.json.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\telemetry\\20250312-3.json.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\telemetry\\20250312-4.json.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\telemetry\\20250312-5.json.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\telemetry\\20250313-1.json.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\telemetry\\20250313-2.json.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\telemetry\\20250313-3.json.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\telemetry\\20250314-1.json",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-03-05-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-03-08-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-03-08-2.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-03-08-3.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-03-08-4.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-03-08-5.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-03-08-6.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-03-09-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-03-10-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-03-10-2.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-03-10-3.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-03-10-4.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-03-10-5.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-03-10-6.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-03-11-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-03-11-2.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-03-11-3.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-03-11-4.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-03-11-5.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-03-11-6.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-03-12-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-03-12-2.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-03-12-3.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-03-12-4.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-03-12-5.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-03-13-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-03-13-2.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-03-13-3.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\debug-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\debug-2.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\debug-3.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\debug-4.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\debug-5.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\debug.log",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\latest.log",
+        "isSelected": false
+      },
+      {
+        "path": "mods",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\almostunified-neoforge-1.21.1-1.2.3.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\appleskin-neoforge-mc1.21-3.0.5.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\architectury-13.0.8-neoforge.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\balm-neoforge-1.21.1-21.0.31.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\Clumps-neoforge-1.21.1-19.0.0.1.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\cobblegengalore-1.21.1-0.2.0.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\collective-1.21.1-7.94.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\comforts-neoforge-9.0.3+1.21.1.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\create-1.21.1-6.0.3.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\Cucumber-1.21.1-8.0.10.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\easy-villagers-neoforge-1.21.1-1.1.23.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\EasyAnvils-v21.1.0-1.21.1-NeoForge.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\EasyMagic-v21.1.0-1.21.1-NeoForge.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\endportalrecipe-1.21.1-5.7.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\entityculling-neoforge-1.7.3-mc1.21.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\FarmersDelight-1.21.1-1.2.7.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\ferritecore-7.0.2-neoforge.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\ftb-library-neoforge-2101.1.11.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\ftb-quests-neoforge-2101.1.6.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\ftb-teams-neoforge-2101.1.2.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\ftb-ultimine-neoforge-2101.1.1.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\ftb-xmod-compat-neoforge-21.1.3.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\guardvillagers-2.3.2-1.21.1.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\Jade-1.21.1-NeoForge-15.9.2.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\jei-1.21.1-neoforge-19.21.0.247.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\journeymap-neoforge-1.21.1-6.0.0-beta.40.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\JustEnoughResources-NeoForge-1.21.1-1.6.0.13.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\kubejs-neoforge-2101.7.1-build.181.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\LeavesBeGone-v21.1.0-1.21.1-NeoForge.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\lootjs-neoforge-1.21.1-3.3.0.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\matc-1.7.1.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\moonlight-1.21-2.17.36-neoforge.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\morejs-neoforge-1.21-0.13.1.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\MysticalAgradditions-1.21.1-8.0.4.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\MysticalAgriculture-1.21.1-8.0.13.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\netherportalspread-1.21.1-8.4.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\OverflowingBars-v21.1.1-1.21.1-NeoForge.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\PickUpNotifier-v21.1.0-1.21.1-NeoForge.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\PuzzlesLib-v21.1.32-1.21.1-NeoForge.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\ResourcePackOverrides-v21.1.0-1.21.1-NeoForge.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\restrictedportals-neoforge-1.21.1-1.6.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\rhino-2101.2.7-build.74.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\smarterfarmers-1.21-2.2.2-neoforge.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\sophisticatedbackpacks-1.21.1-3.24.1.1209.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\sophisticatedcore-1.21.1-1.3.2.900.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\sophisticatedstorage-1.21.1-1.4.0.1077.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\TradingPost-v21.1.0-1.21.1-NeoForge.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\villagernames-1.21.1-8.2.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\villagespawnpoint-1.21.1-4.5.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\VisualWorkbench-v21.1.0-1.21.1-NeoForge.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\waystones-neoforge-1.21.1-21.1.12.jar",
+        "isSelected": false
+      },
+      {
+        "path": "resourcepacks",
+        "isSelected": true
+      },
+      {
+        "path": "saves",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\advancements",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\advancements\\b6ca8b7a-a074-4089-8ae0-1c8c14e73031.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\data\\netherportalspread",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\data\\netherportalspread\\portals",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\data\\netherportalspread\\portals\\overworld",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\data\\netherportalspread\\portals\\overworld\\175_86_32.portal",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\data\\netherportalspread\\portals\\the_end",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\data\\JMPlayerSettings.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\data\\neoforge_data_attachments.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\data\\raids.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\data\\random_sequences.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\data\\waystones.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\data\\WorldUUID.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\data\\WorldUUID.dat6278757422917496813.neoforge-tmp",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\datapacks",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\datapacks\\restrictedportals",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\datapacks\\restrictedportals\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\datapacks\\restrictedportals\\data\\restrictedportals",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\datapacks\\restrictedportals\\data\\restrictedportals\\advancement",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\datapacks\\restrictedportals\\data\\restrictedportals\\advancement\\end.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\datapacks\\restrictedportals\\data\\restrictedportals\\advancement\\nether.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\datapacks\\restrictedportals\\pack.mcmeta",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\DIM-1",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\DIM-1\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\DIM-1\\data\\neoforge_data_attachments.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\DIM-1\\data\\raids.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\DIM-1\\entities",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\DIM-1\\entities\\r.-1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\DIM-1\\entities\\r.-1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\DIM-1\\entities\\r.0.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\DIM-1\\entities\\r.0.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\DIM-1\\poi",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\DIM-1\\poi\\r.-1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\DIM-1\\poi\\r.-1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\DIM-1\\poi\\r.0.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\DIM-1\\poi\\r.0.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\DIM-1\\region",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\DIM-1\\region\\r.-1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\DIM-1\\region\\r.-1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\DIM-1\\region\\r.0.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\DIM-1\\region\\r.0.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\DIM1",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\DIM1\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\DIM1\\data\\neoforge_data_attachments.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\DIM1\\data\\raids_end.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\DIM1\\entities",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\DIM1\\entities\\r.0.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\DIM1\\entities\\r.0.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\DIM1\\region",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\DIM1\\region\\r.-1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\DIM1\\region\\r.-1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\DIM1\\region\\r.0.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\DIM1\\region\\r.0.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\entities",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\entities\\r.-1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\entities\\r.-1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\entities\\r.0.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\entities\\r.0.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\ftbquests",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\ftbquests\\b6ca8b7a-a074-4089-8ae0-1c8c14e73031.snbt",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\ftbteams",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\ftbteams\\party",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\ftbteams\\player",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\ftbteams\\player\\b6ca8b7a-a074-4089-8ae0-1c8c14e73031.snbt",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\ftbteams\\server",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\ftbteams\\ftbteams.snbt",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\playerdata",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\playerdata\\b6ca8b7a-a074-4089-8ae0-1c8c14e73031.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\playerdata\\b6ca8b7a-a074-4089-8ae0-1c8c14e73031.dat_old",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\poi",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\poi\\r.-1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\poi\\r.-1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\poi\\r.-1.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\poi\\r.0.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\poi\\r.0.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\poi\\r.0.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\poi\\r.1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\poi\\r.1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\poi\\r.1.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.-1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.-1.-4.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.-1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.-1.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.0.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.0.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.0.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.1.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\serverconfig",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\serverconfig\\ftbultimine-server.snbt",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\serverconfig\\readme.txt",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\stats",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\stats\\b6ca8b7a-a074-4089-8ae0-1c8c14e73031.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\icon.png",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\kubejs_persistent_data.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\level.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\level.dat_old",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\level10188440524048728278.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\session.lock",
+        "isSelected": false
+      },
+      {
+        "path": "schematics",
+        "isSelected": false
+      },
+      {
+        "path": "shaderpacks",
+        "isSelected": false
+      },
+      {
+        "path": ".curseclient",
+        "isSelected": false
+      },
+      {
+        "path": ".gitignore",
+        "isSelected": false
+      },
+      {
+        "path": "changelog.txt",
+        "isSelected": false
+      },
+      {
+        "path": "command_history.txt",
+        "isSelected": false
+      },
+      {
+        "path": "minecraftinstance.json",
+        "isSelected": false
+      },
+      {
+        "path": "options.txt",
+        "isSelected": false
+      },
+      {
+        "path": "README.md",
+        "isSelected": false
+      },
+      {
+        "path": "realms_persistence.json",
+        "isSelected": false
+      },
+      {
+        "path": "usercache.json",
+        "isSelected": false
+      },
+      {
+        "path": "usernamecache.json",
+        "isSelected": false
+      }
+    ]
+  }
+}

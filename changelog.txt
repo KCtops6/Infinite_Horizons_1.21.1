@@ -59,10 +59,13 @@ Started Beta Questline.
 Started Gamma Questline.
 
 1.21.1-1.1-Beta
+Added Apothic Attributes (AttributesLib).
 Added Applied Energistics 2.
 Added FTB Filter System.
+Added Gateways to Eternity.
 Added Generator Galore.
 Added GuideME.
+Added Placebo.
 
 Updated FTB Library (Forge).
 Updated Sophisticated Backpacks.

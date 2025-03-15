@@ -1,6 +1,6 @@
 {
   "__comment": "Instructions: https://blakesmods.com/docs/cucumber/tags-config",
-  "c:silicon": "null",
+  "c:silicon": "ae2:silicon",
   "c:dusts/saltpeter": "null",
   "c:ingots/iridium": "null",
   "c:rubbers": "null",

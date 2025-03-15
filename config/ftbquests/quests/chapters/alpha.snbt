@@ -253,8 +253,8 @@
 				item: { count: 1, id: "minecraft:bucket" }
 				type: "item"
 			}]
-			x: 4.0d
-			y: 1.0d
+			x: 5.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["3642E2D78B348AE3"]
@@ -333,8 +333,8 @@
 				item: { count: 1, id: "minecraft:lava_bucket" }
 				type: "item"
 			}]
-			x: 4.0d
-			y: 2.0d
+			x: 5.0d
+			y: 1.0d
 		}
 		{
 			dependencies: [
@@ -655,6 +655,42 @@
 				type: "item"
 			}]
 			x: 2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2271A8EDA3C7F64C"]
+			id: "40B85C791F3753C2"
+			tasks: [{
+				id: "53CFAA65743D4E36"
+				item: { count: 1, id: "minecraft:sandstone" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"5D00196D169F65C2"
+				"40B85C791F3753C2"
+			]
+			id: "6BC4240AF36D8AA9"
+			tasks: [{
+				id: "0631B3A3C0B448EF"
+				item: { count: 1, id: "minecraft:blackstone" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["40B85C791F3753C2"]
+			id: "01292C1D89E3D549"
+			tasks: [{
+				id: "538C72FA4A09AA4E"
+				item: { count: 1, id: "minecraft:smooth_sandstone" }
+				type: "item"
+			}]
+			x: 5.0d
 			y: 3.0d
 		}
 	]

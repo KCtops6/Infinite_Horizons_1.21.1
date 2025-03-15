@@ -191,6 +191,9 @@
 	quest.3EF6C5B6FCA2917F.quest_desc: ["With &lPig Seeds&r, you can grow &lPig Essence&r, a vital material for crafting all things related to pigs. No need to find or breed pigs—just let the seeds take care of it and enjoy the bounty that follows."]
 	quest.3EF6C5B6FCA2917F.quest_subtitle: "Raising Livestock in the Soil"
 	quest.3EF6C5B6FCA2917F.title: "Essence of the Pig"
+	quest.40B85C791F3753C2.quest_desc: ["&lSandstone&r is formed when sand compresses under pressure over time. While naturally occurring in deserts and beaches, you can craft it yourself by combining four Sand in a crafting grid. It serves as a sturdy building block and is also useful for obtaining Blackstone when placed near a Nether Portal."]
+	quest.40B85C791F3753C2.quest_subtitle: "The Foundation of Many Structures"
+	quest.40B85C791F3753C2.title: "Pressured Grains"
 	quest.40F041C17BEAADEE.quest_desc: ["Without natural stone, you'll need to get creative. Craft a &lWooden Trowel&r and use it to break dirt or grass blocks—this will yield &lStone Pebbles&r. Gather four pebbles and craft them into a &lCobblestone&r block. With cobblestone in hand, sturdier tools and new possibilities await!"]
 	quest.40F041C17BEAADEE.quest_subtitle: "From Dirt to Stone"
 	quest.40F041C17BEAADEE.title: "The First Stones"
@@ -265,6 +268,9 @@
 	quest.66CC1872F77E4EE6.quest_desc: ["&lAir Seeds&r grow into &lAir Essence&r, which may not be immediately useful for early-game crafting, but it becomes crucial for high-level gear in the end game. It’s best to start growing some now, as you’ll need it later for advanced recipes and powerful equipment. Planting these seeds early will save you time when you’re ready to push toward endgame progression."]
 	quest.66CC1872F77E4EE6.quest_subtitle: "Preparing for the Future"
 	quest.66CC1872F77E4EE6.title: "Winds of Change"
+	quest.6BC4240AF36D8AA9.quest_desc: ["The Nether’s influence can reshape the Overworld. By placing Sandstone near an active Nether Portal, the heat and energy from the portal will gradually darken it, transforming it into &lBlackstone&r. This method provides an Overworld-friendly way to obtain Blackstone, making it a valuable resource for builders and crafters alike."]
+	quest.6BC4240AF36D8AA9.quest_subtitle: "Transforming Sandstone into Blackstone"
+	quest.6BC4240AF36D8AA9.title: "Shadowed Sands"
 	quest.6F234337CE289CD4.quest_desc: ["With &lAndesite&r and &lIron&r in hand, it’s time to craft the cornerstone of Create’s mechanical systems—&lAndesite Alloy&r. Combine Andesite with Iron to forge this versatile material. Andesite Alloy will be used in various Create machines, unlocking your potential for automation and advancement."]
 	quest.6F234337CE289CD4.quest_subtitle: "Forging the Andesite Alloy"
 	quest.6F234337CE289CD4.title: "The Heart of Creation"

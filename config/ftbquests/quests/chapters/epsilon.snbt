@@ -301,8 +301,8 @@
 				item: { count: 1, id: "ae2:blank_pattern" }
 				type: "item"
 			}]
-			x: 11.0d
-			y: -1.0d
+			x: 12.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["7502B5883A3E158C"]
@@ -473,6 +473,10 @@
 			y: -2.0d
 		}
 		{
+			dependencies: [
+				"0E8FA37DE1564B16"
+				"5C458959EB3CA9CE"
+			]
 			id: "27B6E95EF780B77D"
 			tasks: [{
 				id: "5A1512C14C1FEAB9"

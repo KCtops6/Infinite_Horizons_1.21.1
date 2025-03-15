@@ -274,5 +274,16 @@
 			x: 0.0d
 			y: 3.0d
 		}
+		{
+			dependencies: ["579D7FD06F5DC4D7"]
+			id: "215396364C37E4C1"
+			tasks: [{
+				id: "4E7034A04769BA98"
+				item: { count: 1, id: "create:encased_fan" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
 	]
 }

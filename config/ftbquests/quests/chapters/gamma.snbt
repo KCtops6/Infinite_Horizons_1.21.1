@@ -1373,5 +1373,73 @@
 			x: 3.0d
 			y: 4.0d
 		}
+		{
+			dependencies: [
+				"5C6BCB357546F47A"
+				"245CC55733D2D5C6"
+			]
+			hide_dependency_lines: true
+			icon: {
+				id: "mysticalagriculture:prismarine_essence"
+			}
+			id: "673EAB8479F92227"
+			rewards: [{
+				id: "779237A48D7909FB"
+				item: {
+					count: 1
+					id: "mysticalagriculture:prismarine_seeds"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "3C9B250C177BB167"
+					item: { count: 1, id: "mysticalagriculture:prismarine_seeds" }
+					type: "item"
+				}
+				{
+					id: "5A1B628702982037"
+					item: { count: 1, id: "mysticalagriculture:prismarine_essence" }
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: 6.0d
+		}
+		{
+			dependencies: [
+				"5C6BCB357546F47A"
+				"3276ACBC80D0AF10"
+			]
+			hide_dependency_lines: true
+			icon: {
+				id: "mysticalagriculture:diamond_essence"
+			}
+			id: "2AE9B3370D0CE50F"
+			rewards: [{
+				id: "79701ED6364935F2"
+				item: {
+					count: 1
+					id: "mysticalagriculture:diamond_seeds"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "2A936FF688152B3F"
+					item: { count: 1, id: "mysticalagriculture:diamond_seeds" }
+					type: "item"
+				}
+				{
+					id: "1ECD3332AF2FD529"
+					item: { count: 1, id: "mysticalagriculture:diamond_essence" }
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: 8.0d
+		}
 	]
 }

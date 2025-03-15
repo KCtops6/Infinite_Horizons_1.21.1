@@ -256,6 +256,9 @@
 	quest.64A01D798C19E655.quest_desc: ["The &lHalitosis Generator&r is the pinnacle of your energy-generating journey. With an impressive generation rate of 128 FE/t and an incredible transfer rate of 16,384 FE/t, this generator can handle massive energy demands. Fueled by Dragon's Breath, it provides a robust and efficient energy source, consuming at a rate of 1 FE/t. The Halitosis Generator offers a substantial buffer capacity of 9,800,000 FE, ensuring that your systems stay powered even during prolonged periods of high demand. Upgrade from Ender to Halitosis and tap into the awe-inspiring power of the Dragon's Breath."]
 	quest.64A01D798C19E655.quest_subtitle: "Channel the mighty force of the Dragon"
 	quest.64A01D798C19E655.title: "The Breath of Power"
+	quest.65A380AB7FA95B7D.quest_desc: ["With the power of the Create mod, you can now wash sand to obtain &lclay&r. This process is a great way to get a steady supply of clay for crafting, building, and other essential recipes. Set up your washing system to start transforming sand into clay and open up new crafting possibilities!"]
+	quest.65A380AB7FA95B7D.quest_subtitle: "Turning Sand into Clay with Create"
+	quest.65A380AB7FA95B7D.title: "Clay from Sand"
 	quest.662C6D7106C0C6D2.quest_desc: ["The &lCulinary Generator&r is a unique power source that transforms food into energy. With a generation rate of 8 FE/t and a transfer rate of 256 FE/t, it offers a steady 1 FE/t consumption rate, all while using food as fuel. This upgrade from the Gold Generator provides a buffer capacity of 100,000 FE, giving you a more sustainable and flavorful energy solution. Use your harvested food to power your machines with this food-based generator upgrade!"]
 	quest.662C6D7106C0C6D2.quest_subtitle: "Upgrade to the Culinary Generator"
 	quest.662C6D7106C0C6D2.title: "A Taste of Power"

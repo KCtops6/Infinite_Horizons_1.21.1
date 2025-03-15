@@ -484,8 +484,8 @@
 				item: { count: 1, id: "minecraft:magma_block" }
 				type: "item"
 			}]
-			x: 7.0d
-			y: -3.0d
+			x: 8.0d
+			y: -1.0d
 		}
 		{
 			dependencies: ["5D00196D169F65C2"]
@@ -517,8 +517,8 @@
 				item: { count: 1, id: "minecraft:soul_sand" }
 				type: "item"
 			}]
-			x: 8.0d
-			y: -1.0d
+			x: 7.0d
+			y: -3.0d
 		}
 		{
 			dependencies: ["5D00196D169F65C2"]
@@ -578,8 +578,84 @@
 				item: { count: 1, id: "minecraft:crafter" }
 				type: "item"
 			}]
-			x: 5.0d
+			x: 4.0d
+			y: -4.0d
+		}
+		{
+			dependencies: [
+				"27115761CCA7ADB6"
+				"215396364C37E4C1"
+				"0886E9D3C195E26E"
+			]
+			id: "2BA93DCA9442D7E9"
+			tasks: [
+				{
+					id: "207B606EACACD2A0"
+					item: { count: 1, id: "minecraft:prismarine_crystals" }
+					type: "item"
+				}
+				{
+					id: "66E3B16D078A4D2F"
+					item: { count: 1, id: "minecraft:prismarine_shard" }
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: -4.0d
+		}
+		{
+			dependencies: [
+				"673EAB8479F92227"
+				"1AF74B5C0867A081"
+			]
+			id: "389417B265BC9BCB"
+			tasks: [{
+				id: "6B09666CD107CD53"
+				item: { count: 1, id: "minecraft:nautilus_shell" }
+				type: "item"
+			}]
+			x: 6.0d
 			y: -5.0d
+		}
+		{
+			dependencies: [
+				"0254E09CD6298AE0"
+				"389417B265BC9BCB"
+				"2AE9B3370D0CE50F"
+			]
+			id: "60A8C196D02E31BA"
+			tasks: [{
+				id: "2F05F1D971496B91"
+				item: { count: 1, id: "minecraft:heart_of_the_sea" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["60A8C196D02E31BA"]
+			id: "0E60F9BBC7FAA538"
+			tasks: [{
+				id: "294B73F73DC13384"
+				item: { count: 1, id: "minecraft:conduit" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -7.0d
+		}
+		{
+			dependencies: [
+				"215396364C37E4C1"
+				"2271A8EDA3C7F64C"
+			]
+			id: "65A380AB7FA95B7D"
+			tasks: [{
+				id: "385357A174EC75A2"
+				item: { count: 1, id: "minecraft:clay_ball" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 3.0d
 		}
 	]
 }

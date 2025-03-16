@@ -1,11 +1,15 @@
 {
 	chapter.17F179085511CF63.title: "Alpha"
+	chapter.1B73F34BAB8F6FCD.chapter_subtitle: ["Power Generation"]
+	chapter.1B73F34BAB8F6FCD.title: "Zeta"
 	chapter.247639ED7F0AF536.title: "Gamma"
 	chapter.2D39554C6E6B5360.chapter_subtitle: ["Digital Storage"]
 	chapter.2D39554C6E6B5360.title: "Epsilon"
-	chapter.2F34CC58AE75DDE7.chapter_subtitle: ["Power Generation"]
+	chapter.2F34CC58AE75DDE7.chapter_subtitle: ["Early-Game \"Non-Digital\" Storage"]
 	chapter.2F34CC58AE75DDE7.title: "Delta"
 	chapter.6B16A1E49845B379.title: "Beta"
+	chapter.76260707B1BAF870.chapter_subtitle: ["Digital Storage"]
+	chapter.76260707B1BAF870.title: "Eta"
 	quest.01AEEA186BB50BB0.quest_desc: ["The Nether Portal’s energy doesn’t just bring heat—it also alters stone into valuable resources. If you place Stone near an active portal, it will slowly transform into Nether Quartz Ore. Mine it to collect &lNether Quartz&r, an essential material for redstone components, decorative blocks, and more. Even without stepping into the Nether, you can still harness its unique resources!"]
 	quest.01AEEA186BB50BB0.quest_subtitle: "Harvesting Nether Quartz"
 	quest.01AEEA186BB50BB0.title: "Crystals of the Nether"
@@ -312,6 +316,8 @@
 	quest.7F0AC6B1D0CCBDE4.title: "Essence of Limestone"
 	task.154ED8DD236C5EE5.title: "Reliable Power Source for Applied Energistics 2"
 	task.2EC0140CC254EA63.title: "Craft a fluid storage cell."
+	task.2F975784F0FCF3C2.title: "Any #sophisticatedstorage:all_storage"
+	task.522147DE7E3ED21D.title: "Any #sophisticatedstorage:base_tier_wooden_storage"
 	task.5A9ADEB7C349E1CA.title: "Craft an item storage cell."
 	task.6509A635775E13FF.title: "Rotational Energy Setup"
 	task.7DC414DB130CC223.title: "Craft a digital crafting storage block."

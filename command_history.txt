@@ -11,3 +11,20 @@
 /clear
 /kubejs reload server-scripts
 /reload
+/datapack list
+/reload
+/datapack list
+/reload
+/gamemode survival
+/gamemode creative
+/effect give KCtops6 minecraft:strength infinite 255
+/reload
+/rek
+/reload
+/clear
+/reload
+/effect clear KCtops6
+/reload
+/effect give KCtops6 minecraft:strength infinite 1
+/effect give KCtops6 minecraft:strength infinite 255
+/clear

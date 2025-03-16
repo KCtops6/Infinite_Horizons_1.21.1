@@ -1370,8 +1370,8 @@
 				item: { count: 1, id: "mysticalagriculture:tinkering_table" }
 				type: "item"
 			}]
-			x: 3.0d
-			y: 4.0d
+			x: 2.0d
+			y: 5.0d
 		}
 		{
 			dependencies: [
@@ -1440,6 +1440,20 @@
 			]
 			x: -2.0d
 			y: 8.0d
+		}
+		{
+			dependencies: [
+				"726CEB2724A750D7"
+				"233FF73DF6AF2D93"
+			]
+			id: "34634FC352FD99BB"
+			tasks: [{
+				id: "212E2C72048038E4"
+				item: { count: 1, id: "mysticalagriculture:soulium_gemstone" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
 		}
 	]
 }

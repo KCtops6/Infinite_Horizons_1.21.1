@@ -12,30 +12,197 @@
 	quests: [
 		{
 			dependencies: ["11332A8490D1FD31"]
-			id: "36DFAA43CB257B34"
-			tasks: [{
-				icon: {
-					components: {
-						"sophisticatedstorage:wood_type": "oak"
-					}
-					id: "sophisticatedstorage:chest"
+			icon: {
+				components: {
+					"sophisticatedstorage:wood_type": "oak"
 				}
-				id: "522147DE7E3ED21D"
-				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(sophisticatedstorage:base_tier_wooden_storage)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
+				id: "sophisticatedstorage:chest"
+			}
+			id: "36DFAA43CB257B34"
+			tasks: [
+				{
+					icon: {
+						components: {
+							"sophisticatedstorage:wood_type": "oak"
+						}
+						id: "sophisticatedstorage:chest"
+					}
+					id: "522147DE7E3ED21D"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(sophisticatedstorage:base_tier_wooden_storage)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "581F5AA62548B82C"
+					item: { count: 1, id: "sophisticatedstorage:basic_tier_upgrade" }
+					type: "item"
+				}
+			]
 			x: 0.0d
 			y: 0.0d
 		}
 		{
+			dependencies: [
+				"11332A8490D1FD31"
+				"36DFAA43CB257B34"
+			]
+			icon: {
+				components: {
+					"sophisticatedstorage:wood_type": "oak"
+				}
+				id: "sophisticatedstorage:copper_chest"
+			}
 			id: "464C72531F8EA264"
+			tasks: [
+				{
+					icon: {
+						components: {
+							"sophisticatedstorage:wood_type": "oak"
+						}
+						id: "sophisticatedstorage:copper_chest"
+					}
+					id: "6F526BEC8B38F756"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(sophisticatedstorage:copper_storages)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "0323E3AD03820DE4"
+					item: { count: 1, id: "sophisticatedstorage:basic_to_copper_tier_upgrade" }
+					type: "item"
+				}
+			]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["464C72531F8EA264"]
+			icon: {
+				components: {
+					"sophisticatedstorage:wood_type": "oak"
+				}
+				id: "sophisticatedstorage:iron_chest"
+			}
+			id: "0549F34391B26F25"
+			tasks: [
+				{
+					icon: {
+						components: {
+							"sophisticatedstorage:wood_type": "oak"
+						}
+						id: "sophisticatedstorage:iron_chest"
+					}
+					id: "18C58601831336A4"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(sophisticatedstorage:iron_storages)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "410A38954F068438"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(sophisticatedstorage:iron_upgrades)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0549F34391B26F25"]
+			icon: {
+				components: {
+					"sophisticatedstorage:wood_type": "oak"
+				}
+				id: "sophisticatedstorage:gold_chest"
+			}
+			id: "41DC8C6BFFFC219B"
+			tasks: [
+				{
+					icon: {
+						components: {
+							"sophisticatedstorage:wood_type": "oak"
+						}
+						id: "sophisticatedstorage:gold_chest"
+					}
+					id: "150DA982F22B0CCB"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(sophisticatedstorage:gold_storages)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "3F38B2A629773F00"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(sophisticatedstorage:gold_upgrades)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["41DC8C6BFFFC219B"]
+			icon: {
+				components: {
+					"sophisticatedstorage:wood_type": "oak"
+				}
+				id: "sophisticatedstorage:diamond_chest"
+			}
+			id: "64E86883C0010997"
+			tasks: [
+				{
+					icon: {
+						components: {
+							"sophisticatedstorage:wood_type": "oak"
+						}
+						id: "sophisticatedstorage:diamond_chest"
+					}
+					id: "59AACF98ECAB1132"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(sophisticatedstorage:diamond_storages)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "2BBABE6D3F58A4FF"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(sophisticatedstorage:diamond_upgrades)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["64E86883C0010997"]
+			icon: {
+				components: {
+					"sophisticatedstorage:wood_type": "oak"
+				}
+				id: "sophisticatedstorage:netherite_chest"
+			}
+			id: "22675F9CC8A5274E"
+			tasks: [
+				{
+					icon: {
+						components: {
+							"sophisticatedstorage:wood_type": "oak"
+						}
+						id: "sophisticatedstorage:netherite_chest"
+					}
+					id: "5506F1A98B72C7B1"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(sophisticatedstorage:netherite_storages)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "09B393CC04B069E1"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(sophisticatedstorage:netherite_upgrades)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["36DFAA43CB257B34"]
+			id: "1473072088CA45A3"
 			tasks: [{
-				id: "2F975784F0FCF3C2"
-				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(sophisticatedstorage:all_storage)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				id: "323B2D134DA76C6D"
+				item: { count: 1, id: "sophisticatedstorage:packing_tape" }
 				type: "item"
 			}]
 			x: 1.0d
-			y: 0.0d
+			y: -1.0d
 		}
 	]
 }

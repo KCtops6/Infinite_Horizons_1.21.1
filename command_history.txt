@@ -28,3 +28,8 @@
 /effect give KCtops6 minecraft:strength infinite 1
 /effect give KCtops6 minecraft:strength infinite 255
 /clear
+/kubejs reload server-scripts
+/reload
+/kubejs reload sre
+/kubejs reload server-scripts
+/reload

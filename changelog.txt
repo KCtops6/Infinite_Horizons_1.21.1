@@ -71,6 +71,7 @@ Updated FTB Library (Forge).
 Updated Puzzles Lib [Forge & Fabric].
 Updated Sophisticated Backpacks.
 Updated Sophisticated Storage.
+Updated Waystones.
 
 Started Delta Questline (for power generation).
 Started Epsilon Questline (for digital storage).

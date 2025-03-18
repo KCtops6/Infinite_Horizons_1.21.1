@@ -76,5 +76,7 @@ Updated Sophisticated Core.
 Updated Sophisticated Storage.
 Updated Waystones.
 
-Started Delta Questline (for power generation).
-Started Epsilon Questline (for digital storage).
+Started Delta Questline (for early game storage).
+Started Epsilon Questline (for gateways of eternity).
+Started Zeta Questline (for power generation).
+Started Eta Questline (for digital storage).

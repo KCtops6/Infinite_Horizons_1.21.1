@@ -33,3 +33,5 @@
 /kubejs reload sre
 /kubejs reload server-scripts
 /reload
+/clear
+/effect clear

@@ -1,18 +1,18 @@
 StartupEvents.registry("block", (event) => {
-    event.create("tuff_gravel")
-    .displayName("Tuff Gravel")
-    .hardness(0.6)
-    .resistance(0.6)
-    .gravelSoundType()
-    .requiresTool(false)
-    .tagBlock("mineable/shovel")
-    event.create("deepslate_gravel")
-    .displayName("Deepslate Gravel")
-    .hardness(0.6)
-    .resistance(0.6)
-    .gravelSoundType()
-    .requiresTool(false)
-    .tagBlock("mineable/shovel")
+    const formatName = (id) => {
+        return id.split('_').map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' ');
+    }
 
-    
+    const blocks = [
+        'tuff', 'deepslate', 'andesite', 'diorite', 'granite'
+    ]
+
+    blocks.forEach(b => {
+        event.create(`${b}_gravel`)
+        .displayName(formatName(`${b}_gravel`)).hardness(0.6)
+        .resistance(0.6)
+        .gravelSoundType()
+        .requiresTool(false)
+        .tagBlock("mineable/shovel")
+    })
 })

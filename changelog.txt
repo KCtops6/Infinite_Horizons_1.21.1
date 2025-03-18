@@ -70,6 +70,7 @@ Added Placebo.
 Updated FTB Library (Forge).
 Updated Puzzles Lib [Forge & Fabric].
 Updated Sophisticated Backpacks.
+Updated Sophisticated Core.
 Updated Sophisticated Storage.
 Updated Waystones.
 

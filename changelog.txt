@@ -61,6 +61,8 @@ Started Gamma Questline.
 1.21.1-1.1-Beta
 Added Apothic Attributes (AttributesLib).
 Added Applied Energistics 2.
+Added Default Server Properties.
+Updated Default World Type [Forge].
 Added FTB Filter System.
 Added Gateways to Eternity.
 Added Generator Galore.

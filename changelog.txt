@@ -69,6 +69,7 @@ Added Generator Galore.
 Added GuideME.
 Added Placebo.
 
+Updated Balm.
 Updated FTB Library (Forge).
 Updated Puzzles Lib [Forge & Fabric].
 Updated Sophisticated Backpacks.

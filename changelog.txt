@@ -71,6 +71,7 @@ Added Placebo.
 
 Updated Balm.
 Updated FTB Library (Forge).
+Updated JourneyMap.
 Updated Puzzles Lib [Forge & Fabric].
 Updated Sophisticated Backpacks.
 Updated Sophisticated Core.

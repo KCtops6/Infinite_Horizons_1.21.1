@@ -1,0 +1,181 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "test"
+	group: "27107C3FACFEC18E"
+	icon: {
+		id: "minecraft:spruce_door"
+	}
+	id: "1290D2614EC9828A"
+	images: [{
+		height: 1.0d
+		image: "minecraft:block/ancient_debris_side"
+		rotation: 0.0d
+		width: 1.0d
+		x: 2.5d
+		y: -8.0d
+	}]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "3DA1DEC9395CA411"
+			rewards: [
+				{
+					id: "27780A61C7803F3E"
+					item: {
+						count: 1
+						id: "minecraft:stone_axe"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "226B8DEAE2AFAD6C"
+					item: {
+						count: 1
+						id: "minecraft:apple"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "35DBF5A6561B3A66"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(minecraft:logs)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "5FA71F136051A4CF"
+					item: { count: 1, id: "minecraft:oak_planks" }
+					type: "item"
+				}
+				{
+					id: "604B0F15DAA669D8"
+					item: { count: 1, id: "minecraft:crafting_table" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "0805B28CA8A0FA0E"
+			tasks: [{
+				id: "37F4B258BC469546"
+				points: false
+				type: "xp"
+				value: 100L
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			id: "164104B597748081"
+			tasks: [{
+				dimension: "minecraft:the_end"
+				id: "4CDB7CBDB76C0F32"
+				type: "dimension"
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			id: "615EC4E4244F25F0"
+			tasks: [
+				{
+					entity: "minecraft:piglin_brute"
+					id: "28927C381A9CE949"
+					type: "kill"
+					value: 100L
+				}
+				{
+					id: "44C201ADFC90CF6B"
+					item: { count: 1, id: "minecraft:gold_ingot" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 2.5d
+		}
+		{
+			id: "4EC66C65F8F0F49F"
+			tasks: [{
+				dimension: "minecraft:overworld"
+				id: "16D1AE221DA9293C"
+				ignore_dimension: false
+				position: [I;
+					0
+					0
+					0
+				]
+				size: [I;
+					1
+					1
+					1
+				]
+				type: "location"
+			}]
+			x: 4.5d
+			y: 0.5d
+		}
+		{
+			id: "4560A2A1E9C5FBC3"
+			tasks: [{
+				id: "5071C7B2EC85DAAC"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["3DA1DEC9395CA411"]
+			id: "4D70D802240A6D98"
+			tasks: [{
+				id: "184A9DA8641289D7"
+				observe_type: 0
+				timer: 0L
+				to_observe: "minecraft:cobblestone"
+				type: "observation"
+			}]
+			x: 0.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["3DA1DEC9395CA411"]
+			id: "3EB4F90084E4160E"
+			tasks: [{
+				id: "6CE11F0144E430AB"
+				structure: "minecraft:end_city"
+				type: "structure"
+			}]
+			x: 3.0d
+			y: -4.0d
+		}
+		{
+			id: "3E84C85EB0CB77FF"
+			tasks: [{
+				fluid: {
+					amount: 1000
+					id: "create:honey"
+				}
+				id: "30C9FA7DE0D0F9B5"
+				type: "fluid"
+			}]
+			x: 7.0d
+			y: -2.5d
+		}
+		{
+			id: "7A07DD49F9192477"
+			tasks: [{
+				id: "08F1FA54EE215842"
+				max_input: 1000L
+				type: "forge_energy"
+				value: 100L
+			}]
+			x: 5.0d
+			y: -4.5d
+		}
+	]
+}

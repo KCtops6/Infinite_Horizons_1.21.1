@@ -35,3 +35,7 @@
 /reload
 /clear
 /effect clear
+/ftbquests editing_mode
+/gamerule doDaylightCycle false
+/gamerule doWeatherCycle false
+/ftbquests editing_mode

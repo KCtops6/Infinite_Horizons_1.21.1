@@ -1,4 +1,6 @@
 {
+	chapter.1290D2614EC9828A.chapter_subtitle: ["subtitle"]
+	chapter.1290D2614EC9828A.title: "Test"
 	chapter.17F179085511CF63.title: "Alpha"
 	chapter.1B73F34BAB8F6FCD.chapter_subtitle: ["Power Generation"]
 	chapter.1B73F34BAB8F6FCD.title: "Zeta"
@@ -10,6 +12,7 @@
 	chapter.6B16A1E49845B379.title: "Beta"
 	chapter.76260707B1BAF870.chapter_subtitle: ["Digital Storage"]
 	chapter.76260707B1BAF870.title: "Eta"
+	chapter_group.27107C3FACFEC18E.title: "Test Group"
 	quest.01AEEA186BB50BB0.quest_desc: ["The Nether Portal’s energy doesn’t just bring heat—it also alters stone into valuable resources. If you place Stone near an active portal, it will slowly transform into Nether Quartz Ore. Mine it to collect &lNether Quartz&r, an essential material for redstone components, decorative blocks, and more. Even without stepping into the Nether, you can still harness its unique resources!"]
 	quest.01AEEA186BB50BB0.quest_subtitle: "Harvesting Nether Quartz"
 	quest.01AEEA186BB50BB0.title: "Crystals of the Nether"
@@ -183,6 +186,12 @@
 	]
 	quest.39F9B7656BCFF313.quest_subtitle: "Grow Your Own Coral"
 	quest.39F9B7656BCFF313.title: "Cultivating the Reef"
+	quest.3DA1DEC9395CA411.quest_desc: [
+		"&6find a&r &ltree&r and &ochop&r it &ndown&r."
+		"{image: width:100 height:100 align:center}"
+	]
+	quest.3DA1DEC9395CA411.quest_subtitle: "chop trees down"
+	quest.3DA1DEC9395CA411.title: "Gather wood"
 	quest.3E9EF2ED3C05EE34.quest_desc: ["With &lApatite Seeds&r, you can grow &lApatite Essence&r, a crucial resource for crafting various advanced materials and fertilizers. Plant these seeds to easily harvest apatite without needing to mine or explore deep caverns."]
 	quest.3E9EF2ED3C05EE34.quest_subtitle: "Mineral of Progress"
 	quest.3E9EF2ED3C05EE34.title: "Essence of Apatite"
@@ -320,8 +329,11 @@
 	task.18C58601831336A4.title: "Any #sophisticatedstorage:iron_storages"
 	task.2BBABE6D3F58A4FF.title: "Any #sophisticatedstorage:diamond_upgrades"
 	task.2EC0140CC254EA63.title: "Craft a fluid storage cell."
+	task.35DBF5A6561B3A66.title: "Harvest logs."
 	task.3F38B2A629773F00.title: "Any #sophisticatedstorage:gold_upgrades"
 	task.410A38954F068438.title: "Any #sophisticatedstorage:iron_upgrades"
+	task.4CDB7CBDB76C0F32.title: "go to the end"
+	task.5071C7B2EC85DAAC.title: "check this box"
 	task.522147DE7E3ED21D.title: "Any #sophisticatedstorage:base_tier_wooden_storage"
 	task.5506F1A98B72C7B1.title: "Any #sophisticatedstorage:netherite_storages"
 	task.59AACF98ECAB1132.title: "Any #sophisticatedstorage:diamond_storages"

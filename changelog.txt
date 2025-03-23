@@ -58,6 +58,8 @@ Started Alpha Questline.
 Started Beta Questline.
 Started Gamma Questline.
 
+143 Total Downloads
+
 1.21.1-1.1-Beta
 Added Apothic Attributes (AttributesLib).
 Added Applied Energistics 2.
@@ -84,3 +86,8 @@ Started Delta Questline (for early game storage).
 Started Epsilon Questline (for gateways of eternity).
 Started Zeta Questline (for power generation).
 Started Eta Questline (for digital storage).
+
+1.21.1-1.2-Beta
+Updated Balm.
+Updated GuideME.
+Updated LootJS: KubeJS Addon.

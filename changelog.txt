@@ -92,3 +92,5 @@ Updated Balm.
 Updated GuideME.
 Updated JourneyMap.
 Updated LootJS: KubeJS Addon.
+Updated Sophisticated Core.
+Updated Sophisticated Storage.

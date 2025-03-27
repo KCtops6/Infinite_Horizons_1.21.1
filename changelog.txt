@@ -90,4 +90,5 @@ Started Eta Questline (for digital storage).
 1.21.1-1.2-Beta
 Updated Balm.
 Updated GuideME.
+Updated JourneyMap.
 Updated LootJS: KubeJS Addon.

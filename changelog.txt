@@ -90,6 +90,7 @@ Started Eta Questline (for digital storage).
 1.21.1-1.2-Beta
 Updated Applied Energistics 2.
 Updated Balm.
+Updated Entity Culling Fabric/Forge.
 Updated GuideME.
 Updated JourneyMap.
 Updated LootJS: KubeJS Addon.

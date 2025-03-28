@@ -67,6 +67,9 @@
   "mysticalagradditions": {
     "infused_farmland": true
   },
+  "createsifter": {
+    "sifter_data": true
+  },
   "jade": {
     "coordinates.rel": false,
     "registry_name.special": false,

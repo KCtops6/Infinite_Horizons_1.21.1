@@ -88,6 +88,8 @@ Started Zeta Questline (for power generation).
 Started Eta Questline (for digital storage).
 
 1.21.1-1.2-Beta
+Added Create Sifting.
+
 Updated Applied Energistics 2.
 Updated Balm.
 Updated Entity Culling Fabric/Forge.

@@ -12,5 +12,14 @@
 	id: "2D39554C6E6B5360"
 	order_index: 4
 	quest_links: [ ]
-	quests: [ ]
+	quests: [{
+		id: "72158D4DF26EC533"
+		tasks: [{
+			id: "044D10B8B44EFAB3"
+			item: { components: { "gateways:gateway": "infinite_horizons_2_gateways:basic/wither_skeleton" }, count: 1, id: "gateways:gate_pearl" }
+			type: "item"
+		}]
+		x: 2.0d
+		y: 0.0d
+	}]
 }

@@ -4,7 +4,10 @@
 	filename: "epsilon"
 	group: ""
 	icon: {
-		id: "ae2:wireless_terminal"
+		components: {
+			"gateways:gateway": "gateways:overworldian_nights"
+		}
+		id: "gateways:gate_pearl"
 	}
 	id: "2D39554C6E6B5360"
 	order_index: 4

@@ -917,5 +917,16 @@
 			x: -3.0d
 			y: 7.0d
 		}
+		{
+			dependencies: ["2204AA3E838C4962"]
+			id: "44C56295FAF25823"
+			tasks: [{
+				id: "3FFE030C56F58156"
+				item: { count: 1, id: "minecraft:name_tag" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
 	]
 }

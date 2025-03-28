@@ -94,3 +94,5 @@ Updated JourneyMap.
 Updated LootJS: KubeJS Addon.
 Updated Sophisticated Core.
 Updated Sophisticated Storage.
+
+Added to Alpha questline (quests about villager trades, name tag).

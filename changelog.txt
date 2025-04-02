@@ -92,6 +92,7 @@ Added Create Sifting.
 
 Updated Applied Energistics 2.
 Updated Balm.
+Updated Collective.
 Updated Entity Culling Fabric/Forge.
 Updated GuideME.
 Updated JourneyMap.

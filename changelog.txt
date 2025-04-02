@@ -95,10 +95,11 @@ Updated Balm.
 Updated Collective.
 Updated Cucumber Library.
 Updated Entity Culling Fabric/Forge.
-Updtaed FTB Quests (Forge).
+Updated FTB Quests (Forge).
 Updated GuideME.
 Updated JourneyMap.
 Updated LootJS: KubeJS Addon.
+Updated Moonlight Lib.
 Updated Sophisticated Core.
 Updated Sophisticated Storage.
 

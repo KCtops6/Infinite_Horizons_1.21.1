@@ -101,6 +101,7 @@ Updated JourneyMap.
 Updated LootJS: KubeJS Addon.
 Updated Moonlight Lib.
 Updated Mystical Agradditions.
+Updated Mystical Agriculture.
 Updated Sophisticated Core.
 Updated Sophisticated Storage.
 

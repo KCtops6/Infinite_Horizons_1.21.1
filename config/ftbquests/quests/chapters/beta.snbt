@@ -285,5 +285,16 @@
 			x: 4.0d
 			y: 0.0d
 		}
+		{
+			dependencies: ["04F3232804097839"]
+			id: "170192578F1D5CA0"
+			tasks: [{
+				id: "0071FC7F975E5F3E"
+				item: { count: 1, id: "createsifter:sifter" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 1.0d
+		}
 	]
 }

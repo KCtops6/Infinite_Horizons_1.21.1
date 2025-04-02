@@ -100,6 +100,7 @@ Updated GuideME.
 Updated JourneyMap.
 Updated LootJS: KubeJS Addon.
 Updated Moonlight Lib.
+Updated Mystical Agradditions.
 Updated Sophisticated Core.
 Updated Sophisticated Storage.
 

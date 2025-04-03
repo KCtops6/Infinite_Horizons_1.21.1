@@ -204,5 +204,339 @@
 			x: 1.0d
 			y: -1.0d
 		}
+		{
+			dependencies: [
+				"36DFAA43CB257B34"
+				"28C1E763BD82AE2A"
+			]
+			dependency_requirement: "one_completed"
+			hide_dependency_lines: true
+			id: "6E10A96A4CCAD832"
+			tasks: [{
+				id: "6C11616C65D7F631"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(sophisticated:pickup_upgrades)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["6E10A96A4CCAD832"]
+			dependency_requirement: "one_completed"
+			id: "3BFDD6A1F6A7BF60"
+			tasks: [{
+				id: "137E4FCCE42753C8"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(sophisticated:advanced_pickup_upgrades)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"6E10A96A4CCAD832"
+				"28C1E763BD82AE2A"
+			]
+			dependency_requirement: "one_completed"
+			hide_dependency_lines: true
+			id: "1CEB614F0EE6D84A"
+			tasks: [{
+				id: "40DA8ED52BE6492A"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(sophisticated:magnet_upgrades)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"1CEB614F0EE6D84A"
+				"3BFDD6A1F6A7BF60"
+			]
+			dependency_requirement: "one_completed"
+			id: "7E1BAFFF8D45ECB9"
+			tasks: [{
+				id: "6D73C458FCAB9A85"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(sophisticated:advanced_magnet_upgrades)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"36DFAA43CB257B34"
+				"28C1E763BD82AE2A"
+			]
+			dependency_requirement: "one_completed"
+			hide_dependency_lines: true
+			id: "1ACC567F6C58C5BF"
+			tasks: [{
+				id: "5479C4378BCFF9F5"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(sophisticated:filter_upgrades)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["28C1E763BD82AE2A"]
+			hide_dependency_lines: true
+			id: "373A563CBA4BA72B"
+			tasks: [{
+				id: "4725A209FD017CF8"
+				item: { count: 1, id: "sophisticatedbackpacks:inception_upgrade" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["62DBB6855DF2639C"]
+			id: "28C1E763BD82AE2A"
+			tasks: [{
+				id: "0DDB40F4F0DE041D"
+				item: { count: 1, id: "sophisticatedbackpacks:backpack" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["28C1E763BD82AE2A"]
+			hide_dependency_lines: true
+			id: "7581EB730BEB3046"
+			tasks: [{
+				id: "1FA46791557B5FD7"
+				item: { count: 1, id: "sophisticatedbackpacks:everlasting_upgrade" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["1ACC567F6C58C5BF"]
+			dependency_requirement: "one_completed"
+			id: "7AD271A567CB489D"
+			tasks: [{
+				id: "159C9E809E5BBFD8"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(sophisticated:advanced_filter_upgrades)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"36DFAA43CB257B34"
+				"28C1E763BD82AE2A"
+			]
+			dependency_requirement: "one_completed"
+			hide_dependency_lines: true
+			id: "3D3D1BBCFBD21B1D"
+			tasks: [{
+				id: "684423D2B76D2981"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(sophisticated:feeding_upgrades)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["3D3D1BBCFBD21B1D"]
+			dependency_requirement: "one_completed"
+			id: "1BDB3D8C72C1EF73"
+			tasks: [{
+				id: "55108392EA23FEC5"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(sophisticated:advanced_feeding_upgrades)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"36DFAA43CB257B34"
+				"28C1E763BD82AE2A"
+			]
+			dependency_requirement: "one_completed"
+			hide_dependency_lines: true
+			id: "7ED725C014AA66D3"
+			tasks: [{
+				id: "5706085FFADF5FB5"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(sophisticated:compacting_upgrades)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["7ED725C014AA66D3"]
+			dependency_requirement: "one_completed"
+			id: "748551ECE963BFC3"
+			tasks: [{
+				id: "081F16B216B3A4E0"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(sophisticated:advanced_compacting_upgrades)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"36DFAA43CB257B34"
+				"28C1E763BD82AE2A"
+			]
+			dependency_requirement: "one_completed"
+			hide_dependency_lines: true
+			id: "69E25B78BCD749AE"
+			tasks: [{
+				id: "77D7C9FB811D97C1"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(sophisticated:void_upgrades)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"36DFAA43CB257B34"
+				"28C1E763BD82AE2A"
+			]
+			dependency_requirement: "one_completed"
+			hide_dependency_lines: true
+			id: "0D66A37D53419A9A"
+			tasks: [{
+				id: "53C2C947DC840D17"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(sophisticated:smelting_upgrades)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["69E25B78BCD749AE"]
+			id: "243F93D5015DBB86"
+			tasks: [{
+				id: "30319FC6F26BC172"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(sophisticated:advanced_void_upgrades)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"36DFAA43CB257B34"
+				"28C1E763BD82AE2A"
+			]
+			dependency_requirement: "one_completed"
+			hide_dependency_lines: true
+			id: "636E6557DC510B53"
+			tasks: [{
+				id: "28E2BD21ADC08C2D"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(sophisticated:blasting_upgrades)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"36DFAA43CB257B34"
+				"28C1E763BD82AE2A"
+			]
+			dependency_requirement: "one_completed"
+			hide_dependency_lines: true
+			id: "5830582C7EF06C4D"
+			tasks: [{
+				id: "25812E1A01567F7C"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(sophisticated:smoking_upgrades)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0D66A37D53419A9A"]
+			id: "4E424AEB3B16FC9D"
+			tasks: [{
+				id: "049328BEB49A0C63"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(sophisticated:auto_smelting_upgrades)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["636E6557DC510B53"]
+			id: "0BDC834FE7C753CA"
+			tasks: [{
+				id: "23F9812A10B9EDCF"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(sophisticated:auto_blasting_upgrades)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["5830582C7EF06C4D"]
+			id: "1061F1EF1450AE84"
+			tasks: [{
+				id: "426C6EF46092E0A3"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(sophisticated:auto_smoking_upgrades)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"36DFAA43CB257B34"
+				"28C1E763BD82AE2A"
+			]
+			dependency_requirement: "one_completed"
+			hide_dependency_lines: true
+			id: "7110C3C417B838DF"
+			tasks: [{
+				id: "52D9230F4ED65A75"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(sophisticated:crafting_upgrades)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"36DFAA43CB257B34"
+				"28C1E763BD82AE2A"
+			]
+			dependency_requirement: "one_completed"
+			hide_dependency_lines: true
+			id: "77E455245DFA9566"
+			tasks: [{
+				id: "68703082EA0761EC"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(sophisticated:stonecutter_upgrades)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"36DFAA43CB257B34"
+				"28C1E763BD82AE2A"
+			]
+			dependency_requirement: "one_completed"
+			hide_dependency_lines: true
+			id: "132AF77C9971D59A"
+			tasks: [{
+				id: "27463C7E95164614"
+				item: { count: 1, id: "sophisticatedstorage:hopper_upgrade" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 4.0d
+		}
 	]
 }

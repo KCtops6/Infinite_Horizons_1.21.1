@@ -25,4 +25,16 @@ ServerEvents.tags('item', event => {
     netherite_upgrades.forEach(u => {
         event.add(`sophisticatedstorage:netherite_upgrades`, `sophisticatedstorage:${u}_to_netherite_tier_upgrade`)
     })
+
+    const upgrades = [
+        'pickup', 'advanced_pickup', 'filter', 'advanced_filter', 'magnet', 'advanced_magnet', 'feeding', 'advanced_feeding',
+        'compacting', 'advanced_compacting', 'void', 'advanced_void', 'restock', 'advanced_restock', 'deposit', 'advanced_deposit',
+        'refill', 'advanced_refill', 'smelting', 'auto_smelting', 'blasting', 'auto_blasting', 'smoking', 'auto_smoking',
+        'crafting', 'stonecutter', 'stack_downgrade_tier_1', 'stack_downgrade_tier_2', 'stack_downgrade_tier_3',
+        'jukebox', 'advanced_jukebox', 'pump', 'advanced_pump', 'xp_pump'
+    ]
+
+    upgrades.forEach(u => {
+        event.add(`sophisticated:${u}_upgrades`, [`sophisticatedbackpacks:${u}_upgrade`, `sophisticatedstorage:${u}_upgrade`])
+    })
 })

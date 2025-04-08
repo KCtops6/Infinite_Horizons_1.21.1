@@ -109,4 +109,4 @@ Updated Sophisticated Storage.
 
 Added to Alpha questline (quests about villager trades, name tag).
 Updated Beta questline.
-Updated Delta questline.
+GuideME.

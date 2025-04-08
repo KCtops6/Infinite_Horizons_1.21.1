@@ -1,6 +1,3 @@
-/datapack list
-/reload
-/datapack list
 /reload
 /gamemode survival
 /gamemode creative
@@ -48,3 +45,6 @@
 /kubejs hand
 /summon minecraft:pig
 /clear
+/setblock ~ ~ ~ chest{LootTable:"chests/simple_dungeon"} replace
+/setblock ~ ~ ~ chest{LootTable:"chests/village_weaponsmith"} replace
+/setblock ~ ~ ~ chest{LootTable:"chests/village/village_weaponsmith"} replace

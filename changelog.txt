@@ -115,4 +115,5 @@ Updated Sophisticated Storage.
 
 Added to Alpha questline (quests about villager trades, name tag).
 Updated Beta questline.
-GuideME.
+
+Removed oak saplings and saddle from village weaponsmith loot table.

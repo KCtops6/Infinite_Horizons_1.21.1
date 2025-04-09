@@ -90,7 +90,6 @@ Started Eta Questline (for digital storage).
 1.21.1-1.2-Beta
 Added Create Sifting.
 Added Pam's HarvestCraft 2 - Crops.
-Added Pam's HarvestCraft 2 - Fantasy.
 Added Pam's HarvestCraft 2 - Food Core.
 Added Pam's HarvestCraft 2 - Food Extended.
 Added Pam's HarvestCraft 2 - Trees.
@@ -115,5 +114,5 @@ Updated Sophisticated Storage.
 
 Added to Alpha questline (quests about villager trades, name tag).
 Updated Beta questline.
-
+Created custom gateways for progression (https://legacy.curseforge.com/minecraft/data-packs/infinite-horizons-2-gateways).
 Removed oak saplings and saddle from village weaponsmith loot table.

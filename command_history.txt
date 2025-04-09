@@ -1,8 +1,4 @@
 /reload
-/gamemode survival
-/gamemode creative
-/effect give KCtops6 minecraft:strength infinite 255
-/reload
 /rek
 /reload
 /clear
@@ -48,3 +44,7 @@
 /setblock ~ ~ ~ chest{LootTable:"chests/simple_dungeon"} replace
 /setblock ~ ~ ~ chest{LootTable:"chests/village_weaponsmith"} replace
 /setblock ~ ~ ~ chest{LootTable:"chests/village/village_weaponsmith"} replace
+/reload
+/give KCtops6 minecraft:golden_apple
+/clear
+/reload

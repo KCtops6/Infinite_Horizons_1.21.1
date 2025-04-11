@@ -114,5 +114,6 @@ Updated Sophisticated Storage.
 
 Added to Alpha questline (quests about villager trades, name tag).
 Updated Beta questline.
+Updated Epsilon questline.
 Created custom gateways for progression (https://legacy.curseforge.com/minecraft/data-packs/infinite-horizons-2-gateways).
 Removed oak saplings and saddle from village weaponsmith loot table.

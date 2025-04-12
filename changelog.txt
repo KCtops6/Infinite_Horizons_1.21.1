@@ -120,5 +120,8 @@ Created custom gateways for progression (https://legacy.curseforge.com/minecraft
 Removed oak saplings and saddle from village weaponsmith loot table.
 
 1.21.1-1.2b-Beta
+Updated Sophisticated Core.
+Updated Sophisticated Storage.
+
 Fixed hammers script.
 Given Iron Hammer, Diamond Hammer, and Netherite Hammer (latter two NYI) the ability of the stone hammer.

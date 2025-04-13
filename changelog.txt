@@ -127,5 +127,7 @@ Fixed hammers script.
 Given Iron Hammer, Diamond Hammer, and Netherite Hammer (latter two NYI) the ability of the stone hammer.
 
 1.21.1-1.3-Beta
+Added ModernFix.
+
 Updated Balm.
 Updated Waystones.

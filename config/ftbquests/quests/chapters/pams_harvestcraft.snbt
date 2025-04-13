@@ -157,15 +157,5 @@
 			x: 1.0d
 			y: 1.0d
 		}
-		{
-			id: "24DD6C60ED804CF2"
-			tasks: [{
-				id: "6917013C4FCC4787"
-				item: { count: 1, id: "pamhc2foodextended:blackberrysmoothieitem" }
-				type: "item"
-			}]
-			x: 1.0d
-			y: -4.0d
-		}
 	]
 }

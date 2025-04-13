@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "beta"
-	group: ""
+	group: "315F05EC1C91DE0B"
 	icon: {
 		id: "create:andesite_alloy"
 	}

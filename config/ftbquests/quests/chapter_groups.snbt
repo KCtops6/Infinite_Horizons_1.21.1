@@ -1,3 +1,11 @@
 {
-	chapter_groups: [{ id: "650B408990186E73" }]
+	chapter_groups: [
+		{ id: "650B408990186E73" }
+		{ id: "315F05EC1C91DE0B" }
+		{ id: "16E846EDFB82BF5E" }
+		{ id: "2E80E5A65C333522" }
+		{ id: "302395001647454F" }
+		{ id: "44896694C1F231C3" }
+		{ id: "0ACDAC097705746A" }
+	]
 }

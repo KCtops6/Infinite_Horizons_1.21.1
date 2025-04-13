@@ -2,12 +2,12 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "zeta"
-	group: ""
+	group: "44896694C1F231C3"
 	icon: {
 		id: "generatorgalore:iron_generator"
 	}
 	id: "1B73F34BAB8F6FCD"
-	order_index: 4
+	order_index: 0
 	quest_links: [ ]
 	quests: [
 		{

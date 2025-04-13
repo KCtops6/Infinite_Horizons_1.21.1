@@ -2,12 +2,12 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "delta"
-	group: ""
+	group: "2E80E5A65C333522"
 	icon: {
 		id: "minecraft:chest"
 	}
 	id: "2F34CC58AE75DDE7"
-	order_index: 2
+	order_index: 0
 	quest_links: [ ]
 	quests: [
 		{

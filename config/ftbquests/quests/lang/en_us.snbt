@@ -2,15 +2,21 @@
 	chapter.120EED8195D4B10C.title: "Pam's Harvestcraft"
 	chapter.17F179085511CF63.title: "Vanilla"
 	chapter.1B73F34BAB8F6FCD.chapter_subtitle: ["Power Generation"]
-	chapter.1B73F34BAB8F6FCD.title: "Zeta"
-	chapter.247639ED7F0AF536.title: "Gamma"
+	chapter.1B73F34BAB8F6FCD.title: "Generators Galore"
+	chapter.247639ED7F0AF536.title: "Mystical Agriculture"
 	chapter.2D39554C6E6B5360.chapter_subtitle: ["Gateways of Eternity"]
-	chapter.2D39554C6E6B5360.title: "Epsilon"
+	chapter.2D39554C6E6B5360.title: "Gateways of Eternity"
 	chapter.2F34CC58AE75DDE7.chapter_subtitle: ["Early-Game \"Non-Digital\" Storage"]
-	chapter.2F34CC58AE75DDE7.title: "Delta"
-	chapter.6B16A1E49845B379.title: "Beta"
+	chapter.2F34CC58AE75DDE7.title: "Sophisticated Mods"
+	chapter.6B16A1E49845B379.title: "Create"
 	chapter.76260707B1BAF870.chapter_subtitle: ["Digital Storage"]
-	chapter.76260707B1BAF870.title: "Eta"
+	chapter.76260707B1BAF870.title: "Applied Energistics"
+	chapter_group.0ACDAC097705746A.title: "Eta"
+	chapter_group.16E846EDFB82BF5E.title: "Gamma"
+	chapter_group.2E80E5A65C333522.title: "Delta"
+	chapter_group.302395001647454F.title: "Epsilon"
+	chapter_group.315F05EC1C91DE0B.title: "Beta"
+	chapter_group.44896694C1F231C3.title: "Zeta"
 	chapter_group.650B408990186E73.title: "Alpha"
 	quest.01AEEA186BB50BB0.quest_desc: ["The Nether Portal’s energy doesn’t just bring heat—it also alters stone into valuable resources. If you place Stone near an active portal, it will slowly transform into Nether Quartz Ore. Mine it to collect &lNether Quartz&r, an essential material for redstone components, decorative blocks, and more. Even without stepping into the Nether, you can still harness its unique resources!"]
 	quest.01AEEA186BB50BB0.quest_subtitle: "Harvesting Nether Quartz"

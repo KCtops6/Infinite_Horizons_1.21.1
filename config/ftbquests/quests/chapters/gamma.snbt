@@ -2,12 +2,12 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "gamma"
-	group: ""
+	group: "16E846EDFB82BF5E"
 	icon: {
 		id: "mysticalagriculture:inferium_essence"
 	}
 	id: "247639ED7F0AF536"
-	order_index: 1
+	order_index: 0
 	quest_links: [ ]
 	quests: [
 		{

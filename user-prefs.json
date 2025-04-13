@@ -5494,6 +5494,10 @@
         "isSelected": false
       },
       {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\a8\\a87beb58211e353e91675c3907144dec_16.png",
+        "isSelected": false
+      },
+      {
         "path": "local\\kubejs\\cache\\web\\img\\item\\a8\\a87beb58211e353e91675c3907144dec_64.png",
         "isSelected": false
       },
@@ -6174,7 +6178,11 @@
         "isSelected": false
       },
       {
-        "path": "logs\\telemetry\\20250411-1.json",
+        "path": "logs\\telemetry\\20250411-1.json.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\telemetry\\20250411-2.json",
         "isSelected": false
       },
       {
@@ -6375,6 +6383,10 @@
       },
       {
         "path": "logs\\2025-04-09-2.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-04-11-1.log.gz",
         "isSelected": false
       },
       {
@@ -6654,11 +6666,11 @@
         "isSelected": true
       },
       {
-        "path": "mods\\sophisticatedcore-1.21.1-1.3.22.941.jar",
+        "path": "mods\\sophisticatedcore-1.21.1-1.3.23.944.jar",
         "isSelected": true
       },
       {
-        "path": "mods\\sophisticatedstorage-1.21.1-1.4.14.1108.jar",
+        "path": "mods\\sophisticatedstorage-1.21.1-1.4.17.1113.jar",
         "isSelected": true
       },
       {
@@ -6855,6 +6867,10 @@
       },
       {
         "path": "saves\\New World\\datapacks\\restrictedportals\\pack.mcmeta",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\datapacks\\1.21.1-1.0.zip",
         "isSelected": false
       },
       {

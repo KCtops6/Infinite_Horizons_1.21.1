@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "alpha"
-	group: ""
+	group: "650B408990186E73"
 	icon: {
 		id: "minecraft:oak_log"
 	}

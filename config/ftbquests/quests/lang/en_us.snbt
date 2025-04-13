@@ -1,5 +1,6 @@
 {
-	chapter.17F179085511CF63.title: "Alpha"
+	chapter.120EED8195D4B10C.title: "Pam's Harvestcraft"
+	chapter.17F179085511CF63.title: "Vanilla"
 	chapter.1B73F34BAB8F6FCD.chapter_subtitle: ["Power Generation"]
 	chapter.1B73F34BAB8F6FCD.title: "Zeta"
 	chapter.247639ED7F0AF536.title: "Gamma"
@@ -322,6 +323,7 @@
 	quest.7F0AC6B1D0CCBDE4.quest_subtitle: "Stone of Strength"
 	quest.7F0AC6B1D0CCBDE4.title: "Essence of Limestone"
 	task.049328BEB49A0C63.title: "Any #sophisticated:auto_smelting_upgrades"
+	task.05A1297F925E6922.title: "Craft a Juice Item."
 	task.081F16B216B3A4E0.title: "Any #sophisticated:advanced_compacting_upgrades"
 	task.09B393CC04B069E1.title: "Any #sophisticatedstorage:netherite_upgrades"
 	task.1002B199F4A7DDC3.title: "Observe a Grindstone"
@@ -359,6 +361,7 @@
 	task.5706085FFADF5FB5.title: "Any #sophisticated:compacting_upgrades"
 	task.57C3AB6C7C5750BB.title: "Obtain Iron Armor from an Armorer Villager."
 	task.59AACF98ECAB1132.title: "Any #sophisticatedstorage:diamond_storages"
+	task.5A702F712D92A8C9.title: "Any #c:cheese"
 	task.5A9ADEB7C349E1CA.title: "Craft an item storage cell."
 	task.6335A2495218B5F6.title: "Any #sophisticatedstorage:upgrade"
 	task.6509A635775E13FF.title: "Rotational Energy Setup"
@@ -367,6 +370,7 @@
 	task.6C11616C65D7F631.title: "Any #sophisticated:pickup_upgrades"
 	task.6D73C458FCAB9A85.title: "Any #sophisticated:advanced_magnet_upgrades"
 	task.6F526BEC8B38F756.title: "Any #sophisticatedstorage:copper_storages"
+	task.779D6F34909CC0A0.title: "Any #c:jellies"
 	task.77D7C9FB811D97C1.title: "Any #sophisticated:void_upgrades"
 	task.7DC414DB130CC223.title: "Craft a digital crafting storage block."
 }

@@ -141,6 +141,7 @@ Updated Moonlight Lib.
 Updated Placebo.
 Updated Sophisticated Backpacks.
 Updated Sophisticated Core.
+Updated Sophisticated Storage.
 Updated Waystones.
 
 Edited Alpha Questline into Alpha Chapter Group (with Vanilla and Pam's Harvestcraft questlines).

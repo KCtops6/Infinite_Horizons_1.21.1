@@ -131,6 +131,7 @@ Added ModernFix.
 
 Updated Apothic Attributes (AttributesLib).
 Updated Balm.
+Updated Collective.
 Updated Waystones.
 
 Edited Alpha Questline into Alpha Chapter Group (with Vanilla and Pam's Harvestcraft questlines).

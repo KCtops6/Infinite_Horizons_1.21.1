@@ -130,6 +130,7 @@ Given Iron Hammer, Diamond Hammer, and Netherite Hammer (latter two NYI) the abi
 Added ModernFix.
 
 Updated Apothic Attributes (AttributesLib).
+Updated Applied Energistics 2.
 Updated Balm.
 Updated Collective.
 Updated Create Sifting.

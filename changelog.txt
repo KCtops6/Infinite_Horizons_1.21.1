@@ -159,3 +159,4 @@ Updated Cucumber Library.
 Updated FTB Library (Forge).
 Updated GuideME.
 Updated JourneyMap.
+Updated Just Enough Resources (JER).

@@ -157,3 +157,4 @@ Updated Applied Energistics 2.
 Updated Cobblegen Galore.
 Updated Cucumber Library.
 Updated FTB Library (Forge).
+Updated GuideME.

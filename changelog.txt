@@ -162,3 +162,4 @@ Updated JourneyMap.
 Updated Just Enough Resources (JER).
 Updated Mystical Agradditions.
 Updated Mystical Agriculture.
+Updated Puzzles Lib [Forge & Fabric].

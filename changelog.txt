@@ -158,3 +158,4 @@ Updated Cobblegen Galore.
 Updated Cucumber Library.
 Updated FTB Library (Forge).
 Updated GuideME.
+Updated JourneyMap.

@@ -68,7 +68,7 @@
     "infused_farmland": true
   },
   "createsifter": {
-    "sifter_data": true
+    "data": true
   },
   "jade": {
     "coordinates.rel": false,

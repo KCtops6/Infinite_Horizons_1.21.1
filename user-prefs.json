@@ -122,6 +122,10 @@
         "isSelected": true
       },
       {
+        "path": "config\\ftbquests\\quests\\chapters\\pams_harvestcraft.snbt",
+        "isSelected": true
+      },
+      {
         "path": "config\\ftbquests\\quests\\chapters\\zeta.snbt",
         "isSelected": true
       },
@@ -330,6 +334,14 @@
         "isSelected": true
       },
       {
+        "path": "config\\balm-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\balm-common-1.toml.bak",
+        "isSelected": true
+      },
+      {
         "path": "config\\balm-common.toml",
         "isSelected": true
       },
@@ -510,6 +522,14 @@
         "isSelected": true
       },
       {
+        "path": "config\\modernfix-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\modernfix-mixins.properties",
+        "isSelected": true
+      },
+      {
         "path": "config\\moonlight-client.toml",
         "isSelected": true
       },
@@ -618,6 +638,10 @@
         "isSelected": true
       },
       {
+        "path": "config\\villagespawnpoint.json5",
+        "isSelected": true
+      },
+      {
         "path": "config\\visualworkbench-client.toml",
         "isSelected": true
       },
@@ -630,6 +654,10 @@
         "isSelected": true
       },
       {
+        "path": "config\\waystones-common-2.toml.bak",
+        "isSelected": true
+      },
+      {
         "path": "config\\waystones-common.toml",
         "isSelected": true
       },
@@ -639,6 +667,10 @@
       },
       {
         "path": "crash-reports\\crash-2025-04-09_09.16.38-fml.txt",
+        "isSelected": false
+      },
+      {
+        "path": "crash-reports\\crash-2025-04-25_09.00.45-fml.txt",
         "isSelected": false
       },
       {
@@ -4550,6 +4582,14 @@
         "isSelected": false
       },
       {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\0b",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\0b\\0bffdcf893443062a0d9a8dcfdb03756_16.png",
+        "isSelected": false
+      },
+      {
         "path": "local\\kubejs\\cache\\web\\img\\item\\0d",
         "isSelected": false
       },
@@ -4567,6 +4607,10 @@
       },
       {
         "path": "local\\kubejs\\cache\\web\\img\\item\\10",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\10\\102aeba96b603a6da36fd4339c8c80b4_16.png",
         "isSelected": false
       },
       {
@@ -4591,6 +4635,14 @@
       },
       {
         "path": "local\\kubejs\\cache\\web\\img\\item\\17\\1741ec087ec53baf9321e02d191081e5_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\18",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\18\\1846f4bbcf5c3564a01f012918d656d4_16.png",
         "isSelected": false
       },
       {
@@ -4686,6 +4738,14 @@
         "isSelected": false
       },
       {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\25",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\25\\2532580a219f32dcbbd2e87afdafd177_16.png",
+        "isSelected": false
+      },
+      {
         "path": "local\\kubejs\\cache\\web\\img\\item\\26",
         "isSelected": false
       },
@@ -4750,11 +4810,19 @@
         "isSelected": false
       },
       {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\2c\\2cb8b15a79023c81828c69ec4426dd95_16.png",
+        "isSelected": false
+      },
+      {
         "path": "local\\kubejs\\cache\\web\\img\\item\\2d",
         "isSelected": false
       },
       {
         "path": "local\\kubejs\\cache\\web\\img\\item\\2d\\2d16a69a40593e8ca85d5a6408f110f0_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\2d\\2d3c5c73e9273c11b746acce26187d34_16.png",
         "isSelected": false
       },
       {
@@ -4767,6 +4835,10 @@
       },
       {
         "path": "local\\kubejs\\cache\\web\\img\\item\\2e\\2e0a08a4134c30e0b8befd9f9e0fffc8_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\2e\\2e965c53eeff3c7eac3df38fc8941683_16.png",
         "isSelected": false
       },
       {
@@ -4890,7 +4962,19 @@
         "isSelected": false
       },
       {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\42\\421f3b9e2669306ca232a472dbd6b313_16.png",
+        "isSelected": false
+      },
+      {
         "path": "local\\kubejs\\cache\\web\\img\\item\\42\\425374ae21a23289ae34c81930f48960_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\43",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\43\\438a02c7df223fe7a53719d31a4b9a8c_16.png",
         "isSelected": false
       },
       {
@@ -4903,6 +4987,10 @@
       },
       {
         "path": "local\\kubejs\\cache\\web\\img\\item\\44\\4460be4207073d578e2fb3b929df0c6b_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\44\\4482a2a0cacb38feb095106c190ac61e_16.png",
         "isSelected": false
       },
       {
@@ -4931,6 +5019,10 @@
       },
       {
         "path": "local\\kubejs\\cache\\web\\img\\item\\4a\\4a9a525326ae3b5b89daa8cc1d84dde1_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\4a\\4a9ca5edce263efe9bcdb7c18d04dc47_16.png",
         "isSelected": false
       },
       {
@@ -4991,6 +5083,10 @@
       },
       {
         "path": "local\\kubejs\\cache\\web\\img\\item\\50\\5072c7e7e1393418aaeebdbe2c495e83_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\50\\50e48ac023a23b1db9896dffbedec9e9_16.png",
         "isSelected": false
       },
       {
@@ -5170,6 +5266,10 @@
         "isSelected": false
       },
       {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\6f\\6fbf0aee44603d5282013087db8c18f7_16.png",
+        "isSelected": false
+      },
+      {
         "path": "local\\kubejs\\cache\\web\\img\\item\\70",
         "isSelected": false
       },
@@ -5219,6 +5319,10 @@
       },
       {
         "path": "local\\kubejs\\cache\\web\\img\\item\\77",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\77\\7730d7bf835b3f3191eff406e062c529_16.png",
         "isSelected": false
       },
       {
@@ -5358,6 +5462,10 @@
         "isSelected": false
       },
       {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\8f\\8f049f0d8b22382e9b8070d029377be8_16.png",
+        "isSelected": false
+      },
+      {
         "path": "local\\kubejs\\cache\\web\\img\\item\\8f\\8f2f74da66b03e2a98257f51448d75f0_16.png",
         "isSelected": false
       },
@@ -5410,6 +5518,10 @@
         "isSelected": false
       },
       {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\9b\\9b66b92dd681363db0925d031279222a_16.png",
+        "isSelected": false
+      },
+      {
         "path": "local\\kubejs\\cache\\web\\img\\item\\9b\\9bc80940179c355baffed39d8132e173_16.png",
         "isSelected": false
       },
@@ -5435,6 +5547,14 @@
       },
       {
         "path": "local\\kubejs\\cache\\web\\img\\item\\9f\\9fcc798ab0473dbdbf36d930f1429edd_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\a0",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\a0\\a0b998aed6a63a1b8ebeeee6451f43a5_16.png",
         "isSelected": false
       },
       {
@@ -5483,6 +5603,10 @@
       },
       {
         "path": "local\\kubejs\\cache\\web\\img\\item\\a7\\a765d7a1905c3397a90ebdf5a212feec_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\a7\\a7b23956a4f4371f98ca455722f8fe5c_16.png",
         "isSelected": false
       },
       {
@@ -5542,6 +5666,14 @@
         "isSelected": false
       },
       {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\af",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\af\\afc56879ebd33b7689752e9a08abd822_16.png",
+        "isSelected": false
+      },
+      {
         "path": "local\\kubejs\\cache\\web\\img\\item\\b0",
         "isSelected": false
       },
@@ -5555,6 +5687,10 @@
       },
       {
         "path": "local\\kubejs\\cache\\web\\img\\item\\b1",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\b1\\b13d68a7ec2332708c3f602c7d24bb80_16.png",
         "isSelected": false
       },
       {
@@ -5610,6 +5746,14 @@
         "isSelected": false
       },
       {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\b7",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\b7\\b707470aa3653545a5eda60f2559b443_16.png",
+        "isSelected": false
+      },
+      {
         "path": "local\\kubejs\\cache\\web\\img\\item\\b9",
         "isSelected": false
       },
@@ -5619,6 +5763,10 @@
       },
       {
         "path": "local\\kubejs\\cache\\web\\img\\item\\ba",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\ba\\ba939e309afa39a78ff926a276544042_16.png",
         "isSelected": false
       },
       {
@@ -5735,6 +5883,14 @@
       },
       {
         "path": "local\\kubejs\\cache\\web\\img\\item\\cd\\cd7271afb2103b90a36865bf92ca0dfd_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\ce",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\ce\\ce5402be1d9e3a5b9c441f243682520d_16.png",
         "isSelected": false
       },
       {
@@ -5878,11 +6034,23 @@
         "isSelected": false
       },
       {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\df",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\df\\df8ccd35dc883124a9eb27231bb094d7_16.png",
+        "isSelected": false
+      },
+      {
         "path": "local\\kubejs\\cache\\web\\img\\item\\e1",
         "isSelected": false
       },
       {
         "path": "local\\kubejs\\cache\\web\\img\\item\\e1\\e161ca73fb6930ac9820c38897c48eea_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\e1\\e16a4f21ad243809b7307190eab5d30a_16.png",
         "isSelected": false
       },
       {
@@ -5902,11 +6070,27 @@
         "isSelected": false
       },
       {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\e4",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\e4\\e47f3b423ab53dd2a97e41ec9373094f_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\e4\\e4d7ed6729003fe6a60bb51b99c751ff_16.png",
+        "isSelected": false
+      },
+      {
         "path": "local\\kubejs\\cache\\web\\img\\item\\e5",
         "isSelected": false
       },
       {
         "path": "local\\kubejs\\cache\\web\\img\\item\\e5\\e598544e4d8137f788bd3e96cbc2b4f8_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\e5\\e598544e4d8137f788bd3e96cbc2b4f8_64.png",
         "isSelected": false
       },
       {
@@ -5975,6 +6159,14 @@
       },
       {
         "path": "local\\kubejs\\cache\\web\\img\\item\\f0\\f0a570e001ef36ae9fe48dd780c507c8_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\f2",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\f2\\f29f8963e1af3fa494361e5f9eae708a_16.png",
         "isSelected": false
       },
       {
@@ -6058,11 +6250,27 @@
         "isSelected": false
       },
       {
+        "path": "local\\kubejs\\cache\\web\\img\\item_tag\\57",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item_tag\\57\\57be56f1071c3f2b82edbf718f569b7b_16.gif",
+        "isSelected": false
+      },
+      {
         "path": "local\\kubejs\\cache\\web\\img\\item_tag\\68",
         "isSelected": false
       },
       {
         "path": "local\\kubejs\\cache\\web\\img\\item_tag\\68\\687a881705ea3853ad4158503e13de97_16.gif",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item_tag\\9b",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item_tag\\9b\\9bd3a0796db63d7f8d8ed33f1534ce90_16.gif",
         "isSelected": false
       },
       {
@@ -6166,23 +6374,7 @@
         "isSelected": false
       },
       {
-        "path": "logs\\telemetry\\20250408-1.json.gz",
-        "isSelected": false
-      },
-      {
-        "path": "logs\\telemetry\\20250409-1.json.gz",
-        "isSelected": false
-      },
-      {
-        "path": "logs\\telemetry\\20250409-2.json.gz",
-        "isSelected": false
-      },
-      {
-        "path": "logs\\telemetry\\20250411-1.json.gz",
-        "isSelected": false
-      },
-      {
-        "path": "logs\\telemetry\\20250411-2.json",
+        "path": "logs\\telemetry\\20250425-1.json.gz",
         "isSelected": false
       },
       {
@@ -6390,6 +6582,22 @@
         "isSelected": false
       },
       {
+        "path": "logs\\2025-04-11-2.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-04-13-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-04-14-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-04-25-1.log.gz",
+        "isSelected": false
+      },
+      {
         "path": "logs\\debug-1.log.gz",
         "isSelected": false
       },
@@ -6430,7 +6638,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\ApothicAttributes-1.21.1-2.7.0.jar",
+        "path": "mods\\ApothicAttributes-1.21.1-2.8.0.jar",
         "isSelected": true
       },
       {
@@ -6438,7 +6646,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\appliedenergistics2-19.2.8.jar",
+        "path": "mods\\appliedenergistics2-19.2.9.jar",
         "isSelected": true
       },
       {
@@ -6446,7 +6654,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\balm-neoforge-1.21.1-21.0.38.jar",
+        "path": "mods\\balm-neoforge-1.21.1-21.0.41.jar",
         "isSelected": true
       },
       {
@@ -6458,7 +6666,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\collective-1.21.1-8.1.jar",
+        "path": "mods\\collective-1.21.1-8.3.jar",
         "isSelected": true
       },
       {
@@ -6470,7 +6678,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\createsifter-1.21.1-2.0.3-6.0.4.jar",
+        "path": "mods\\createsifter-1.21.1-2.0.7-6.0.4.jar",
         "isSelected": true
       },
       {
@@ -6522,7 +6730,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\ftb-quests-neoforge-2101.1.8.jar",
+        "path": "mods\\ftb-quests-neoforge-2101.1.9.jar",
         "isSelected": true
       },
       {
@@ -6538,7 +6746,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\GatewaysToEternity-1.21.1-5.0.2.jar",
+        "path": "mods\\GatewaysToEternity-1.21.1-5.0.3.jar",
         "isSelected": true
       },
       {
@@ -6558,7 +6766,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\Jade-1.21.1-NeoForge-15.9.2.jar",
+        "path": "mods\\Jade-1.21.1-NeoForge-15.10.0.jar",
         "isSelected": true
       },
       {
@@ -6570,7 +6778,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\JustEnoughResources-NeoForge-1.21.1-1.6.0.13.jar",
+        "path": "mods\\JustEnoughResources-NeoForge-1.21.1-1.6.0.14.jar",
         "isSelected": true
       },
       {
@@ -6590,7 +6798,11 @@
         "isSelected": true
       },
       {
-        "path": "mods\\moonlight-1.21-2.18.5-neoforge.jar",
+        "path": "mods\\modernfix-neoforge-5.21.0+mc1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\moonlight-1.21-2.18.13-neoforge.jar",
         "isSelected": true
       },
       {
@@ -6638,7 +6850,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\Placebo-1.21.1-9.7.1.jar",
+        "path": "mods\\Placebo-1.21.1-9.8.1.jar",
         "isSelected": true
       },
       {
@@ -6662,15 +6874,15 @@
         "isSelected": true
       },
       {
-        "path": "mods\\sophisticatedbackpacks-1.21.1-3.24.5.1219.jar",
+        "path": "mods\\sophisticatedbackpacks-1.21.1-3.24.9.1231.jar",
         "isSelected": true
       },
       {
-        "path": "mods\\sophisticatedcore-1.21.1-1.3.23.944.jar",
+        "path": "mods\\sophisticatedcore-1.21.1-1.3.32.961.jar",
         "isSelected": true
       },
       {
-        "path": "mods\\sophisticatedstorage-1.21.1-1.4.17.1113.jar",
+        "path": "mods\\sophisticatedstorage-1.21.1-1.4.26.1135.jar",
         "isSelected": true
       },
       {
@@ -6682,7 +6894,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\villagespawnpoint-1.21.1-4.5.jar",
+        "path": "mods\\villagespawnpoint-1.21.1-4.6.jar",
         "isSelected": true
       },
       {
@@ -6690,7 +6902,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\waystones-neoforge-1.21.1-21.1.13.jar",
+        "path": "mods\\waystones-neoforge-1.21.1-21.1.17.jar",
         "isSelected": true
       },
       {
@@ -6743,6 +6955,10 @@
       },
       {
         "path": "saves\\New World\\data\\JMPlayerSettings.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\data\\mfix_strongholds.dat",
         "isSelected": false
       },
       {
@@ -7043,6 +7259,10 @@
       },
       {
         "path": "saves\\New World\\playerdata",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\playerdata\\b6ca8b7a-a074-4089-8ae0-1c8c14e73031-15296907084137688144.dat",
         "isSelected": false
       },
       {

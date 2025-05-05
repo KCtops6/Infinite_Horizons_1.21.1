@@ -127,6 +127,8 @@ Fixed hammers script.
 Given Iron Hammer, Diamond Hammer, and Netherite Hammer (latter two NYI) the ability of the stone hammer.
 
 1.21.1-1.3-Beta
+Updated to NeoForge version 21.1.144.
+
 Added ModernFix.
 
 Updated Apothic Attributes (AttributesLib).
@@ -148,3 +150,6 @@ Updated Waystones.
 
 Edited Alpha Questline into Alpha Chapter Group (with Vanilla and Pam's Harvestcraft questlines).
 Started Pam's Harvestcraft Questline (In Alpha).
+
+1.21.1-1.4-Beta
+Updated Almost Unified.

@@ -161,3 +161,4 @@ Updated GuideME.
 Updated JourneyMap.
 Updated Just Enough Resources (JER).
 Updated Mystical Agradditions.
+Updated Mystical Agriculture.

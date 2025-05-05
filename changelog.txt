@@ -165,3 +165,4 @@ Updated Mystical Agriculture.
 Updated Puzzles Lib [Forge & Fabric].
 Updated Sophisticated Backpacks.
 Updated Sophisticated Core.
+Updated Sophisticated Storage.

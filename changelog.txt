@@ -152,7 +152,7 @@ Edited Alpha Questline into Alpha Chapter Group (with Vanilla and Pam's Harvestc
 Started Pam's Harvestcraft Questline (In Alpha).
 
 1.21.1-1.4-Beta
-Added Mechanicals Lib.
+Added Mechanicals Lib (for new version of Create Sifting).
 
 Updated Almost Unified.
 Updated Applied Energistics 2.

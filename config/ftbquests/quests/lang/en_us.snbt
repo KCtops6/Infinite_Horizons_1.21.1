@@ -86,6 +86,8 @@
 	quest.169040E33441DBE9.quest_desc: ["The &lEnchantment Generator&r is a powerful upgrade, taking your energy generation to the next level. With a generation rate of 40 FE/t and a transfer rate of 1,024 FE/t, this generator draws its power from the very essence of enchantments. It consumes energy at a rate of 1 FE/t and offers a buffer capacity of 1,000,000 FE, making it an excellent choice for systems that require both efficiency and substantial energy reserves. Upgrade from the Obsidian Generator to the Enchantment Generator and unlock the power of enchantments as a unique fuel source."]
 	quest.169040E33441DBE9.quest_subtitle: "Harness the energy of magical forces"
 	quest.169040E33441DBE9.title: "The Power of Enchantment"
+	quest.170192578F1D5CA0.quest_desc: ["Once you have automatic resources like gravel, now would be a good time to automate sifting resources."]
+	quest.170192578F1D5CA0.quest_subtitle: "Automated Resources"
 	quest.174AD92AAE3A1FAF.quest_desc: ["&lGlass&r is a vital material for many creations, from windows to containers. Craft Glass by smelting &lSand&r in a furnace. This simple yet essential block opens the door to new possibilities in building and crafting. Gather sand and let the furnace work its magic!"]
 	quest.174AD92AAE3A1FAF.quest_subtitle: "The Clear Path"
 	quest.174AD92AAE3A1FAF.title: "Transparent Progress"
@@ -130,6 +132,8 @@
 	quest.245CC55733D2D5C6.quest_desc: ["&lTertium&r is the next level after Prudentium, and to unlock it, you’ll need to craft a &lPrudentium Infusion Crystal&r. Combine Prudentium Essence, a Tertium Infusion Crystal, and additional Prosperity Shards to create the crystal. Once crafted, use it in the same manner as before to infuse and obtain Tertium Essence, unlocking even more powerful resources for your journey!"]
 	quest.245CC55733D2D5C6.quest_subtitle: "Ascending to the Next Level"
 	quest.245CC55733D2D5C6.title: "The Tertium Infusion"
+	quest.246E7273A1E9A735.quest_desc: ["Brass is a very useful alloy in Create as it is used for later-game infrastructure. "]
+	quest.246E7273A1E9A735.quest_subtitle: "Very Useful Alloy"
 	quest.26760351A93ADC05.quest_desc: ["The wind can be harnessed to generate rotational energy. Craft a &lWindmill Bearing&r and gather enough &lSails&r to build your Windmill. Once assembled, place it in an open area to capture the wind’s energy and power your mechanical systems. Let the wind carry you to new heights of automation!"]
 	quest.26760351A93ADC05.quest_subtitle: "Tapping into the Breeze"
 	quest.26760351A93ADC05.title: "Winds of Progress"
@@ -187,6 +191,8 @@
 	quest.37480F6CE7572160.quest_desc: ["The Nether Portal’s corruption doesn’t stop at stone and sand—it even alters crops. When Wheat Crops are exposed to the portal’s energy, they transform into &lNether Wart&r, an essential ingredient for brewing powerful potions. If you want to harness the magic of alchemy, start by planting wheat in the right place and let the Nether do the rest!"]
 	quest.37480F6CE7572160.quest_subtitle: "From Wheat to Nether Wart"
 	quest.37480F6CE7572160.title: "Cursed Harvest"
+	quest.37A11322027C7509.quest_desc: ["Zinc is obtained by sifting and is important to make brass."]
+	quest.37A11322027C7509.quest_subtitle: "Useful Material"
 	quest.39F9B7656BCFF313.quest_desc: [
 		"With &lCoral Seeds&r, you can grow &lCoral Essence&r, making it possible to obtain coral without needing to rely on wandering traders forever. If you're planning on using coral for anything, this will make your life much easier."
 		""

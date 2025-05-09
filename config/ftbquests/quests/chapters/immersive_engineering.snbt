@@ -1,0 +1,66 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "immersive_engineering"
+	group: "44896694C1F231C3"
+	icon: {
+		id: "immersiveengineering:hammer"
+	}
+	id: "197A296AEC020B47"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["3642E2D78B348AE3"]
+			id: "54075AD7A7BD5245"
+			rewards: [
+				{
+					id: "4276959656BEF1D4"
+					item: {
+						count: 1
+						id: "immersiveengineering:wirecutter"
+					}
+					type: "item"
+				}
+				{
+					id: "7B769867AECA8C60"
+					item: {
+						count: 1
+						id: "immersiveengineering:manual"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "16B24462A7BB62ED"
+				item: { count: 1, id: "immersiveengineering:hammer" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "2E7C24AF63876040"
+			tasks: [
+				{
+					count: 27L
+					id: "218BCF7CE4CE9E21"
+					item: { count: 1, id: "immersiveengineering:cokebrick" }
+					type: "item"
+				}
+				{
+					id: "67A13BA3F9192FDA"
+					item: { count: 1, id: "immersiveengineering:coal_coke" }
+					type: "item"
+				}
+				{
+					id: "2795A5CADB793EB3"
+					item: { count: 1, id: "immersiveengineering:creosote_bucket" }
+					type: "item"
+				}
+			]
+			x: 1.0d
+			y: 0.0d
+		}
+	]
+}

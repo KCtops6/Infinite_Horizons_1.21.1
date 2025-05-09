@@ -238,8 +238,8 @@
 					type: "item"
 				}
 			]
-			x: 4.0d
-			y: -1.0d
+			x: 3.0d
+			y: -2.0d
 		}
 		{
 			dependencies: ["073087ED7AC745F3"]
@@ -260,8 +260,8 @@
 					type: "item"
 				}
 			]
-			x: 4.0d
-			y: -2.0d
+			x: 3.0d
+			y: -3.0d
 		}
 		{
 			dependencies: ["27115761CCA7ADB6"]
@@ -295,6 +295,34 @@
 			}]
 			x: 4.0d
 			y: 1.0d
+		}
+		{
+			dependencies: [
+				"27AD5982B40072FD"
+				"579D7FD06F5DC4D7"
+			]
+			id: "33FD237C4BEF8440"
+			tasks: [{
+				id: "3FE9B5B94E4ADAD1"
+				item: { count: 1, id: "create:blaze_burner" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"073087ED7AC745F3"
+				"33FD237C4BEF8440"
+			]
+			id: "246E7273A1E9A735"
+			tasks: [{
+				id: "1F02A7CBF19F7FC8"
+				item: { count: 1, id: "kubejs:brass_ingot" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -2.0d
 		}
 	]
 }

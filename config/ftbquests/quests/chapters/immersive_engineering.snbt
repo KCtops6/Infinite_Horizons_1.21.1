@@ -40,7 +40,20 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["54075AD7A7BD5245"]
+			icon: {
+				id: "immersiveengineering:coal_coke"
+			}
 			id: "2E7C24AF63876040"
+			rewards: [{
+				id: "72145F037363BA88"
+				item: {
+					count: 1
+					id: "pamhc2foodextended:okracreoleitem"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
 			tasks: [
 				{
 					count: 27L
@@ -61,6 +74,60 @@
 			]
 			x: 1.0d
 			y: 0.0d
+		}
+		{
+			dependencies: ["2E7C24AF63876040"]
+			icon: {
+				id: "kubejs:steel_ingot"
+			}
+			id: "3E594CC8A6259EBE"
+			rewards: [{
+				id: "04AB123ACBC06366"
+				item: {
+					count: 1
+					id: "kubejs:steel_ingot"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [
+				{
+					count: 27L
+					id: "218326187BF6AC73"
+					item: { count: 1, id: "immersiveengineering:blastbrick" }
+					type: "item"
+				}
+				{
+					id: "16DABDC59737EDFA"
+					item: { count: 1, id: "kubejs:steel_ingot" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3E594CC8A6259EBE"]
+			icon: {
+				id: "immersiveengineering:blastbrick_reinforced"
+			}
+			id: "20FD4B5FED9F4125"
+			optional: true
+			tasks: [
+				{
+					count: 27L
+					id: "450BB47B4D7A4868"
+					item: { count: 1, id: "immersiveengineering:blastbrick_reinforced" }
+					type: "item"
+				}
+				{
+					id: "710F4B9E234EC79D"
+					item: { count: 1, id: "minecraft:hopper" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: -1.0d
 		}
 	]
 }

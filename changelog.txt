@@ -179,9 +179,9 @@ Added Andesite Mesh & Gravel Create Sifting Recipe.
 https://www.youtube.com/watch?v=t0Wzn9a5tWw
 
 1.21.1-1.5-Beta
-Added Mekanism.
-Added Mekanism Generators.
-Added Mekanism Tools.
+Removed Mekanism.
+Removed Mekanism Generators.
+Removed Mekanism Tools.
 
 Added Andesite Mesh & Dirt Waterlogged Create Sifting Recipe.
 Added to Pam's Harvestcraft Questline.

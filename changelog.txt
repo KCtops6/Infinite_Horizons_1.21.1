@@ -161,6 +161,7 @@ Updated Cobblegen Galore.
 Updated Create Sifting.
 Updated Cucumber Library.
 Updated FTB Library (Forge).
+Updated Generator Galore.
 Updated GuideME.
 Updated JourneyMap.
 Updated Just Enough Resources (JER).

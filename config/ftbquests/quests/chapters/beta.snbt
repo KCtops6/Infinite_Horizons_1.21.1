@@ -195,7 +195,7 @@
 				item: { count: 1, id: "create:mechanical_press" }
 				type: "item"
 			}]
-			x: 3.0d
+			x: 2.0d
 			y: -1.0d
 		}
 		{
@@ -282,8 +282,8 @@
 				item: { count: 1, id: "create:encased_fan" }
 				type: "item"
 			}]
-			x: 4.0d
-			y: 0.0d
+			x: 2.0d
+			y: -2.0d
 		}
 		{
 			dependencies: ["04F3232804097839"]
@@ -294,7 +294,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 1.0d
+			y: 0.0d
 		}
 		{
 			dependencies: [
@@ -307,13 +307,14 @@
 				item: { count: 1, id: "create:blaze_burner" }
 				type: "item"
 			}]
-			x: 4.0d
+			x: 3.0d
 			y: -1.0d
 		}
 		{
 			dependencies: [
 				"073087ED7AC745F3"
 				"33FD237C4BEF8440"
+				"37A11322027C7509"
 			]
 			id: "246E7273A1E9A735"
 			tasks: [{
@@ -323,6 +324,17 @@
 			}]
 			x: 4.0d
 			y: -2.0d
+		}
+		{
+			dependencies: ["170192578F1D5CA0"]
+			id: "37A11322027C7509"
+			tasks: [{
+				id: "778487DCC45D367C"
+				item: { count: 1, id: "kubejs:zinc_ingot" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -1.0d
 		}
 	]
 }

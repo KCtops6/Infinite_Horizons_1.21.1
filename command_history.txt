@@ -1,5 +1,3 @@
-/effect clear
-/ftbquests editing_mode
 /gamerule doDaylightCycle false
 /gamerule doWeatherCycle false
 /ftbquests editing_mode
@@ -48,3 +46,5 @@
 /clear
 /gamemode creative
 /gamemode survival
+/kubejs reload client-scripts
+/clear

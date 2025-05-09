@@ -336,5 +336,95 @@
 			x: 4.0d
 			y: -1.0d
 		}
+		{
+			dependencies: [
+				"246E7273A1E9A735"
+				"6346D688C76ED68C"
+			]
+			id: "49BA6BED4D5EF537"
+			tasks: [{
+				id: "31821C7C4173E7D1"
+				item: { count: 1, id: "create:deployer" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["28D064931756E6FF"]
+			id: "6346D688C76ED68C"
+			tasks: [{
+				id: "1213264E0D2907A1"
+				item: { count: 1, id: "create:electron_tube" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"01AEEA186BB50BB0"
+				"11332A8490D1FD31"
+			]
+			icon: {
+				id: "create:polished_rose_quartz"
+			}
+			id: "28D064931756E6FF"
+			tasks: [
+				{
+					icon: {
+						id: "create:sand_paper"
+					}
+					id: "5A8534B4DD19A691"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(create:sandpaper)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "676DC0449BA73CD4"
+					item: { count: 1, id: "create:rose_quartz" }
+					type: "item"
+				}
+				{
+					id: "28399CB20C2E736B"
+					item: { count: 1, id: "create:polished_rose_quartz" }
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["49BA6BED4D5EF537"]
+			id: "1161BD7A3BA53123"
+			tasks: [{
+				id: "037E6555A45FF1C7"
+				item: { count: 1, id: "create:precision_mechanism" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["1161BD7A3BA53123"]
+			id: "22704AC0B7D673FC"
+			tasks: [{
+				id: "4D0F4030A9A6206A"
+				item: { count: 1, id: "create:mechanical_arm" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["1161BD7A3BA53123"]
+			id: "726370A5972C579A"
+			tasks: [{
+				id: "298FE1CB13ACB5BC"
+				item: { count: 1, id: "create:rotation_speed_controller" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -3.0d
+		}
 	]
 }

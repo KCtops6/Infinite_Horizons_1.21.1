@@ -171,3 +171,5 @@ Updated Puzzles Lib [Forge & Fabric].
 Updated Sophisticated Backpacks.
 Updated Sophisticated Core.
 Updated Sophisticated Storage.
+
+Added quests for blaze burner and brass.

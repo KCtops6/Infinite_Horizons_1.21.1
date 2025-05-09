@@ -17,6 +17,12 @@
 #Brass Sifter
 ["Brass Sifter"]
 	#.
+	#.
+	#Minimum required speed.
+	# Default: 1.0
+	# Range: 1.0 ~ 3.4028234663852886E38
+	minimumSpeed = 1.0
+	#.
 	#Items processed per cycle.
 	# Default: 8
 	# Range: > 1

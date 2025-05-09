@@ -60,7 +60,7 @@
 				item: { count: 1, id: "pamhc2foodcore:stockitem" }
 				type: "item"
 			}]
-			x: 1.0d
+			x: 9.0d
 			y: -2.0d
 		}
 		{
@@ -156,6 +156,28 @@
 			}]
 			x: 1.0d
 			y: 1.0d
+		}
+		{
+			dependencies: ["3838D948A4D860EE"]
+			id: "1A516B18C38ACA31"
+			tasks: [{
+				id: "1FC4CF25BD7BD39D"
+				item: { count: 1, id: "pamhc2foodextended:driedsoupitem" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["3838D948A4D860EE"]
+			id: "73CCDADA4981B7F1"
+			tasks: [{
+				id: "0D8A0E8C5B3F8D80"
+				item: { count: 1, id: "pamhc2foodextended:splitpeasoupitem" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: -3.0d
 		}
 	]
 }

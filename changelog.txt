@@ -173,3 +173,4 @@ Updated Sophisticated Core.
 Updated Sophisticated Storage.
 
 Added quests for blaze burner and brass.
+Added the ability to obtain a blaze burner by left clicking a nether portal with an empty one.

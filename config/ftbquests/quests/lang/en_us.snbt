@@ -166,6 +166,9 @@
 	quest.3276ACBC80D0AF10.quest_desc: ["&lSupremium&r is the pinnacle of progression, the next tier after Imperium. To obtain it, you'll need to craft the &lImperium Infusion Crystal&r by combining Imperium Essence, the Tertium Infusion Crystal, and additional Prosperity Shards. Once crafted, use it in the same manner as when you crafted earlier essences to infuse and obtain Supremium Essence, unlocking the ultimate resources and gear for your journey!"]
 	quest.3276ACBC80D0AF10.quest_subtitle: "Supreme Crafting Ablities"
 	quest.3276ACBC80D0AF10.title: "The Power of Supremium"
+	quest.33FD237C4BEF8440.quest_desc: ["Use an Empty Blaze Burner on a Nether Portal (left-click) to reignite its core and obtain a Blaze Burner."]
+	quest.33FD237C4BEF8440.quest_subtitle: "Acquire a Blaze Burner"
+	quest.33FD237C4BEF8440.title: "Ignite the Flame"
 	quest.346117052F12664B.quest_desc: ["The &lIron Generator&r is an upgrade from the Copper Generator, doubling the generation rate to 16 FE/t and increasing the transfer rate to 64 FE/t. With a 10,000 FE internal buffer, it provides more consistent energy for your machines. It still runs on solid fuel and lacks a charge slot or 64x upgrade support, but it’s a solid choice for scaling up your power network. Upgrade from a Copper Generator or craft one from scratch."]
 	quest.346117052F12664B.quest_subtitle: "A stronger, more efficient generator"
 	quest.346117052F12664B.title: " Ironing Out Your Power"

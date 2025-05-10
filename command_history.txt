@@ -1,4 +1,3 @@
-/datapack list
 /reload
 /datapack list
 /reload
@@ -48,3 +47,4 @@
 /gamemode creative
 /clear
 /tp 0 100 0
+/kubejs hand

@@ -129,5 +129,49 @@
 			x: 2.0d
 			y: -1.0d
 		}
+		{
+			dependencies: ["2E7C24AF63876040"]
+			id: "21A6943428112B1B"
+			tasks: [{
+				id: "4CFF0378B2B63E3A"
+				item: { count: 1, id: "immersiveengineering:treated_wood_horizontal" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["21A6943428112B1B"]
+			id: "750AAC89FCB12564"
+			tasks: [{
+				id: "7E2C47E79360B4FC"
+				item: { count: 1, id: "immersiveengineering:craftingtable" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["750AAC89FCB12564"]
+			id: "179E1161B438C30D"
+			tasks: [{
+				id: "32E235F4624D1D43"
+				item: { count: 1, id: "immersiveengineering:circuit_table" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["750AAC89FCB12564"]
+			id: "31EADC04D36D6D67"
+			tasks: [{
+				id: "0542132312C24AE7"
+				item: { count: 1, id: "immersiveengineering:workbench" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
 	]
 }

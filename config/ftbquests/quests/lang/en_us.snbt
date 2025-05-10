@@ -314,6 +314,7 @@
 	quest.74AED40DCEDCCA58.quest_desc: ["With the Nether Portal active, its influence begins to spread. Any Stone placed near the portal will slowly transform into &lMagma Blocks&r, a useful material for various contraptions, traps, and even lava generation. Take advantage of this passive conversion to gather magma without ever stepping foot in the Nether!"]
 	quest.74AED40DCEDCCA58.quest_subtitle: "Magma from the Nether’s Influence"
 	quest.74AED40DCEDCCA58.title: "The Heat Spreads"
+	quest.750AAC89FCB12564.quest_desc: ["A villager workstation. This villager offers useful trades that can bypass some crafting."]
 	quest.76B1BFA765F786BE.quest_desc: ["The &lObsidian Generator&r is a powerful upgrade that brings your energy generation to a new level. With a generation rate of 128 FE/t and a transfer rate of 512 FE/t, this generator ensures a stable and efficient energy flow. With a substantial buffer capacity of 500,000 FE and a consumption rate of just 0.6, it is an excellent choice for long-term power needs. Fueling on solid resources, it offers a seamless upgrade from the Diamond Generator, providing the energy boost your systems demand."]
 	quest.76B1BFA765F786BE.quest_subtitle: "A new tier of efficiency for energy generation"
 	quest.76B1BFA765F786BE.title: "Obsidian Power Surge"

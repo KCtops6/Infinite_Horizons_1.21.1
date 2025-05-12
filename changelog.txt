@@ -187,6 +187,7 @@ Updated Pam's HarvestCraft 2 Nerf.
 Updated Sophisticated Backpacks.
 Updated Sophisticated Core.
 Updated Sophisticated Storage.
+Updated Waystones.
 
 Added Andesite Mesh & Dirt Waterlogged Create Sifting Recipe.
 Added to Pam's Harvestcraft Questline.

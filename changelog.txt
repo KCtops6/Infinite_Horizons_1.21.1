@@ -182,6 +182,7 @@ https://www.youtube.com/watch?v=t0Wzn9a5tWw
 Added Immersive Engineering.
 
 Updated Apothic Attributes.
+Updated Balm.
 
 Added Andesite Mesh & Dirt Waterlogged Create Sifting Recipe.
 Added to Pam's Harvestcraft Questline.

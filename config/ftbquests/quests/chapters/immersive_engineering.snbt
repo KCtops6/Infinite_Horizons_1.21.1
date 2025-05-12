@@ -72,7 +72,7 @@
 					type: "item"
 				}
 			]
-			x: 1.0d
+			x: 2.0d
 			y: 0.0d
 		}
 		{
@@ -103,7 +103,7 @@
 					type: "item"
 				}
 			]
-			x: 2.0d
+			x: 4.0d
 			y: 0.0d
 		}
 		{
@@ -126,7 +126,7 @@
 					type: "item"
 				}
 			]
-			x: 2.0d
+			x: 4.0d
 			y: -1.0d
 		}
 		{
@@ -137,8 +137,8 @@
 				item: { count: 1, id: "immersiveengineering:treated_wood_horizontal" }
 				type: "item"
 			}]
-			x: 1.0d
-			y: 1.0d
+			x: 2.0d
+			y: 2.0d
 		}
 		{
 			dependencies: ["21A6943428112B1B"]
@@ -149,7 +149,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 1.0d
+			y: 2.0d
 		}
 		{
 			dependencies: ["750AAC89FCB12564"]
@@ -160,7 +160,7 @@
 				type: "item"
 			}]
 			x: -1.0d
-			y: 0.0d
+			y: 1.0d
 		}
 		{
 			dependencies: ["750AAC89FCB12564"]
@@ -171,7 +171,7 @@
 				type: "item"
 			}]
 			x: -1.0d
-			y: 1.0d
+			y: 2.0d
 		}
 		{
 			dependencies: ["62DBB6855DF2639C"]
@@ -213,7 +213,7 @@
 				}
 			]
 			x: -3.0d
-			y: 2.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["759920BE041320CD"]
@@ -245,7 +245,7 @@
 				type: "item"
 			}]
 			x: -2.0d
-			y: 2.0d
+			y: 3.0d
 		}
 		{
 			dependencies: [
@@ -259,7 +259,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 2.0d
+			y: 3.0d
 		}
 		{
 			dependencies: [
@@ -294,7 +294,7 @@
 				type: "item"
 			}]
 			x: -1.0d
-			y: 2.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["5A382D145AA88DD9"]
@@ -304,8 +304,8 @@
 				item: { count: 1, id: "immersiveengineering:dynamo" }
 				type: "item"
 			}]
-			x: 1.0d
-			y: 2.0d
+			x: 2.0d
+			y: 4.0d
 		}
 		{
 			dependencies: [
@@ -319,8 +319,8 @@
 				item: { count: 1, id: "immersiveengineering:watermill" }
 				type: "item"
 			}]
-			x: 2.0d
-			y: 1.0d
+			x: 4.0d
+			y: 2.0d
 		}
 	]
 }

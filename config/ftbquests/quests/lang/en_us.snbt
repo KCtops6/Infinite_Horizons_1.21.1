@@ -37,12 +37,18 @@
 	quest.04F3232804097839.quest_desc: ["The &lMillstone&r is the perfect tool to automate the grinding process. Use it to automatically turn &oCobblestone into Gravel&r and &oGravel into Sand&r—no more hammering by hand. Power it with rotational energy from a &lWater Wheel&r or &lWindmill&r, and let it run smoothly as it processes your materials for you. Set it up and watch the grinding never stop!"]
 	quest.04F3232804097839.quest_subtitle: "Automating the Hammer"
 	quest.04F3232804097839.title: "Grinding Efficiency"
+	quest.066FBF72C43833BD.quest_desc: ["Combine hemp cloth and sticks in a crafting table. Hemp cloth is made from eight industrial hemp fibers."]
+	quest.066FBF72C43833BD.quest_subtitle: "Basic Industrial Material"
+	quest.066FBF72C43833BD.title: "Tough Fabric"
 	quest.073087ED7AC745F3.quest_desc: ["The &lMechanical Mixer&r is an essential tool for combining ingredients into advanced recipes. Powered by rotational energy, it can mix materials like dough, alloys, and other compounds with ease. Set it up, power it with your existing energy source, and automate the mixing process for efficient crafting in your mechanical systems."]
 	quest.073087ED7AC745F3.quest_subtitle: "Crafting with Precision"
 	quest.073087ED7AC745F3.title: "Mixing Mastery"
 	quest.07B1B6C8502FD122.quest_desc: ["&lObsidian&r is a crucial material for various advanced crafts, including portals and reinforced tools. The easiest way to obtain it is by combining lava and water, but with the right automation, you can produce it efficiently. Whether you mine it manually or find a way to generate it passively, having a steady supply of Obsidian will open the path to greater possibilities!"]
 	quest.07B1B6C8502FD122.quest_subtitle: "Obtaining Obsidian"
 	quest.07B1B6C8502FD122.title: "Unbreakable Resolve"
+	quest.0867544C5BE8931D.quest_desc: ["Craft with copper wire coils, iron, and redstone. Place behind a windmill or waterwheel to generate power."]
+	quest.0867544C5BE8931D.quest_subtitle: "Convert Motion to RF"
+	quest.0867544C5BE8931D.title: "Kinetic Dynamo"
 	quest.0886E9D3C195E26E.quest_desc: ["Lapis Lazuli is obtained by breaking deepslate gravel with an Iron Trowel or better. This valuable material is essential for enchanting and crafting magical items. Gather lapis to enhance your gear and unlock new crafting possibilities."]
 	quest.0886E9D3C195E26E.quest_subtitle: "A Shimmering Resource"
 	quest.0886E9D3C195E26E.title: "Shards of Blue"
@@ -63,6 +69,9 @@
 	quest.0EF473D1AB25C4C5.title: "Growing Fuel"
 	quest.0F4C5B2728A47022.quest_desc: ["You've successfully set up a solid foundation for power generation, providing a reliable energy source for your Applied Energistics 2 network. With this setup, you’ll be able to support your AE2 systems, ensuring a smooth and efficient operation. Check this quest to acknowledge that you're ready to power your devices!"]
 	quest.0F4C5B2728A47022.quest_subtitle: "Ensure a Steady Energy Flow"
+	quest.0F81195CA7628611.quest_desc: ["Craft using tough fabric and attach to a windmill with a right-click. Up to eight sails can be added."]
+	quest.0F81195CA7628611.quest_subtitle: "Boost Windmill Output"
+	quest.0F81195CA7628611.title: "Windmill Sails"
 	quest.102CBDC3FA5552DC.quest_desc: ["The &lIron Hammer&r is a direct upgrade from the Stone Hammer, allowing you to break tougher materials with ease. It is essential for processing Tuff into Tuff Gravel and is required to obtain Deepslate Gravel. With this tool in hand, you're ready to break through stronger stone and progress further!"]
 	quest.102CBDC3FA5552DC.quest_subtitle: "Upgrading to Iron"
 	quest.102CBDC3FA5552DC.title: "A Stronger Strike"
@@ -194,6 +203,9 @@
 	quest.37480F6CE7572160.title: "Cursed Harvest"
 	quest.37A11322027C7509.quest_desc: ["Zinc is obtained by sifting and is important to make brass."]
 	quest.37A11322027C7509.quest_subtitle: "Useful Material"
+	quest.391B27F3331BAA39.quest_desc: ["Craft using treated wood, iron, and tough fabric. Requires a kinetic dynamo to produce RF."]
+	quest.391B27F3331BAA39.quest_subtitle: "Generate Early Kinetic Energy"
+	quest.391B27F3331BAA39.title: "Wind Power"
 	quest.39F9B7656BCFF313.quest_desc: [
 		"With &lCoral Seeds&r, you can grow &lCoral Essence&r, making it possible to obtain coral without needing to rely on wandering traders forever. If you're planning on using coral for anything, this will make your life much easier."
 		""
@@ -315,6 +327,9 @@
 	quest.74AED40DCEDCCA58.quest_subtitle: "Magma from the Nether’s Influence"
 	quest.74AED40DCEDCCA58.title: "The Heat Spreads"
 	quest.750AAC89FCB12564.quest_desc: ["A villager workstation. This villager offers useful trades that can bypass some crafting."]
+	quest.759920BE041320CD.quest_desc: ["Break grass until hemp seeds drop, then plant on farmland."]
+	quest.759920BE041320CD.quest_subtitle: "Start Industrial Fiber Production"
+	quest.759920BE041320CD.title: "Growing Hemp"
 	quest.76B1BFA765F786BE.quest_desc: ["The &lObsidian Generator&r is a powerful upgrade that brings your energy generation to a new level. With a generation rate of 128 FE/t and a transfer rate of 512 FE/t, this generator ensures a stable and efficient energy flow. With a substantial buffer capacity of 500,000 FE and a consumption rate of just 0.6, it is an excellent choice for long-term power needs. Fueling on solid resources, it offers a seamless upgrade from the Diamond Generator, providing the energy boost your systems demand."]
 	quest.76B1BFA765F786BE.quest_subtitle: "A new tier of efficiency for energy generation"
 	quest.76B1BFA765F786BE.title: "Obsidian Power Surge"

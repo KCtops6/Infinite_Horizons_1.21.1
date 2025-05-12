@@ -148,8 +148,8 @@
 				item: { count: 1, id: "immersiveengineering:craftingtable" }
 				type: "item"
 			}]
-			x: 1.0d
-			y: 2.0d
+			x: 0.0d
+			y: 1.0d
 		}
 		{
 			dependencies: ["750AAC89FCB12564"]
@@ -159,8 +159,8 @@
 				item: { count: 1, id: "immersiveengineering:circuit_table" }
 				type: "item"
 			}]
-			x: 1.0d
-			y: 3.0d
+			x: -1.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["750AAC89FCB12564"]
@@ -170,8 +170,157 @@
 				item: { count: 1, id: "immersiveengineering:workbench" }
 				type: "item"
 			}]
+			x: -1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["62DBB6855DF2639C"]
+			icon: {
+				id: "immersiveengineering:hemp_fiber"
+			}
+			id: "759920BE041320CD"
+			rewards: [
+				{
+					id: "5CAB1519F8196B89"
+					item: {
+						count: 1
+						id: "immersiveengineering:hemp_fiber"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "2F516500A9113E98"
+					item: {
+						count: 1
+						id: "immersiveengineering:seed"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "49573579AE112275"
+					item: { count: 1, id: "immersiveengineering:seed" }
+					type: "item"
+				}
+				{
+					id: "6FE14E5FB03F98BB"
+					item: { count: 1, id: "immersiveengineering:hemp_fiber" }
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["759920BE041320CD"]
+			id: "066FBF72C43833BD"
+			rewards: [
+				{
+					id: "7BBC8A224F5127BE"
+					item: {
+						count: 1
+						id: "immersiveengineering:hemp_fabric"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "0F326D2F69C6DA90"
+					item: {
+						count: 1
+						id: "immersiveengineering:hemp_fiber"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "209847B871D0CB12"
+				item: { count: 1, id: "immersiveengineering:hemp_fabric" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"21A6943428112B1B"
+				"0867544C5BE8931D"
+			]
+			id: "391B27F3331BAA39"
+			tasks: [{
+				id: "6E6F3B5ABB40D89C"
+				item: { count: 1, id: "immersiveengineering:windmill" }
+				type: "item"
+			}]
 			x: 0.0d
-			y: 3.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"066FBF72C43833BD"
+				"391B27F3331BAA39"
+			]
+			id: "0F81195CA7628611"
+			rewards: [
+				{
+					id: "05D218B2225923E2"
+					item: {
+						count: 1
+						id: "immersiveengineering:windmill_sail"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "3D04E21192BCBE61"
+					item: {
+						count: 1
+						id: "immersiveengineering:hemp_fabric"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4CEF0693D72CC90F"
+				item: { count: 1, id: "immersiveengineering:windmill_sail" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["5A382D145AA88DD9"]
+			id: "0867544C5BE8931D"
+			tasks: [{
+				id: "1A51971FBC5F8A03"
+				item: { count: 1, id: "immersiveengineering:dynamo" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"21A6943428112B1B"
+				"3E594CC8A6259EBE"
+				"0867544C5BE8931D"
+			]
+			id: "600A63ECDF77513C"
+			tasks: [{
+				id: "07F7B91D727E62DE"
+				item: { count: 1, id: "immersiveengineering:watermill" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.0d
 		}
 	]
 }

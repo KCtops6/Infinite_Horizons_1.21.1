@@ -193,6 +193,8 @@ Added Andesite Mesh & Dirt Waterlogged Create Sifting Recipe.
 Doubled wire output in Immersive Engineering metal press to incentivize user to get metal press (beyond cheaper Create Saw).
 Added Mystical Agriculture Seeds to Garden Cloche.
 Added Mystical Agriculture Mystical Fertilizer to Garden Cloche Fertilizers.
+Added Farmer's Delight Tomato and Cabbage to Garden Cloche.
+
+Started Immersive Engineering questline.
 Added to Pam's Harvestcraft Questline.
 Added quests in Create chapter (rose quartz, electron tube, deployer, precision mechanism, mechanical arm, rotation speed controller).
-Started Immersive Engineering questline.

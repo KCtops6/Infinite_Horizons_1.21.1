@@ -184,6 +184,7 @@ Added Immersive Engineering.
 Updated Apothic Attributes.
 Updated Balm.
 Updated Pam's HarvestCraft 2 Nerf.
+Updated Sophisticated Backpacks.
 
 Added Andesite Mesh & Dirt Waterlogged Create Sifting Recipe.
 Added to Pam's Harvestcraft Questline.

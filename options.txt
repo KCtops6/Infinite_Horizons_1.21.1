@@ -214,7 +214,7 @@ key_key.ftbultimine:key.keyboard.grave.accent
 key_key.ftbteams.open_gui:key.keyboard.unknown
 key_key.ftbquests.quests:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
-soundCategory_master:1.0
+soundCategory_master:0.0
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0

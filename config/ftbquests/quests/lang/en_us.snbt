@@ -75,6 +75,7 @@
 	quest.102CBDC3FA5552DC.quest_desc: ["The &lIron Hammer&r is a direct upgrade from the Stone Hammer, allowing you to break tougher materials with ease. It is essential for processing Tuff into Tuff Gravel and is required to obtain Deepslate Gravel. With this tool in hand, you're ready to break through stronger stone and progress further!"]
 	quest.102CBDC3FA5552DC.quest_subtitle: "Upgrading to Iron"
 	quest.102CBDC3FA5552DC.title: "A Stronger Strike"
+	quest.1083623247A4AB98.title: "Warning Signs Blueprint"
 	quest.11332A8490D1FD31.quest_desc: ["&lRedstone dust&r can be obtained by breaking deepslate gravel with an Iron Trowel or better. This essential material unlocks a world of possibilities, from circuits to automation. Start collecting redstone dust to enhance your creations and power your machines."]
 	quest.11332A8490D1FD31.quest_subtitle: "Harnessing the Power of Sparks"
 	quest.11332A8490D1FD31.title: "Essence of Redstone"
@@ -130,6 +131,7 @@
 	quest.20CEFFF2715407F7.quest_desc: ["By using an Iron Trowel or better on Deepslate Gravel, you have a chance to uncover &lDiamonds&r. These precious gems are crucial for crafting powerful tools, advanced machinery, and progressing further. If you need a steady supply, consider finding ways to automate the process or work toward Diamond Seeds in the future!"]
 	quest.20CEFFF2715407F7.quest_subtitle: "Finding Diamonds"
 	quest.20CEFFF2715407F7.title: "Diamonds are Forever"
+	quest.213F19749C77D327.title: "Banner Pattern Blueprint"
 	quest.2204AA3E838C4962.quest_desc: ["Transform &oorganic matter&r and &owater&r into &lPulp&r using the Mechanical Mixer. Once you have enough pulp, use the Mechanical Press to turn it into &lCardboard&r. Cardboard serves as a cost-effective material, especially for crafting items like books. It’s a simple yet valuable resource that can streamline your crafting process. Get mixing and pressing to unlock its potential!"]
 	quest.2204AA3E838C4962.quest_subtitle: "From Pulp to Cardboard"
 	quest.2204AA3E838C4962.title: "Paper Trails"
@@ -358,6 +360,7 @@
 	task.05A1297F925E6922.title: "Craft a Juice Item."
 	task.081F16B216B3A4E0.title: "Any #sophisticated:advanced_compacting_upgrades"
 	task.09B393CC04B069E1.title: "Any #sophisticatedstorage:netherite_upgrades"
+	task.0C9E547572CBA87E.title: "Assemble a Squeezer"
 	task.1002B199F4A7DDC3.title: "Observe a Grindstone"
 	task.111FF24730E1E06B.title: "Observe a Brewing Stand."
 	task.125C98160D57B81B.title: "Obtain Chainmail Armor from an Armorer Villager."
@@ -365,6 +368,7 @@
 	task.150DA982F22B0CCB.title: "Any #sophisticatedstorage:gold_storages"
 	task.154ED8DD236C5EE5.title: "Reliable Power Source for Applied Energistics 2"
 	task.159C9E809E5BBFD8.title: "Any #sophisticated:advanced_filter_upgrades"
+	task.174F5F1106681A08.title: "Assemble a Blast Furnace"
 	task.1754E171A119F77F.title: "Obtain Diamond Armor from an Armorer."
 	task.18C58601831336A4.title: "Any #sophisticatedstorage:iron_storages"
 	task.23F9812A10B9EDCF.title: "Any #sophisticated:auto_blasting_upgrades"
@@ -373,6 +377,7 @@
 	task.28E2BD21ADC08C2D.title: "Any #sophisticated:blasting_upgrades"
 	task.2BB146FC3DFF7CB8.title: "Any #sophisticated:void_upgrades"
 	task.2BBABE6D3F58A4FF.title: "Any #sophisticatedstorage:diamond_upgrades"
+	task.2D769F0F763C040B.title: "Assemble the Coke Oven"
 	task.2EC0140CC254EA63.title: "Craft a fluid storage cell."
 	task.30319FC6F26BC172.title: "Any #sophisticated:advanced_void_upgrades"
 	task.35DBF5A6561B3A66.title: "Harvest logs."

@@ -1,5 +1,4 @@
 ServerEvents.recipes(event => {
-    // define a seeds mapping to tier.
     const seeds = [
         // elemental seeds.
         { material: 'air', tier: 1},
@@ -87,7 +86,7 @@ ServerEvents.recipes(event => {
         { material: 'wither_skeleton', tier: 5},
         { material: 'platinum', tier: 5},
         { material: 'iridium', tier: 5}
-    ]
+    ]   // define a seeds mapping to tier.
     const map = new Map()   // define a tier to essence hash map.
     map.set(1, 'inferium')  // add inferium tier.
     map.set(2, 'prudentium')    // add prudentium tier.

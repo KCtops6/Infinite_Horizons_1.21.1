@@ -195,6 +195,7 @@ Doubled wire output in Immersive Engineering metal press to incentivize user to 
 Added Mystical Agriculture Seeds to Garden Cloche.
 Added Mystical Agriculture Mystical Fertilizer to Garden Cloche Fertilizers.
 Added Farmer's Delight Tomato and Cabbage to Garden Cloche.
+Changed Fire Agglomeratio Recipe to make easier early game lava.
 
 Started Immersive Engineering questline.
 Added to Pam's Harvestcraft Questline.

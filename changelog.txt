@@ -183,6 +183,7 @@ Added Immersive Engineering.
 
 Updated Apothic Attributes.
 Updated Balm.
+Updated ModernFix.
 Updated Pam's HarvestCraft 2 Nerf.
 Updated Sophisticated Backpacks.
 Updated Sophisticated Core.

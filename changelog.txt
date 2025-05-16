@@ -189,7 +189,7 @@ Updated Sophisticated Core.
 Updated Sophisticated Storage.
 Updated Waystones.
 
-Added Andesite Mesh & Dirt Create Sifting Recipe (for pebbles and Pam's HarvestCraft gardens).
+Added Andesite Mesh & Grass Block Create Sifting Recipe (for pebbles and Pam's HarvestCraft gardens).
 Added Andesite Mesh & Dirt Waterlogged Create Sifting Recipe (for rare sea treasures).
 Doubled wire output in Immersive Engineering metal press to incentivize user to get metal press (beyond cheaper Create Saw).
 Added Mystical Agriculture Seeds to Garden Cloche.

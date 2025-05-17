@@ -209,6 +209,7 @@ Added More Immersive Wires.
 
 Updated Sophisticated Backpacks.
 Updated Sophisticated Core.
+Updated Sophisticated Storage.
 
 Do not want to use the Immersive Engineering mod? Feel free to disable it in CurseForge launcher.
 Added KubeJS Block of Raw Ores.

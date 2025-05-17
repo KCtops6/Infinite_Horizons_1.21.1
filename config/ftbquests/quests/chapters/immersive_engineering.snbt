@@ -93,6 +93,7 @@
 		}
 		{
 			dependencies: ["2E7C24AF63876040"]
+			hide_dependent_lines: true
 			icon: {
 				id: "kubejs:steel_ingot"
 			}
@@ -146,8 +147,8 @@
 					type: "item"
 				}
 			]
-			x: 4.0d
-			y: -1.0d
+			x: 8.0d
+			y: -4.0d
 		}
 		{
 			dependencies: ["2E7C24AF63876040"]
@@ -427,7 +428,10 @@
 			y: -2.0d
 		}
 		{
-			dependencies: ["20FD4B5FED9F4125"]
+			dependencies: [
+				"20FD4B5FED9F4125"
+				"2E906DAC2D7042BD"
+			]
 			id: "4C0E678BBBE9DC9C"
 			optional: true
 			rewards: [
@@ -454,8 +458,8 @@
 				item: { count: 1, id: "immersiveengineering:blastfurnace_preheater" }
 				type: "item"
 			}]
-			x: 4.0d
-			y: -2.0d
+			x: 9.0d
+			y: -4.0d
 		}
 		{
 			dependencies: ["31EADC04D36D6D67"]
@@ -507,15 +511,18 @@
 			y: 4.0d
 		}
 		{
-			dependencies: ["09C419657F4E4289"]
+			dependencies: [
+				"09C419657F4E4289"
+				"5C9F2E0AABE08CBB"
+			]
 			id: "7120508959B7A77A"
 			tasks: [{
 				id: "05DB4885C113F6AF"
 				item: { count: 1, id: "immersiveengineering:transformer_hv" }
 				type: "item"
 			}]
-			x: -3.0d
-			y: 7.0d
+			x: 11.0d
+			y: 2.0d
 		}
 		{
 			dependencies: ["09C419657F4E4289"]
@@ -525,12 +532,13 @@
 				item: { count: 1, id: "immersiveengineering:transformer" }
 				type: "item"
 			}]
-			x: -4.0d
-			y: 7.0d
+			x: 11.0d
+			y: -1.0d
 		}
 		{
 			dependencies: ["360781F164092488"]
 			hide_dependency_lines: true
+			hide_dependent_lines: true
 			id: "09C419657F4E4289"
 			tasks: [{
 				id: "4E4566E52694AB0B"
@@ -646,6 +654,168 @@
 			}]
 			x: 0.0d
 			y: 5.25d
+		}
+		{
+			id: "4BD2237BD82ECB25"
+			tasks: [{
+				id: "1799BDF173ED9BDB"
+				item: { count: 1, id: "kubejs:electrum_ingot" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4BD2237BD82ECB25"]
+			id: "27F40918EDC02342"
+			rewards: [
+				{
+					id: "2F81AF0941C1B4A0"
+					item: {
+						count: 1
+						id: "immersiveengineering:wirecoil_electrum"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "0259E8959CD4B4F8"
+					item: {
+						count: 1
+						id: "kubejs:electrum_ingot"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0B2F5E514AB08D73"
+				item: { count: 1, id: "immersiveengineering:wirecoil_electrum" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["27F40918EDC02342"]
+			id: "3F15722BB638D9F1"
+			tasks: [{
+				id: "037F6868E2E2A2FE"
+				item: { count: 1, id: "immersiveengineering:coil_mv" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3F15722BB638D9F1"]
+			id: "6094718A4066FFF1"
+			tasks: [{
+				id: "3DE138147EA52210"
+				item: { count: 1, id: "immersiveengineering:generator" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3E594CC8A6259EBE"]
+			id: "177D76EBC7C61DBE"
+			tasks: [{
+				id: "6101672975782197"
+				item: { count: 1, id: "immersiveengineering:wirecoil_steel" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["177D76EBC7C61DBE"]
+			id: "5C9F2E0AABE08CBB"
+			tasks: [{
+				id: "561CCBE2F482FCC2"
+				item: { count: 1, id: "immersiveengineering:coil_hv" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["27F40918EDC02342"]
+			hide_dependency_lines: true
+			id: "4AE5F0E35B7AB86B"
+			optional: true
+			rewards: [
+				{
+					id: "0CC11EF593E1D553"
+					item: {
+						count: 1
+						id: "immersiveengineering:wirecoil_electrum_ins"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "78CED9B14572A282"
+					item: {
+						count: 1
+						id: "immersiveengineering:wirecoil_electrum"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			size: 0.5d
+			tasks: [{
+				id: "7E2805965ADDDC15"
+				item: { count: 1, id: "immersiveengineering:wirecoil_electrum_ins" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: -0.75d
+		}
+		{
+			id: "76780FA7CC788710"
+			rewards: [{
+				id: "2C42E2725E601804"
+				item: {
+					count: 1
+					id: "immersiveengineering:wirecoil_copper"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [{
+				id: "5C70EBE4C46774EF"
+				item: { count: 1, id: "immersiveengineering:wirecoil_copper" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["76780FA7CC788710"]
+			id: "2E906DAC2D7042BD"
+			tasks: [{
+				id: "70A55C9800111F35"
+				item: { count: 1, id: "immersiveengineering:furnace_heater" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["76780FA7CC788710"]
+			id: "249F6CD3BEF2785D"
+			tasks: [{
+				id: "03A2367EE51D0AC7"
+				item: { count: 1, id: "immersiveengineering:wirecoil_copper_ins" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: -2.0d
 		}
 	]
 }

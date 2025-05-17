@@ -88,7 +88,7 @@
 					type: "item"
 				}
 			]
-			x: 2.0d
+			x: -1.0d
 			y: 0.0d
 		}
 		{
@@ -124,8 +124,8 @@
 					type: "item"
 				}
 			]
-			x: 4.0d
-			y: 0.0d
+			x: -1.0d
+			y: 1.0d
 		}
 		{
 			dependencies: ["3E594CC8A6259EBE"]
@@ -147,8 +147,8 @@
 					type: "item"
 				}
 			]
-			x: 8.0d
-			y: -4.0d
+			x: -7.0d
+			y: -3.0d
 		}
 		{
 			dependencies: ["2E7C24AF63876040"]
@@ -158,8 +158,8 @@
 				item: { count: 1, id: "immersiveengineering:treated_wood_horizontal" }
 				type: "item"
 			}]
-			x: 2.0d
-			y: 2.0d
+			x: -2.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["21A6943428112B1B"]
@@ -169,8 +169,8 @@
 				item: { count: 1, id: "immersiveengineering:craftingtable" }
 				type: "item"
 			}]
-			x: 0.0d
-			y: 2.0d
+			x: -2.0d
+			y: 1.0d
 		}
 		{
 			dependencies: ["750AAC89FCB12564"]
@@ -181,17 +181,18 @@
 				type: "item"
 			}]
 			x: -1.0d
-			y: 1.0d
+			y: 2.0d
 		}
 		{
 			dependencies: ["750AAC89FCB12564"]
+			hide_dependent_lines: true
 			id: "31EADC04D36D6D67"
 			tasks: [{
 				id: "0542132312C24AE7"
 				item: { count: 1, id: "immersiveengineering:workbench" }
 				type: "item"
 			}]
-			x: -4.0d
+			x: -2.0d
 			y: 2.0d
 		}
 		{
@@ -233,8 +234,8 @@
 					type: "item"
 				}
 			]
-			x: -2.0d
-			y: 3.0d
+			x: 0.0d
+			y: -1.0d
 		}
 		{
 			dependencies: ["759920BE041320CD"]
@@ -266,7 +267,7 @@
 				type: "item"
 			}]
 			x: -1.0d
-			y: 3.0d
+			y: -1.0d
 		}
 		{
 			dependencies: [
@@ -279,8 +280,8 @@
 				item: { count: 1, id: "immersiveengineering:windmill" }
 				type: "item"
 			}]
-			x: 1.0d
-			y: 3.0d
+			x: -3.0d
+			y: -1.0d
 		}
 		{
 			dependencies: [
@@ -314,8 +315,8 @@
 				item: { count: 1, id: "immersiveengineering:windmill_sail" }
 				type: "item"
 			}]
-			x: 0.0d
-			y: 3.0d
+			x: -2.0d
+			y: -1.0d
 		}
 		{
 			dependencies: ["5A382D145AA88DD9"]
@@ -325,8 +326,8 @@
 				item: { count: 1, id: "immersiveengineering:dynamo" }
 				type: "item"
 			}]
-			x: 2.0d
-			y: 4.0d
+			x: -4.0d
+			y: -1.0d
 		}
 		{
 			dependencies: [
@@ -340,8 +341,8 @@
 				item: { count: 1, id: "immersiveengineering:watermill" }
 				type: "item"
 			}]
-			x: 4.0d
-			y: 2.0d
+			x: -3.0d
+			y: 0.0d
 		}
 		{
 			dependencies: [
@@ -395,8 +396,8 @@
 					type: "item"
 				}
 			]
-			x: -6.0d
-			y: 0.0d
+			x: -11.25d
+			y: 1.75d
 		}
 		{
 			id: "768571E56298D2A4"
@@ -404,8 +405,8 @@
 				id: "0C9E547572CBA87E"
 				type: "checkmark"
 			}]
-			x: -4.0d
-			y: 0.0d
+			x: -9.25d
+			y: 1.75d
 		}
 		{
 			id: "34F6BA79BCFE0A30"
@@ -414,18 +415,22 @@
 				item: { count: 1, id: "immersiveengineering:light_engineering" }
 				type: "item"
 			}]
-			x: -2.0d
-			y: -2.0d
+			x: -7.25d
+			y: -0.25d
 		}
 		{
+			dependencies: [
+				"4BD2237BD82ECB25"
+				"3E594CC8A6259EBE"
+			]
 			id: "5FDFDD3658CB010E"
 			tasks: [{
 				id: "7EA2FE9BED7D81A7"
 				item: { count: 1, id: "immersiveengineering:heavy_engineering" }
 				type: "item"
 			}]
-			x: -1.0d
-			y: -2.0d
+			x: -8.0d
+			y: 1.0d
 		}
 		{
 			dependencies: [
@@ -458,8 +463,8 @@
 				item: { count: 1, id: "immersiveengineering:blastfurnace_preheater" }
 				type: "item"
 			}]
-			x: 9.0d
-			y: -4.0d
+			x: -6.0d
+			y: -3.0d
 		}
 		{
 			dependencies: ["31EADC04D36D6D67"]
@@ -472,8 +477,8 @@
 				item: { components: { "immersiveengineering:blueprint": "bannerpatterns" }, count: 1, id: "immersiveengineering:blueprint" }
 				type: "item"
 			}]
-			x: -4.25d
-			y: 1.25d
+			x: -9.5d
+			y: 3.0d
 		}
 		{
 			dependencies: ["31EADC04D36D6D67"]
@@ -486,8 +491,8 @@
 				item: { components: { "immersiveengineering:blueprint": "warning_sign" }, count: 1, id: "immersiveengineering:blueprint" }
 				type: "item"
 			}]
-			x: -3.75d
-			y: 1.25d
+			x: -9.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["31EADC04D36D6D67"]
@@ -495,8 +500,8 @@
 			id: "11AF66F2138495BC"
 			optional: true
 			size: 0.5d
-			x: -3.25d
-			y: 1.25d
+			x: -8.5d
+			y: 3.0d
 		}
 		{
 			dependencies: ["31EADC04D36D6D67"]
@@ -507,8 +512,8 @@
 				item: { components: { "immersiveengineering:blueprint": "components" }, count: 1, id: "immersiveengineering:blueprint" }
 				type: "item"
 			}]
-			x: -4.0d
-			y: 4.0d
+			x: -9.25d
+			y: 5.75d
 		}
 		{
 			dependencies: [
@@ -521,7 +526,7 @@
 				item: { count: 1, id: "immersiveengineering:transformer_hv" }
 				type: "item"
 			}]
-			x: 11.0d
+			x: -4.0d
 			y: 2.0d
 		}
 		{
@@ -532,8 +537,8 @@
 				item: { count: 1, id: "immersiveengineering:transformer" }
 				type: "item"
 			}]
-			x: 11.0d
-			y: -1.0d
+			x: -4.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["360781F164092488"]
@@ -546,7 +551,7 @@
 				type: "item"
 			}]
 			x: -4.0d
-			y: 6.0d
+			y: 1.0d
 		}
 		{
 			dependencies: ["5B0495521DE65E6B"]
@@ -556,8 +561,8 @@
 				item: { count: 1, id: "immersiveengineering:railgun" }
 				type: "item"
 			}]
-			x: 3.0d
-			y: 7.0d
+			x: -2.25d
+			y: 8.75d
 		}
 		{
 			dependencies: ["360781F164092488"]
@@ -567,8 +572,8 @@
 				item: { count: 1, id: "immersiveengineering:component_electronic_adv" }
 				type: "item"
 			}]
-			x: 2.0d
-			y: 7.0d
+			x: -3.25d
+			y: 8.75d
 		}
 		{
 			dependencies: [
@@ -613,8 +618,8 @@
 					type: "item"
 				}
 			]
-			x: -0.5d
-			y: 6.0d
+			x: -5.75d
+			y: 7.75d
 		}
 		{
 			dependencies: ["093C5F61C5368DCD"]
@@ -626,8 +631,8 @@
 				item: { count: 1, id: "immersiveengineering:toolupgrade_revolver_bayonet" }
 				type: "item"
 			}]
-			x: -1.0d
-			y: 5.25d
+			x: -6.25d
+			y: 7.0d
 		}
 		{
 			dependencies: ["093C5F61C5368DCD"]
@@ -639,8 +644,8 @@
 				item: { count: 1, id: "immersiveengineering:toolupgrade_revolver_magazine" }
 				type: "item"
 			}]
-			x: -0.5d
-			y: 5.25d
+			x: -5.75d
+			y: 7.0d
 		}
 		{
 			dependencies: ["093C5F61C5368DCD"]
@@ -652,8 +657,8 @@
 				item: { count: 1, id: "immersiveengineering:toolupgrade_revolver_electro" }
 				type: "item"
 			}]
-			x: 0.0d
-			y: 5.25d
+			x: -5.25d
+			y: 7.0d
 		}
 		{
 			id: "4BD2237BD82ECB25"
@@ -662,8 +667,8 @@
 				item: { count: 1, id: "kubejs:electrum_ingot" }
 				type: "item"
 			}]
-			x: 8.0d
-			y: 0.0d
+			x: -7.0d
+			y: 1.0d
 		}
 		{
 			dependencies: ["4BD2237BD82ECB25"]
@@ -694,8 +699,8 @@
 				item: { count: 1, id: "immersiveengineering:wirecoil_electrum" }
 				type: "item"
 			}]
-			x: 9.0d
-			y: 0.0d
+			x: -6.0d
+			y: 1.0d
 		}
 		{
 			dependencies: ["27F40918EDC02342"]
@@ -705,8 +710,8 @@
 				item: { count: 1, id: "immersiveengineering:coil_mv" }
 				type: "item"
 			}]
-			x: 10.0d
-			y: 0.0d
+			x: -5.0d
+			y: 1.0d
 		}
 		{
 			dependencies: ["3F15722BB638D9F1"]
@@ -716,8 +721,8 @@
 				item: { count: 1, id: "immersiveengineering:generator" }
 				type: "item"
 			}]
-			x: 11.0d
-			y: 0.0d
+			x: -5.0d
+			y: 2.0d
 		}
 		{
 			dependencies: ["3E594CC8A6259EBE"]
@@ -727,8 +732,8 @@
 				item: { count: 1, id: "immersiveengineering:wirecoil_steel" }
 				type: "item"
 			}]
-			x: 9.0d
-			y: 2.0d
+			x: -6.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["177D76EBC7C61DBE"]
@@ -738,8 +743,8 @@
 				item: { count: 1, id: "immersiveengineering:coil_hv" }
 				type: "item"
 			}]
-			x: 10.0d
-			y: 2.0d
+			x: -5.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["27F40918EDC02342"]
@@ -773,27 +778,39 @@
 				item: { count: 1, id: "immersiveengineering:wirecoil_electrum_ins" }
 				type: "item"
 			}]
-			x: 9.0d
-			y: -0.75d
+			x: -6.0d
+			y: 0.25d
 		}
 		{
 			id: "76780FA7CC788710"
-			rewards: [{
-				id: "2C42E2725E601804"
-				item: {
-					count: 1
-					id: "immersiveengineering:wirecoil_copper"
+			rewards: [
+				{
+					id: "2C42E2725E601804"
+					item: {
+						count: 1
+						id: "immersiveengineering:wirecoil_copper"
+					}
+					random_bonus: 2
+					type: "item"
 				}
-				random_bonus: 2
-				type: "item"
-			}]
+				{
+					count: 3
+					id: "76BAEDB59270859E"
+					item: {
+						count: 1
+						id: "minecraft:copper_ingot"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "5C70EBE4C46774EF"
 				item: { count: 1, id: "immersiveengineering:wirecoil_copper" }
 				type: "item"
 			}]
-			x: 9.0d
-			y: -2.0d
+			x: -6.0d
+			y: -1.0d
 		}
 		{
 			dependencies: ["76780FA7CC788710"]
@@ -803,19 +820,47 @@
 				item: { count: 1, id: "immersiveengineering:furnace_heater" }
 				type: "item"
 			}]
-			x: 9.0d
-			y: -3.0d
+			x: -6.0d
+			y: -2.0d
 		}
 		{
 			dependencies: ["76780FA7CC788710"]
+			hide_dependency_lines: true
 			id: "249F6CD3BEF2785D"
+			optional: true
+			size: 0.5d
 			tasks: [{
 				id: "03A2367EE51D0AC7"
 				item: { count: 1, id: "immersiveengineering:wirecoil_copper_ins" }
 				type: "item"
 			}]
-			x: 10.0d
-			y: -2.0d
+			x: -6.0d
+			y: -0.25d
+		}
+		{
+			dependencies: ["76780FA7CC788710"]
+			id: "28D4CD984348AD21"
+			tasks: [{
+				id: "1F3DCB5C9B21F418"
+				item: { count: 1, id: "immersiveengineering:coil_lv" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["28D4CD984348AD21"]
+			hide_dependency_lines: true
+			id: "049BE628B4A67404"
+			optional: true
+			size: 0.5d
+			tasks: [{
+				id: "01A93D765DE9FF90"
+				item: { count: 1, id: "immersiveengineering:toolupgrade_shield_magnet" }
+				type: "item"
+			}]
+			x: -5.25d
+			y: -0.25d
 		}
 	]
 }

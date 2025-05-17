@@ -1,3 +1,6 @@
+//ignored: false
+//requires: immersiveengineering
+//requires: mysticalagriculture
 ServerEvents.recipes(event => {
     const seeds = [
         // elemental seeds.

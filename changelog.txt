@@ -205,3 +205,5 @@ Added quests in Create chapter (rose quartz, electron tube, deployer, precision 
 https://www.youtube.com/watch?v=Bov8-HpO10Y
 
 1.21.1-1.6-Beta
+
+Do not want to use the Immersive Engineering mod? Feel free to disable it in CurseForge launcher.

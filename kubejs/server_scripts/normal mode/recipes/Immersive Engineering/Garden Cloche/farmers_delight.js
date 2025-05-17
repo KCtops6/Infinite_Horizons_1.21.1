@@ -1,3 +1,6 @@
+//ignored: false
+//requires: immersiveengineering
+//requires: farmersdelight
 ServerEvents.recipes(event => {
     event.custom({
         type: "immersiveengineering:cloche",    // type of garden cloche.

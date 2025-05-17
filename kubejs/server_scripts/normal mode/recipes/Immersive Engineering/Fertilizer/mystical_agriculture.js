@@ -1,3 +1,5 @@
+//ignored: false
+//requires: immersiveengineering
 ServerEvents.recipes(event => {
     event.custom({
         type: "immersiveengineering:fertilizer",

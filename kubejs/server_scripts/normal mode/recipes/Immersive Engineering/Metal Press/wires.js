@@ -1,3 +1,5 @@
+//ignored: false
+//requires: immersiveengineering
 ServerEvents.recipes(event => {
     const materials = ['copper', 'electrum', 'aluminum', 'steel', 'lead']
     materials.forEach(material => {

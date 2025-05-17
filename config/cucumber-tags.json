@@ -7,5 +7,9 @@
   "c:ingots/platinum": "null",
   "c:dusts/niter": "kubejs:niter_dust",
   "c:ingots/graphite": "null",
-  "c:gems/peridot": "null"
+  "c:gems/peridot": "null",
+  "c:gems/sapphire": "kubejs:sapphire_gem",
+  "c:gems/ruby": "kubejs:ruby_gem",
+  "c:gems/apatite": "kubejs:apatite_gem",
+  "c:dusts/sulfur": "immersiveengineering:dust_sulfur"
 }

@@ -3,11 +3,7 @@ StartupEvents.registry("block", (event) => {
         return id.split('_').map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' ');
     }
 
-    const blocks = [
-        'aluminum', 'lead', 'silver', 'nickel', 'uranium'
-    ]
-
-    blocks.forEach(b => {
+    global.raw_ore_blocks.forEach(b => {
         let name = `block_of_raw_${b}`
         event.create(name)
         .displayName(formatName(name)).hardness(5)

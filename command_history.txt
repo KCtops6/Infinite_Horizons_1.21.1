@@ -1,6 +1,3 @@
-/reload
-/datapack list
-/reload
 /reload`
 /reload
 /kubejs hand
@@ -48,3 +45,6 @@
 /gamemode survival
 /clear
 /kubejs hand
+/ie
+/ie clearshaders
+/ie mineral get 15 45

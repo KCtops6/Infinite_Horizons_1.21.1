@@ -8174,6 +8174,14 @@
         "isSelected": false
       },
       {
+        "path": "logs\\2025-05-16-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-05-16-2.log.gz",
+        "isSelected": false
+      },
+      {
         "path": "logs\\debug-1.log.gz",
         "isSelected": false
       },
@@ -8462,15 +8470,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\sophisticatedcore-1.21.1-1.3.38.976.jar",
-        "isSelected": true
-      },
-      {
         "path": "mods\\sophisticatedcore-1.21.1-1.3.40.981.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\sophisticatedstorage-1.21.1-1.4.31.1147.jar",
         "isSelected": true
       },
       {

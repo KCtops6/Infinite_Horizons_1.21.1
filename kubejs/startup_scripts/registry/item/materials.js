@@ -121,4 +121,13 @@ StartupEvents.registry('item', event => {
     nuggets.forEach(nugget => {
         event.create(`${nugget}_nugget`).displayName(`${capitalize(nugget)} Nugget`);
     });
+
+    const raw_ores = [
+        'lead', 'nickel', 'osmium', 'silver',
+        'tin', 'uranium'
+    ];
+
+    raw_ores.forEach(r => {
+        event.create(`raw_${r}`).displayName(`Raw ${capitalize(r)}`);
+    });
 });

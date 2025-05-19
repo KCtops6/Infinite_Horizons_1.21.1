@@ -232,4 +232,6 @@ https://www.youtube.com/watch?v=JoW4HgBsgYs
 Added Industrial Foregoing.
 Added Titanium.
 
+Added Netherrack Andesite Mesh Create Sifting Recipe.
+
 Added Industrial Foregoing Questline.

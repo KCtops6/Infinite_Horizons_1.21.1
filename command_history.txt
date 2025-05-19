@@ -1,7 +1,3 @@
-/clear
-/reload
-/kubejs hand
-/clear
 /gamemode survival
 /kubejs hand
 /summon minecraft:pig
@@ -48,3 +44,7 @@
 /place template immersiveengineering:multiblocks/alloy_smelter
 /gamemode creative
 /place template immersiveengineering:multiblocks/arcfurnace
+/advancement grant KCtops6 only immersiveengineering:main/mb_blastfurnace
+/give KCtops6 kubejs:steel_ingot
+/advancement grant KCtops6 only immersiveengineering:main/make_steel
+/advancement grant KCtops6 until immersiveengineering:main/craft_treatedwood

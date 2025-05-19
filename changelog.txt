@@ -204,7 +204,10 @@ Added quests in Create chapter (rose quartz, electron tube, deployer, precision 
 
 https://www.youtube.com/watch?v=Bov8-HpO10Y
 
-1.21.1-1.5b-Beta
+1.21.1-1.6-Beta
+Note, this is an early update to address the bugged export of 1.21.1-1.6-beta.
+This is not titled 1.21.1-1.5b-beta because I made some additions since the 05/16/2025 release of 1.21.1-1.5-beta.
+
 Added More Immersive Wires.
 
 Updated Create Sifting.
@@ -214,7 +217,6 @@ Updated Sophisticated Backpacks.
 Updated Sophisticated Core.
 Updated Sophisticated Storage.
 
-Do not want to use the Immersive Engineering mod? Feel free to disable it in CurseForge launcher.
 Added KubeJS Block of Raw Ores.
 Added KubeJS Raw Ores (Tin, Lead, Silver, Nickel, Osmium, Uranium) and Textures.
 Added KubeJS Raw Tin, Lead, Silver, Nickel, Osmium, Uranium to Andesite Mesh & Gravel Create Sifting Recipe.

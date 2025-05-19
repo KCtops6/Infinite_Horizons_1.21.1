@@ -67,6 +67,9 @@
   "mysticalagradditions": {
     "infused_farmland": true
   },
+  "immersiveengineering": {
+    "multiblock_icon": true
+  },
   "createsifter": {
     "data": true
   },
@@ -103,8 +106,5 @@
     "power_storage": true,
     "crafting_monitor": true,
     "part_name": true
-  },
-  "modular_machinery_reborn": {
-    "machine_component_provider": true
   }
 }

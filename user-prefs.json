@@ -570,6 +570,14 @@
         "isSelected": true
       },
       {
+        "path": "config\\more_immersive_wires-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\more_immersive_wires-server.toml",
+        "isSelected": true
+      },
+      {
         "path": "config\\MouseTweaks.cfg",
         "isSelected": true
       },
@@ -719,6 +727,10 @@
       },
       {
         "path": "crash-reports\\crash-2025-05-09_20.37.20-client.txt",
+        "isSelected": false
+      },
+      {
+        "path": "crash-reports\\crash-2025-05-16_23.55.19-client.txt",
         "isSelected": false
       },
       {
@@ -3266,11 +3278,127 @@
         "isSelected": true
       },
       {
+        "path": "kubejs\\assets\\kubejs\\textures\\block\\aluminum_block.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\block\\apatite_block.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\block\\brass_block.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\block\\bronze_block.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\block\\cinnabar_block.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\block\\constantan_block.png",
+        "isSelected": true
+      },
+      {
         "path": "kubejs\\assets\\kubejs\\textures\\block\\deepslate_gravel.png",
         "isSelected": true
       },
       {
+        "path": "kubejs\\assets\\kubejs\\textures\\block\\electrum_block.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\block\\elementium_block.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\block\\enderium_block.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\block\\example_block.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\block\\gold_block.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\block\\infinitium_block.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\block\\invar_block.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\block\\lead_block.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\block\\lumium_block.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\block\\manasteel_block.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\block\\nickel_block.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\block\\niter_block.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\block\\osmium_block.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\block\\ruby_block.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\block\\sapphire_block.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\block\\signalum_block.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\block\\silver_block.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\block\\steel_block.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\block\\sulfur_block.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\block\\terrasteel_block.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\block\\tin_block.png",
+        "isSelected": true
+      },
+      {
         "path": "kubejs\\assets\\kubejs\\textures\\block\\tuff_gravel.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\block\\uranium_block.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\block\\zinc_block.png",
         "isSelected": true
       },
       {
@@ -3994,6 +4122,30 @@
         "isSelected": true
       },
       {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\raw_lead.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\raw_nickel.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\raw_osmium.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\raw_silver.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\raw_tin.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\raw_uranium.png",
+        "isSelected": true
+      },
+      {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\recorder.png",
         "isSelected": true
       },
@@ -4371,11 +4523,11 @@
       },
       {
         "path": "kubejs\\client_scripts",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "kubejs\\client_scripts\\main.js",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "kubejs\\config",
@@ -4411,15 +4563,15 @@
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\BlockEvents",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\BlockEvents\\left click",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\BlockEvents\\left click\\blaze_burner.js",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\LootJS",
@@ -4427,15 +4579,15 @@
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\LootJS\\loot table",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\LootJS\\loot table\\remove",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\LootJS\\loot table\\remove\\village_weaponsmith.js",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\LootJS\\modifiers",
@@ -4459,182 +4611,170 @@
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\LootJS\\modifiers\\entity",
-        "isSelected": false
-      },
-      {
-        "path": "kubejs\\server_scripts\\normal mode\\recipes",
         "isSelected": true
       },
       {
-        "path": "kubejs\\server_scripts\\normal mode\\recipes\\blasting",
+        "path": "kubejs\\server_scripts\\normal mode\\Recipes",
         "isSelected": true
       },
       {
-        "path": "kubejs\\server_scripts\\normal mode\\recipes\\campfire cooking",
+        "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Create Sifting",
         "isSelected": true
       },
       {
-        "path": "kubejs\\server_scripts\\normal mode\\recipes\\create sifting",
-        "isSelected": false
-      },
-      {
-        "path": "kubejs\\server_scripts\\normal mode\\recipes\\create sifting\\dirt.js",
-        "isSelected": false
-      },
-      {
-        "path": "kubejs\\server_scripts\\normal mode\\recipes\\create sifting\\gravel.js",
-        "isSelected": false
-      },
-      {
-        "path": "kubejs\\server_scripts\\normal mode\\recipes\\create sifting\\waterlogged_dirt.js",
-        "isSelected": false
-      },
-      {
-        "path": "kubejs\\server_scripts\\normal mode\\recipes\\Immersive Engineering",
-        "isSelected": false
-      },
-      {
-        "path": "kubejs\\server_scripts\\normal mode\\recipes\\Immersive Engineering\\Fertilizer",
-        "isSelected": false
-      },
-      {
-        "path": "kubejs\\server_scripts\\normal mode\\recipes\\Immersive Engineering\\Fertilizer\\mystical_agriculture.js",
-        "isSelected": false
-      },
-      {
-        "path": "kubejs\\server_scripts\\normal mode\\recipes\\Immersive Engineering\\Garden Cloche",
-        "isSelected": false
-      },
-      {
-        "path": "kubejs\\server_scripts\\normal mode\\recipes\\Immersive Engineering\\Garden Cloche\\farmers_delight.js",
-        "isSelected": false
-      },
-      {
-        "path": "kubejs\\server_scripts\\normal mode\\recipes\\Immersive Engineering\\Garden Cloche\\mystical_agriculture.js",
-        "isSelected": false
-      },
-      {
-        "path": "kubejs\\server_scripts\\normal mode\\recipes\\Immersive Engineering\\Metal Press",
-        "isSelected": false
-      },
-      {
-        "path": "kubejs\\server_scripts\\normal mode\\recipes\\Immersive Engineering\\Metal Press\\wires.js",
-        "isSelected": false
-      },
-      {
-        "path": "kubejs\\server_scripts\\normal mode\\recipes\\shaped",
+        "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Create Sifting\\dirt.js",
         "isSelected": true
       },
       {
-        "path": "kubejs\\server_scripts\\normal mode\\recipes\\shaped\\gateways.js",
-        "isSelected": false
-      },
-      {
-        "path": "kubejs\\server_scripts\\normal mode\\recipes\\shaped\\hammers.js",
+        "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Create Sifting\\gravel.js",
         "isSelected": true
       },
       {
-        "path": "kubejs\\server_scripts\\normal mode\\recipes\\shaped\\trowels.js",
+        "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Create Sifting\\waterlogged_dirt.js",
         "isSelected": true
       },
       {
-        "path": "kubejs\\server_scripts\\normal mode\\recipes\\shapeless",
+        "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Immersive Engineering",
         "isSelected": true
       },
       {
-        "path": "kubejs\\server_scripts\\normal mode\\recipes\\shapeless\\two_by_two.js",
+        "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Immersive Engineering\\Fertilizer",
         "isSelected": true
       },
       {
-        "path": "kubejs\\server_scripts\\normal mode\\recipes\\smelting",
+        "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Immersive Engineering\\Fertilizer\\mystical_agriculture.js",
         "isSelected": true
       },
       {
-        "path": "kubejs\\server_scripts\\normal mode\\recipes\\smithing",
+        "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Immersive Engineering\\Garden Cloche",
         "isSelected": true
       },
       {
-        "path": "kubejs\\server_scripts\\normal mode\\recipes\\smoking",
+        "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Immersive Engineering\\Garden Cloche\\farmers_delight.js",
         "isSelected": true
       },
       {
-        "path": "kubejs\\server_scripts\\normal mode\\recipes\\stonecutting",
+        "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Immersive Engineering\\Garden Cloche\\mystical_agriculture.js",
         "isSelected": true
       },
       {
-        "path": "kubejs\\server_scripts\\normal mode\\recipes\\removing_recipes.js",
-        "isSelected": false
-      },
-      {
-        "path": "kubejs\\server_scripts\\normal mode\\recipes\\replace_input.js",
-        "isSelected": false
-      },
-      {
-        "path": "kubejs\\server_scripts\\normal mode\\tags",
+        "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Immersive Engineering\\Metal Press",
         "isSelected": true
       },
       {
-        "path": "kubejs\\server_scripts\\normal mode\\tags\\block",
-        "isSelected": false
-      },
-      {
-        "path": "kubejs\\server_scripts\\normal mode\\tags\\item",
+        "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Immersive Engineering\\Metal Press\\wires.js",
         "isSelected": true
       },
       {
-        "path": "kubejs\\server_scripts\\normal mode\\tags\\item\\ae2.js",
-        "isSelected": false
-      },
-      {
-        "path": "kubejs\\server_scripts\\normal mode\\tags\\item\\armor.js",
-        "isSelected": false
-      },
-      {
-        "path": "kubejs\\server_scripts\\normal mode\\tags\\item\\dusts.js",
+        "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Minecraft",
         "isSelected": true
       },
       {
-        "path": "kubejs\\server_scripts\\normal mode\\tags\\item\\ender_pearl_dust.js",
+        "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Minecraft\\Blasting",
         "isSelected": true
       },
       {
-        "path": "kubejs\\server_scripts\\normal mode\\tags\\item\\end_stone_dust.js",
+        "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Minecraft\\Campfire Cooking",
         "isSelected": true
       },
       {
-        "path": "kubejs\\server_scripts\\normal mode\\tags\\item\\gears.js",
+        "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Minecraft\\Crafting Table",
         "isSelected": true
       },
       {
-        "path": "kubejs\\server_scripts\\normal mode\\tags\\item\\gems.js",
+        "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Minecraft\\Crafting Table\\Shaped",
         "isSelected": true
       },
       {
-        "path": "kubejs\\server_scripts\\normal mode\\tags\\item\\ingots.js",
+        "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Minecraft\\Crafting Table\\Shaped\\gateways.js",
         "isSelected": true
       },
       {
-        "path": "kubejs\\server_scripts\\normal mode\\tags\\item\\nuggets.js",
+        "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Minecraft\\Crafting Table\\Shaped\\hammers.js",
         "isSelected": true
       },
       {
-        "path": "kubejs\\server_scripts\\normal mode\\tags\\item\\plates.js",
+        "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Minecraft\\Crafting Table\\Shaped\\trowels.js",
         "isSelected": true
       },
       {
-        "path": "kubejs\\server_scripts\\normal mode\\tags\\item\\sawdust.js",
+        "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Minecraft\\Crafting Table\\Shapeless",
         "isSelected": true
       },
       {
-        "path": "kubejs\\server_scripts\\normal mode\\tags\\item\\sophisticated_mods.js",
-        "isSelected": false
-      },
-      {
-        "path": "kubejs\\server_scripts\\normal mode\\tags\\item\\stone_alloy.js",
+        "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Minecraft\\Crafting Table\\Shapeless\\two_by_two.js",
         "isSelected": true
       },
       {
-        "path": "kubejs\\server_scripts\\normal mode\\tags\\item\\storage_blocks.js",
+        "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Smelting",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Smithing",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Smoking",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Stonecutting",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\Recipes\\removing_recipes.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\Recipes\\replace_input.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\Tags",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\Tags\\Block",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\Tags\\Block\\materials.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\Tags\\Item",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\Tags\\Item\\ae2.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\Tags\\Item\\armor.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\Tags\\Item\\ender_pearl_dust.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\Tags\\Item\\end_stone_dust.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\Tags\\Item\\materials.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\Tags\\Item\\sawdust.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\Tags\\Item\\sophisticated_mods.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\Tags\\Item\\stone_alloy.js",
         "isSelected": true
       },
       {
@@ -4642,40 +4782,52 @@
         "isSelected": true
       },
       {
-        "path": "kubejs\\startup_scripts\\registry",
+        "path": "kubejs\\startup_scripts\\Registry",
         "isSelected": true
       },
       {
-        "path": "kubejs\\startup_scripts\\registry\\block",
+        "path": "kubejs\\startup_scripts\\Registry\\Block",
         "isSelected": true
       },
       {
-        "path": "kubejs\\startup_scripts\\registry\\block\\gravel.js",
+        "path": "kubejs\\startup_scripts\\Registry\\Block\\block_of_raw_material.js",
         "isSelected": true
       },
       {
-        "path": "kubejs\\startup_scripts\\registry\\item",
+        "path": "kubejs\\startup_scripts\\Registry\\Block\\gravel.js",
         "isSelected": true
       },
       {
-        "path": "kubejs\\startup_scripts\\registry\\item\\difficulty.js",
+        "path": "kubejs\\startup_scripts\\Registry\\Block\\materials.js",
         "isSelected": true
       },
       {
-        "path": "kubejs\\startup_scripts\\registry\\item\\items.js",
+        "path": "kubejs\\startup_scripts\\Registry\\Item",
         "isSelected": true
       },
       {
-        "path": "kubejs\\startup_scripts\\registry\\item\\materials.js",
+        "path": "kubejs\\startup_scripts\\Registry\\Item\\difficulty.js",
         "isSelected": true
       },
       {
-        "path": "kubejs\\startup_scripts\\registry\\item\\tools.js",
+        "path": "kubejs\\startup_scripts\\Registry\\Item\\items.js",
         "isSelected": true
       },
       {
-        "path": "kubejs\\startup_scripts\\registry\\meshes.js",
-        "isSelected": false
+        "path": "kubejs\\startup_scripts\\Registry\\Item\\materials.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\startup_scripts\\Registry\\Item\\tools.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\startup_scripts\\Registry\\meshes.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\startup_scripts\\material_list.js",
+        "isSelected": true
       },
       {
         "path": "kubejs\\startup_scripts\\replacingKubeJSDisplay.js",
@@ -5170,6 +5322,10 @@
         "isSelected": false
       },
       {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\15\\15785cf56a04330cbe63e2cd48be02ed_16.png",
+        "isSelected": false
+      },
+      {
         "path": "local\\kubejs\\cache\\web\\img\\item\\15\\15bbbcf5682d34b080aa2c9782bf5b39_16.png",
         "isSelected": false
       },
@@ -5203,6 +5359,10 @@
       },
       {
         "path": "local\\kubejs\\cache\\web\\img\\item\\18\\1846f4bbcf5c3564a01f012918d656d4_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\18\\184756b311e33391b306bd0c4b8914fb_16.png",
         "isSelected": false
       },
       {
@@ -5351,6 +5511,10 @@
       },
       {
         "path": "local\\kubejs\\cache\\web\\img\\item\\26\\26c25db8f8123ee09b23bdad07b286ec_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\26\\26dd8301ddd43ce8831662a73ba9d805_16.png",
         "isSelected": false
       },
       {
@@ -6002,6 +6166,10 @@
         "isSelected": false
       },
       {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\5a\\5a0cb46aeb713e87a5966a64ba6ccc7e_16.png",
+        "isSelected": false
+      },
+      {
         "path": "local\\kubejs\\cache\\web\\img\\item\\5a\\5a16681eb703359184bfaf553e5c1ba8_16.png",
         "isSelected": false
       },
@@ -6075,6 +6243,14 @@
       },
       {
         "path": "local\\kubejs\\cache\\web\\img\\item\\60\\60e85b4a8073360ebe7a5e22c2d272e0_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\62",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\62\\6296d69d888b301aace2d29f9c6dbabd_16.png",
         "isSelected": false
       },
       {
@@ -6155,6 +6331,10 @@
       },
       {
         "path": "local\\kubejs\\cache\\web\\img\\item\\6e",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\6e\\6e439d19237c3ccea58d2ed86359bcd0_16.png",
         "isSelected": false
       },
       {
@@ -6247,6 +6427,10 @@
       },
       {
         "path": "local\\kubejs\\cache\\web\\img\\item\\75\\750ed14f7cf23c7780d582619e283b64_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\75\\752848ec295030518c0207b6d90d36d5_16.png",
         "isSelected": false
       },
       {
@@ -7214,6 +7398,10 @@
         "isSelected": false
       },
       {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\ce\\ced9ab84ad213693b11bec749fafabb2_16.png",
+        "isSelected": false
+      },
+      {
         "path": "local\\kubejs\\cache\\web\\img\\item\\cf",
         "isSelected": false
       },
@@ -7263,6 +7451,14 @@
       },
       {
         "path": "local\\kubejs\\cache\\web\\img\\item\\d1\\d1a9a0fcd1e83b5caa8bf3558cd9a65f_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\d2",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\d2\\d203fc3efc803c5db122ebab34b0acbb_16.png",
         "isSelected": false
       },
       {
@@ -7387,6 +7583,14 @@
       },
       {
         "path": "local\\kubejs\\cache\\web\\img\\item\\dd\\dd9e6b3996c933c193eb2513a1eb0149_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\de",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\de\\de9bc9cde85c39ddb1f2ca29682d6ca8_16.png",
         "isSelected": false
       },
       {
@@ -7598,6 +7802,10 @@
         "isSelected": false
       },
       {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\f2\\f2be583dda193632a120f27cdb97fcc3_16.png",
+        "isSelected": false
+      },
+      {
         "path": "local\\kubejs\\cache\\web\\img\\item\\f2\\f2e4c530874e3198b3db01f91177f17b_16.png",
         "isSelected": false
       },
@@ -7647,6 +7855,10 @@
       },
       {
         "path": "local\\kubejs\\cache\\web\\img\\item\\f9",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\f9\\f905ea0835bf3118bf6d0ef5984a208e_16.png",
         "isSelected": false
       },
       {
@@ -8182,6 +8394,26 @@
         "isSelected": false
       },
       {
+        "path": "logs\\2025-05-16-3.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-05-16-4.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-05-16-5.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-05-16-6.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-05-17-1.log.gz",
+        "isSelected": false
+      },
+      {
         "path": "logs\\debug-1.log.gz",
         "isSelected": false
       },
@@ -8350,7 +8582,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\ImmersiveEngineering-1.21.1-12.3.0-188.jar",
+        "path": "mods\\ImmersiveEngineering-1.21.1-12.3.1-189.jar",
         "isSelected": true
       },
       {
@@ -8386,7 +8618,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\mechanicals-1.21.1-1.0.5.jar",
+        "path": "mods\\mechanicals-1.21.1-1.0.7.jar",
         "isSelected": true
       },
       {
@@ -8395,6 +8627,10 @@
       },
       {
         "path": "mods\\moonlight-1.21-2.18.13-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\more-immersive-wires-1.21.1-1.1.7.jar",
         "isSelected": true
       },
       {
@@ -8466,15 +8702,15 @@
         "isSelected": true
       },
       {
-        "path": "mods\\sophisticatedbackpacks-1.21.1-3.24.12.1244.jar",
+        "path": "mods\\sophisticatedbackpacks-1.21.1-3.24.13.1245.jar",
         "isSelected": true
       },
       {
-        "path": "mods\\sophisticatedcore-1.21.1-1.3.40.981.jar",
+        "path": "mods\\sophisticatedcore-1.21.1-1.3.42.986.jar",
         "isSelected": true
       },
       {
-        "path": "mods\\sophisticatedstorage-1.21.1-1.4.33.1155.jar",
+        "path": "mods\\sophisticatedstorage-1.21.1-1.4.34.1156.jar",
         "isSelected": true
       },
       {

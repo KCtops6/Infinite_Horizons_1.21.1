@@ -233,5 +233,6 @@ Added Industrial Foregoing.
 Added Titanium.
 
 Added Netherrack Andesite Mesh Create Sifting Recipe.
+Moved Gateways to Eternity Datapack to KubeJS data folder.
 
 Added Industrial Foregoing Questline.

@@ -12,5 +12,14 @@
 	id: "2D39554C6E6B5360"
 	order_index: 0
 	quest_links: [ ]
-	quests: [ ]
+	quests: [{
+		id: "6886F164BAD11463"
+		tasks: [{
+			id: "554BC1F66F221578"
+			item: { count: 1, id: "minecraft:netherite_upgrade_smithing_template" }
+			type: "item"
+		}]
+		x: 1.0d
+		y: 0.0d
+	}]
 }

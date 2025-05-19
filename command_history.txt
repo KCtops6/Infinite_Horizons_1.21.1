@@ -1,7 +1,4 @@
 /reload
-/give KCtops6 minecraft:golden_apple
-/clear
-/reload
 /gamemode creative
 /effect give KCtops6 minecraft:resistance infinite 255 true
 /gamemode survival
@@ -48,3 +45,6 @@
 /ie mineral put "immersiveengineering:mineral/banded_iron" 10 ~ ~
 /datapack disable "file/infinite_horizons_2_gateways"
 /reload
+/gamemode survival
+/reload
+/kubejs hand

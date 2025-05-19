@@ -205,7 +205,7 @@ Added quests in Create chapter (rose quartz, electron tube, deployer, precision 
 https://www.youtube.com/watch?v=Bov8-HpO10Y
 
 1.21.1-1.6-Beta
-Note, this is an early update to address the bugged export of 1.21.1-1.6-beta.
+Note, this is an early update to address the bugged export of 1.21.1-1.5-beta.
 This is not titled 1.21.1-1.5b-beta because I made some additions since the 05/16/2025 release of 1.21.1-1.5-beta.
 
 Added More Immersive Wires.
@@ -224,3 +224,10 @@ Fixed Storage Block Textures.
 
 Added to Immersive Engineering Questline.
 Modified Alpha Questline.
+
+https://www.youtube.com/watch?v=JoW4HgBsgYs
+
+1.21.1-1.7-beta
+
+Added Industrial Foregoing.
+Added Titanium.

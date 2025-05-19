@@ -10,6 +10,7 @@
 	chapter.2F34CC58AE75DDE7.chapter_subtitle: ["Early-Game \"Non-Digital\" Storage"]
 	chapter.2F34CC58AE75DDE7.title: "Sophisticated Mods"
 	chapter.6B16A1E49845B379.title: "Create"
+	chapter.73BAD2E24E99AD1D.title: "Industrial Foregoing"
 	chapter.76260707B1BAF870.chapter_subtitle: ["Digital Storage"]
 	chapter.76260707B1BAF870.title: "Applied Energistics"
 	chapter_group.0ACDAC097705746A.title: "Eta"
@@ -19,6 +20,7 @@
 	chapter_group.315F05EC1C91DE0B.title: "Beta"
 	chapter_group.44896694C1F231C3.title: "Zeta"
 	chapter_group.650B408990186E73.title: "Alpha"
+	chapter_group.7264F9DB2A129085.title: "Theta"
 	quest.01AEEA186BB50BB0.quest_desc: ["The Nether Portal’s energy doesn’t just bring heat—it also alters stone into valuable resources. If you place Stone near an active portal, it will slowly transform into Nether Quartz Ore. Mine it to collect &lNether Quartz&r, an essential material for redstone components, decorative blocks, and more. Even without stepping into the Nether, you can still harness its unique resources!"]
 	quest.01AEEA186BB50BB0.quest_subtitle: "Harvesting Nether Quartz"
 	quest.01AEEA186BB50BB0.title: "Crystals of the Nether"
@@ -353,6 +355,7 @@
 	task.159C9E809E5BBFD8.title: "Any #sophisticated:advanced_filter_upgrades"
 	task.174F5F1106681A08.title: "Assemble a Blast Furnace"
 	task.1754E171A119F77F.title: "Obtain Diamond Armor from an Armorer."
+	task.18B1C3094EE3219B.title: "Enter Industrial Foregoing"
 	task.18C58601831336A4.title: "Any #sophisticatedstorage:iron_storages"
 	task.23F9812A10B9EDCF.title: "Any #sophisticated:auto_blasting_upgrades"
 	task.25812E1A01567F7C.title: "Any #sophisticated:smoking_upgrades"

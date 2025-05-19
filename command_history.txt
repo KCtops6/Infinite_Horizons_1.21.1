@@ -1,5 +1,3 @@
-/setblock ~ ~ ~ chest{LootTable:"chests/village_weaponsmith"} replace
-/setblock ~ ~ ~ chest{LootTable:"chests/village/village_weaponsmith"} replace
 /reload
 /give KCtops6 minecraft:golden_apple
 /clear
@@ -48,3 +46,5 @@
 /ie mineral list
 /ie mineral put "immersiveengineering:mineral/ancient_debris"
 /ie mineral put "immersiveengineering:mineral/banded_iron" 10 ~ ~
+/datapack disable "file/infinite_horizons_2_gateways"
+/reload

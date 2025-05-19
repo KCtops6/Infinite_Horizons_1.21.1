@@ -1,0 +1,27 @@
+{
+  "type": "gateways:gate_recipe",
+  "group": "gateways",
+  "pattern": [
+    "ACB",
+    "CDC",
+    "BCA"
+  ],
+  "key": {
+    "A": {
+      "tag": "mysticalagriculture:sulfur_essence"
+    },
+	"B": {
+      "tag": "mysticalagriculture:nether_essence"
+    },
+	"C": {
+      "item": "mysticalagriculture:fire_essence"
+    },
+	"D": {
+      "item": "mysticalagriculture:soulium_gemstone"
+    }
+  },
+  "result": {
+    "id": "gateways:gate_pearl"
+  },
+  "gateway": "gateways:basic/blaze1"
+}

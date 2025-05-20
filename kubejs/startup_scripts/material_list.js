@@ -52,7 +52,7 @@ global.nuggets = [
     'tin', 'uranium', 'zinc'
 ];
 global.raw_ores = [
-    'lead', 'nickel', 'osmium', 'silver',
+    'aluminum', 'lead', 'nickel', 'osmium', 'silver',
     'tin', 'uranium'
 ];
 global.blocks = [

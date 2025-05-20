@@ -244,7 +244,7 @@ Added farmers delight wild rice to create sifter (dirt).
 Added pumpkin seeds and melon seeds to create sifter (dirt).
 Fixed bug in which left clicking multiple empty blaze burners would only return one blaze burner.
 Added create mixing recipe for immersive engineering redstone acid.
-Added KubeJS aluminum nugget.
+Added KubeJS aluminum nugget, raw ore.
 
 Added Industrial Foregoing Questline.
 Added to Immersive Engineering Questline.

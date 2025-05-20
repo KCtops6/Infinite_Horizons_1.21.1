@@ -44,5 +44,51 @@
 			x: 1.0d
 			y: -1.0d
 		}
+		{
+			dependencies: ["541F722344F06E69"]
+			id: "09D0B8F0910153DA"
+			rewards: [{
+				id: "60123FBC43EFE64E"
+				item: {
+					components: {
+						"gateways:gateway": "gateways:basic/blaze1"
+					}
+					count: 1
+					id: "gateways:gate_pearl"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [{
+				id: "5C654B2C0D11AEB9"
+				item: { components: { "gateways:gateway": "gateways:basic/blaze2" }, count: 1, id: "gateways:gate_pearl" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["09D0B8F0910153DA"]
+			id: "099B92D7CA43A9AD"
+			rewards: [{
+				id: "031A65F20A331A71"
+				item: {
+					components: {
+						"gateways:gateway": "gateways:basic/blaze3"
+					}
+					count: 1
+					id: "gateways:gate_pearl"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [{
+				id: "10FC2C9B1426CF45"
+				item: { components: { "gateways:gateway": "gateways:basic/blaze3" }, count: 1, id: "gateways:gate_pearl" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
 	]
 }

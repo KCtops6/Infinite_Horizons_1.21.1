@@ -240,6 +240,7 @@ Moved gateways to eternity datapack to KubeJS data folder.
 Changed waterlogged dirt create sifting recipe to require sand.
 Added sugar cane to the above recipe.
 Created create sifter sand recipe (bone meal and cactus for now).
+Added farmers delight wild rice to create sifter (dirt).
 
 Added Industrial Foregoing Questline.
 Added to Epsilon Questline.

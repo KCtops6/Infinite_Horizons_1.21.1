@@ -232,6 +232,8 @@ https://www.youtube.com/watch?v=JoW4HgBsgYs
 Added Industrial Foregoing.
 Added Titanium.
 
+Updated ModernFix.
+
 Added Netherrack Andesite Mesh Create Sifting Recipe.
 Moved Gateways to Eternity Datapack to KubeJS data folder.
 

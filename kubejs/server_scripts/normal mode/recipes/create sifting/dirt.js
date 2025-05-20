@@ -5,5 +5,5 @@ ServerEvents.recipes(event => {
         Output.of('minecraft:pumpkin_seeds', 0.2),
         Output.of('minecraft:melon_seeds', 0.2),
         Output.of('farmersdelight:wild_rice', 0.1)
-    ],'minecraft:grass_block','createsifter:andesite_mesh')
+    ],'minecraft:dirt','createsifter:andesite_mesh')
 })

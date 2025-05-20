@@ -235,10 +235,11 @@ Added Titanium.
 Updated JourneyMap.
 Updated ModernFix.
 
-Added Netherrack Andesite Mesh Create Sifting Recipe.
-Moved Gateways to Eternity Datapack to KubeJS data folder.
-Changed Waterlogged Dirt Create Sifting recipe to require Sand.
-Added Sand to the above recipe.
+Added netherrack andesite mesh create sifting recipe.
+Moved gateways to eternity datapack to KubeJS data folder.
+Changed waterlogged dirt create sifting recipe to require sand.
+Added sugar cane to the above recipe.
+Created create sifter sand recipe (bone meal and cactus for now).
 
 Added Industrial Foregoing Questline.
 Added to Epsilon Questline.

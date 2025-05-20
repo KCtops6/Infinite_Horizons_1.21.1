@@ -28,7 +28,7 @@ global.plates = [
     'invar', 'iron', 'lead',
     'lumium', 'manasteel', 'netherite',
     'nickel', 'signalum', 'silver', 'steel',
-    'terrasteel', 'tin', 'zinc'
+    'terrasteel', 'tin', 'uranium', 'zinc'
 ];
 global.gems = [
     'apatite', 'cinnabar', 'niter', 'ruby', 'sapphire', 'sulfur'

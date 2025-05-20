@@ -242,6 +242,7 @@ Added sugar cane to the above recipe.
 Created create sifter sand recipe (bone meal and cactus for now).
 Added farmers delight wild rice to create sifter (dirt).
 Added pumpkin seeds and melon seeds to create sifter (dirt).
+Fixed bug in which left clicking multiple empty blaze burners would only return one blaze burner.
 
 Added Industrial Foregoing Questline.
 Added to Epsilon Questline.

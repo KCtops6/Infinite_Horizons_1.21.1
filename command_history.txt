@@ -1,5 +1,3 @@
-/tp 0 100 0
-/kubejs hand
 /clear
 /gamemode survival
 /clear
@@ -48,3 +46,5 @@
 /kubejs reload server-scripts
 /reload
 /gamemode survival
+/kubejs reload server-scripts
+/reload

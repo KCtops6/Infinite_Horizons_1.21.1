@@ -1,5 +1,7 @@
+//ignored: false
 ServerEvents.recipes(event => {
     event.recipes.createsifter.sifting([
+        Output.of('minecraft:coal', 0.3),
         Output.of('minecraft:raw_iron', 0.25),
         Output.of('minecraft:raw_copper', 0.3),
         Output.of('minecraft:raw_gold', 0.15),

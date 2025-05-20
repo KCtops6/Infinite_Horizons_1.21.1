@@ -232,6 +232,7 @@ https://www.youtube.com/watch?v=JoW4HgBsgYs
 Added Industrial Foregoing.
 Added Titanium.
 
+Updated JourneyMap.
 Updated ModernFix.
 
 Added Netherrack Andesite Mesh Create Sifting Recipe.

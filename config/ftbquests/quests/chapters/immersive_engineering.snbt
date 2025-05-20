@@ -464,9 +464,10 @@
 			optional: true
 			size: 0.5d
 			tasks: [{
-				id: "0261F21E494F4F1F"
-				item: { count: 1, id: "immersiveengineering:furnace_heater" }
-				type: "item"
+				advancement: "immersiveengineering:main/craft_heater"
+				criterion: ""
+				id: "766180A8D4B834E5"
+				type: "advancement"
 			}]
 			x: 2.75d
 			y: -2.75d

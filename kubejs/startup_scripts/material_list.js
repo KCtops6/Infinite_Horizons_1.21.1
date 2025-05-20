@@ -44,7 +44,7 @@ global.gears = [
     'terrasteel', 'tin'
 ];
 global.nuggets = [
-    'brass', 'bronze', 'constantan',
+    'aluminum', 'brass', 'bronze', 'constantan',
     'copper', 'electrum', 'enderium', 
     'invar', 'lead', 'lumium', 'manasteel', 
     'netherite', 'nickel', 'osmium',

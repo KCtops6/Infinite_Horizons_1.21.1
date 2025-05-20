@@ -8,13 +8,13 @@
   ],
   "key": {
     "A": {
-      "item": "mysticalagriculture:sulfur_essence"
+      "item": "mysticalagriculture:skeleton_essence"
     },
 	"B": {
-      "item": "mysticalagriculture:nether_essence"
+      "item": "mysticalagriculture:coal_essence"
     },
 	"C": {
-      "item": "mysticalagriculture:fire_essence"
+      "item": "mysticalagriculture:nether_essence"
     },
 	"D": {
       "item": "mysticalagriculture:soulium_gemstone"
@@ -23,5 +23,5 @@
   "result": {
     "id": "gateways:gate_pearl"
   },
-  "gateway": "gateways:basic/blaze1"
+  "gateway": "gateways:basic/wither_skeleton1"
 }

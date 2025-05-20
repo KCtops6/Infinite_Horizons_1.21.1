@@ -13,13 +13,13 @@
 	order_index: 0
 	quest_links: [ ]
 	quests: [{
-		id: "6886F164BAD11463"
+		id: "2D0713D748945430"
 		tasks: [{
-			id: "554BC1F66F221578"
-			item: { count: 1, id: "minecraft:netherite_upgrade_smithing_template" }
+			id: "7825A7565C13FB53"
+			item: { components: { "gateways:gateway": "gateways:basic/wither_skeleton1" }, count: 1, id: "gateways:gate_pearl" }
 			type: "item"
 		}]
-		x: 1.0d
+		x: 0.0d
 		y: 0.0d
 	}]
 }

@@ -114,6 +114,7 @@
 	quest.1BEB220EF0DCE259.quest_desc: ["The &lEnchanting Table&r is a powerful tool that allows you to imbue your items with magical enchantments. To craft one, you'll need Diamonds, Obsidian, and Bookshelves for enhancing its functionality. Use this table to upgrade your gear and gain an edge in your adventures."]
 	quest.1BEB220EF0DCE259.quest_subtitle: "Unlock the Magic"
 	quest.1BEB220EF0DCE259.title: "Crafting the Enchanting Table"
+	quest.1D92C24A1A1EB1EC.quest_desc: ["You basically need this block for all multiblock machines."]
 	quest.1DD31DACE3A3A35A.quest_desc: ["&lEarth Seeds&r grow into &lEarth Essence&r, which may not offer immediate benefits for early-game crafting, but it is vital for creating high-level gear in the end game. It's wise to start growing these now, so you’ll have a steady supply when you're ready to craft advanced equipment and unlock powerful recipes. Get a head start on your future progression!"]
 	quest.1DD31DACE3A3A35A.quest_subtitle: "Preparing for Greater Power"
 	quest.1DD31DACE3A3A35A.title: "Rooted in the Earth"
@@ -340,6 +341,7 @@
 	quest.7F0AC6B1D0CCBDE4.quest_desc: ["With &lLimestone Seeds&r, you can grow &lLimestone Essence&r, providing you with a steady supply of limestone for construction and crafting. Plant these seeds and harness the power of this durable stone without the need to mine for it."]
 	quest.7F0AC6B1D0CCBDE4.quest_subtitle: "Stone of Strength"
 	quest.7F0AC6B1D0CCBDE4.title: "Essence of Limestone"
+	task.02FD29192B135BC0.title: "Construct the Bottling Machine"
 	task.049328BEB49A0C63.title: "Any #sophisticated:auto_smelting_upgrades"
 	task.05A1297F925E6922.title: "Craft a Juice Item."
 	task.081F16B216B3A4E0.title: "Any #sophisticated:advanced_compacting_upgrades"
@@ -357,6 +359,7 @@
 	task.1754E171A119F77F.title: "Obtain Diamond Armor from an Armorer."
 	task.18B1C3094EE3219B.title: "Enter Industrial Foregoing"
 	task.18C58601831336A4.title: "Any #sophisticatedstorage:iron_storages"
+	task.18D7038439CDF699.title: "Construct the Bottling Machine"
 	task.23F9812A10B9EDCF.title: "Any #sophisticated:auto_blasting_upgrades"
 	task.25812E1A01567F7C.title: "Any #sophisticated:smoking_upgrades"
 	task.27149F550CA01926.title: "Any #curios:back"

@@ -237,7 +237,8 @@ Updated ModernFix.
 
 Added Netherrack Andesite Mesh Create Sifting Recipe.
 Moved Gateways to Eternity Datapack to KubeJS data folder.
-Changed Waterlogged Dirt Create Sifting Recipe to require Sand.
+Changed Waterlogged Dirt Create Sifting recipe to require Sand.
+Added Sand to the above recipe.
 
 Added Industrial Foregoing Questline.
 Added to Epsilon Questline.

@@ -1,8 +1,3 @@
-/gamemode creative
-/clear
-/gamemode creative
-/gamemode survival
-/clea
 /clear
 /gamemode creative
 /gamemode survival
@@ -48,3 +43,8 @@
 /reload
 /clear
 /kubejs hand
+/reload
+/placebo hand
+/reload
+/gamemode creative
+/reload

@@ -46,5 +46,14 @@
 		"loot_table": "chests/nether_bridge",
 		"rolls": 9,
 		"desc": "Nether Fortress Loot"
+	}, {
+    	"type": "gateways:stack",
+    	"stack": {
+			"id": "gateways:gate_pearl",
+			"count": 1,
+			"components": {
+				"gateways:gateway": "gateways:basic/blaze2"
+			}
+		}
 	}]
 }

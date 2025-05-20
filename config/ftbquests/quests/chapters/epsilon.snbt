@@ -18,6 +18,7 @@
 			tasks: [{
 				id: "523FB412F836DC07"
 				item: { components: { "gateways:gateway": "gateways:basic/blaze1" }, count: 1, id: "gateways:gate_pearl" }
+				match_components: "strict"
 				type: "item"
 			}]
 			x: 0.0d

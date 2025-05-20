@@ -1,6 +1,4 @@
 /clear
-/gamemode survival
-/clear
 /kubejs hand
 /ie
 /ie clearshaders
@@ -48,3 +46,5 @@
 /gamemode survival
 /kubejs reload server-scripts
 /reload
+/clear
+/gamemode survival

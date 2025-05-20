@@ -271,7 +271,10 @@
 			y: 2.0d
 		}
 		{
-			dependencies: ["54BBEAF6DD3561DB"]
+			dependencies: [
+				"54BBEAF6DD3561DB"
+				"4CD1FC24CB9BA156"
+			]
 			id: "35E04448751987CD"
 			tasks: [{
 				id: "5DA4370D6D1AB15C"
@@ -503,6 +506,63 @@
 			]
 			x: 3.75d
 			y: 0.75d
+		}
+		{
+			dependencies: ["2801B7696E0C1014"]
+			hide_dependency_lines: true
+			id: "33EF7EAFE4E57D28"
+			optional: true
+			size: 0.5d
+			tasks: [{
+				id: "6B7639A78CA2D5DF"
+				item: { count: 1, id: "immersiveengineering:wirecoil_copper_ins" }
+				type: "item"
+			}]
+			x: 3.25d
+			y: -2.75d
+		}
+		{
+			dependencies: [
+				"2801B7696E0C1014"
+				"558DD3044592488C"
+				"4CD1FC24CB9BA156"
+			]
+			hide_dependency_lines: true
+			id: "593DF43BAEBA90F0"
+			tasks: [{
+				id: "2F97888765E823EE"
+				item: { count: 1, id: "immersiveengineering:turntable" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["593DF43BAEBA90F0"]
+			hide_dependency_lines: true
+			id: "2D8B734D2B304A54"
+			optional: true
+			size: 0.5d
+			tasks: [{
+				advancement: "immersiveengineering:main/villager"
+				criterion: ""
+				id: "5BAFBD00023064E9"
+				type: "advancement"
+			}]
+			x: 7.0d
+			y: -2.75d
+		}
+		{
+			dependencies: ["7EF64FB6C394B762"]
+			hide_dependent_lines: true
+			id: "4CD1FC24CB9BA156"
+			tasks: [{
+				id: "59CC939CB8606CCB"
+				item: { count: 1, id: "immersiveengineering:basic_engineering" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -1.0d
 		}
 	]
 }

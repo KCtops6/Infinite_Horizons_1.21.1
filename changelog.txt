@@ -235,6 +235,7 @@ Added Titanium.
 Updated Balm.
 Updated JourneyMap.
 Updated ModernFix.
+Updated Sophisticated Core.
 
 Added netherrack andesite mesh create sifting recipe.
 Moved gateways to eternity datapack to KubeJS data folder.

@@ -236,6 +236,7 @@ Updated Balm.
 Updated JourneyMap.
 Updated ModernFix.
 Updated Sophisticated Core.
+Updated Waystones.
 
 Added netherrack andesite mesh create sifting recipe.
 Moved gateways to eternity datapack to KubeJS data folder.

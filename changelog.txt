@@ -227,12 +227,13 @@ Modified Alpha Questline.
 
 https://www.youtube.com/watch?v=JoW4HgBsgYs
 
-1.21.1-1.7-beta
+1.21.1-1.7-beta | "Industiral Foregoing Update"
 
 Added Industrial Foregoing.
 Added Titanium.
 
 Updated Balm.
+Updated Comforts (Fabric/Forge/Quilt).
 Updated JourneyMap.
 Updated ModernFix.
 Updated Sophisticated Core.

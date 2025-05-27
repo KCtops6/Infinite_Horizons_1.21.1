@@ -239,6 +239,7 @@ Updated JourneyMap.
 Updated Mechanicals Lib.
 Updated ModernFix.
 Updated Mystical Agriculture.
+Updated Sophisticated Backpacks.
 Updated Sophisticated Core.
 Updated Waystones.
 

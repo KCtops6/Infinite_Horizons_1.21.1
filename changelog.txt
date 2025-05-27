@@ -241,6 +241,7 @@ Updated ModernFix.
 Updated Mystical Agriculture.
 Updated Sophisticated Backpacks.
 Updated Sophisticated Core.
+Updated Sophisticated Storage.
 Updated Waystones.
 
 Added netherrack andesite mesh create sifting recipe.

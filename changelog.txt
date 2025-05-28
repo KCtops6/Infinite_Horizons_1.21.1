@@ -264,3 +264,4 @@ Added to Epsilon Questline.
 
 Added texture to andesite, diorite, granite, tuff Gravel.
 Added texture to block of raw aluminum, lead, silver, nickel, uranium.
+Removed unused items from original Infinite Horizons modpack.

@@ -266,4 +266,5 @@ Added texture to andesite, diorite, granite, tuff Gravel.
 Added texture to block of raw aluminum, lead, silver, nickel, uranium.
 Added soulium recipe from sifting soul sand.
 Removed waterlogged requirement to sift crushed netherrack.
+Added deepslate gravel sifting recipe for raw gold ore, prosperity shard.
 Removed unused items from original Infinite Horizons modpack.

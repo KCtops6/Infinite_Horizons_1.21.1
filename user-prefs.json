@@ -126,6 +126,10 @@
         "isSelected": true
       },
       {
+        "path": "config\\ftbquests\\quests\\chapters\\industrial_foregoing.snbt",
+        "isSelected": true
+      },
+      {
         "path": "config\\ftbquests\\quests\\chapters\\pams_harvestcraft.snbt",
         "isSelected": true
       },
@@ -222,6 +226,34 @@
         "isSelected": true
       },
       {
+        "path": "config\\industrialforegoing",
+        "isSelected": true
+      },
+      {
+        "path": "config\\industrialforegoing\\client-config.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\industrialforegoing\\machine-agriculture-husbandry.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\industrialforegoing\\machine-core.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\industrialforegoing\\machine-generator.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\industrialforegoing\\machine-misc.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\industrialforegoing\\machine-resource-production.toml",
+        "isSelected": true
+      },
+      {
         "path": "config\\jade",
         "isSelected": true
       },
@@ -263,6 +295,10 @@
       },
       {
         "path": "config\\jei\\world\\local\\New_World\\bookmarks.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jei\\world\\local\\New_World__1",
         "isSelected": true
       },
       {
@@ -315,6 +351,18 @@
       },
       {
         "path": "config\\pickupnotifier\\pickupnotifier-server.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\titanium",
+        "isSelected": true
+      },
+      {
+        "path": "config\\titanium\\titanium-tags.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\titanium\\titanium.toml",
         "isSelected": true
       },
       {
@@ -586,6 +634,10 @@
         "isSelected": true
       },
       {
+        "path": "config\\mysticalagriculture-common-1.toml.bak",
+        "isSelected": true
+      },
+      {
         "path": "config\\mysticalagriculture-common.toml",
         "isSelected": true
       },
@@ -839,6 +891,22 @@
       },
       {
         "path": "journeymap\\data\\mp\\offline",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\mp\\offline\\waypoints",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\mp\\offline\\waypoints\\backup",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\mp\\offline\\waypoints\\backup\\WaypointData.dat",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\mp\\offline\\waypoints\\WaypointData.dat",
         "isSelected": false
       },
       {
@@ -1350,6 +1418,142 @@
         "isSelected": false
       },
       {
+        "path": "journeymap\\data\\sp\\New World (1)",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\biome",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\biome\\0,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\biome\\0,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\biome\\1,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\biome\\1,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\cache",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\cache\\r.0.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\cache\\r.0.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\cache\\r.1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\cache\\r.1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\day",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\day\\0,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\day\\0,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\day\\1,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\day\\1,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\night",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\night\\0,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\night\\0,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\night\\1,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\night\\1,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\topo",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\topo\\cache",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\topo\\cache\\r.0.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\topo\\cache\\r.0.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\topo\\cache\\r.1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\topo\\cache\\r.1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\topo\\0,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\topo\\0,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\topo\\1,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\topo\\1,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\waypoints",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\waypoints\\WaypointData.dat",
+        "isSelected": false
+      },
+      {
         "path": "journeymap\\icon",
         "isSelected": false
       },
@@ -1526,6 +1730,14 @@
         "isSelected": false
       },
       {
+        "path": "journeymap\\icon\\entity\\minecraft\\horse_chestnut.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\horse_chestnut_outlined.png",
+        "isSelected": false
+      },
+      {
         "path": "journeymap\\icon\\entity\\minecraft\\horse_darkbrown.png",
         "isSelected": false
       },
@@ -1595,6 +1807,14 @@
       },
       {
         "path": "journeymap\\icon\\entity\\minecraft\\piglin.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\piglin_brute.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\piglin_brute_outlined.png",
         "isSelected": false
       },
       {
@@ -1706,11 +1926,27 @@
         "isSelected": false
       },
       {
+        "path": "journeymap\\icon\\entity\\minecraft\\villager_engineer.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\villager_engineer_outlined.png",
+        "isSelected": false
+      },
+      {
         "path": "journeymap\\icon\\entity\\minecraft\\villager_farmer.png",
         "isSelected": false
       },
       {
         "path": "journeymap\\icon\\entity\\minecraft\\villager_farmer_outlined.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\villager_gunsmith.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\villager_gunsmith_outlined.png",
         "isSelected": false
       },
       {
@@ -3230,6 +3466,18 @@
         "isSelected": true
       },
       {
+        "path": "kubejs\\assets\\gateways",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\gateways\\lang",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\gateways\\lang\\en_us.json",
+        "isSelected": true
+      },
+      {
         "path": "kubejs\\assets\\kubejs",
         "isSelected": true
       },
@@ -4122,6 +4370,10 @@
         "isSelected": true
       },
       {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\raw_aluminum.png",
+        "isSelected": true
+      },
+      {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\raw_lead.png",
         "isSelected": true
       },
@@ -4434,6 +4686,10 @@
         "isSelected": true
       },
       {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\uranium_plate.png",
+        "isSelected": true
+      },
+      {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\vanadium_steel_gear.png",
         "isSelected": true
       },
@@ -4550,6 +4806,78 @@
         "isSelected": true
       },
       {
+        "path": "kubejs\\data\\gateways",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\data\\gateways\\gateways",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\data\\gateways\\gateways\\basic",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\data\\gateways\\gateways\\basic\\blaze1.json",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\data\\gateways\\gateways\\basic\\blaze2.json",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\data\\gateways\\gateways\\basic\\blaze3.json",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\data\\gateways\\gateways\\basic\\cave_spider1.json",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\data\\gateways\\gateways\\basic\\cave_spider2.json",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\data\\gateways\\gateways\\basic\\cave_spider3.json",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\data\\gateways\\gateways\\basic\\warden.json",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\data\\gateways\\gateways\\basic\\wither_skeleton1.json",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\data\\gateways\\gateways\\basic\\wither_skeleton2.json",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\data\\gateways\\gateways\\basic\\wither_skeleton3.json",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\data\\gateways\\recipe",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\data\\gateways\\recipe\\basic",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\data\\gateways\\recipe\\basic\\blaze1.json",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\data\\gateways\\recipe\\basic\\cave_spider1.json",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\data\\gateways\\recipe\\basic\\wither_skeleton1.json",
+        "isSelected": true
+      },
+      {
         "path": "kubejs\\server_scripts",
         "isSelected": true
       },
@@ -4618,19 +4946,43 @@
         "isSelected": true
       },
       {
-        "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Create Sifting",
+        "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Create",
         "isSelected": true
       },
       {
-        "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Create Sifting\\dirt.js",
+        "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Create\\Mixing",
         "isSelected": true
       },
       {
-        "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Create Sifting\\gravel.js",
+        "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Create\\Mixing\\redstone_acid.js",
         "isSelected": true
       },
       {
-        "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Create Sifting\\waterlogged_dirt.js",
+        "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Create\\Sifting",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Create\\Sifting\\dirt.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Create\\Sifting\\grass_block.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Create\\Sifting\\gravel.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Create\\Sifting\\netherrack.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Create\\Sifting\\sand.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Create\\Sifting\\waterlogged_sand.js",
         "isSelected": true
       },
       {
@@ -4703,6 +5055,14 @@
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Minecraft\\Crafting Table\\Shapeless\\two_by_two.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Mystical Agriculture",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Mystical Agriculture\\Infusion",
         "isSelected": true
       },
       {
@@ -4886,6 +5246,30 @@
         "isSelected": false
       },
       {
+        "path": "local\\kubejs\\cache\\web\\img\\block\\1c",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\block\\1c\\1c292ba25309311fa6711b7f14ca8ad6_64.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\block\\1e",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\block\\1e\\1e83112f466f31b196de6c94db4c52f5_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\block\\25",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\block\\25\\2569277c15fc387c996ba800f7331aee_64.png",
+        "isSelected": false
+      },
+      {
         "path": "local\\kubejs\\cache\\web\\img\\block\\2a",
         "isSelected": false
       },
@@ -4907,6 +5291,22 @@
       },
       {
         "path": "local\\kubejs\\cache\\web\\img\\block\\31\\31b29b5835c031bb9cbd97b57ddef8c4_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\block\\32",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\block\\32\\32434d96ad1d3464b9849c217b1c9c5b_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\block\\39",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\block\\39\\39f382a81ed23f4da9deda05609454f6_16.png",
         "isSelected": false
       },
       {
@@ -4950,6 +5350,14 @@
         "isSelected": false
       },
       {
+        "path": "local\\kubejs\\cache\\web\\img\\block\\a0",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\block\\a0\\a0a22e61bcf536fea7694664eb41d671_64.png",
+        "isSelected": false
+      },
+      {
         "path": "local\\kubejs\\cache\\web\\img\\block\\a8",
         "isSelected": false
       },
@@ -4978,6 +5386,14 @@
         "isSelected": false
       },
       {
+        "path": "local\\kubejs\\cache\\web\\img\\block\\b4",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\block\\b4\\b4b270dff0d5391081a8a07941cb028a_16.png",
+        "isSelected": false
+      },
+      {
         "path": "local\\kubejs\\cache\\web\\img\\block\\bf",
         "isSelected": false
       },
@@ -4991,6 +5407,14 @@
       },
       {
         "path": "local\\kubejs\\cache\\web\\img\\block\\dd\\ddf8f68a9e6f3999a03c411c97ea81f3_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\block\\de",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\block\\de\\de9345335f393c048fd80cd1de4a84c2_64.png",
         "isSelected": false
       },
       {
@@ -5034,11 +5458,47 @@
         "isSelected": false
       },
       {
+        "path": "local\\kubejs\\cache\\web\\img\\fluid\\56",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\fluid\\56\\5632c77dd509384e90d4ae2de79e9818_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\fluid\\56\\5632c77dd509384e90d4ae2de79e9818_64.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\fluid\\b1",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\fluid\\b1\\b1cb55b649c4347483bc35024a4fc8f8_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\fluid\\b6",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\fluid\\b6\\b6a310b2af483835b949d12f0b837c3f_16.png",
+        "isSelected": false
+      },
+      {
         "path": "local\\kubejs\\cache\\web\\img\\fluid\\cf",
         "isSelected": false
       },
       {
         "path": "local\\kubejs\\cache\\web\\img\\fluid\\cf\\cfd98c4c62a936beb7092a2304833c77_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\fluid\\ee",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\fluid\\ee\\eebc4274ed9e3fcd9dfd6e02e245f401_16.png",
         "isSelected": false
       },
       {
@@ -5294,6 +5754,10 @@
         "isSelected": false
       },
       {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\12\\1268420becbc325497ef99a973ba8fba_16.png",
+        "isSelected": false
+      },
+      {
         "path": "local\\kubejs\\cache\\web\\img\\item\\12\\12729218df9137f6821e88fdf9de0e08_16.png",
         "isSelected": false
       },
@@ -5414,6 +5878,10 @@
         "isSelected": false
       },
       {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\1e\\1ecd0c7950d73a4b824352415e04322b_16.png",
+        "isSelected": false
+      },
+      {
         "path": "local\\kubejs\\cache\\web\\img\\item\\1e\\1ecd545772483ac8bd867a9b6c6c7587_16.png",
         "isSelected": false
       },
@@ -5427,6 +5895,10 @@
       },
       {
         "path": "local\\kubejs\\cache\\web\\img\\item\\1f\\1f2030eb004e32969bc54323a15e9a77_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\1f\\1f757438ab8e3e4e8990d8940a8f1a49_16.png",
         "isSelected": false
       },
       {
@@ -5518,6 +5990,10 @@
         "isSelected": false
       },
       {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\26\\26e36d24ab6637108bfd57392612f9da_16.png",
+        "isSelected": false
+      },
+      {
         "path": "local\\kubejs\\cache\\web\\img\\item\\27",
         "isSelected": false
       },
@@ -5559,6 +6035,10 @@
       },
       {
         "path": "local\\kubejs\\cache\\web\\img\\item\\29\\29a04960573b36e4b4db8e0e503d9337_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\29\\29ee7b8d750136f7808d33d3f9259d08_16.png",
         "isSelected": false
       },
       {
@@ -5762,6 +6242,10 @@
         "isSelected": false
       },
       {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\37\\372b6f636de33b2eb5984075a6d85cd1_64.png",
+        "isSelected": false
+      },
+      {
         "path": "local\\kubejs\\cache\\web\\img\\item\\37\\3797abedaf6c36a1a2775a9e599737bf_16.png",
         "isSelected": false
       },
@@ -5851,6 +6335,14 @@
       },
       {
         "path": "local\\kubejs\\cache\\web\\img\\item\\40\\405f987e5ac238debd6879d3cd1e78d3_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\41",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\41\\41a69aca99503ea494daf5e55f4dfa53_16.png",
         "isSelected": false
       },
       {
@@ -6390,6 +6882,10 @@
         "isSelected": false
       },
       {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\72\\7230a98f8717338a966d07658544653a_16.png",
+        "isSelected": false
+      },
+      {
         "path": "local\\kubejs\\cache\\web\\img\\item\\72\\724d8a5757133008af66e90a332f9c26_16.png",
         "isSelected": false
       },
@@ -6610,6 +7106,14 @@
         "isSelected": false
       },
       {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\87",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\87\\87428e58e0203a67b3c1444bf896383d_16.png",
+        "isSelected": false
+      },
+      {
         "path": "local\\kubejs\\cache\\web\\img\\item\\88",
         "isSelected": false
       },
@@ -6683,6 +7187,10 @@
       },
       {
         "path": "local\\kubejs\\cache\\web\\img\\item\\8e\\8eb15cb49c123831ba09631119198814_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\8e\\8eb15cb49c123831ba09631119198814_64.png",
         "isSelected": false
       },
       {
@@ -6814,6 +7322,10 @@
         "isSelected": false
       },
       {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\9c\\9ceeb21df8d531e28e2e9527b18760d3_16.png",
+        "isSelected": false
+      },
+      {
         "path": "local\\kubejs\\cache\\web\\img\\item\\9d",
         "isSelected": false
       },
@@ -6827,6 +7339,10 @@
       },
       {
         "path": "local\\kubejs\\cache\\web\\img\\item\\9e",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\9e\\9e5362a915cf30f5bee23ebf2322624d_16.png",
         "isSelected": false
       },
       {
@@ -7042,11 +7558,19 @@
         "isSelected": false
       },
       {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\b1\\b1395f741a6035899a060f91fb6a23ed_16.png",
+        "isSelected": false
+      },
+      {
         "path": "local\\kubejs\\cache\\web\\img\\item\\b1\\b13d68a7ec2332708c3f602c7d24bb80_16.png",
         "isSelected": false
       },
       {
         "path": "local\\kubejs\\cache\\web\\img\\item\\b1\\b13f9a8377303a0eafd5147b91dbdc7f_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\b1\\b1d698c587d73ef1a430f046092a8968_16.png",
         "isSelected": false
       },
       {
@@ -7590,6 +8114,14 @@
         "isSelected": false
       },
       {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\de\\de9345335f393c048fd80cd1de4a84c2_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\de\\de9345335f393c048fd80cd1de4a84c2_64.png",
+        "isSelected": false
+      },
+      {
         "path": "local\\kubejs\\cache\\web\\img\\item\\de\\de9bc9cde85c39ddb1f2ca29682d6ca8_16.png",
         "isSelected": false
       },
@@ -7711,6 +8243,10 @@
       },
       {
         "path": "local\\kubejs\\cache\\web\\img\\item\\ea\\ea0dad804c9c3319b2652a94ad4e6d16_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\ea\\eaeaf5f8b9f834ba86e657a11380e539_16.png",
         "isSelected": false
       },
       {
@@ -7863,6 +8399,10 @@
       },
       {
         "path": "local\\kubejs\\cache\\web\\img\\item\\f9\\f90f442c22d63d0eb9e9debb8df78124_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\f9\\f92f8600c59a37caa89c62063e84e0c8_16.png",
         "isSelected": false
       },
       {
@@ -8414,6 +8954,46 @@
         "isSelected": false
       },
       {
+        "path": "logs\\2025-05-19-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-05-19-2.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-05-19-3.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-05-19-4.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-05-19-5.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-05-20-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-05-20-2.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-05-20-3.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-05-20-4.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-05-23-1.log.gz",
+        "isSelected": false
+      },
+      {
         "path": "logs\\debug-1.log.gz",
         "isSelected": false
       },
@@ -8470,7 +9050,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\balm-neoforge-1.21.1-21.0.44.jar",
+        "path": "mods\\balm-neoforge-1.21.1-21.0.45.jar",
         "isSelected": true
       },
       {
@@ -8486,7 +9066,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\comforts-neoforge-9.0.3+1.21.1.jar",
+        "path": "mods\\comforts-neoforge-9.0.4+1.21.1.jar",
         "isSelected": true
       },
       {
@@ -8494,7 +9074,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\createsifter-1.21.1-2.1.1.jar",
+        "path": "mods\\createsifter-1.21.1-2.1.3.jar",
         "isSelected": true
       },
       {
@@ -8586,6 +9166,10 @@
         "isSelected": true
       },
       {
+        "path": "mods\\industrialforegoing-1.21-3.6.29.jar",
+        "isSelected": true
+      },
+      {
         "path": "mods\\Jade-1.21.1-NeoForge-15.10.0.jar",
         "isSelected": true
       },
@@ -8594,7 +9178,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\journeymap-neoforge-1.21.1-6.0.0-beta.46.jar",
+        "path": "mods\\journeymap-neoforge-1.21.1-6.0.0-beta.47.jar",
         "isSelected": true
       },
       {
@@ -8618,11 +9202,11 @@
         "isSelected": true
       },
       {
-        "path": "mods\\mechanicals-1.21.1-1.0.7.jar",
+        "path": "mods\\mechanicals-1.21.1-1.0.9.jar",
         "isSelected": true
       },
       {
-        "path": "mods\\modernfix-neoforge-5.22.0+mc1.21.1.jar",
+        "path": "mods\\modernfix-neoforge-5.23.0+mc1.21.1.jar",
         "isSelected": true
       },
       {
@@ -8646,7 +9230,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\MysticalAgriculture-1.21.1-8.0.16.jar",
+        "path": "mods\\MysticalAgriculture-1.21.1-8.0.17.jar",
         "isSelected": true
       },
       {
@@ -8702,15 +9286,19 @@
         "isSelected": true
       },
       {
-        "path": "mods\\sophisticatedbackpacks-1.21.1-3.24.13.1245.jar",
+        "path": "mods\\sophisticatedbackpacks-1.21.1-3.24.14.1249.jar",
         "isSelected": true
       },
       {
-        "path": "mods\\sophisticatedcore-1.21.1-1.3.42.986.jar",
+        "path": "mods\\sophisticatedcore-1.21.1-1.3.47.999.jar",
         "isSelected": true
       },
       {
-        "path": "mods\\sophisticatedstorage-1.21.1-1.4.34.1156.jar",
+        "path": "mods\\sophisticatedstorage-1.21.1-1.4.36.1161.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\titanium-1.21-4.0.37.jar",
         "isSelected": true
       },
       {
@@ -8730,7 +9318,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\waystones-neoforge-1.21.1-21.1.18.jar",
+        "path": "mods\\waystones-neoforge-1.21.1-21.1.19.jar",
         "isSelected": true
       },
       {
@@ -8782,7 +9370,23 @@
         "isSelected": false
       },
       {
+        "path": "saves\\New World\\data\\idcounts.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\data\\ImmersiveEngineering-SaveData.dat",
+        "isSelected": false
+      },
+      {
         "path": "saves\\New World\\data\\JMPlayerSettings.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\data\\map_0.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\data\\map_1.dat",
         "isSelected": false
       },
       {
@@ -8803,6 +9407,10 @@
       },
       {
         "path": "saves\\New World\\data\\sophisticatedbackpacks.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\data\\TitaniumReward.dat",
         "isSelected": false
       },
       {
@@ -9207,6 +9815,22 @@
       },
       {
         "path": "shaderpacks",
+        "isSelected": false
+      },
+      {
+        "path": "waypoints",
+        "isSelected": false
+      },
+      {
+        "path": "waypoints\\backup",
+        "isSelected": false
+      },
+      {
+        "path": "waypoints\\backup\\WaypointData.dat",
+        "isSelected": false
+      },
+      {
+        "path": "waypoints\\WaypointData.dat",
         "isSelected": false
       },
       {

@@ -227,7 +227,7 @@ Modified Alpha Questline.
 
 https://www.youtube.com/watch?v=JoW4HgBsgYs
 
-1.21.1-1.7-beta | "Industiral Foregoing Update"
+1.21.1-1.7-beta | "Industrial Foregoing Update"
 
 Added Industrial Foregoing.
 Added Titanium.
@@ -259,3 +259,8 @@ Added KubeJS uranium plate.
 Added Industrial Foregoing Questline.
 Added to Immersive Engineering Questline.
 Added to Epsilon Questline.
+
+1.21.1-1.8-beta
+
+Added texture to andesite, diorite, granite, tuff Gravel.
+Added texture to block of raw aluminum, lead, silver, nickel, uranium.

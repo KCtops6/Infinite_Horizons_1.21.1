@@ -272,3 +272,4 @@ Removed unused items from original Infinite Horizons modpack.
 Updated Balm.
 Updated Sophisticated Backpacks.
 Updated Sophisticated Core.
+Updated Sophisticated Storage.

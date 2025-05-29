@@ -270,3 +270,4 @@ Added deepslate gravel sifting recipe for raw gold ore, amethyst shard, prosperi
 Removed unused items from original Infinite Horizons modpack.
 
 Updated Balm.
+Updated Sophisticated Backpacks.

@@ -271,6 +271,7 @@ Removed unused items from original Infinite Horizons modpack.
 Added create milling recipe for various gravels.
 
 Updated Balm.
+Updated Farmer's Delight.
 Updated Sophisticated Backpacks.
 Updated Sophisticated Core.
 Updated Sophisticated Storage.

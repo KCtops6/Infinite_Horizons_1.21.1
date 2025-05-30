@@ -262,6 +262,8 @@ Added to Epsilon Questline.
 
 1.21.1-1.8-beta
 
+Added Better Advancements.
+
 Added texture to andesite, diorite, granite, tuff Gravel.
 Added texture to block of raw aluminum, lead, silver, nickel, uranium.
 Added soulium recipe from sifting soul sand.

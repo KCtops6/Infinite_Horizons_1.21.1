@@ -268,6 +268,7 @@ Added soulium recipe from sifting soul sand.
 Removed waterlogged requirement to sift crushed netherrack.
 Added deepslate gravel sifting recipe for raw gold ore, amethyst shard, prosperity shard.
 Removed unused items from original Infinite Horizons modpack.
+Added create milling recipe for various gravels.
 
 Updated Balm.
 Updated Sophisticated Backpacks.

@@ -1,6 +1,6 @@
 StartupEvents.registry('item', e => {
     const items = [
-        'stone_pebble', 'andesite_pebble', 'deepslate_pebble', 'nether_key', 'end_key'
+        'stone_pebble', 'andesite_pebble', 'deepslate_pebble'
     ];
 
     const formatName = (id) => {
@@ -12,7 +12,7 @@ StartupEvents.registry('item', e => {
     });
 
     const glowingitems = [
-        'wither_controller', 'ender_controller', 'token_of_the_nether', 'token_of_the_end'
+        'nether_key', 'end_key'
     ];
 
     glowingitems.forEach(id => {

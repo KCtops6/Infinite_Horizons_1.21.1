@@ -1,5 +1,3 @@
-/give KCtops6 kubejs:steel_ingot
-/advancement grant KCtops6 only immersiveengineering:main/make_steel
 /advancement grant KCtops6 until immersiveengineering:main/craft_treatedwood
 /clear
 /ie mineral
@@ -48,3 +46,5 @@
 /advancement grant KCtops6 until immersiveengineering:multiblocks/craft_sheetmetal
 /advancement grant KCtops6 everything
 /clear
+/kubejs reload server-scripts
+/reload

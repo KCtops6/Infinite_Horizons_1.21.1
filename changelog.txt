@@ -280,6 +280,7 @@ Updated Farmer's Delight.
 Updated FTB Ultimine (Forge).
 Updated ModernFix.
 Updated Moonlight Lib.
+Updated MoreJS.
 Updated Sophisticated Backpacks.
 Updated Sophisticated Core.
 Updated Sophisticated Storage.

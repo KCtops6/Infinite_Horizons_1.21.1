@@ -278,6 +278,7 @@ Updated Balm.
 Updated Default World Type [Forge].
 Updated Farmer's Delight.
 Updated FTB Ultimine (Forge).
+Updated ModernFix.
 Updated Sophisticated Backpacks.
 Updated Sophisticated Core.
 Updated Sophisticated Storage.

@@ -1,4 +1,5 @@
 //ignored: false
+//requires: create
 BlockEvents.leftClicked(event => {
     const { block, item, player } = event;
     if (block.id === 'minecraft:nether_portal' && item.id === 'create:empty_blaze_burner') {

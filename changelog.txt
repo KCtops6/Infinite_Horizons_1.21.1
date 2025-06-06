@@ -272,6 +272,7 @@ Added deepslate gravel sifting recipe for raw gold ore, amethyst shard, prosperi
 Removed unused items from original Infinite Horizons modpack.
 Added create milling recipe for various gravels.
 
+Updated AppleSkin.
 Updated Applied Energistics 2.
 Updated Balm.
 Updated Farmer's Delight.

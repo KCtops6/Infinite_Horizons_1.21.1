@@ -275,6 +275,7 @@ Added create milling recipe for various gravels.
 Updated AppleSkin.
 Updated Applied Energistics 2.
 Updated Balm.
+Updated Default World Type [Forge].
 Updated Farmer's Delight.
 Updated FTB Ultimine (Forge).
 Updated Sophisticated Backpacks.

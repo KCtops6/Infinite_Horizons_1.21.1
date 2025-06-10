@@ -78,6 +78,10 @@
         "isSelected": true
       },
       {
+        "path": "config\\defaultworldtype\\client-config-1.toml.bak",
+        "isSelected": true
+      },
+      {
         "path": "config\\defaultworldtype\\client-config.toml",
         "isSelected": true
       },
@@ -398,6 +402,10 @@
         "isSelected": true
       },
       {
+        "path": "config\\betteradvancements-client.toml",
+        "isSelected": true
+      },
+      {
         "path": "config\\cobblegengalore-common.toml",
         "isSelected": true
       },
@@ -531,6 +539,14 @@
       },
       {
         "path": "config\\ftbquests-client.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ftbultimine-client.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ftbultimine-server.snbt",
         "isSelected": true
       },
       {
@@ -786,6 +802,18 @@
         "isSelected": false
       },
       {
+        "path": "crash-reports\\crash-2025-05-28_09.08.42-client.txt",
+        "isSelected": false
+      },
+      {
+        "path": "crash-reports\\crash-2025-05-28_10.44.28-client.txt",
+        "isSelected": false
+      },
+      {
+        "path": "crash-reports\\crash-2025-06-06_14.58.35-fml.txt",
+        "isSelected": false
+      },
+      {
         "path": "datapacks",
         "isSelected": false
       },
@@ -923,6 +951,46 @@
       },
       {
         "path": "journeymap\\data\\sp\\New World\\overworld\\4",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\6",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\6\\cache",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\6\\cache\\r.-1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\6\\cache\\r.-1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\6\\cache\\r.0.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\6\\cache\\r.0.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\6\\-1,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\6\\-1,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\6\\0,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\6\\0,0.png",
         "isSelected": false
       },
       {
@@ -3530,7 +3598,31 @@
         "isSelected": true
       },
       {
+        "path": "kubejs\\assets\\kubejs\\textures\\block\\andesite_gravel.png",
+        "isSelected": true
+      },
+      {
         "path": "kubejs\\assets\\kubejs\\textures\\block\\apatite_block.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\block\\block_of_raw_aluminum.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\block\\block_of_raw_lead.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\block\\block_of_raw_nickel.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\block\\block_of_raw_silver.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\block\\block_of_raw_uranium.png",
         "isSelected": true
       },
       {
@@ -3554,6 +3646,10 @@
         "isSelected": true
       },
       {
+        "path": "kubejs\\assets\\kubejs\\textures\\block\\diorite_gravel.png",
+        "isSelected": true
+      },
+      {
         "path": "kubejs\\assets\\kubejs\\textures\\block\\electrum_block.png",
         "isSelected": true
       },
@@ -3571,6 +3667,10 @@
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\block\\gold_block.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\block\\granite_gravel.png",
         "isSelected": true
       },
       {
@@ -4778,6 +4878,18 @@
         "isSelected": true
       },
       {
+        "path": "kubejs\\assets\\ponderjs_generated",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\ponderjs_generated\\lang",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\ponderjs_generated\\lang\\en_us.json",
+        "isSelected": true
+      },
+      {
         "path": "kubejs\\client_scripts",
         "isSelected": true
       },
@@ -4950,6 +5062,14 @@
         "isSelected": true
       },
       {
+        "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Create\\Milling",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Create\\Milling\\gravels.js",
+        "isSelected": true
+      },
+      {
         "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Create\\Mixing",
         "isSelected": true
       },
@@ -4959,6 +5079,10 @@
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Create\\Sifting",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Create\\Sifting\\deepslate_gravel.js",
         "isSelected": true
       },
       {
@@ -4979,6 +5103,10 @@
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Create\\Sifting\\sand.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Create\\Sifting\\soul_sand.js",
         "isSelected": true
       },
       {
@@ -5426,6 +5554,14 @@
         "isSelected": false
       },
       {
+        "path": "local\\kubejs\\cache\\web\\img\\block\\ea",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\block\\ea\\eaeaf5f8b9f834ba86e657a11380e539_64.png",
+        "isSelected": false
+      },
+      {
         "path": "local\\kubejs\\cache\\web\\img\\block\\ec",
         "isSelected": false
       },
@@ -5615,6 +5751,10 @@
       },
       {
         "path": "local\\kubejs\\cache\\web\\img\\item\\06\\0621d782a9de3eae9cdd15064433ea86_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\06\\064e33ac24513e14aea574e3d26df8fd_16.png",
         "isSelected": false
       },
       {
@@ -6042,6 +6182,10 @@
         "isSelected": false
       },
       {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\29\\29ee7b8d750136f7808d33d3f9259d08_64.png",
+        "isSelected": false
+      },
+      {
         "path": "local\\kubejs\\cache\\web\\img\\item\\2a",
         "isSelected": false
       },
@@ -6290,6 +6434,10 @@
         "isSelected": false
       },
       {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\3a\\3ae63aa37e6c3061a2c449b87810d3a1_16.png",
+        "isSelected": false
+      },
+      {
         "path": "local\\kubejs\\cache\\web\\img\\item\\3b",
         "isSelected": false
       },
@@ -6335,6 +6483,10 @@
       },
       {
         "path": "local\\kubejs\\cache\\web\\img\\item\\40\\405f987e5ac238debd6879d3cd1e78d3_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\40\\40b41df636e038aea7b6a579d1005dec_16.png",
         "isSelected": false
       },
       {
@@ -6542,6 +6694,10 @@
         "isSelected": false
       },
       {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\52\\5204d14dc11f3070b8df325f51273810_16.png",
+        "isSelected": false
+      },
+      {
         "path": "local\\kubejs\\cache\\web\\img\\item\\52\\520c5d50679438c0b94967af592cfee7_16.png",
         "isSelected": false
       },
@@ -6579,6 +6735,14 @@
       },
       {
         "path": "local\\kubejs\\cache\\web\\img\\item\\53\\53e6dd75f3b93511acb9d7cd048bfa5f_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\54",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\54\\548daf767f4f35c09fffcde66b9fc0c4_16.png",
         "isSelected": false
       },
       {
@@ -7226,6 +7390,10 @@
         "isSelected": false
       },
       {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\91\\91ea5517d2fc335c9e858014724a58b3_16.png",
+        "isSelected": false
+      },
+      {
         "path": "local\\kubejs\\cache\\web\\img\\item\\92",
         "isSelected": false
       },
@@ -7474,6 +7642,10 @@
         "isSelected": false
       },
       {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\aa\\aa2b8d5996fc30559449aa29188411c1_16.png",
+        "isSelected": false
+      },
+      {
         "path": "local\\kubejs\\cache\\web\\img\\item\\ab",
         "isSelected": false
       },
@@ -7595,6 +7767,10 @@
       },
       {
         "path": "local\\kubejs\\cache\\web\\img\\item\\b3",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\b3\\b38ba98ae4443aa891568b6916f63fee_16.png",
         "isSelected": false
       },
       {
@@ -7778,6 +7954,10 @@
         "isSelected": false
       },
       {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\c0\\c07fec59b78e38d58aa76a86fef44b58_16.png",
+        "isSelected": false
+      },
+      {
         "path": "local\\kubejs\\cache\\web\\img\\item\\c0\\c09912ca27833c3e9be9801aae6feaa8_16.png",
         "isSelected": false
       },
@@ -7907,6 +8087,10 @@
       },
       {
         "path": "local\\kubejs\\cache\\web\\img\\item\\cd\\cd7271afb2103b90a36865bf92ca0dfd_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\cd\\cdcdfe6a17723cdd8ea656a289946735_16.png",
         "isSelected": false
       },
       {
@@ -8250,6 +8434,10 @@
         "isSelected": false
       },
       {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\ea\\eaeaf5f8b9f834ba86e657a11380e539_64.png",
+        "isSelected": false
+      },
+      {
         "path": "local\\kubejs\\cache\\web\\img\\item\\eb",
         "isSelected": false
       },
@@ -8478,7 +8666,27 @@
         "isSelected": false
       },
       {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\ff\\ff156f52d3ee323b9b3a9e206688a20b_64.png",
+        "isSelected": false
+      },
+      {
         "path": "local\\kubejs\\cache\\web\\img\\item_tag",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item_tag\\09",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item_tag\\09\\0955a21f5abb3e0e9fffd54d6ca346c7_16.gif",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item_tag\\44",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item_tag\\44\\44ce8786ff18340386725b7968ad1d01_16.gif",
         "isSelected": false
       },
       {
@@ -8602,10 +8810,6 @@
         "isSelected": false
       },
       {
-        "path": "local\\ftbultimine-client.snbt",
-        "isSelected": false
-      },
-      {
         "path": "logs",
         "isSelected": false
       },
@@ -8651,6 +8855,10 @@
       },
       {
         "path": "logs\\telemetry",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\telemetry\\20250606-1.json.gz",
         "isSelected": false
       },
       {
@@ -8994,6 +9202,34 @@
         "isSelected": false
       },
       {
+        "path": "logs\\2025-05-27-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-05-27-2.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-05-28-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-05-28-2.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-05-28-3.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-05-29-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-06-06-1.log.gz",
+        "isSelected": false
+      },
+      {
         "path": "logs\\debug-1.log.gz",
         "isSelected": false
       },
@@ -9038,11 +9274,11 @@
         "isSelected": true
       },
       {
-        "path": "mods\\appleskin-neoforge-mc1.21-3.0.5.jar",
+        "path": "mods\\appleskin-neoforge-mc1.21-3.0.7.jar",
         "isSelected": true
       },
       {
-        "path": "mods\\appliedenergistics2-19.2.10.jar",
+        "path": "mods\\appliedenergistics2-19.2.11.jar",
         "isSelected": true
       },
       {
@@ -9050,7 +9286,11 @@
         "isSelected": true
       },
       {
-        "path": "mods\\balm-neoforge-1.21.1-21.0.45.jar",
+        "path": "mods\\balm-neoforge-1.21.1-21.0.46.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar",
         "isSelected": true
       },
       {
@@ -9086,7 +9326,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\DefaultWorldType-1.21-5.0.0.jar",
+        "path": "mods\\DefaultWorldType-1.21-5.0.1.jar",
         "isSelected": true
       },
       {
@@ -9110,7 +9350,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\FarmersDelight-1.21.1-1.2.7.jar",
+        "path": "mods\\FarmersDelight-1.21.1-1.2.8.jar",
         "isSelected": true
       },
       {
@@ -9134,7 +9374,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\ftb-ultimine-neoforge-2101.1.1.jar",
+        "path": "mods\\ftb-ultimine-neoforge-2101.1.3.jar",
         "isSelected": true
       },
       {
@@ -9206,11 +9446,11 @@
         "isSelected": true
       },
       {
-        "path": "mods\\modernfix-neoforge-5.23.0+mc1.21.1.jar",
+        "path": "mods\\modernfix-neoforge-5.23.1+mc1.21.1.jar",
         "isSelected": true
       },
       {
-        "path": "mods\\moonlight-1.21-2.18.13-neoforge.jar",
+        "path": "mods\\moonlight-1.21-2.18.18-neoforge.jar",
         "isSelected": true
       },
       {
@@ -9218,7 +9458,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\morejs-neoforge-1.21-0.13.1.jar",
+        "path": "mods\\morejs-neoforge-1.21-0.14.1.jar",
         "isSelected": true
       },
       {
@@ -9286,15 +9526,15 @@
         "isSelected": true
       },
       {
-        "path": "mods\\sophisticatedbackpacks-1.21.1-3.24.14.1249.jar",
+        "path": "mods\\sophisticatedbackpacks-1.21.1-3.24.15.1250.jar",
         "isSelected": true
       },
       {
-        "path": "mods\\sophisticatedcore-1.21.1-1.3.47.999.jar",
+        "path": "mods\\sophisticatedcore-1.21.1-1.3.50.1004.jar",
         "isSelected": true
       },
       {
-        "path": "mods\\sophisticatedstorage-1.21.1-1.4.36.1161.jar",
+        "path": "mods\\sophisticatedstorage-1.21.1-1.4.38.1166.jar",
         "isSelected": true
       },
       {
@@ -9771,10 +10011,6 @@
       },
       {
         "path": "saves\\New World\\serverconfig",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\serverconfig\\ftbultimine-server.snbt",
         "isSelected": false
       },
       {

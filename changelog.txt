@@ -286,6 +286,7 @@ Updated Sophisticated Core.
 Updated Sophisticated Storage.
 
 1.21.1-1.9-beta
+Added Create Mechanical Extruder (will be removing Cobblegen Galore in next update).
 
 Updated Applied Energistics 2.
 Updated Create.

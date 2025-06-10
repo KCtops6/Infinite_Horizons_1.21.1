@@ -289,3 +289,4 @@ Updated Sophisticated Storage.
 
 Updated Applied Energistics 2.
 Updated Create.
+Updated JourneyMap.

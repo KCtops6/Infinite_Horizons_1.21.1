@@ -1,4 +1,3 @@
-/advancement grant KCtops6 until immersiveengineering:main/craft_treatedwood
 /clear
 /ie mineral
 /ie mineral list
@@ -48,3 +47,4 @@
 /clear
 /kubejs reload server-scripts
 /reload
+/gamemode creative

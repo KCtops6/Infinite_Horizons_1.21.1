@@ -291,6 +291,7 @@ Added Create Mechanical Extruder (will be removing Cobblegen Galore in next upda
 Added create mechanical extruder recipes.
 
 Updated Almost Unified.
+Updated Apothic Attributes.
 Updated Applied Energistics 2.
 Updated Create.
 Updated JourneyMap.

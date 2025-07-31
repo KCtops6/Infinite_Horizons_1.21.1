@@ -323,3 +323,4 @@ Updated Pam's HarvestCraft 2 - Food Core.
 Updated Pam's HarvestCraft 2 - Trees.
 Updated Placebo.
 Updated Smarter Farmers (farmers replant).
+Updated Sophisticated Backpacks.

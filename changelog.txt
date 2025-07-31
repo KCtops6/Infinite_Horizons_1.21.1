@@ -293,5 +293,6 @@ Added create mechanical extruder recipes.
 Updated Almost Unified.
 Updated Apothic Attributes.
 Updated Applied Energistics 2.
+Updated Balm.
 Updated Create.
 Updated JourneyMap.

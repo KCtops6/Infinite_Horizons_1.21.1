@@ -310,4 +310,5 @@ Updated FTB XMod Compat.
 Updated Generator Galore.
 Updated GuideME.
 Updated Immersive Engineering.
+Updated Jade 🔍.
 Updated JourneyMap.

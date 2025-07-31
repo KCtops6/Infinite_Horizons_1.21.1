@@ -313,3 +313,4 @@ Updated Immersive Engineering.
 Updated Jade 🔍.
 Updated JourneyMap.
 Updated Just Enough Items (JEI).
+Updated LootJS: KubeJS Addon.

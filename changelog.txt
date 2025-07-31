@@ -312,3 +312,4 @@ Updated GuideME.
 Updated Immersive Engineering.
 Updated Jade 🔍.
 Updated JourneyMap.
+Updated Just Enough Items (JEI).

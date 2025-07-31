@@ -303,4 +303,5 @@ Updated Entity Culling Fabric/Forge.
 Updated FTB Filter System.
 Updated FTB Library (Forge).
 Updated FTB Quests (Forge).
+Updated FTB Ultimine (Forge).
 Updated JourneyMap.

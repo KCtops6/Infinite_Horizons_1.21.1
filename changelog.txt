@@ -307,4 +307,5 @@ Updated FTB Library (Forge).
 Updated FTB Quests (Forge).
 Updated FTB Ultimine (Forge).
 Updated FTB XMod Compat.
+Updated Generator Galore.
 Updated JourneyMap.

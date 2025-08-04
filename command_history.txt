@@ -1,50 +1,50 @@
-/ie mineral put "immersiveengineering:mineral/banded_iron" 10 ~ ~
-/datapack disable "file/infinite_horizons_2_gateways"
-/reload
-/gamemode survival
-/reload
-/kubejs hand
-/reload
 /clear
-/reload
-/datapack list
+/kubejs reload server-scripts
 /reload
 /kubejs reload server-scripts
 /reload
-/clear
-/kubejs hand
-/reload
-/placebo hand
-/reload
+/gamemode spectator
+/gamemode survival
 /gamemode creative
-/reload
 /kubejs reload server-scripts
-/reload
-/kubejs reload
-/datapack list
-/reload
-/kubejs reload server-scripts
-/reload
-/kubejs reload server-scripts
+/recipe
 /reload
 /gamemode survival
-/kubejs reload server-scripts
-/reload
-/clear
-/gamemode survival
-/clear
-/advancement grant KCtops6 only immersiveengineering:main/place_dynamo
-/advancement grant KCtops6 only immersiveengineering:main/place_windmill
-/advancement grant KCtops6 only immersiveengineering:main/craft_heater
-/advancement grant KCtops6 only immersiveengineering:main/chorus_cloche
-/advancement grant KCtops6 only immersiveengineering:main/place_conveyor
-/advancement grant KCtops6 until immersiveengineering:multiblocks/craft_sheetmetal
-/advancement grant KCtops6 everything
-/clear
-/kubejs reload server-scripts
-/reload
 /gamemode creative
-/advancement revoke KCtops6 only restrictedportals:nether
-/gamemode
+/kubejs reload server-scripts
+/reload
+/gamemode survival
+/gamemode creative
+/clear
+/kubejs reload server-scripts
+/reload
+/kubejs reload server-scripts
+/reload
+/clear
+/setblock 120 99 82 vault
+/kubejs reload server-scripts
+/reload
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/kubejs reload server-scripts
+/reload
+/kubejs reload server-scripts
+/reload
+/clear
+/kubejs reload server-scripts
+/reload
+/clear
+/gamemode creative
+/kubejs inventory
+/clear
+/kubejs reload server-scripts
+/reload
+/kubejs reload server-scripts
+/reload
+/kubejs reload server-scripts
+/reload
+/kubejs reload server-scripts
+/reload
 /gamemode survival
 /clear

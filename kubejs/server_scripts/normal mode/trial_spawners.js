@@ -15,7 +15,13 @@ BlockEvents.rightClicked('minecraft:copper_grate', event => {
         'minecraft:stone_bricks': 'silverfish',
         'minecraft:packed_ice': 'stray',
         'minecraft:bone_block': 'skeleton',
+        'minecraft:chiseled_polished_blackstone': 'piglin',
+        'minecraft:gilded_blackstone': 'piglin_brute',
+        'minecraft:crimson_nylium': 'hoglin',
+        'minecraft:soul_soil': 'ghast',
+        'minecraft:purpur_block': 'shulker',
     };
+
     const spawnEggs = {
         'breeze': 'minecraft:breeze_spawn_egg',
         'blaze': 'minecraft:blaze_spawn_egg',
@@ -25,7 +31,13 @@ BlockEvents.rightClicked('minecraft:copper_grate', event => {
         'silverfish': 'minecraft:silverfish_spawn_egg',
         'stray': 'minecraft:stray_spawn_egg',
         'skeleton': 'minecraft:skeleton_spawn_egg',
+        'piglin': 'minecraft:piglin_spawn_egg',
+        'hoglin': 'minecraft:hoglin_spawn_egg',
+        'ghast': 'minecraft:ghast_spawn_egg',
+        'shulker': 'minecraft:shulker_spawn_egg',
+        'piglin_brute': 'minecraft:piglin_brute_spawn_egg'
     };
+
     const sideOffsets = [
         [0, -1, -1],
         [0, -1, 1],

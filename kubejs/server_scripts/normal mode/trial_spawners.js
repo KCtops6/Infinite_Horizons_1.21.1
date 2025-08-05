@@ -20,6 +20,7 @@ BlockEvents.rightClicked('minecraft:copper_grate', event => {
         'minecraft:crimson_nylium': 'hoglin',
         'minecraft:soul_soil': 'ghast',
         'minecraft:purpur_block': 'shulker',
+        'minecraft:emerald_block': 'pillager'
     };
 
     const spawnEggs = {
@@ -35,7 +36,8 @@ BlockEvents.rightClicked('minecraft:copper_grate', event => {
         'hoglin': 'minecraft:hoglin_spawn_egg',
         'ghast': 'minecraft:ghast_spawn_egg',
         'shulker': 'minecraft:shulker_spawn_egg',
-        'piglin_brute': 'minecraft:piglin_brute_spawn_egg'
+        'piglin_brute': 'minecraft:piglin_brute_spawn_egg',
+        'pillager': 'minecraft:pillager_spawn_egg'
     };
 
     const sideOffsets = [

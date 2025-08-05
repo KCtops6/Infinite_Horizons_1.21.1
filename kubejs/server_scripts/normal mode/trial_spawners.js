@@ -20,7 +20,7 @@ BlockEvents.rightClicked('minecraft:copper_grate', event => {
         'minecraft:crimson_nylium': 'hoglin',
         'minecraft:soul_soil': 'ghast',
         'minecraft:purpur_block': 'shulker',
-        'minecraft:emerald_block': 'pillager'
+        'minecraft:dark_oak_log': 'pillager'
     };
 
     const spawnEggs = {

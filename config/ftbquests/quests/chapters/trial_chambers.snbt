@@ -1,0 +1,160 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "trial_chambers"
+	group: "650B408990186E73"
+	icon: {
+		id: "minecraft:trial_key"
+	}
+	id: "64FE7FCF6127CD6A"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "70A474AF7638B9C0"
+			rewards: [{
+				id: "040716B95D949604"
+				item: {
+					count: 1
+					id: "minecraft:trial_key"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [{
+				id: "6E06C12CCB126F78"
+				item: { count: 1, id: "minecraft:trial_key" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["70A474AF7638B9C0"]
+			id: "041C0F5E471298D2"
+			tasks: [{
+				icon: {
+					id: "minecraft:trial_spawner"
+				}
+				id: "64C236BBD9DCF520"
+				observe_type: 0
+				timer: 0L
+				to_observe: "minecraft:trial_spawner"
+				type: "observation"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["041C0F5E471298D2"]
+			icon: {
+				id: "minecraft:breeze_rod"
+			}
+			id: "08FE4B67BF5BEFEE"
+			rewards: [
+				{
+					id: "0CD721F94B75B5B7"
+					item: {
+						count: 1
+						id: "minecraft:breeze_rod"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "136366FE9A28E981"
+					item: {
+						count: 1
+						id: "minecraft:wind_charge"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "0C7F91A0CC799F45"
+					item: { count: 1, id: "minecraft:breeze_rod" }
+					type: "item"
+				}
+				{
+					id: "5E64E0E662C49E53"
+					item: { count: 1, id: "minecraft:wind_charge" }
+					type: "item"
+				}
+			]
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["050E1CD8EE57035A"]
+			id: "680620315DCA63A9"
+			tasks: [{
+				id: "5E8B9CDF45B7A70E"
+				item: { count: 1, id: "minecraft:flow_armor_trim_smithing_template" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["041C0F5E471298D2"]
+			id: "1B7DBB9574BC073D"
+			tasks: [{
+				id: "7AE186B1143D5088"
+				item: { count: 1, id: "minecraft:bolt_armor_trim_smithing_template" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["041C0F5E471298D2"]
+			id: "050E1CD8EE57035A"
+			tasks: [{
+				id: "53D2DB241F42D9A9"
+				item: { count: 1, id: "minecraft:ominous_trial_key" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["050E1CD8EE57035A"]
+			id: "0A5C7E518EC89BBD"
+			tasks: [{
+				id: "0D9DDD584ECA126E"
+				item: { count: 1, id: "minecraft:heavy_core" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"0A5C7E518EC89BBD"
+				"08FE4B67BF5BEFEE"
+			]
+			id: "0BAB1379BEFB5DE5"
+			tasks: [{
+				id: "0D50BE7D54CA14A1"
+				item: { count: 1, id: "minecraft:mace" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["08FE4B67BF5BEFEE"]
+			id: "07E0B9364D4DD284"
+			tasks: [{
+				id: "465FF60C1C5741E5"
+				item: { count: 1, id: "minecraft:wind_charge" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+	]
+}

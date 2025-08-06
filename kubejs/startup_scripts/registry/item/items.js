@@ -1,6 +1,6 @@
 StartupEvents.registry('item', e => {
     const items = [
-        'stone_pebble', 'andesite_pebble', 'deepslate_pebble'
+        'stone_pebble', 'andesite_pebble', 'deepslate_pebble', 'diorite_pebble', 'granite_pebble'
     ];
 
     const formatName = (id) => {

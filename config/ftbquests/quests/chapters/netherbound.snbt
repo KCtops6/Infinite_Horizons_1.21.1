@@ -1,0 +1,644 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "netherbound"
+	group: "650B408990186E73"
+	icon: {
+		id: "minecraft:netherrack"
+	}
+	id: "5E07E3741CBC3BFE"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["07B1B6C8502FD122"]
+			hide_dependent_lines: true
+			id: "5D00196D169F65C2"
+			rewards: [{
+				id: "67E8403AE64AF8D1"
+				item: {
+					count: 1
+					id: "farmersdelight:nether_salad"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [{
+				id: "6A18641F14187A7C"
+				item: { count: 1, id: "minecraft:flint_and_steel" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5D00196D169F65C2"]
+			id: "74AED40DCEDCCA58"
+			tasks: [{
+				id: "57B3050D2AF8CF22"
+				item: { count: 1, id: "minecraft:magma_block" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5D00196D169F65C2"]
+			id: "27AD5982B40072FD"
+			tasks: [{
+				id: "3375AC72ABEB32EE"
+				item: { count: 1, id: "minecraft:netherrack" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["5D00196D169F65C2"]
+			id: "01AEEA186BB50BB0"
+			tasks: [{
+				id: "32E2755DF41B0F32"
+				item: { count: 1, id: "minecraft:quartz" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["5D00196D169F65C2"]
+			id: "27115761CCA7ADB6"
+			tasks: [{
+				id: "313F7A19A601281A"
+				item: { count: 1, id: "minecraft:soul_sand" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["5D00196D169F65C2"]
+			id: "37480F6CE7572160"
+			tasks: [{
+				id: "538C3C2E6664155A"
+				item: { count: 1, id: "minecraft:nether_wart" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["041C0F5E471298D2"]
+			id: "287FB95D062FF224"
+			rewards: [{
+				id: "0421C37FD243EF97"
+				item: {
+					count: 1
+					id: "minecraft:wither_skeleton_skull"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [
+				{
+					entity: "minecraft:wither_skeleton"
+					icon: {
+						id: "minecraft:wither_skeleton_skull"
+					}
+					id: "3322E1157AA75A66"
+					type: "kill"
+					value: 1L
+				}
+				{
+					id: "618EB1E8A8A493B6"
+					item: { count: 1, id: "minecraft:wither_skeleton_skull" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			dependencies: [
+				"27115761CCA7ADB6"
+				"287FB95D062FF224"
+			]
+			id: "695E4E0F9551D449"
+			tasks: [{
+				id: "2904DF2EED3943CB"
+				item: { count: 1, id: "minecraft:nether_star" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["27AD5982B40072FD"]
+			id: "348E9391E99E4887"
+			tasks: [{
+				id: "6993CED34FE6E45F"
+				item: { count: 1, id: "minecraft:nether_bricks" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["5D00196D169F65C2"]
+			id: "7BD5A9600467E742"
+			tasks: [{
+				id: "328CAD77C9572A5C"
+				item: { count: 1, id: "minecraft:red_nether_bricks" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["01AEEA186BB50BB0"]
+			hide_dependency_lines: true
+			id: "4A6D85AD1E19548F"
+			optional: true
+			size: 0.5d
+			tasks: [{
+				id: "1023CADF57B6AE65"
+				item: { count: 1, id: "ae2:nether_quartz_axe" }
+				type: "item"
+			}]
+			x: 2.75d
+			y: -0.75d
+		}
+		{
+			dependencies: ["01AEEA186BB50BB0"]
+			hide_dependency_lines: true
+			id: "6A998D0D4FB8D3CA"
+			optional: true
+			size: 0.5d
+			tasks: [{
+				id: "7B4CDC8AA9BD70CC"
+				item: { count: 1, id: "ae2:nether_quartz_pickaxe" }
+				type: "item"
+			}]
+			x: 2.75d
+			y: -1.25d
+		}
+		{
+			dependencies: ["01AEEA186BB50BB0"]
+			hide_dependency_lines: true
+			id: "353EB58E3300A9B7"
+			optional: true
+			size: 0.5d
+			tasks: [{
+				id: "689C7A1E8CB71B8A"
+				item: { count: 1, id: "ae2:nether_quartz_hoe" }
+				type: "item"
+			}]
+			x: 2.75d
+			y: -1.75d
+		}
+		{
+			dependencies: ["01AEEA186BB50BB0"]
+			hide_dependency_lines: true
+			id: "2013ADD849BB1110"
+			optional: true
+			size: 0.5d
+			tasks: [{
+				id: "758984877FBD4C6E"
+				item: { count: 1, id: "ae2:nether_quartz_shovel" }
+				type: "item"
+			}]
+			x: 1.75d
+			y: -1.75d
+		}
+		{
+			dependencies: ["01AEEA186BB50BB0"]
+			hide_dependency_lines: true
+			id: "6F9230552807FEF0"
+			optional: true
+			size: 0.5d
+			tasks: [{
+				id: "66B14CB59DA71AD6"
+				item: { count: 1, id: "ae2:nether_quartz_sword" }
+				type: "item"
+			}]
+			x: 2.25d
+			y: -1.75d
+		}
+		{
+			dependencies: [
+				"041C0F5E471298D2"
+				"0FB0C1EE923FA930"
+			]
+			id: "1FE42BC33648C5DB"
+			tasks: [{
+				id: "6F3B4B516DFFE7D5"
+				item: { count: 1, id: "minecraft:blaze_rod" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["1FE42BC33648C5DB"]
+			id: "43B1B409F246A98E"
+			tasks: [{
+				id: "3079B5F01A638F8F"
+				item: { count: 1, id: "minecraft:blaze_powder" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["43B1B409F246A98E"]
+			id: "5765CD9C7D0E0B05"
+			tasks: [{
+				id: "564DAE68ABBE1623"
+				item: { count: 1, id: "minecraft:fire_charge" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"041C0F5E471298D2"
+				"1A192DCD24F759CB"
+			]
+			id: "38ED22FBE6045792"
+			tasks: [{
+				id: "77CA06193E8FD853"
+				item: { count: 1, id: "minecraft:magma_cream" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"28018BE994F02339"
+				"58380D6136DF37AD"
+			]
+			id: "732EE5DB19BC573C"
+			tasks: [{
+				id: "0CD1ACDF12DA824C"
+				item: { count: 1, id: "minecraft:netherite_ingot" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"27AD5982B40072FD"
+				"74B7E90FE385180A"
+			]
+			id: "58380D6136DF37AD"
+			tasks: [{
+				id: "577E470E5F2837E9"
+				item: { count: 1, id: "minecraft:netherite_scrap" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"5D00196D169F65C2"
+				"40B85C791F3753C2"
+			]
+			id: "6BC4240AF36D8AA9"
+			tasks: [{
+				id: "0631B3A3C0B448EF"
+				item: { count: 1, id: "minecraft:blackstone" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["465C87D45CF7C220"]
+			id: "3E571F8FEDEEFDCB"
+			rewards: [
+				{
+					id: "1A4D401AB5C96FEC"
+					item: {
+						count: 1
+						id: "minecraft:netherite_upgrade_smithing_template"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "6DCE525B2E1B9213"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "518E0E9661D332EC"
+				item: { count: 1, id: "minecraft:netherite_upgrade_smithing_template" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["041C0F5E471298D2"]
+			id: "465C87D45CF7C220"
+			tasks: [{
+				entity: "minecraft:piglin"
+				icon: {
+					id: "minecraft:piglin_head"
+				}
+				id: "07C632E10A44BE41"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["465C87D45CF7C220"]
+			id: "700A34A580333240"
+			rewards: [
+				{
+					id: "272533DA28142E1D"
+					item: {
+						count: 1
+						id: "minecraft:snout_armor_trim_smithing_template"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "266E6C78116FE348"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1F4496B790EA3B9C"
+				item: { count: 1, id: "minecraft:snout_armor_trim_smithing_template" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["732EE5DB19BC573C"]
+			id: "776025C659C44009"
+			rewards: [{
+				id: "1C27E272091A99E1"
+				item: {
+					count: 1
+					id: "minecraft:netherite_ingot"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [{
+				id: "077493C7D271D142"
+				item: { count: 1, id: "minecraft:lodestone" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["732EE5DB19BC573C"]
+			hide_dependency_lines: true
+			id: "78C38D600E58159C"
+			optional: true
+			size: 0.5d
+			tasks: [{
+				id: "2BB09CE6D29716A4"
+				item: { count: 1, id: "minecraft:netherite_helmet" }
+				type: "item"
+			}]
+			x: 2.75d
+			y: 2.75d
+		}
+		{
+			dependencies: ["732EE5DB19BC573C"]
+			hide_dependency_lines: true
+			id: "658399DB3AD1D28A"
+			optional: true
+			size: 0.5d
+			tasks: [{
+				id: "6B376D838DA4FBCE"
+				item: { count: 1, id: "minecraft:netherite_chestplate" }
+				type: "item"
+			}]
+			x: 3.25d
+			y: 2.75d
+		}
+		{
+			dependencies: ["732EE5DB19BC573C"]
+			hide_dependency_lines: true
+			id: "0345CCEC59322E78"
+			optional: true
+			size: 0.5d
+			tasks: [{
+				id: "111947F2D1F12CDB"
+				item: { count: 1, id: "minecraft:netherite_leggings" }
+				type: "item"
+			}]
+			x: 2.75d
+			y: 3.25d
+		}
+		{
+			dependencies: ["732EE5DB19BC573C"]
+			hide_dependency_lines: true
+			id: "551CC7E896138597"
+			optional: true
+			size: 0.5d
+			tasks: [{
+				id: "307DEFC19CED3654"
+				item: { count: 1, id: "minecraft:netherite_boots" }
+				type: "item"
+			}]
+			x: 3.25d
+			y: 3.25d
+		}
+		{
+			dependencies: ["732EE5DB19BC573C"]
+			hide_dependency_lines: true
+			id: "4DF5ED1CE71EEE93"
+			optional: true
+			size: 0.5d
+			tasks: [{
+				id: "53E21B5033F85FDE"
+				item: { count: 1, id: "minecraft:netherite_pickaxe" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.75d
+		}
+		{
+			dependencies: ["732EE5DB19BC573C"]
+			hide_dependency_lines: true
+			id: "4899BF4C3AFB69B6"
+			optional: true
+			size: 0.5d
+			tasks: [{
+				id: "2F334ED9C68BEE97"
+				item: { count: 1, id: "minecraft:netherite_shovel" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 3.75d
+		}
+		{
+			dependencies: ["732EE5DB19BC573C"]
+			hide_dependency_lines: true
+			id: "56E2CB3C01C4FAFD"
+			optional: true
+			size: 0.5d
+			tasks: [{
+				id: "1DD19BC45F2BC353"
+				item: { count: 1, id: "minecraft:netherite_hoe" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 3.75d
+		}
+		{
+			dependencies: ["732EE5DB19BC573C"]
+			hide_dependency_lines: true
+			id: "7D49AF282850A612"
+			optional: true
+			size: 0.5d
+			tasks: [{
+				id: "5E12E3AF86CC7A0D"
+				item: { count: 1, id: "minecraft:netherite_sword" }
+				type: "item"
+			}]
+			x: 1.75d
+			y: 4.25d
+		}
+		{
+			dependencies: ["732EE5DB19BC573C"]
+			hide_dependency_lines: true
+			id: "238923FC439B15AE"
+			optional: true
+			size: 0.5d
+			tasks: [{
+				id: "0325D032870B4D93"
+				item: { count: 1, id: "minecraft:netherite_axe" }
+				type: "item"
+			}]
+			x: 2.25d
+			y: 4.25d
+		}
+		{
+			dependencies: ["041C0F5E471298D2"]
+			id: "0FB0C1EE923FA930"
+			tasks: [{
+				entity: "minecraft:blaze"
+				icon: {
+					components: {
+						"minecraft:profile": {
+							id: [I;
+								-545139939
+								-2011543045
+								-1075025684
+								1554734973
+							]
+							properties: [{
+								name: "textures"
+								value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjIwNjU3ZTI0YjU2ZTFiMmY4ZmMyMTlkYTFkZTc4OGMwYzI0ZjM2Mzg4YjFhNDA5ZDBjZDJkOGRiYTQ0YWEzYiJ9fX0="
+							}]
+						}
+					}
+					id: "minecraft:player_head"
+				}
+				id: "3F3AD8042770490F"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.0d
+			y: -4.0d
+		}
+		{
+			dependencies: [
+				"0FB0C1EE923FA930"
+				"287FB95D062FF224"
+			]
+			id: "51E8E4162108898B"
+			tasks: [{
+				id: "5037BADDEAA13872"
+				item: { count: 1, id: "minecraft:rib_armor_trim_smithing_template" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -5.0d
+		}
+		{
+			dependencies: [
+				"27115761CCA7ADB6"
+				"287FB95D062FF224"
+			]
+			id: "12AE6346D00AA264"
+			rewards: [{
+				id: "11DF0A481AE20E63"
+				item: {
+					count: 1
+					id: "minecraft:wither_rose"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [{
+				id: "00B7871C987FC1E8"
+				item: { count: 1, id: "minecraft:wither_rose" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["041C0F5E471298D2"]
+			id: "1A192DCD24F759CB"
+			tasks: [{
+				entity: "minecraft:magma_cube"
+				icon: {
+					components: {
+						"minecraft:custom_name": "{\"bold\":true,\"color\":\"gold\",\"italic\":false,\"text\":\"Magma Cube\",\"underlined\":true}"
+						"minecraft:lore": [
+							"{\"color\":\"gray\",\"italic\":false,\"text\":\"Custom Head ID: 45421\"}"
+							"{\"color\":\"blue\",\"italic\":false,\"text\":\"www.minecraft-heads.com\"}"
+						]
+						"minecraft:profile": {
+							id: [I;
+								-783380762
+								-309113330
+								-2006895573
+								1994652983
+							]
+							properties: [{
+								name: "textures"
+								value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTFjOTdhMDZlZmRlMDRkMDAyODdiZjIwNDE2NDA0YWIyMTAzZTEwZjA4NjIzMDg3ZTFiMGMxMjY0YTFjMGYwYyJ9fX0="
+							}]
+						}
+					}
+					id: "minecraft:player_head"
+				}
+				id: "65595508689DBDDB"
+				type: "kill"
+				value: 1L
+			}]
+			x: 3.0d
+			y: -3.0d
+		}
+	]
+}

@@ -7,7 +7,6 @@ ServerEvents.tags("worldgen/biome", event => {
         "minecraft:nether_wastes",
         "minecraft:warped_forest",
         "minecraft:crimson_forest",
-        "minecraft:basalt_deltas",
         "minecraft:soul_sand_valley"
     ]);
 });

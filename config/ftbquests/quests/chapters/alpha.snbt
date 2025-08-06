@@ -58,7 +58,7 @@
 				item: { count: 1, id: "minecraft:crafting_table" }
 				type: "item"
 			}]
-			x: 1.0d
+			x: 2.0d
 			y: 0.0d
 		}
 		{
@@ -98,7 +98,7 @@
 					type: "item"
 				}
 			]
-			x: 2.0d
+			x: 4.0d
 			y: 0.0d
 		}
 		{
@@ -128,8 +128,8 @@
 					type: "item"
 				}
 			]
-			x: 3.0d
-			y: 1.0d
+			x: 6.0d
+			y: 2.0d
 		}
 		{
 			dependencies: [
@@ -161,7 +161,7 @@
 					type: "item"
 				}
 			]
-			x: 4.0d
+			x: 8.0d
 			y: 0.0d
 		}
 		{
@@ -191,7 +191,7 @@
 					type: "item"
 				}
 			]
-			x: 3.0d
+			x: 5.0d
 			y: -1.0d
 		}
 		{
@@ -202,7 +202,7 @@
 				item: { count: 1, id: "kubejs:stone_trowel" }
 				type: "item"
 			}]
-			x: 3.0d
+			x: 6.0d
 			y: 0.0d
 		}
 		{
@@ -222,8 +222,8 @@
 				item: { count: 1, id: "minecraft:sand" }
 				type: "item"
 			}]
-			x: 3.0d
-			y: 2.0d
+			x: 6.0d
+			y: 4.0d
 		}
 		{
 			dependencies: ["2271A8EDA3C7F64C"]
@@ -242,8 +242,8 @@
 				item: { count: 1, id: "minecraft:glass" }
 				type: "item"
 			}]
-			x: 3.0d
-			y: 3.0d
+			x: 6.0d
+			y: 6.0d
 		}
 		{
 			dependencies: ["3642E2D78B348AE3"]
@@ -254,7 +254,7 @@
 				item: { count: 1, id: "minecraft:bucket" }
 				type: "item"
 			}]
-			x: 5.0d
+			x: 10.0d
 			y: 0.0d
 		}
 		{
@@ -265,8 +265,8 @@
 				item: { count: 1, id: "kubejs:iron_trowel" }
 				type: "item"
 			}]
-			x: 5.0d
-			y: -1.0d
+			x: 10.0d
+			y: -2.0d
 		}
 		{
 			dependencies: ["7C75AE73B3CCD66E"]
@@ -286,8 +286,8 @@
 					type: "item"
 				}
 			]
-			x: 6.0d
-			y: -1.0d
+			x: 12.0d
+			y: -2.0d
 		}
 		{
 			dependencies: ["7C75AE73B3CCD66E"]
@@ -307,21 +307,8 @@
 					type: "item"
 				}
 			]
-			x: 6.0d
-			y: 0.0d
-		}
-		{
-			dependencies: ["174AD92AAE3A1FAF"]
-			id: "43F89961BCA46925"
-			tasks: [{
-				id: "6EEA069CD0E19221"
-				item: { count: 1, id: "cobblegengalore:block_gen_stone" }
-				match_components: "fuzzy"
-				tags: [""]
-				type: "item"
-			}]
-			x: 3.0d
-			y: 4.0d
+			x: 13.0d
+			y: 1.0d
 		}
 		{
 			dependencies: [
@@ -334,8 +321,8 @@
 				item: { count: 1, id: "minecraft:lava_bucket" }
 				type: "item"
 			}]
-			x: 5.0d
-			y: 1.0d
+			x: 10.0d
+			y: 2.0d
 		}
 		{
 			dependencies: [
@@ -348,8 +335,8 @@
 				item: { count: 1, id: "minecraft:tuff" }
 				type: "item"
 			}]
-			x: 2.0d
-			y: -3.0d
+			x: 4.0d
+			y: -6.0d
 		}
 		{
 			dependencies: ["518AD3B1EB3FADBF"]
@@ -374,8 +361,8 @@
 					type: "item"
 				}
 			]
-			x: 3.0d
-			y: -3.0d
+			x: 6.0d
+			y: -6.0d
 		}
 		{
 			dependencies: ["3642E2D78B348AE3"]
@@ -385,8 +372,8 @@
 				item: { count: 1, id: "kubejs:iron_hammer" }
 				type: "item"
 			}]
-			x: 4.0d
-			y: -1.0d
+			x: 8.0d
+			y: -2.0d
 		}
 		{
 			dependencies: [
@@ -420,8 +407,8 @@
 				item: { count: 1, id: "kubejs:deepslate_gravel" }
 				type: "item"
 			}]
-			x: 4.0d
-			y: -3.0d
+			x: 8.0d
+			y: -6.0d
 		}
 		{
 			dependencies: [
@@ -434,8 +421,8 @@
 				item: { count: 1, id: "minecraft:diamond" }
 				type: "item"
 			}]
-			x: 5.0d
-			y: -2.0d
+			x: 10.0d
+			y: -4.0d
 		}
 		{
 			dependencies: ["20CEFFF2715407F7"]
@@ -454,83 +441,8 @@
 				item: { count: 1, id: "minecraft:obsidian" }
 				type: "item"
 			}]
-			x: 6.0d
-			y: -2.0d
-		}
-		{
-			dependencies: ["07B1B6C8502FD122"]
-			id: "5D00196D169F65C2"
-			rewards: [{
-				id: "67E8403AE64AF8D1"
-				item: {
-					count: 1
-					id: "farmersdelight:nether_salad"
-				}
-				random_bonus: 2
-				type: "item"
-			}]
-			tasks: [{
-				id: "6A18641F14187A7C"
-				item: { count: 1, id: "minecraft:flint_and_steel" }
-				type: "item"
-			}]
-			x: 7.0d
-			y: -2.0d
-		}
-		{
-			dependencies: ["5D00196D169F65C2"]
-			id: "74AED40DCEDCCA58"
-			tasks: [{
-				id: "57B3050D2AF8CF22"
-				item: { count: 1, id: "minecraft:magma_block" }
-				type: "item"
-			}]
-			x: 8.0d
-			y: -1.0d
-		}
-		{
-			dependencies: ["5D00196D169F65C2"]
-			id: "27AD5982B40072FD"
-			tasks: [{
-				id: "3375AC72ABEB32EE"
-				item: { count: 1, id: "minecraft:netherrack" }
-				type: "item"
-			}]
-			x: 8.0d
-			y: -2.0d
-		}
-		{
-			dependencies: ["5D00196D169F65C2"]
-			id: "01AEEA186BB50BB0"
-			tasks: [{
-				id: "32E2755DF41B0F32"
-				item: { count: 1, id: "minecraft:quartz" }
-				type: "item"
-			}]
-			x: 8.0d
-			y: -3.0d
-		}
-		{
-			dependencies: ["5D00196D169F65C2"]
-			id: "27115761CCA7ADB6"
-			tasks: [{
-				id: "313F7A19A601281A"
-				item: { count: 1, id: "minecraft:soul_sand" }
-				type: "item"
-			}]
-			x: 7.0d
-			y: -3.0d
-		}
-		{
-			dependencies: ["5D00196D169F65C2"]
-			id: "37480F6CE7572160"
-			tasks: [{
-				id: "538C3C2E6664155A"
-				item: { count: 1, id: "minecraft:nether_wart" }
-				type: "item"
-			}]
-			x: 7.0d
-			y: -1.0d
+			x: 12.0d
+			y: -4.0d
 		}
 		{
 			dependencies: [
@@ -543,8 +455,8 @@
 				item: { count: 1, id: "minecraft:redstone" }
 				type: "item"
 			}]
-			x: 5.0d
-			y: -4.0d
+			x: 10.0d
+			y: -8.0d
 		}
 		{
 			dependencies: ["03552227F62B6320"]
@@ -554,8 +466,8 @@
 				item: { count: 1, id: "minecraft:lapis_lazuli" }
 				type: "item"
 			}]
-			x: 5.0d
-			y: -3.0d
+			x: 10.0d
+			y: -6.0d
 		}
 		{
 			dependencies: [
@@ -568,8 +480,8 @@
 				item: { count: 1, id: "minecraft:enchanting_table" }
 				type: "item"
 			}]
-			x: 6.0d
-			y: -3.0d
+			x: 12.0d
+			y: -6.0d
 		}
 		{
 			dependencies: ["11332A8490D1FD31"]
@@ -579,8 +491,8 @@
 				item: { count: 1, id: "minecraft:crafter" }
 				type: "item"
 			}]
-			x: 4.0d
-			y: -4.0d
+			x: 10.0d
+			y: -10.0d
 		}
 		{
 			dependencies: [
@@ -601,8 +513,8 @@
 					type: "item"
 				}
 			]
-			x: 6.0d
-			y: -4.0d
+			x: 12.0d
+			y: -8.0d
 		}
 		{
 			dependencies: [
@@ -615,8 +527,8 @@
 				item: { count: 1, id: "minecraft:nautilus_shell" }
 				type: "item"
 			}]
-			x: 6.0d
-			y: -5.0d
+			x: 14.0d
+			y: -4.0d
 		}
 		{
 			dependencies: [
@@ -630,8 +542,8 @@
 				item: { count: 1, id: "minecraft:heart_of_the_sea" }
 				type: "item"
 			}]
-			x: 6.0d
-			y: -6.0d
+			x: 14.0d
+			y: -5.0d
 		}
 		{
 			dependencies: ["60A8C196D02E31BA"]
@@ -641,8 +553,8 @@
 				item: { count: 1, id: "minecraft:conduit" }
 				type: "item"
 			}]
-			x: 6.0d
-			y: -7.0d
+			x: 14.0d
+			y: -6.0d
 		}
 		{
 			dependencies: [
@@ -655,8 +567,8 @@
 				item: { count: 1, id: "minecraft:clay_ball" }
 				type: "item"
 			}]
-			x: 2.0d
-			y: 3.0d
+			x: 4.0d
+			y: 6.0d
 		}
 		{
 			dependencies: ["2271A8EDA3C7F64C"]
@@ -666,22 +578,8 @@
 				item: { count: 1, id: "minecraft:sandstone" }
 				type: "item"
 			}]
-			x: 4.0d
-			y: 2.0d
-		}
-		{
-			dependencies: [
-				"5D00196D169F65C2"
-				"40B85C791F3753C2"
-			]
-			id: "6BC4240AF36D8AA9"
-			tasks: [{
-				id: "0631B3A3C0B448EF"
-				item: { count: 1, id: "minecraft:blackstone" }
-				type: "item"
-			}]
-			x: 7.0d
-			y: 2.0d
+			x: 8.0d
+			y: 6.0d
 		}
 		{
 			dependencies: ["40B85C791F3753C2"]
@@ -691,8 +589,8 @@
 				item: { count: 1, id: "minecraft:smooth_sandstone" }
 				type: "item"
 			}]
-			x: 5.0d
-			y: 3.0d
+			x: 8.0d
+			y: 8.0d
 		}
 		{
 			id: "363EECE6FFBE73AB"
@@ -927,6 +825,186 @@
 				type: "item"
 			}]
 			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["5A382D145AA88DD9"]
+			id: "408D40FCDF32CEB1"
+			rewards: [
+				{
+					id: "25729183574FABBD"
+					item: {
+						count: 1
+						id: "minecraft:lightning_rod"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "7EC26F0BEB55DF4B"
+					item: {
+						count: 1
+						id: "minecraft:copper_ingot"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4BC34C4AC9A821F9"
+				item: { count: 1, id: "minecraft:lightning_rod" }
+				type: "item"
+			}]
+			x: 13.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["28018BE994F02339"]
+			hide_dependency_lines: true
+			id: "30D96720ACB62861"
+			optional: true
+			size: 0.5d
+			tasks: [{
+				id: "1BC0CAD584193260"
+				item: { count: 1, id: "minecraft:golden_shovel" }
+				type: "item"
+			}]
+			x: 12.75d
+			y: 0.25d
+		}
+		{
+			dependencies: ["28018BE994F02339"]
+			hide_dependency_lines: true
+			id: "22AF9A2743287C3F"
+			optional: true
+			size: 0.5d
+			tasks: [{
+				id: "64E067A38E898E7C"
+				item: { count: 1, id: "minecraft:golden_pickaxe" }
+				type: "item"
+			}]
+			x: 13.25d
+			y: 0.25d
+		}
+		{
+			dependencies: ["28018BE994F02339"]
+			hide_dependency_lines: true
+			id: "7BF55A6D39DA639C"
+			optional: true
+			size: 0.5d
+			tasks: [{
+				id: "4CB044D67B037795"
+				item: { count: 1, id: "minecraft:golden_axe" }
+				type: "item"
+			}]
+			x: 13.75d
+			y: 0.25d
+		}
+		{
+			dependencies: ["28018BE994F02339"]
+			hide_dependency_lines: true
+			id: "07CD77F441196C83"
+			optional: true
+			size: 0.5d
+			tasks: [{
+				id: "7B19C4161A341E29"
+				item: { count: 1, id: "minecraft:golden_hoe" }
+				type: "item"
+			}]
+			x: 13.75d
+			y: 0.75d
+		}
+		{
+			dependencies: ["28018BE994F02339"]
+			hide_dependency_lines: true
+			id: "32F7A1B00F44F9F8"
+			optional: true
+			size: 0.5d
+			tasks: [{
+				id: "1DB8CC501BA55A4D"
+				item: { count: 1, id: "minecraft:golden_sword" }
+				type: "item"
+			}]
+			x: 13.75d
+			y: 1.25d
+		}
+		{
+			dependencies: ["28018BE994F02339"]
+			hide_dependency_lines: true
+			id: "5751BB883F68CBB2"
+			optional: true
+			size: 0.5d
+			tasks: [{
+				id: "5F933994E78C65CB"
+				item: { count: 1, id: "minecraft:golden_helmet" }
+				type: "item"
+			}]
+			x: 11.75d
+			y: 0.75d
+		}
+		{
+			dependencies: ["28018BE994F02339"]
+			hide_dependency_lines: true
+			id: "4E0A788075D45870"
+			optional: true
+			size: 0.5d
+			tasks: [{
+				id: "6799D67E0A767BB1"
+				item: { count: 1, id: "minecraft:golden_chestplate" }
+				type: "item"
+			}]
+			x: 12.25d
+			y: 0.75d
+		}
+		{
+			dependencies: ["28018BE994F02339"]
+			hide_dependency_lines: true
+			id: "02BFEB0700ADFE80"
+			optional: true
+			size: 0.5d
+			tasks: [{
+				id: "7956F33C6F9E868E"
+				item: { count: 1, id: "minecraft:golden_leggings" }
+				type: "item"
+			}]
+			x: 11.75d
+			y: 1.25d
+		}
+		{
+			dependencies: ["28018BE994F02339"]
+			hide_dependency_lines: true
+			id: "730907522FFD8CF2"
+			optional: true
+			size: 0.5d
+			tasks: [{
+				id: "0A04ADF294016231"
+				item: { count: 1, id: "minecraft:golden_boots" }
+				type: "item"
+			}]
+			x: 12.25d
+			y: 1.25d
+		}
+		{
+			dependencies: ["28018BE994F02339"]
+			id: "6CE6FC69B9BA3D2D"
+			tasks: [{
+				id: "4C7CDAA3ECE56962"
+				item: { count: 1, id: "minecraft:golden_apple" }
+				type: "item"
+			}]
+			x: 13.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["28018BE994F02339"]
+			id: "444DCF89A61471A7"
+			tasks: [{
+				id: "31D68338B84A45F1"
+				item: { count: 1, id: "minecraft:golden_carrot" }
+				type: "item"
+			}]
+			x: 12.0d
 			y: 2.0d
 		}
 	]

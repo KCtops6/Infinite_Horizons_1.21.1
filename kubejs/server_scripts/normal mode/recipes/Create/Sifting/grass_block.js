@@ -8,5 +8,5 @@ ServerEvents.recipes(event => {
         Output.of('pamhc2crops:soggygarden', 0.1),
         Output.of('pamhc2crops:tropicalgarden', 0.1),
         Output.of('pamhc2crops:windygarden', 0.1),
-    ],'minecraft:grass_block','createsifter:andesite_mesh')
+    ],'minecraft:grass_block','createsifter:string_mesh')
 })

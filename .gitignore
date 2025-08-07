@@ -12,3 +12,7 @@ config/jei/
 changelog.txt
 command_history.txt
 waypoints/
+usernamecache.json
+realms_persistence.json
+.curseclient
+imgui.ini

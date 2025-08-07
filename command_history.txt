@@ -1,50 +1,50 @@
-/clear
+/reload
+/stronghold_here
 /kubejs reload server-scripts
 /reload
+/stronghold_here
+/tp 0 50 0
+/stronghold_here
+/kill
+/tp 100000 100 10000
+/place structure minecraft:stronghold
+/gamemode survival
+/gamemode creative
+/kill
 /kubejs reload server-scripts
 /reload
+/stronghold_here
+/place structure minecraft:stronghold ~ ~ ~
+/gamemode survival
 /gamemode spectator
+/forceload
+/forceload add 87 18
+/forceload remove 103 -2
+/kukll
+/kill
+/advancement revoke KCtops6 only restrictedportals:end
+/advancement revoke KCtops6 only restrictedportals:nether
 /gamemode survival
-/gamemode creative
-/kubejs reload server-scripts
-/recipe
-/reload
-/gamemode survival
-/gamemode creative
-/kubejs reload server-scripts
-/reload
-/gamemode survival
-/gamemode creative
+/kubejs hand
 /clear
-/kubejs reload server-scripts
-/reload
-/kubejs reload server-scripts
-/reload
-/clear
-/setblock 120 99 82 vault
-/kubejs reload server-scripts
-/reload
-/gamemode survival
-/gamemode creative
-/gamemode survival
-/kubejs reload server-scripts
-/reload
-/kubejs reload server-scripts
-/reload
-/clear
-/kubejs reload server-scripts
-/reload
-/clear
-/gamemode creative
 /kubejs inventory
+/kubejs reload server-scripts
+/reload
 /clear
+/advancement grant KCtops6 only restrictedportals:nether
+/locate structure minecraft:stronghold
+/tp @s 1344 ~ 704
+/gamemode spectator
+/tp 10000 100 10000
+/locate structure minecraft:stronghold
+/tp @s 8752 ~ 11344
+/tp -10000 100 100000
+/locate structure minecraft:stronghold
+/tp @s -8544 ~ 21376
+/kubejs reload sre
 /kubejs reload server-scripts
 /reload
-/kubejs reload server-scripts
-/reload
-/kubejs reload server-scripts
-/reload
-/kubejs reload server-scripts
-/reload
-/gamemode survival
-/clear
+/advancement grant KCtops6 only restrictedportals:nether
+/locate structure minecraft:stronghold
+/tp @s 448 ~ -2272
+/gamemode spectator

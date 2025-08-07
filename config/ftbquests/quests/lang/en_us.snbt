@@ -1,20 +1,24 @@
 {
 	chapter.120EED8195D4B10C.title: "Pam's Harvestcraft"
-	chapter.17F179085511CF63.title: "Vanilla"
+	chapter.17F179085511CF63.title: "Earthly Beginnings"
 	chapter.197A296AEC020B47.title: "Immersive Engineering"
 	chapter.1B73F34BAB8F6FCD.chapter_subtitle: ["Power Generation"]
 	chapter.1B73F34BAB8F6FCD.title: "Generators Galore"
 	chapter.247639ED7F0AF536.title: "Mystical Agriculture"
-	chapter.2D39554C6E6B5360.chapter_subtitle: ["Gateways of Eternity"]
-	chapter.2D39554C6E6B5360.title: "Gateways of Eternity"
+	chapter.2A5182EC401BA623.title: "The Final Trial"
 	chapter.2F34CC58AE75DDE7.chapter_subtitle: ["Early-Game \"Non-Digital\" Storage"]
 	chapter.2F34CC58AE75DDE7.title: "Sophisticated Mods"
+	chapter.5E07E3741CBC3BFE.title: "Netherbound"
+	chapter.61C6267C17CFC8B1.title: "Echoes of the Void"
+	chapter.64FE7FCF6127CD6A.title: "Ancient Trials"
 	chapter.6B16A1E49845B379.title: "Create"
+	chapter.6B81C6743929D1A4.title: "Create Sifting"
 	chapter.73BAD2E24E99AD1D.title: "Industrial Foregoing"
 	chapter.76260707B1BAF870.chapter_subtitle: ["Digital Storage"]
 	chapter.76260707B1BAF870.title: "Applied Energistics"
 	chapter_group.0ACDAC097705746A.title: "Eta"
 	chapter_group.16E846EDFB82BF5E.title: "Gamma"
+	chapter_group.253F25E4F5B0D065.title: "Omega"
 	chapter_group.2E80E5A65C333522.title: "Delta"
 	chapter_group.302395001647454F.title: "Epsilon"
 	chapter_group.315F05EC1C91DE0B.title: "Beta"
@@ -228,9 +232,6 @@
 	quest.40F041C17BEAADEE.quest_desc: ["Without natural stone, you'll need to get creative. Craft a &lWooden Trowel&r and use it to break dirt or grass blocks—this will yield &lStone Pebbles&r. Gather four pebbles and craft them into a &lCobblestone&r block. With cobblestone in hand, sturdier tools and new possibilities await!"]
 	quest.40F041C17BEAADEE.quest_subtitle: "From Dirt to Stone"
 	quest.40F041C17BEAADEE.title: "The First Stones"
-	quest.43F89961BCA46925.quest_desc: ["Say goodbye to pebbles—the &lStone Block Generator&r provides a passive source of &lCobblestone&r, &lStone&r, &lAndesite&r, and more. Look at JEI for all recipes.  Crafted from Stone and Glass, this machine ensures you’ll never run out of essential building materials. Set it up, let it run, and focus on bigger projects!"]
-	quest.43F89961BCA46925.quest_subtitle: "A Steady Supply"
-	quest.43F89961BCA46925.title: "Infinite Stone"
 	quest.45954B3B5A15BAB1.quest_desc: ["With &lAluminium Seeds&r, you can grow &lAluminium Essence&r, providing a renewable source of this versatile and lightweight metal. Plant these seeds and unlock the ability to craft aluminum-based items without the need for mining or smelting."]
 	quest.45954B3B5A15BAB1.quest_subtitle: "A Lightweight Metal"
 	quest.45954B3B5A15BAB1.title: "Essence of Aluminium"
@@ -305,6 +306,7 @@
 	quest.6F234337CE289CD4.quest_desc: ["With &lAndesite&r and &lIron&r in hand, it’s time to craft the cornerstone of Create’s mechanical systems—&lAndesite Alloy&r. Combine Andesite with Iron to forge this versatile material. Andesite Alloy will be used in various Create machines, unlocking your potential for automation and advancement."]
 	quest.6F234337CE289CD4.quest_subtitle: "Forging the Andesite Alloy"
 	quest.6F234337CE289CD4.title: "The Heart of Creation"
+	quest.70A474AF7638B9C0.quest_desc: [""]
 	quest.720A2F80D5E73A17.quest_desc: ["The &lNetherite Generator&r is the ultimate power source, capable of generating 256 FE/t with a transfer rate of 1024 FE/t. This upgrade from the Diamond Generator provides an efficient 0.4 FE/t consumption rate and boasts a buffer capacity of 1,000,000 FE. By using solid fuels, the Netherite Generator brings a reliable, high-output energy source to your setup. Upgrade now to harness the power of Netherite and fuel your machines with the most advanced energy production available."]
 	quest.720A2F80D5E73A17.quest_subtitle: "Upgrade to the pinnacle of energy generation"
 	quest.720A2F80D5E73A17.title: "Harnessing the Power of Netherite"
@@ -341,6 +343,13 @@
 	quest.7F0AC6B1D0CCBDE4.quest_desc: ["With &lLimestone Seeds&r, you can grow &lLimestone Essence&r, providing you with a steady supply of limestone for construction and crafting. Plant these seeds and harness the power of this durable stone without the need to mine for it."]
 	quest.7F0AC6B1D0CCBDE4.quest_subtitle: "Stone of Strength"
 	quest.7F0AC6B1D0CCBDE4.title: "Essence of Limestone"
+	reward_table.1B2242C9DE88E106.title: "Bastion"
+	reward_table.1BB1DCEB3ADCCD34.title: "End City"
+	reward_table.298D142C0C950466.title: "Nether Fortress"
+	reward_table.361CDAD4C802B268.title: "Bastion Bridge"
+	reward_table.46710C0ECD97A177.title: "Dungeon"
+	reward_table.4A8608518513E665.title: "Ancient City"
+	reward_table.73AB99EEB314DAAC.title: "Pillager Outpost"
 	task.02FD29192B135BC0.title: "Construct the Bottling Machine"
 	task.049328BEB49A0C63.title: "Any #sophisticated:auto_smelting_upgrades"
 	task.05A1297F925E6922.title: "Craft a Juice Item."
@@ -377,6 +386,7 @@
 	task.410A38954F068438.title: "Any #sophisticatedstorage:iron_upgrades"
 	task.426C6EF46092E0A3.title: "Any #sophisticated:auto_smoking_upgrades"
 	task.4CDB7CBDB76C0F32.title: "go to the end"
+	task.4DA2C42C8ED94D99.title: "Craft a Shulker Box."
 	task.5071C7B2EC85DAAC.title: "check this box"
 	task.522147DE7E3ED21D.title: "Any #sophisticatedstorage:base_tier_wooden_storage"
 	task.52D9230F4ED65A75.title: "Any #sophisticated:crafting_upgrades"

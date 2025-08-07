@@ -1,0 +1,102 @@
+{
+	id: "73AB99EEB314DAAC"
+	loot_crate: {
+		color: 8281148
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "pillager_outpost"
+	}
+	loot_size: 1
+	order_index: 4
+	rewards: [
+		{
+			count: 3
+			id: "71A105728645E17B"
+			item: {
+				count: 1
+				id: "minecraft:wheat"
+			}
+			random_bonus: 2
+			weight: 0.05882353f
+		}
+		{
+			id: "19AEE5E2211A1D6A"
+			item: {
+				count: 1
+				id: "minecraft:experience_bottle"
+			}
+			weight: 0.3181818f
+		}
+		{
+			count: 3
+			id: "66D123B028EC674D"
+			item: {
+				count: 1
+				id: "minecraft:carrot"
+			}
+			random_bonus: 2
+			weight: 0.29411766f
+		}
+		{
+			count: 2
+			id: "4398885D75F31F49"
+			item: {
+				count: 1
+				id: "minecraft:potato"
+			}
+			random_bonus: 3
+			weight: 0.29411766f
+		}
+		{ id: "33DA261879A3CF3D", item: { count: 1, id: "minecraft:crossbow" } }
+		{ id: "4E76C1E2A36B080A", item: { components: { "minecraft:instrument": "minecraft:ponder_goat_horn" }, count: 1, id: "minecraft:goat_horn" } }
+		{
+			count: 2
+			id: "48525AF1DAAB1B2A"
+			item: {
+				count: 1
+				id: "minecraft:arrow"
+			}
+			random_bonus: 5
+			weight: 0.18181819f
+		}
+		{
+			id: "22DB7BEF0D61B78A"
+			item: {
+				count: 1
+				id: "minecraft:string"
+			}
+			random_bonus: 5
+			weight: 0.18181819f
+		}
+		{
+			id: "76C531B282DF6173"
+			item: {
+				count: 1
+				id: "minecraft:tripwire_hook"
+			}
+			random_bonus: 2
+			weight: 0.13636364f
+		}
+		{
+			id: "5A68088A1DA94601"
+			item: {
+				count: 1
+				id: "minecraft:iron_ingot"
+			}
+			random_bonus: 2
+			weight: 0.13636364f
+		}
+		{
+			count: 2
+			id: "3256FB5BEF7E8F89"
+			item: {
+				count: 1
+				id: "minecraft:sentry_armor_trim_smithing_template"
+			}
+			weight: 0.25f
+		}
+	]
+}

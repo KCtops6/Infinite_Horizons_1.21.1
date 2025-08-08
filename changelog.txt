@@ -295,6 +295,7 @@ Changed grass block sifting recipe to use string mesh instead of andesite mesh.
 Changed dirt sifting recipe to use string mesh instead of andesite mesh.
 Expanded crushed netherrack sifting to use multiple mesh tiers with increasing chances for fungi, roots, raw gold, and netherite scrap.
 Added loot crate drops to specified mobs with defined chances for various dungeon and bastion structures.
+Added Nether Themed Keys for End Game.
 Added recipe removals for Immersive Engineering plate hammering and raw hammer crushing for multiple materials in expert pack mode.
 Added diorite and granite pebbles.
 Added recipe for Powder Snow Bucket.

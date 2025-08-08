@@ -298,6 +298,7 @@ Added loot crate drops to specified mobs with defined chances for various dungeo
 Added Nether Themed Keys for End Game.
 Added recipe removals for Immersive Engineering plate hammering and raw hammer crushing for multiple materials in expert pack mode.
 Added diorite and granite pebbles.
+Added diorite and granite pebbles to trowel drop list.
 Added recipe for Powder Snow Bucket.
 
 Updated Alpha (Overworld) Questline.

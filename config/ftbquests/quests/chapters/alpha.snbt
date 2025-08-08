@@ -256,7 +256,7 @@
 				type: "item"
 			}]
 			x: 11.0d
-			y: 0.0d
+			y: 2.0d
 		}
 		{
 			dependencies: ["3642E2D78B348AE3"]
@@ -323,7 +323,7 @@
 				type: "item"
 			}]
 			x: 11.0d
-			y: 2.0d
+			y: 4.0d
 		}
 		{
 			dependencies: [
@@ -1015,21 +1015,110 @@
 		{
 			hide_dependent_lines: true
 			id: "7E6FA6BACC7B007E"
-			rewards: [{
-				id: "3188E985E754DE75"
-				item: {
-					count: 1
-					id: "pamhc2foodextended:meatfeastpizzaitem"
+			rewards: [
+				{
+					id: "3188E985E754DE75"
+					item: {
+						count: 1
+						id: "pamhc2foodextended:meatfeastpizzaitem"
+					}
+					random_bonus: 2
+					type: "item"
 				}
-				random_bonus: 2
-				type: "item"
-			}]
+				{
+					id: "3F1DD935E8D9B123"
+					item: {
+						count: 1
+						id: "waystones:waystone"
+					}
+					type: "item"
+				}
+				{
+					id: "182A1864D2ECC4B6"
+					item: {
+						count: 1
+						id: "waystones:warp_stone"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "1F0741044C7EBCBF"
 				type: "checkmark"
 			}]
 			x: 0.0d
 			y: 0.0d
+		}
+		{
+			dependencies: ["3642E2D78B348AE3"]
+			id: "60AD223F4B468680"
+			tasks: [{
+				id: "13F57836DE48CDD2"
+				item: { count: 1, id: "minecraft:anvil" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7C42B99D6CD2EB48"]
+			icon: {
+				id: "minecraft:granite"
+			}
+			id: "3E29C768BBBA289F"
+			rewards: [{
+				id: "1D187408458E9D10"
+				item: {
+					count: 1
+					id: "pamhc2foodcore:meatloafitem"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "6413E28EB0EF1297"
+					item: { count: 1, id: "kubejs:granite_pebble" }
+					type: "item"
+				}
+				{
+					id: "5098CBEA459CEE12"
+					item: { count: 1, id: "minecraft:granite" }
+					type: "item"
+				}
+			]
+			x: 7.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["7C42B99D6CD2EB48"]
+			icon: {
+				id: "minecraft:diorite"
+			}
+			id: "5CBC838755D23495"
+			rewards: [{
+				id: "60265D15DD760586"
+				item: {
+					count: 1
+					id: "pamhc2foodextended:sweetandsourmeatballsitem"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "02922E00DC5F57F5"
+					item: { count: 1, id: "kubejs:diorite_pebble" }
+					type: "item"
+				}
+				{
+					id: "75BD74C93A485048"
+					item: { count: 1, id: "minecraft:diorite" }
+					type: "item"
+				}
+			]
+			x: 8.0d
+			y: -1.0d
 		}
 	]
 }

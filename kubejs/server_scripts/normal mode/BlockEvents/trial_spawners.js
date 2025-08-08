@@ -18,17 +18,12 @@ BlockEvents.rightClicked('minecraft:copper_grate', event => {
     const cornerTypes = {
         'minecraft:chiseled_tuff': 'breeze',
         'minecraft:nether_bricks': 'blaze',
-        'minecraft:mossy_cobblestone': 'zombie',
         'minecraft:moss_block': 'slime',
         'minecraft:chiseled_sandstone': 'husk',
         'minecraft:stone_bricks': 'silverfish',
         'minecraft:packed_ice': 'stray',
-        'minecraft:bone_block': 'skeleton',
         'minecraft:chiseled_polished_blackstone': 'piglin',
-        'minecraft:gilded_blackstone': 'piglin_brute',
-        'minecraft:crimson_nylium': 'hoglin',
         'minecraft:soul_soil': 'ghast',
-        'minecraft:purpur_block': 'shulker',
         'minecraft:dark_oak_log': 'pillager',
         'minecraft:emerald_block': 'vindicator'
     };

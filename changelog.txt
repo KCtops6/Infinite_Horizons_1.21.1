@@ -357,6 +357,7 @@ Updated Mystical Agriculture.
 Updated Pam's HarvestCraft 2 - Food Core.
 Updated Pam's HarvestCraft 2 - Trees.
 Updated Placebo.
+Updated Puzzles Lib.
 Updated Smarter Farmers (farmers replant).
 Updated Sophisticated Backpacks.
 Updated Sophisticated Core.

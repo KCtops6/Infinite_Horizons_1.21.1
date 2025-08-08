@@ -12,6 +12,7 @@
 	quest_links: [ ]
 	quests: [
 		{
+			dependencies: ["7E6FA6BACC7B007E"]
 			id: "57401F4BD3952C56"
 			rewards: [
 				{
@@ -38,7 +39,7 @@
 				item: { count: 1, id: "minecraft:oak_log" }
 				type: "item"
 			}]
-			x: 0.0d
+			x: 1.0d
 			y: 0.0d
 		}
 		{
@@ -58,7 +59,7 @@
 				item: { count: 1, id: "minecraft:crafting_table" }
 				type: "item"
 			}]
-			x: 2.0d
+			x: 3.0d
 			y: 0.0d
 		}
 		{
@@ -98,7 +99,7 @@
 					type: "item"
 				}
 			]
-			x: 4.0d
+			x: 5.0d
 			y: 0.0d
 		}
 		{
@@ -128,7 +129,7 @@
 					type: "item"
 				}
 			]
-			x: 6.0d
+			x: 7.0d
 			y: 2.0d
 		}
 		{
@@ -161,7 +162,7 @@
 					type: "item"
 				}
 			]
-			x: 8.0d
+			x: 9.0d
 			y: 0.0d
 		}
 		{
@@ -191,7 +192,7 @@
 					type: "item"
 				}
 			]
-			x: 5.0d
+			x: 6.0d
 			y: -1.0d
 		}
 		{
@@ -202,7 +203,7 @@
 				item: { count: 1, id: "kubejs:stone_trowel" }
 				type: "item"
 			}]
-			x: 6.0d
+			x: 7.0d
 			y: 0.0d
 		}
 		{
@@ -222,7 +223,7 @@
 				item: { count: 1, id: "minecraft:sand" }
 				type: "item"
 			}]
-			x: 6.0d
+			x: 7.0d
 			y: 4.0d
 		}
 		{
@@ -242,7 +243,7 @@
 				item: { count: 1, id: "minecraft:glass" }
 				type: "item"
 			}]
-			x: 6.0d
+			x: 7.0d
 			y: 6.0d
 		}
 		{
@@ -254,7 +255,7 @@
 				item: { count: 1, id: "minecraft:bucket" }
 				type: "item"
 			}]
-			x: 10.0d
+			x: 11.0d
 			y: 0.0d
 		}
 		{
@@ -265,7 +266,7 @@
 				item: { count: 1, id: "kubejs:iron_trowel" }
 				type: "item"
 			}]
-			x: 10.0d
+			x: 11.0d
 			y: -2.0d
 		}
 		{
@@ -286,7 +287,7 @@
 					type: "item"
 				}
 			]
-			x: 12.0d
+			x: 13.0d
 			y: -2.0d
 		}
 		{
@@ -307,7 +308,7 @@
 					type: "item"
 				}
 			]
-			x: 13.0d
+			x: 14.0d
 			y: 1.0d
 		}
 		{
@@ -321,7 +322,7 @@
 				item: { count: 1, id: "minecraft:lava_bucket" }
 				type: "item"
 			}]
-			x: 10.0d
+			x: 11.0d
 			y: 2.0d
 		}
 		{
@@ -335,7 +336,7 @@
 				item: { count: 1, id: "minecraft:tuff" }
 				type: "item"
 			}]
-			x: 4.0d
+			x: 5.0d
 			y: -6.0d
 		}
 		{
@@ -361,7 +362,7 @@
 					type: "item"
 				}
 			]
-			x: 6.0d
+			x: 7.0d
 			y: -6.0d
 		}
 		{
@@ -372,7 +373,7 @@
 				item: { count: 1, id: "kubejs:iron_hammer" }
 				type: "item"
 			}]
-			x: 8.0d
+			x: 9.0d
 			y: -2.0d
 		}
 		{
@@ -407,7 +408,7 @@
 				item: { count: 1, id: "kubejs:deepslate_gravel" }
 				type: "item"
 			}]
-			x: 8.0d
+			x: 9.0d
 			y: -6.0d
 		}
 		{
@@ -421,7 +422,7 @@
 				item: { count: 1, id: "minecraft:diamond" }
 				type: "item"
 			}]
-			x: 10.0d
+			x: 11.0d
 			y: -4.0d
 		}
 		{
@@ -441,7 +442,7 @@
 				item: { count: 1, id: "minecraft:obsidian" }
 				type: "item"
 			}]
-			x: 12.0d
+			x: 13.0d
 			y: -4.0d
 		}
 		{
@@ -455,7 +456,7 @@
 				item: { count: 1, id: "minecraft:redstone" }
 				type: "item"
 			}]
-			x: 10.0d
+			x: 11.0d
 			y: -8.0d
 		}
 		{
@@ -466,7 +467,7 @@
 				item: { count: 1, id: "minecraft:lapis_lazuli" }
 				type: "item"
 			}]
-			x: 10.0d
+			x: 11.0d
 			y: -6.0d
 		}
 		{
@@ -480,7 +481,7 @@
 				item: { count: 1, id: "minecraft:enchanting_table" }
 				type: "item"
 			}]
-			x: 12.0d
+			x: 13.0d
 			y: -6.0d
 		}
 		{
@@ -491,7 +492,7 @@
 				item: { count: 1, id: "minecraft:crafter" }
 				type: "item"
 			}]
-			x: 10.0d
+			x: 11.0d
 			y: -10.0d
 		}
 		{
@@ -513,7 +514,7 @@
 					type: "item"
 				}
 			]
-			x: 12.0d
+			x: 13.0d
 			y: -8.0d
 		}
 		{
@@ -527,7 +528,7 @@
 				item: { count: 1, id: "minecraft:nautilus_shell" }
 				type: "item"
 			}]
-			x: 14.0d
+			x: 15.0d
 			y: -4.0d
 		}
 		{
@@ -542,7 +543,7 @@
 				item: { count: 1, id: "minecraft:heart_of_the_sea" }
 				type: "item"
 			}]
-			x: 14.0d
+			x: 15.0d
 			y: -5.0d
 		}
 		{
@@ -553,7 +554,7 @@
 				item: { count: 1, id: "minecraft:conduit" }
 				type: "item"
 			}]
-			x: 14.0d
+			x: 15.0d
 			y: -6.0d
 		}
 		{
@@ -567,7 +568,7 @@
 				item: { count: 1, id: "minecraft:clay_ball" }
 				type: "item"
 			}]
-			x: 4.0d
+			x: 5.0d
 			y: 6.0d
 		}
 		{
@@ -578,7 +579,7 @@
 				item: { count: 1, id: "minecraft:sandstone" }
 				type: "item"
 			}]
-			x: 8.0d
+			x: 9.0d
 			y: 6.0d
 		}
 		{
@@ -589,10 +590,11 @@
 				item: { count: 1, id: "minecraft:smooth_sandstone" }
 				type: "item"
 			}]
-			x: 8.0d
+			x: 9.0d
 			y: 8.0d
 		}
 		{
+			dependencies: ["7E6FA6BACC7B007E"]
 			id: "363EECE6FFBE73AB"
 			tasks: [{
 				icon: {
@@ -604,7 +606,7 @@
 				to_observe: "minecraft:blast_furnace"
 				type: "observation"
 			}]
-			x: 0.0d
+			x: 1.0d
 			y: 6.0d
 		}
 		{
@@ -618,7 +620,7 @@
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:armors/chainmail)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 1.0d
+			x: 2.0d
 			y: 7.0d
 		}
 		{
@@ -634,10 +636,11 @@
 				item: { count: 1, id: "minecraft:bell" }
 				type: "item"
 			}]
-			x: -1.0d
+			x: 0.0d
 			y: 6.0d
 		}
 		{
+			dependencies: ["7E6FA6BACC7B007E"]
 			id: "5E1D0EE8F130B206"
 			tasks: [{
 				icon: {
@@ -649,7 +652,7 @@
 				to_observe: "minecraft:smithing_table"
 				type: "observation"
 			}]
-			x: -2.0d
+			x: -1.0d
 			y: 6.0d
 		}
 		{
@@ -660,7 +663,7 @@
 				item: { count: 1, id: "minecraft:shield" }
 				type: "item"
 			}]
-			x: 1.0d
+			x: 2.0d
 			y: 5.0d
 		}
 		{
@@ -677,7 +680,7 @@
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:armors/iron)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 1.0d
+			x: 2.0d
 			y: 6.0d
 		}
 		{
@@ -691,10 +694,11 @@
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:armors/diamond)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 0.0d
+			x: 1.0d
 			y: 7.0d
 		}
 		{
+			dependencies: ["7E6FA6BACC7B007E"]
 			id: "520FC2B92D915D72"
 			tasks: [{
 				icon: {
@@ -706,7 +710,7 @@
 				to_observe: "minecraft:grindstone"
 				type: "observation"
 			}]
-			x: -1.0d
+			x: 0.0d
 			y: 5.0d
 		}
 		{
@@ -721,7 +725,7 @@
 				item: { count: 1, id: "minecraft:diamond_axe" }
 				type: "item"
 			}]
-			x: -2.0d
+			x: -1.0d
 			y: 5.0d
 		}
 		{
@@ -732,7 +736,7 @@
 				item: { count: 1, id: "minecraft:diamond_sword" }
 				type: "item"
 			}]
-			x: 0.0d
+			x: 1.0d
 			y: 5.0d
 		}
 		{
@@ -743,7 +747,7 @@
 				item: { count: 1, id: "minecraft:iron_axe" }
 				type: "item"
 			}]
-			x: 0.0d
+			x: 1.0d
 			y: 4.0d
 		}
 		{
@@ -754,7 +758,7 @@
 				item: { count: 1, id: "minecraft:iron_sword" }
 				type: "item"
 			}]
-			x: -1.0d
+			x: 0.0d
 			y: 4.0d
 		}
 		{
@@ -765,7 +769,7 @@
 				item: { count: 1, id: "minecraft:diamond_pickaxe" }
 				type: "item"
 			}]
-			x: -3.0d
+			x: -2.0d
 			y: 5.0d
 		}
 		{
@@ -776,10 +780,11 @@
 				item: { count: 1, id: "minecraft:diamond_shovel" }
 				type: "item"
 			}]
-			x: -3.0d
+			x: -2.0d
 			y: 6.0d
 		}
 		{
+			dependencies: ["7E6FA6BACC7B007E"]
 			id: "6B6451FBAB04FCDA"
 			tasks: [{
 				icon: {
@@ -791,7 +796,7 @@
 				to_observe: "minecraft:brewing_stand"
 				type: "observation"
 			}]
-			x: -2.0d
+			x: -1.0d
 			y: 7.0d
 		}
 		{
@@ -802,7 +807,7 @@
 				item: { count: 1, id: "minecraft:ender_pearl" }
 				type: "item"
 			}]
-			x: -1.0d
+			x: 0.0d
 			y: 7.0d
 		}
 		{
@@ -813,7 +818,7 @@
 				item: { count: 1, id: "minecraft:experience_bottle" }
 				type: "item"
 			}]
-			x: -3.0d
+			x: -2.0d
 			y: 7.0d
 		}
 		{
@@ -824,7 +829,7 @@
 				item: { count: 1, id: "minecraft:name_tag" }
 				type: "item"
 			}]
-			x: 0.0d
+			x: 1.0d
 			y: 2.0d
 		}
 		{
@@ -856,7 +861,7 @@
 				item: { count: 1, id: "minecraft:lightning_rod" }
 				type: "item"
 			}]
-			x: 13.0d
+			x: 14.0d
 			y: -2.0d
 		}
 		{
@@ -870,7 +875,7 @@
 				item: { count: 1, id: "minecraft:golden_shovel" }
 				type: "item"
 			}]
-			x: 12.75d
+			x: 13.75d
 			y: 0.25d
 		}
 		{
@@ -884,7 +889,7 @@
 				item: { count: 1, id: "minecraft:golden_pickaxe" }
 				type: "item"
 			}]
-			x: 13.25d
+			x: 14.25d
 			y: 0.25d
 		}
 		{
@@ -898,7 +903,7 @@
 				item: { count: 1, id: "minecraft:golden_axe" }
 				type: "item"
 			}]
-			x: 13.75d
+			x: 14.75d
 			y: 0.25d
 		}
 		{
@@ -912,7 +917,7 @@
 				item: { count: 1, id: "minecraft:golden_hoe" }
 				type: "item"
 			}]
-			x: 13.75d
+			x: 14.75d
 			y: 0.75d
 		}
 		{
@@ -926,7 +931,7 @@
 				item: { count: 1, id: "minecraft:golden_sword" }
 				type: "item"
 			}]
-			x: 13.75d
+			x: 14.75d
 			y: 1.25d
 		}
 		{
@@ -940,7 +945,7 @@
 				item: { count: 1, id: "minecraft:golden_helmet" }
 				type: "item"
 			}]
-			x: 11.75d
+			x: 12.75d
 			y: 0.75d
 		}
 		{
@@ -954,7 +959,7 @@
 				item: { count: 1, id: "minecraft:golden_chestplate" }
 				type: "item"
 			}]
-			x: 12.25d
+			x: 13.25d
 			y: 0.75d
 		}
 		{
@@ -968,7 +973,7 @@
 				item: { count: 1, id: "minecraft:golden_leggings" }
 				type: "item"
 			}]
-			x: 11.75d
+			x: 12.75d
 			y: 1.25d
 		}
 		{
@@ -982,7 +987,7 @@
 				item: { count: 1, id: "minecraft:golden_boots" }
 				type: "item"
 			}]
-			x: 12.25d
+			x: 13.25d
 			y: 1.25d
 		}
 		{
@@ -993,7 +998,7 @@
 				item: { count: 1, id: "minecraft:golden_apple" }
 				type: "item"
 			}]
-			x: 13.0d
+			x: 14.0d
 			y: 2.0d
 		}
 		{
@@ -1004,8 +1009,27 @@
 				item: { count: 1, id: "minecraft:golden_carrot" }
 				type: "item"
 			}]
-			x: 12.0d
+			x: 13.0d
 			y: 2.0d
+		}
+		{
+			hide_dependent_lines: true
+			id: "7E6FA6BACC7B007E"
+			rewards: [{
+				id: "3188E985E754DE75"
+				item: {
+					count: 1
+					id: "pamhc2foodextended:meatfeastpizzaitem"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [{
+				id: "1F0741044C7EBCBF"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
 		}
 	]
 }

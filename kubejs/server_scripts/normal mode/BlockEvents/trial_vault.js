@@ -2,17 +2,16 @@ BlockEvents.rightClicked('minecraft:chest', event => {
     const { item, level, player, server } = event;
     const { x, y, z } = event.block;
 
+    // Must hold a Trial Key
+    if (item.id !== 'minecraft:trial_key') {
+        return;
+    }
+
     // Only works at night
     const timeOfDay = level.getDayTime() % 24000;
     const isNight = (timeOfDay >= 13000 && timeOfDay <= 23000);
     if (!isNight) {
         player.tell(Text.red('This can only be activated at night.'));
-        return;
-    }
-
-    // Must hold a Trial Key
-    if (item.id !== 'minecraft:trial_key') {
-        player.tell(Text.red('You need to hold a Trial Key.'));
         return;
     }
 

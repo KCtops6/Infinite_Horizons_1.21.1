@@ -3,6 +3,7 @@
 	default_quest_shape: ""
 	filename: "echoes_of_the_void"
 	group: "650B408990186E73"
+	hide_quest_until_deps_complete: true
 	icon: {
 		id: "minecraft:end_stone"
 	}

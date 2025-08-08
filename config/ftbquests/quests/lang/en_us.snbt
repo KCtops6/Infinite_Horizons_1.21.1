@@ -9,7 +9,6 @@
 	chapter.2F34CC58AE75DDE7.chapter_subtitle: ["Early-Game \"Non-Digital\" Storage"]
 	chapter.2F34CC58AE75DDE7.title: "Sophisticated Mods"
 	chapter.5E07E3741CBC3BFE.title: "Netherbound"
-	chapter.61C6267C17CFC8B1.title: "Echoes of the Void"
 	chapter.64FE7FCF6127CD6A.title: "Ancient Trials"
 	chapter.6B16A1E49845B379.title: "Create"
 	chapter.6B81C6743929D1A4.title: "Create Sifting"
@@ -113,6 +112,7 @@
 	quest.1AF74B5C0867A081.quest_desc: ["With &lFish Seeds,&r you can grow &lFish Essence&r, providing you with fish-related resources without the need to fish. Simply plant the seeds and harvest the essence for all your aquatic crafting needs."]
 	quest.1AF74B5C0867A081.quest_subtitle: "Catching Resources Without a Rod"
 	quest.1AF74B5C0867A081.title: "Essence of the Fish"
+	quest.1B48B2DBAB35CFEC.quest_desc: ["In case you get unlucky with ominous trial key drops..."]
 	quest.1B922950A7570482.quest_desc: ["Check the box to acknowledge that you have a working source of rotational energy."]
 	quest.1B922950A7570482.quest_subtitle: "Early Game Power"
 	quest.1BEB220EF0DCE259.quest_desc: ["The &lEnchanting Table&r is a powerful tool that allows you to imbue your items with magical enchantments. To craft one, you'll need Diamonds, Obsidian, and Bookshelves for enhancing its functionality. Use this table to upgrade your gear and gain an edge in your adventures."]
@@ -340,9 +340,11 @@
 	quest.7D5453D77D188888.quest_desc: ["&lFire Seeds&r produce &lFire Essence&r, a versatile material used in various recipes. Most importantly, it can be crafted into &lLava Buckets&r, providing a renewable source of lava. Whether for smelting, power generation, or obsidian production, these seeds ensure you'll never run out of molten heat!"]
 	quest.7D5453D77D188888.quest_subtitle: "Harnessing Fire Essence"
 	quest.7D5453D77D188888.title: "Seeds of Flame"
+	quest.7D9B5C7F6DB2BF69.quest_desc: ["In case you get unlucky with trial key drops..."]
 	quest.7F0AC6B1D0CCBDE4.quest_desc: ["With &lLimestone Seeds&r, you can grow &lLimestone Essence&r, providing you with a steady supply of limestone for construction and crafting. Plant these seeds and harness the power of this durable stone without the need to mine for it."]
 	quest.7F0AC6B1D0CCBDE4.quest_subtitle: "Stone of Strength"
 	quest.7F0AC6B1D0CCBDE4.title: "Essence of Limestone"
+	reward_table.0C1CF05CCCD5916C.title: "Woodland Mansion"
 	reward_table.1B2242C9DE88E106.title: "Bastion"
 	reward_table.1BB1DCEB3ADCCD34.title: "End City"
 	reward_table.298D142C0C950466.title: "Nether Fortress"
@@ -353,6 +355,7 @@
 	task.02FD29192B135BC0.title: "Construct the Bottling Machine"
 	task.049328BEB49A0C63.title: "Any #sophisticated:auto_smelting_upgrades"
 	task.05A1297F925E6922.title: "Craft a Juice Item."
+	task.06F56F0B8CE584F2.title: "Kill an Evoker."
 	task.081F16B216B3A4E0.title: "Any #sophisticated:advanced_compacting_upgrades"
 	task.09B393CC04B069E1.title: "Any #sophisticatedstorage:netherite_upgrades"
 	task.0A98FCD364E35752.title: "Enter Immersive Engineering"
@@ -362,6 +365,7 @@
 	task.111FF24730E1E06B.title: "Observe a Brewing Stand."
 	task.125C98160D57B81B.title: "Obtain Chainmail Armor from an Armorer Villager."
 	task.137E4FCCE42753C8.title: "Any #sophisticated:advanced_pickup_upgrades"
+	task.1402AAF1980AE030.title: "Obtain an Ominous Bottle."
 	task.150DA982F22B0CCB.title: "Any #sophisticatedstorage:gold_storages"
 	task.154ED8DD236C5EE5.title: "Reliable Power Source for Applied Energistics 2"
 	task.159C9E809E5BBFD8.title: "Any #sophisticated:advanced_filter_upgrades"
@@ -370,6 +374,7 @@
 	task.18B1C3094EE3219B.title: "Enter Industrial Foregoing"
 	task.18C58601831336A4.title: "Any #sophisticatedstorage:iron_storages"
 	task.18D7038439CDF699.title: "Construct the Bottling Machine"
+	task.1B6D2A206694B182.title: "Create a Vault."
 	task.1F0741044C7EBCBF.title: "Welcome to Infinite Horizons 2!"
 	task.23F9812A10B9EDCF.title: "Any #sophisticated:auto_blasting_upgrades"
 	task.25812E1A01567F7C.title: "Any #sophisticated:smoking_upgrades"
@@ -394,6 +399,7 @@
 	task.478EF7396C5BCF8E.title: "Find a Nether Fortress."
 	task.4ADD9AB4E3607AAB.title: "Enter the Nether!"
 	task.4CDB7CBDB76C0F32.title: "go to the end"
+	task.4D6763EAD299BB3E.title: "Kill a Husk."
 	task.4DA2C42C8ED94D99.title: "Craft a Shulker Box."
 	task.5071C7B2EC85DAAC.title: "check this box"
 	task.522147DE7E3ED21D.title: "Any #sophisticatedstorage:base_tier_wooden_storage"
@@ -418,6 +424,9 @@
 	task.6CBE6AC06EEEFBDB.title: "Visit an End City."
 	task.6D73C458FCAB9A85.title: "Any #sophisticated:advanced_magnet_upgrades"
 	task.6F526BEC8B38F756.title: "Any #sophisticatedstorage:copper_storages"
+	task.6FF29BA6B39ED82E.title: "Kill 25 Breezes."
+	task.70901D36D39D3797.title: "Kill 15 Evokers."
+	task.77310FD68DBCFAE8.title: "Kill a Breeze"
 	task.779D6F34909CC0A0.title: "Any #c:jellies"
 	task.77D7C9FB811D97C1.title: "Any #sophisticated:void_upgrades"
 	task.78677E7486B9BA7B.title: "Find a Strider."

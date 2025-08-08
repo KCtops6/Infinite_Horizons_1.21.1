@@ -295,16 +295,17 @@ Changed grass block sifting recipe to use string mesh instead of andesite mesh.
 Changed dirt sifting recipe to use string mesh instead of andesite mesh.
 Expanded crushed netherrack sifting to use multiple mesh tiers with increasing chances for fungi, roots, raw gold, and netherite scrap.
 Added loot crate drops to specified mobs with defined chances for various dungeon and bastion structures.
-Added Nether Themed Keys for End Game.
+Added recipe for Nether Key.
+Added recipe for End Key.
 Added recipe removals for Immersive Engineering plate hammering and raw hammer crushing for multiple materials in expert pack mode.
 Added diorite and granite pebbles.
+Added diorite and granite pebbles to trowel drop list.
 Added recipe for Powder Snow Bucket.
 
 Updated Alpha (Overworld) Questline.
 Updated Pam's Harvestcraft Questline.
 Added Trial Chamber Questline.
 Added Nether Questline.
-Added End Questline.
 Updated Beta (Create) Questline.
 Added Create Sifting Questline.
 Removed Gateways to Eternity Questline.
@@ -316,8 +317,11 @@ Added End City Loot Crate.
 Added Ancient City Loot Crate.
 Added Pillager Outpost loot crate.
 Added Nether Fortress Loot Crate.
+Added Woodland Mansion loot crate.
 
+Added Create: Deep Dark [Forge/NeoForge].
 Added Create Mechanical Extruder (will be removing Cobblegen Galore in next update).
+Added Repeatable Trial Vaults.
 
 Added create mechanical extruder recipes.
 

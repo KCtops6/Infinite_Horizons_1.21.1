@@ -9,7 +9,9 @@ let crates = [
     { name: 'bastion', mobs: ['piglin_brute'], chance: 0.25 },
     { name: 'bastion_bridge', mobs: ['piglin_brute'], chance: 0.25 },
     { name: 'bastion_hoglin_stable', mobs: ['hoglin'], chance: 0.15 },
-    { name: 'nether_fortress', mobs: ['wither_skeleton', 'blaze'], chance: 0.1 }
+    { name: 'nether_fortress', mobs: ['wither_skeleton', 'blaze'], chance: 0.1 },
+    { name: 'woodland_mansion', mobs: ['vindicator'], chance: 0.25 },
+    { name: 'woodland_mansion', mobs: ['evoker'], chance: 0.5 }
 ]
 LootJS.modifiers(event => {
     crates.forEach(c => {

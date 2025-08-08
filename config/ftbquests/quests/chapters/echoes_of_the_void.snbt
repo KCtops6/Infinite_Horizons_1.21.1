@@ -1,0 +1,97 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "echoes_of_the_void"
+	group: "650B408990186E73"
+	hide_quest_until_deps_complete: true
+	icon: {
+		id: "minecraft:end_stone"
+	}
+	id: "61C6267C17CFC8B1"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["0E2FAD69E7F77A38"]
+			id: "53CD29530DB70881"
+			tasks: [{
+				id: "5E6EDE46E15690BC"
+				item: { count: 1, id: "minecraft:shulker_shell" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["503FEAD1727F6235"]
+			id: "0E2FAD69E7F77A38"
+			tasks: [{
+				id: "3F4306DF1B612EA3"
+				item: { count: 1, id: "minecraft:purpur_block" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["31ED7774F6BF0E28"]
+			id: "503FEAD1727F6235"
+			tasks: [{
+				id: "6A8E3AD89EBD5A88"
+				item: { count: 1, id: "minecraft:popped_chorus_fruit" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["01D02F54CE4E50FB"]
+			id: "31ED7774F6BF0E28"
+			tasks: [{
+				id: "23902CDE6A2BCF88"
+				item: { count: 1, id: "minecraft:chorus_fruit" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"77F1FF36BC1D50F9"
+				"74B7E90FE385180A"
+			]
+			id: "01D02F54CE4E50FB"
+			tasks: [{
+				id: "59FC23F60EB65D0B"
+				item: { count: 1, id: "minecraft:chorus_flower" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			id: "77F1FF36BC1D50F9"
+			tasks: [{
+				id: "09E901D0138BA4FB"
+				item: { count: 1, id: "minecraft:end_stone" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["53CD29530DB70881"]
+			id: "263AF035BB421EDC"
+			tasks: [{
+				icon: {
+					id: "minecraft:shulker_box"
+				}
+				id: "4DA2C42C8ED94D99"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:shulker_boxes)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+	]
+}

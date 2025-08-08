@@ -641,5 +641,16 @@
 			x: 3.0d
 			y: -3.0d
 		}
+		{
+			dependencies: ["465C87D45CF7C220"]
+			id: "27D51B14E7F8A98B"
+			tasks: [{
+				id: "0EC1ED6463690038"
+				item: { count: 1, id: "minecraft:piglin_banner_pattern" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 3.0d
+		}
 	]
 }

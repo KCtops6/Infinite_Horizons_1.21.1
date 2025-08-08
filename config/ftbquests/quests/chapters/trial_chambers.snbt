@@ -3,6 +3,7 @@
 	default_quest_shape: ""
 	filename: "trial_chambers"
 	group: "650B408990186E73"
+	hide_quest_until_deps_complete: true
 	icon: {
 		id: "minecraft:trial_key"
 	}
@@ -11,6 +12,7 @@
 	quest_links: [ ]
 	quests: [
 		{
+			dependencies: ["7E6FA6BACC7B007E"]
 			id: "70A474AF7638B9C0"
 			rewards: [{
 				id: "040716B95D949604"

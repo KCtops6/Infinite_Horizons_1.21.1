@@ -16,12 +16,16 @@ LootJS.modifiers(event => {
         .matchTool("kubejs:stone_trowel")
         .addLoot(LootEntry.of("kubejs:stone_pebble").randomChance(0.5))
         .addLoot(LootEntry.of("kubejs:andesite_pebble").randomChance(0.25))
+        .addLoot(LootEntry.of("kubejs:granite_pebble").randomChance(0.25))
+        .addLoot(LootEntry.of("kubejs:diorite_pebble").randomChance(0.25))
         .randomChance(0.5)
         .removeLoot("minecraft:dirt");
     event.addBlockModifier("minecraft:grass_block")
         .matchTool("kubejs:stone_trowel")
         .addLoot(LootEntry.of("kubejs:stone_pebble").randomChance(0.5))
         .addLoot(LootEntry.of("kubejs:andesite_pebble").randomChance(0.25))
+        .addLoot(LootEntry.of("kubejs:granite_pebble").randomChance(0.25))
+        .addLoot(LootEntry.of("kubejs:diorite_pebble").randomChance(0.25))
         .randomChance(0.5)
         .removeLoot("minecraft:dirt");
 
@@ -30,12 +34,16 @@ LootJS.modifiers(event => {
         .matchTool("kubejs:iron_trowel")
         .addLoot(LootEntry.of("kubejs:stone_pebble").randomChance(0.75))
         .addLoot(LootEntry.of("kubejs:andesite_pebble").randomChance(0.5))
+        .addLoot(LootEntry.of("kubejs:granite_pebble").randomChance(0.5))
+        .addLoot(LootEntry.of("kubejs:diorite_pebble").randomChance(0.5))
         .randomChance(0.75)
         .removeLoot("minecraft:dirt");
     event.addBlockModifier("minecraft:grass_block")
         .matchTool("kubejs:iron_trowel")
         .addLoot(LootEntry.of("kubejs:stone_pebble").randomChance(0.75))
         .addLoot(LootEntry.of("kubejs:andesite_pebble").randomChance(0.5))
+        .addLoot(LootEntry.of("kubejs:granite_pebble").randomChance(0.5))
+        .addLoot(LootEntry.of("kubejs:diorite_pebble").randomChance(0.5))
         .randomChance(0.75)
         .removeLoot("minecraft:grass_block");
     

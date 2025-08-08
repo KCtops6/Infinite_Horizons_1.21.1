@@ -9,7 +9,7 @@
 		}
 		string_id: "nether_fortress"
 	}
-	loot_size: 1
+	loot_size: 9
 	order_index: 6
 	rewards: [
 		{

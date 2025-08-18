@@ -372,3 +372,4 @@ Updated FTB Filter System.
 Updated FTB Library (Forge).
 Updated FTB Quests (Forge).
 Updated FTB Ultimine (Forge).
+Updated FTB XMod Compat.

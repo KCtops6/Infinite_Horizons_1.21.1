@@ -378,3 +378,4 @@ Updated Mystical Agriculture.
 Updated Puzzles Lib.
 Updated Rhino.
 Updated Sophisticated Backpacks.
+Updated Sophisticated Core.

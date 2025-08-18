@@ -375,3 +375,4 @@ Updated FTB Ultimine (Forge).
 Updated FTB XMod Compat.
 Updated Mystical Agradditions.
 Updated Mystical Agriculture.
+Updated Puzzles Lib.

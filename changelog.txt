@@ -376,3 +376,4 @@ Updated FTB XMod Compat.
 Updated Mystical Agradditions.
 Updated Mystical Agriculture.
 Updated Puzzles Lib.
+Updated Rhino.

@@ -364,3 +364,6 @@ Updated Sophisticated Core.
 Updated Sophisticated Storage.
 Updated Visual Workbench.
 Updated Waystones.
+
+1.21.1-1.0
+Updated Applied Energistics 2.

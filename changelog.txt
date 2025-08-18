@@ -379,3 +379,4 @@ Updated Puzzles Lib.
 Updated Rhino.
 Updated Sophisticated Backpacks.
 Updated Sophisticated Core.
+Updated Sophisticated Storage.

@@ -365,7 +365,7 @@ Updated Sophisticated Storage.
 Updated Visual Workbench.
 Updated Waystones.
 
-1.21.1-1.0
+1.21.1-1.9b-beta
 Removed Cobblegen Galore.
 
 Updated Applied Energistics 2.
@@ -382,3 +382,5 @@ Updated Rhino.
 Updated Sophisticated Backpacks.
 Updated Sophisticated Core.
 Updated Sophisticated Storage.
+
+Updated Gamma (Mystical Agriculture) questline.

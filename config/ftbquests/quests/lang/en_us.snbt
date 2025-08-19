@@ -60,9 +60,6 @@
 	quest.0E2601518E952F8C.quest_desc: ["&lWater Seeds&r grow into &lWater Essence&r, which is useful for a few early-game recipes. While it may not be as versatile as some other essences, it's an essential resource for crafting basic items and progressing through the early stages of Mystical Agriculture. Start planting to unlock new crafting possibilities!"]
 	quest.0E2601518E952F8C.quest_subtitle: "Harnessing Water Essence"
 	quest.0E2601518E952F8C.title: "Seeds of the Sea"
-	quest.0E3F69CBC98336DE.quest_desc: ["&lInsanium&r is the next level after Supremium, representing the peak of your crafting journey. To craft Insanium Essence, you’ll need to create the &lSupremium Infusion Crystal&r. Combine Supremium Essence, the Imperium Infusion Crystal, and additional Prosperity Shards to craft the crystal. Once you have it, use it just as you did with previous essences to infuse and obtain Insanium Essence, unlocking the most powerful materials and items in your quest for ultimate strength!"]
-	quest.0E3F69CBC98336DE.quest_subtitle: "Insane Ambitions"
-	quest.0E3F69CBC98336DE.title: "The Pinnacle of Power"
 	quest.0EF473D1AB25C4C5.quest_desc: ["With &lCoal Seeds&r, you can grow &lCoal Essence&r, allowing you to craft coal without ever touching a pickaxe. A renewable fuel source is always a good investment!"]
 	quest.0EF473D1AB25C4C5.quest_subtitle: "Coal Without Mining"
 	quest.0EF473D1AB25C4C5.title: "Growing Fuel"
@@ -74,9 +71,6 @@
 	quest.11332A8490D1FD31.quest_desc: ["&lRedstone dust&r can be obtained by breaking deepslate gravel with an Iron Trowel or better. This essential material unlocks a world of possibilities, from circuits to automation. Start collecting redstone dust to enhance your creations and power your machines."]
 	quest.11332A8490D1FD31.quest_subtitle: "Harnessing the Power of Sparks"
 	quest.11332A8490D1FD31.title: "Essence of Redstone"
-	quest.114F6DD75C9B7D22.quest_desc: ["The &lMaster Infusion Crystal&r combines the power of every previous crystal, offering infinite uses and the ability to infuse any essence you need. By crafting this ultimate crystal, you gain the convenience of accessing Prudentium, Tertium, Imperium, Supremium, and Insanium essences all in one item. It's a powerful tool for simplifying your crafting process, saving time and resources as you advance to even greater heights. Unlock this versatile crystal and wield its boundless potential!"]
-	quest.114F6DD75C9B7D22.quest_subtitle: "Crafting the Master Infusion Crystal"
-	quest.114F6DD75C9B7D22.title: "The Ultimate Infusion"
 	quest.1284CA2D49C1FE72.quest_desc: ["The intense heat of the furnace can burn away the souls trapped in Soul Sand, leaving behind solidified &lScoria&r. This dark, volcanic stone is perfect for building or crafting unique blocks. Toss some Soul Sand into a furnace and see what remains after the fire has done its work."]
 	quest.1284CA2D49C1FE72.quest_subtitle: "Smelting the Sands of the Nether"
 	quest.1284CA2D49C1FE72.title: "Charred Remnants"
@@ -86,9 +80,6 @@
 	quest.1579F3D1E91940BD.quest_desc: ["With &lSlime Seeds&r, you can grow &lSlime Essence&r, unlocking a renewable source of slimeballs without hunting for slimes. Simply plant the seeds, and let them provide all the resources you need."]
 	quest.1579F3D1E91940BD.quest_subtitle: "Growing Goo"
 	quest.1579F3D1E91940BD.title: "Essence of the Slime"
-	quest.166EC60FFAC9B4BD.quest_desc: ["To craft &lPrudentium Essence&r, you’ll first need to create an &lInferium Infusion Crystal&r by combining Inferium, Prosperity Shards, and a Diamond. This crystal is key to unlocking the next tier of Mystical Agriculture crops and resources. Use it wisely, as Prudentium Essence will help you take your farming and crafting to new heights."]
-	quest.166EC60FFAC9B4BD.quest_subtitle: "Infusing for Advancement"
-	quest.166EC60FFAC9B4BD.title: "The Path to Prudentium"
 	quest.169040E33441DBE9.quest_desc: ["The &lEnchantment Generator&r is a powerful upgrade, taking your energy generation to the next level. With a generation rate of 40 FE/t and a transfer rate of 1,024 FE/t, this generator draws its power from the very essence of enchantments. It consumes energy at a rate of 1 FE/t and offers a buffer capacity of 1,000,000 FE, making it an excellent choice for systems that require both efficiency and substantial energy reserves. Upgrade from the Obsidian Generator to the Enchantment Generator and unlock the power of enchantments as a unique fuel source."]
 	quest.169040E33441DBE9.quest_subtitle: "Harness the energy of magical forces"
 	quest.169040E33441DBE9.title: "The Power of Enchantment"
@@ -175,9 +166,6 @@
 	quest.32245E61F86CBB8E.quest_desc: ["With &lCow Seeds&r, you can grow &lCow Essence&r, providing all the resources related to cows without the need for breeding or finding them. Simply plant the seeds and enjoy a steady supply of cow-based materials."]
 	quest.32245E61F86CBB8E.quest_subtitle: "Herding Through Seeds"
 	quest.32245E61F86CBB8E.title: "Essence of the Cow"
-	quest.3276ACBC80D0AF10.quest_desc: ["&lSupremium&r is the pinnacle of progression, the next tier after Imperium. To obtain it, you'll need to craft the &lImperium Infusion Crystal&r by combining Imperium Essence, the Tertium Infusion Crystal, and additional Prosperity Shards. Once crafted, use it in the same manner as when you crafted earlier essences to infuse and obtain Supremium Essence, unlocking the ultimate resources and gear for your journey!"]
-	quest.3276ACBC80D0AF10.quest_subtitle: "Supreme Crafting Ablities"
-	quest.3276ACBC80D0AF10.title: "The Power of Supremium"
 	quest.33FD237C4BEF8440.quest_desc: ["Use an Empty Blaze Burner on a Nether Portal (left-click) to reignite its core and obtain a Blaze Burner."]
 	quest.33FD237C4BEF8440.quest_subtitle: "Acquire a Blaze Burner"
 	quest.33FD237C4BEF8440.title: "Ignite the Flame"
@@ -328,9 +316,6 @@
 	quest.780B474DBCE85FC2.quest_desc: ["&lInferium Essence&r is a powerful material dropped by mobs, and it plays a vital role in the &oMystical Agriculture&r mod. Use it to craft seeds for growing a variety of resources, from basic crops to rare materials. Start gathering this essence to unlock a whole new world of farming and resource generation!"]
 	quest.780B474DBCE85FC2.quest_subtitle: "Harnessing Inferium"
 	quest.780B474DBCE85FC2.title: "The Essence of Growth"
-	quest.792527A0AEA5E9E2.quest_desc: ["&lImperium&r is the next tier after Tertium, and to access it, you need to craft the &lTertium Infusion Crystal&r. Combine Tertium Essence, the Prudentium Infusion Crystal, and additional Prosperity Shards to create the crystal. Once crafted, use it just as you did with Tertium to infuse and obtain Imperium Essence, granting access to even higher-level resources and crafting possibilities!"]
-	quest.792527A0AEA5E9E2.quest_subtitle: "Achieving New Heights"
-	quest.792527A0AEA5E9E2.title: "Reaching for Imperium"
 	quest.7C42B99D6CD2EB48.quest_desc: ["Your Wooden Trowel was a good start, but a &lStone Trowel&r will serve you even better. With increased durability and improved drops, you'll gather resources more efficiently. Craft one and put it to the test—you might be surprised by what you find!"]
 	quest.7C42B99D6CD2EB48.quest_subtitle: "Improved Gathering"
 	quest.7C42B99D6CD2EB48.title: "A Better Trowel"

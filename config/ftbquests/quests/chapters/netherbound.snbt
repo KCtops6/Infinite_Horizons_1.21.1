@@ -123,12 +123,23 @@
 				"27115761CCA7ADB6"
 				"287FB95D062FF224"
 			]
+			icon: {
+				id: "minecraft:nether_star"
+			}
 			id: "695E4E0F9551D449"
-			tasks: [{
-				id: "2904DF2EED3943CB"
-				item: { count: 1, id: "minecraft:nether_star" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					entity: "minecraft:wither"
+					id: "003B43483B32A6E5"
+					type: "kill"
+					value: 1L
+				}
+				{
+					id: "06D6BDC27634B605"
+					item: { count: 1, id: "minecraft:nether_star" }
+					type: "item"
+				}
+			]
 			x: 0.0d
 			y: -3.0d
 		}

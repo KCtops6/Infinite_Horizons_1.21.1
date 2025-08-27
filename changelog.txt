@@ -395,3 +395,5 @@ Updated Alpha (Overworld) Questline.
 Updated Beta (Create) Questline.
 Updated Gamma (Mystical Agriculture) questline.
 Updated Pam's Harvestcraft questline.
+
+Added recipes for diorite and granite using their pebbles.

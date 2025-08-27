@@ -369,6 +369,7 @@ Updated Waystones.
 Removed Cobblegen Galore.
 
 Updated Applied Energistics 2.
+Updated Create Crafts & Additions.
 Updated Cucumber Library.
 Updated FTB Filter System.
 Updated FTB Library (Forge).

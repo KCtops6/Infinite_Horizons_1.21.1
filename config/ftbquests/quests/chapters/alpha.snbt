@@ -68,15 +68,26 @@
 				id: "minecraft:cobblestone"
 			}
 			id: "40F041C17BEAADEE"
-			rewards: [{
-				id: "18E9A18849D00E22"
-				item: {
-					count: 1
-					id: "farmersdelight:chocolate_pie_slice"
+			rewards: [
+				{
+					id: "1CB585B4FEA72936"
+					item: {
+						count: 1
+						id: "minecraft:cobblestone"
+					}
+					random_bonus: 2
+					type: "item"
 				}
-				random_bonus: 2
-				type: "item"
-			}]
+				{
+					id: "18E9A18849D00E22"
+					item: {
+						count: 1
+						id: "farmersdelight:chocolate_pie_slice"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
 			tasks: [
 				{
 					id: "1C457F9FE212D05C"
@@ -94,7 +105,7 @@
 					type: "item"
 				}
 				{
-					id: "7D39BCB884789B10"
+					id: "1D7545C7BBBAD588"
 					item: { count: 1, id: "minecraft:furnace" }
 					type: "item"
 				}
@@ -108,15 +119,26 @@
 				id: "minecraft:gravel"
 			}
 			id: "528AC4A13D35951B"
-			rewards: [{
-				id: "694E73BAE68614B5"
-				item: {
-					count: 1
-					id: "farmersdelight:mixed_salad"
+			rewards: [
+				{
+					id: "6968E9B70ED76D64"
+					item: {
+						count: 1
+						id: "minecraft:gravel"
+					}
+					random_bonus: 2
+					type: "item"
 				}
-				random_bonus: 2
-				type: "item"
-			}]
+				{
+					id: "694E73BAE68614B5"
+					item: {
+						count: 1
+						id: "farmersdelight:mixed_salad"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
 			tasks: [
 				{
 					id: "2407D224E136A0CF"
@@ -141,15 +163,26 @@
 				id: "minecraft:iron_ingot"
 			}
 			id: "3642E2D78B348AE3"
-			rewards: [{
-				id: "5C2A905BF57889EB"
-				item: {
-					count: 1
-					id: "farmersdelight:fruit_salad"
+			rewards: [
+				{
+					id: "131CBC293C076FCF"
+					item: {
+						count: 1
+						id: "minecraft:iron_ingot"
+					}
+					random_bonus: 2
+					type: "item"
 				}
-				random_bonus: 2
-				type: "item"
-			}]
+				{
+					id: "5C2A905BF57889EB"
+					item: {
+						count: 1
+						id: "farmersdelight:fruit_salad"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
 			tasks: [
 				{
 					id: "3360BB1BF1AD9D1C"
@@ -171,15 +204,26 @@
 				id: "minecraft:andesite"
 			}
 			id: "4FCED4F5C0320523"
-			rewards: [{
-				id: "608C139FD7411007"
-				item: {
-					count: 1
-					id: "farmersdelight:barbecue_stick"
+			rewards: [
+				{
+					id: "0215538E5CE482A2"
+					item: {
+						count: 1
+						id: "minecraft:andesite"
+					}
+					random_bonus: 2
+					type: "item"
 				}
-				random_bonus: 2
-				type: "item"
-			}]
+				{
+					id: "608C139FD7411007"
+					item: {
+						count: 1
+						id: "farmersdelight:barbecue_stick"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
 			tasks: [
 				{
 					id: "12E3BCD173CB72EE"
@@ -261,6 +305,26 @@
 		{
 			dependencies: ["3642E2D78B348AE3"]
 			id: "7C75AE73B3CCD66E"
+			rewards: [
+				{
+					id: "60A1A897C342529E"
+					item: {
+						count: 1
+						id: "minecraft:iron_ingot"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "649C64DFD063A799"
+					item: {
+						count: 1
+						id: "pamhc2foodextended:gingerchickenitem"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "46AEB24C5B2F89CF"
 				item: { count: 1, id: "kubejs:iron_trowel" }
@@ -1066,15 +1130,26 @@
 				id: "minecraft:granite"
 			}
 			id: "3E29C768BBBA289F"
-			rewards: [{
-				id: "1D187408458E9D10"
-				item: {
-					count: 1
-					id: "pamhc2foodcore:meatloafitem"
+			rewards: [
+				{
+					id: "737F57C60DD5E7C5"
+					item: {
+						count: 1
+						id: "minecraft:granite"
+					}
+					random_bonus: 2
+					type: "item"
 				}
-				random_bonus: 2
-				type: "item"
-			}]
+				{
+					id: "1D187408458E9D10"
+					item: {
+						count: 1
+						id: "pamhc2foodcore:meatloafitem"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
 			tasks: [
 				{
 					id: "6413E28EB0EF1297"
@@ -1096,15 +1171,26 @@
 				id: "minecraft:diorite"
 			}
 			id: "5CBC838755D23495"
-			rewards: [{
-				id: "60265D15DD760586"
-				item: {
-					count: 1
-					id: "pamhc2foodextended:sweetandsourmeatballsitem"
+			rewards: [
+				{
+					id: "7221FA258B3F45C1"
+					item: {
+						count: 1
+						id: "minecraft:diorite"
+					}
+					random_bonus: 2
+					type: "item"
 				}
-				random_bonus: 2
-				type: "item"
-			}]
+				{
+					id: "60265D15DD760586"
+					item: {
+						count: 1
+						id: "pamhc2foodextended:sweetandsourmeatballsitem"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
 			tasks: [
 				{
 					id: "02922E00DC5F57F5"

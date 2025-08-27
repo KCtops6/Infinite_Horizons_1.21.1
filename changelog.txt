@@ -381,6 +381,7 @@ Updated FTB XMod Compat.
 Updated Moonlight Lib.
 Updated Mystical Agradditions.
 Updated Mystical Agriculture.
+Updated Pam's HarvestCraft 2 - Food Core.
 Updated Puzzles Lib.
 Updated Rhino.
 Updated Sophisticated Backpacks.

@@ -1120,5 +1120,16 @@
 			x: 8.0d
 			y: -1.0d
 		}
+		{
+			dependencies: ["2BA93DCA9442D7E9"]
+			id: "5C9EF8684706C0E7"
+			tasks: [{
+				id: "5E0A6485FF3016A8"
+				item: { count: 1, id: "minecraft:sea_lantern" }
+				type: "item"
+			}]
+			x: 14.0d
+			y: -8.0d
+		}
 	]
 }

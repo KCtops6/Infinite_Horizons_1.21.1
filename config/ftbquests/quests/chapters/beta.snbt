@@ -131,6 +131,15 @@
 			id: "6F234337CE289CD4"
 			rewards: [
 				{
+					id: "617162E0888EC6BF"
+					item: {
+						count: 1
+						id: "create:andesite_alloy"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
 					id: "04251FC00A5DD359"
 					item: {
 						count: 1

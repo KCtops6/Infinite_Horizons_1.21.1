@@ -368,6 +368,8 @@ Updated Waystones.
 1.21.1-1.0
 Removed Cobblegen Galore.
 
+Readded LootJS: KubeJS Addon.
+
 Updated Applied Energistics 2.
 Updated Create Crafts & Additions.
 Updated Cucumber Library.

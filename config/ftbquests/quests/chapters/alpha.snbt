@@ -360,6 +360,15 @@
 				id: "minecraft:gold_ingot"
 			}
 			id: "28018BE994F02339"
+			rewards: [{
+				id: "74C970FAEC829CAC"
+				item: {
+					count: 1
+					id: "minecraft:gold_ingot"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "4395800E0D49456B"
@@ -1068,6 +1077,27 @@
 		{
 			dependencies: ["28018BE994F02339"]
 			id: "444DCF89A61471A7"
+			rewards: [
+				{
+					id: "5B23D8E501B9E9DD"
+					item: {
+						count: 1
+						id: "minecraft:golden_carrot"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 2
+					id: "7FF9E9FDAD8E9A6B"
+					item: {
+						count: 1
+						id: "minecraft:gold_nugget"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "31D68338B84A45F1"
 				item: { count: 1, id: "minecraft:golden_carrot" }

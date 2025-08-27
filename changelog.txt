@@ -375,6 +375,7 @@ Updated Farmer's Delight.
 Updated FTB Filter System.
 Updated FTB Library (Forge).
 Updated FTB Quests (Forge).
+Updated FTB Teams (Forge).
 Updated FTB Ultimine (Forge).
 Updated FTB XMod Compat.
 Updated Mystical Agradditions.

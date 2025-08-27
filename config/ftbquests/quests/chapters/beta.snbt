@@ -156,6 +156,14 @@
 					}
 					type: "item"
 				}
+				{
+					id: "1D5375625EBF757A"
+					item: {
+						count: 1
+						id: "create:goggles"
+					}
+					type: "item"
+				}
 			]
 			tasks: [{
 				id: "5CE4AEB78104D5E9"
@@ -194,7 +202,7 @@
 				type: "item"
 			}]
 			x: 6.0d
-			y: 0.0d
+			y: 2.0d
 		}
 		{
 			dependencies: ["1B922950A7570482"]
@@ -295,14 +303,34 @@
 			y: -4.0d
 		}
 		{
-			dependencies: ["04F3232804097839"]
+			dependencies: ["1B922950A7570482"]
 			id: "170192578F1D5CA0"
+			rewards: [
+				{
+					id: "514EEC2E6ADF62EC"
+					item: {
+						count: 1
+						id: "create:andesite_casing"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "0635CAC710A7EE9E"
+					item: {
+						count: 1
+						id: "create:cogwheel"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "0071FC7F975E5F3E"
 				item: { count: 1, id: "createsifter:sifter" }
 				type: "item"
 			}]
-			x: 8.0d
+			x: 6.0d
 			y: 0.0d
 		}
 		{
@@ -445,6 +473,17 @@
 			}]
 			x: 2.0d
 			y: -4.0d
+		}
+		{
+			dependencies: ["1B922950A7570482"]
+			id: "3EAD081D51E205AE"
+			tasks: [{
+				id: "5056C4E2BCBCCF5F"
+				item: { count: 1, id: "create_mechanical_extruder:mechanical_extruder" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.0d
 		}
 	]
 }

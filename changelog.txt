@@ -371,6 +371,7 @@ Removed Cobblegen Galore.
 Updated Applied Energistics 2.
 Updated Create Crafts & Additions.
 Updated Cucumber Library.
+Updated Farmer's Delight.
 Updated FTB Filter System.
 Updated FTB Library (Forge).
 Updated FTB Quests (Forge).

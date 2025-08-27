@@ -365,7 +365,7 @@ Updated Sophisticated Storage.
 Updated Visual Workbench.
 Updated Waystones.
 
-1.21.1-1.9b-beta
+1.21.1-1.0
 Removed Cobblegen Galore.
 
 Updated Applied Energistics 2.

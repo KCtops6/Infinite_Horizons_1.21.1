@@ -1986,5 +1986,37 @@
 			x: 7.0d
 			y: 3.0d
 		}
+		{
+			dependencies: ["49C1E756D880F6AF"]
+			id: "7A1E4EBB97BA64E2"
+			rewards: [
+				{
+					id: "747E9D39EAEB0647"
+					item: {
+						count: 1
+						id: "mysticalagriculture:inferium_farmland"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "3B59E92B43FE05A4"
+					item: {
+						count: 1
+						id: "mysticalagriculture:inferium_essence"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7FDAFF20BAFAB12F"
+				item: { count: 1, id: "mysticalagriculture:inferium_farmland" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
 	]
 }

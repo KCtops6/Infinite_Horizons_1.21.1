@@ -61,10 +61,11 @@
 				item: { count: 1, id: "pamhc2foodcore:stockitem" }
 				type: "item"
 			}]
-			x: 9.0d
-			y: -2.0d
+			x: 5.5d
+			y: -3.5d
 		}
 		{
+			hide_dependent_lines: true
 			id: "261804848345CA50"
 			tasks: [{
 				id: "7BBEF9D278184138"
@@ -86,6 +87,7 @@
 		}
 		{
 			dependencies: ["53F920848F04E29F"]
+			hide_dependent_lines: true
 			id: "37E4DC767F0CCFEA"
 			tasks: [{
 				id: "0D1463FB7BF01505"
@@ -106,8 +108,8 @@
 				item: { count: 1, id: "pamhc2foodextended:roastpotatoesitem" }
 				type: "item"
 			}]
-			x: 3.0d
-			y: -3.0d
+			x: 9.5d
+			y: 0.0d
 		}
 		{
 			dependencies: [
@@ -120,8 +122,8 @@
 				item: { count: 1, id: "pamhc2foodextended:sundayroastitem" }
 				type: "item"
 			}]
-			x: 4.0d
-			y: -3.0d
+			x: 10.5d
+			y: 0.0d
 		}
 		{
 			dependencies: [
@@ -134,8 +136,8 @@
 				item: { count: 1, id: "pamhc2foodextended:roastchickenitem" }
 				type: "item"
 			}]
-			x: 3.0d
-			y: -4.0d
+			x: 9.5d
+			y: -1.0d
 		}
 		{
 			id: "3A8F7A42FBD333DB"
@@ -166,8 +168,8 @@
 				item: { count: 1, id: "pamhc2foodextended:driedsoupitem" }
 				type: "item"
 			}]
-			x: 10.0d
-			y: -2.0d
+			x: 6.5d
+			y: -3.5d
 		}
 		{
 			dependencies: ["3838D948A4D860EE"]
@@ -177,8 +179,149 @@
 				item: { count: 1, id: "pamhc2foodextended:splitpeasoupitem" }
 				type: "item"
 			}]
-			x: 10.0d
-			y: -3.0d
+			x: 6.5d
+			y: -4.5d
+		}
+		{
+			id: "637915D0F297A380"
+			tasks: [{
+				id: "6222CE99BF2DB5F9"
+				item: { count: 1, id: "pamhc2trees:nutmegitem" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["637915D0F297A380"]
+			id: "12F3046CBE6A00C2"
+			tasks: [{
+				id: "6FA1F217D635BBAA"
+				item: { count: 1, id: "pamhc2foodextended:groundnutmegitem" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["12F3046CBE6A00C2"]
+			id: "5FCDBEE68CABC10B"
+			tasks: [{
+				id: "414BB8912DBCECF2"
+				item: { count: 1, id: "pamhc2foodextended:swedishmeatballsitem" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["12F3046CBE6A00C2"]
+			id: "7DEABC8B085989BC"
+			tasks: [{
+				id: "2E9BE8AA303B3D2C"
+				item: { count: 1, id: "pamhc2foodextended:custarditem" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["12F3046CBE6A00C2"]
+			id: "109CAFC2CD8E9CE4"
+			tasks: [{
+				id: "16C058A20B1C6CAB"
+				item: { count: 1, id: "pamhc2foodextended:garammasalaitem" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["12F3046CBE6A00C2"]
+			id: "10BD7D54F2F0A784"
+			tasks: [{
+				id: "0F427F3A2495F13C"
+				item: { count: 1, id: "pamhc2foodextended:eggnogitem" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["12F3046CBE6A00C2"]
+			id: "2CC5DBC5D9F1769C"
+			tasks: [{
+				id: "7D56123745D000BB"
+				item: { count: 1, id: "pamhc2foodextended:pumpkinspicelatteitem" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["12F3046CBE6A00C2"]
+			id: "2EA330928E2D33B3"
+			tasks: [{
+				id: "71677CE975255B2D"
+				item: { count: 1, id: "pamhc2foodextended:fivespiceitem" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["12F3046CBE6A00C2"]
+			id: "0AE5C16B2EE35157"
+			tasks: [{
+				id: "6D7C8C71D5EA0B2A"
+				item: { count: 1, id: "pamhc2foodextended:spicebunitem" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["7099102B8F1E3F84"]
+			id: "7E4FF98960936A7D"
+			tasks: [{
+				id: "590E662E465F115B"
+				item: { count: 1, id: "pamhc2foodextended:gourmetbeefburgeritem" }
+				type: "item"
+			}]
+			x: 10.5d
+			y: 3.0d
+		}
+		{
+			id: "7099102B8F1E3F84"
+			tasks: [{
+				id: "10534903B2BAF8A4"
+				item: { count: 1, id: "pamhc2foodextended:briochebunitem" }
+				type: "item"
+			}]
+			x: 9.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["7099102B8F1E3F84"]
+			id: "08352F7123B8A321"
+			tasks: [{
+				id: "5751D0051F1B90AC"
+				item: { count: 1, id: "pamhc2foodextended:gourmetporkburgeritem" }
+				type: "item"
+			}]
+			x: 10.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["7099102B8F1E3F84"]
+			id: "0732ECBA12A27122"
+			tasks: [{
+				id: "2D7B8FB32ACCCC4C"
+				item: { count: 1, id: "pamhc2foodextended:gourmetmuttonburgeritem" }
+				type: "item"
+			}]
+			x: 10.5d
+			y: 4.0d
 		}
 	]
 }

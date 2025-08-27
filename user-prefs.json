@@ -814,6 +814,10 @@
         "isSelected": true
       },
       {
+        "path": "config\\mysticalagriculture-common-2.toml.bak",
+        "isSelected": true
+      },
+      {
         "path": "config\\mysticalagriculture-common.toml",
         "isSelected": true
       },
@@ -871,6 +875,10 @@
       },
       {
         "path": "config\\sophisticatedbackpacks-server-1.toml.bak",
+        "isSelected": true
+      },
+      {
+        "path": "config\\sophisticatedbackpacks-server-2.toml.bak",
         "isSelected": true
       },
       {
@@ -979,7 +987,7 @@
       },
       {
         "path": "datapacks",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "debug",
@@ -1083,6 +1091,14 @@
       },
       {
         "path": "journeymap\\data\\mp\\offline",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\mp\\offline\\the_end",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\mp\\offline\\the_end\\day",
         "isSelected": false
       },
       {
@@ -3602,6 +3618,30 @@
         "isSelected": false
       },
       {
+        "path": "journeymap\\data\\sp\\New World (1)\\the_nether\\-1",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\the_nether\\-1\\cache",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\the_nether\\-1\\cache\\r.2.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\the_nether\\-1\\cache\\r.3.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\the_nether\\-1\\2,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\the_nether\\-1\\3,0.png",
+        "isSelected": false
+      },
+      {
         "path": "journeymap\\data\\sp\\New World (1)\\the_nether\\0",
         "isSelected": false
       },
@@ -3634,6 +3674,22 @@
         "isSelected": false
       },
       {
+        "path": "journeymap\\data\\sp\\New World (1)\\the_nether\\0\\cache\\r.2.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\the_nether\\0\\cache\\r.2.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\the_nether\\0\\cache\\r.3.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\the_nether\\0\\cache\\r.3.1.mca",
+        "isSelected": false
+      },
+      {
         "path": "journeymap\\data\\sp\\New World (1)\\the_nether\\0\\-17,41.png",
         "isSelected": false
       },
@@ -3655,6 +3711,22 @@
       },
       {
         "path": "journeymap\\data\\sp\\New World (1)\\the_nether\\0\\1,-5.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\the_nether\\0\\2,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\the_nether\\0\\2,1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\the_nether\\0\\3,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\the_nether\\0\\3,1.png",
         "isSelected": false
       },
       {
@@ -3730,7 +3802,15 @@
         "isSelected": false
       },
       {
+        "path": "journeymap\\data\\sp\\New World (1)\\the_nether\\1\\cache\\r.2.0.mca",
+        "isSelected": false
+      },
+      {
         "path": "journeymap\\data\\sp\\New World (1)\\the_nether\\1\\cache\\r.2.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\the_nether\\1\\cache\\r.3.0.mca",
         "isSelected": false
       },
       {
@@ -3802,7 +3882,15 @@
         "isSelected": false
       },
       {
+        "path": "journeymap\\data\\sp\\New World (1)\\the_nether\\1\\2,0.png",
+        "isSelected": false
+      },
+      {
         "path": "journeymap\\data\\sp\\New World (1)\\the_nether\\1\\2,1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\the_nether\\1\\3,0.png",
         "isSelected": false
       },
       {
@@ -3962,6 +4050,10 @@
         "isSelected": false
       },
       {
+        "path": "journeymap\\data\\sp\\New World (1)\\the_nether\\3\\cache\\r.2.0.mca",
+        "isSelected": false
+      },
+      {
         "path": "journeymap\\data\\sp\\New World (1)\\the_nether\\3\\cache\\r.2.1.mca",
         "isSelected": false
       },
@@ -4003,6 +4095,10 @@
       },
       {
         "path": "journeymap\\data\\sp\\New World (1)\\the_nether\\3\\17,22.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\the_nether\\3\\2,0.png",
         "isSelected": false
       },
       {
@@ -4050,6 +4146,10 @@
         "isSelected": false
       },
       {
+        "path": "journeymap\\data\\sp\\New World (1)\\the_nether\\4\\cache\\r.2.0.mca",
+        "isSelected": false
+      },
+      {
         "path": "journeymap\\data\\sp\\New World (1)\\the_nether\\4\\cache\\r.2.1.mca",
         "isSelected": false
       },
@@ -4083,6 +4183,10 @@
       },
       {
         "path": "journeymap\\data\\sp\\New World (1)\\the_nether\\4\\17,22.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\the_nether\\4\\2,0.png",
         "isSelected": false
       },
       {
@@ -4135,6 +4239,10 @@
       },
       {
         "path": "journeymap\\data\\sp\\New World (1)\\the_nether\\5\\cache\\r.17.22.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\the_nether\\5\\cache\\r.2.0.mca",
         "isSelected": false
       },
       {
@@ -4191,6 +4299,10 @@
       },
       {
         "path": "journeymap\\data\\sp\\New World (1)\\the_nether\\5\\17,22.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\the_nether\\5\\2,0.png",
         "isSelected": false
       },
       {
@@ -4386,7 +4498,15 @@
         "isSelected": false
       },
       {
+        "path": "journeymap\\data\\sp\\New World (1)\\the_nether\\biome\\2,0.png",
+        "isSelected": false
+      },
+      {
         "path": "journeymap\\data\\sp\\New World (1)\\the_nether\\biome\\2,1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\the_nether\\biome\\3,0.png",
         "isSelected": false
       },
       {
@@ -4470,7 +4590,15 @@
         "isSelected": false
       },
       {
+        "path": "journeymap\\data\\sp\\New World (1)\\the_nether\\cache\\r.2.0.mca",
+        "isSelected": false
+      },
+      {
         "path": "journeymap\\data\\sp\\New World (1)\\the_nether\\cache\\r.2.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\the_nether\\cache\\r.3.0.mca",
         "isSelected": false
       },
       {
@@ -4562,7 +4690,15 @@
         "isSelected": false
       },
       {
+        "path": "journeymap\\data\\sp\\New World (1)\\the_nether\\topo\\cache\\r.2.0.mca",
+        "isSelected": false
+      },
+      {
         "path": "journeymap\\data\\sp\\New World (1)\\the_nether\\topo\\cache\\r.2.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\the_nether\\topo\\cache\\r.3.0.mca",
         "isSelected": false
       },
       {
@@ -4642,7 +4778,15 @@
         "isSelected": false
       },
       {
+        "path": "journeymap\\data\\sp\\New World (1)\\the_nether\\topo\\2,0.png",
+        "isSelected": false
+      },
+      {
         "path": "journeymap\\data\\sp\\New World (1)\\the_nether\\topo\\2,1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\the_nether\\topo\\3,0.png",
         "isSelected": false
       },
       {
@@ -4678,6 +4822,14 @@
         "isSelected": false
       },
       {
+        "path": "journeymap\\data\\sp\\New World (2)\\overworld\\biome\\-1,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (2)\\overworld\\biome\\-1,0.png",
+        "isSelected": false
+      },
+      {
         "path": "journeymap\\data\\sp\\New World (2)\\overworld\\biome\\0,-1.png",
         "isSelected": false
       },
@@ -4687,6 +4839,14 @@
       },
       {
         "path": "journeymap\\data\\sp\\New World (2)\\overworld\\cache",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (2)\\overworld\\cache\\r.-1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (2)\\overworld\\cache\\r.-1.0.mca",
         "isSelected": false
       },
       {
@@ -4702,6 +4862,14 @@
         "isSelected": false
       },
       {
+        "path": "journeymap\\data\\sp\\New World (2)\\overworld\\day\\-1,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (2)\\overworld\\day\\-1,0.png",
+        "isSelected": false
+      },
+      {
         "path": "journeymap\\data\\sp\\New World (2)\\overworld\\day\\0,-1.png",
         "isSelected": false
       },
@@ -4711,6 +4879,14 @@
       },
       {
         "path": "journeymap\\data\\sp\\New World (2)\\overworld\\night",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (2)\\overworld\\night\\-1,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (2)\\overworld\\night\\-1,0.png",
         "isSelected": false
       },
       {
@@ -4730,11 +4906,27 @@
         "isSelected": false
       },
       {
+        "path": "journeymap\\data\\sp\\New World (2)\\overworld\\topo\\cache\\r.-1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (2)\\overworld\\topo\\cache\\r.-1.0.mca",
+        "isSelected": false
+      },
+      {
         "path": "journeymap\\data\\sp\\New World (2)\\overworld\\topo\\cache\\r.0.-1.mca",
         "isSelected": false
       },
       {
         "path": "journeymap\\data\\sp\\New World (2)\\overworld\\topo\\cache\\r.0.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (2)\\overworld\\topo\\-1,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (2)\\overworld\\topo\\-1,0.png",
         "isSelected": false
       },
       {
@@ -4902,6 +5094,10 @@
         "isSelected": false
       },
       {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_end\\2\\cache\\r.-3.-1.mca",
+        "isSelected": false
+      },
+      {
         "path": "journeymap\\data\\sp\\New World (2)\\the_end\\2\\cache\\r.-3.-2.mca",
         "isSelected": false
       },
@@ -4915,6 +5111,10 @@
       },
       {
         "path": "journeymap\\data\\sp\\New World (2)\\the_end\\2\\-2,-3.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_end\\2\\-3,-1.png",
         "isSelected": false
       },
       {
@@ -5010,11 +5210,19 @@
         "isSelected": false
       },
       {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_end\\biome\\-2,-1.png",
+        "isSelected": false
+      },
+      {
         "path": "journeymap\\data\\sp\\New World (2)\\the_end\\biome\\-2,-2.png",
         "isSelected": false
       },
       {
         "path": "journeymap\\data\\sp\\New World (2)\\the_end\\biome\\-2,-3.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_end\\biome\\-3,-1.png",
         "isSelected": false
       },
       {
@@ -5046,11 +5254,19 @@
         "isSelected": false
       },
       {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_end\\cache\\r.-2.-1.mca",
+        "isSelected": false
+      },
+      {
         "path": "journeymap\\data\\sp\\New World (2)\\the_end\\cache\\r.-2.-2.mca",
         "isSelected": false
       },
       {
         "path": "journeymap\\data\\sp\\New World (2)\\the_end\\cache\\r.-2.-3.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_end\\cache\\r.-3.-1.mca",
         "isSelected": false
       },
       {
@@ -5074,11 +5290,27 @@
         "isSelected": false
       },
       {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_end\\day\\-1,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_end\\day\\-1,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_end\\day\\-2,-1.png",
+        "isSelected": false
+      },
+      {
         "path": "journeymap\\data\\sp\\New World (2)\\the_end\\day\\-2,-2.png",
         "isSelected": false
       },
       {
         "path": "journeymap\\data\\sp\\New World (2)\\the_end\\day\\-2,-3.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_end\\day\\-3,-1.png",
         "isSelected": false
       },
       {
@@ -5090,7 +5322,27 @@
         "isSelected": false
       },
       {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_end\\day\\0,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_end\\day\\0,0.png",
+        "isSelected": false
+      },
+      {
         "path": "journeymap\\data\\sp\\New World (2)\\the_end\\night",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_end\\night\\-1,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_end\\night\\-1,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_end\\night\\-2,-1.png",
         "isSelected": false
       },
       {
@@ -5102,11 +5354,23 @@
         "isSelected": false
       },
       {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_end\\night\\-3,-1.png",
+        "isSelected": false
+      },
+      {
         "path": "journeymap\\data\\sp\\New World (2)\\the_end\\night\\-3,-2.png",
         "isSelected": false
       },
       {
         "path": "journeymap\\data\\sp\\New World (2)\\the_end\\night\\-3,-3.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_end\\night\\0,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_end\\night\\0,0.png",
         "isSelected": false
       },
       {
@@ -5126,11 +5390,19 @@
         "isSelected": false
       },
       {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_end\\topo\\cache\\r.-2.-1.mca",
+        "isSelected": false
+      },
+      {
         "path": "journeymap\\data\\sp\\New World (2)\\the_end\\topo\\cache\\r.-2.-2.mca",
         "isSelected": false
       },
       {
         "path": "journeymap\\data\\sp\\New World (2)\\the_end\\topo\\cache\\r.-2.-3.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_end\\topo\\cache\\r.-3.-1.mca",
         "isSelected": false
       },
       {
@@ -5158,11 +5430,19 @@
         "isSelected": false
       },
       {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_end\\topo\\-2,-1.png",
+        "isSelected": false
+      },
+      {
         "path": "journeymap\\data\\sp\\New World (2)\\the_end\\topo\\-2,-2.png",
         "isSelected": false
       },
       {
         "path": "journeymap\\data\\sp\\New World (2)\\the_end\\topo\\-2,-3.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_end\\topo\\-3,-1.png",
         "isSelected": false
       },
       {
@@ -5186,11 +5466,63 @@
         "isSelected": false
       },
       {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_nether\\-1",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_nether\\0",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_nether\\0\\cache",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_nether\\0\\cache\\r.2.-2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_nether\\0\\cache\\r.2.-3.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_nether\\0\\cache\\r.3.-2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_nether\\0\\cache\\r.3.-3.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_nether\\0\\2,-2.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_nether\\0\\2,-3.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_nether\\0\\3,-2.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_nether\\0\\3,-3.png",
+        "isSelected": false
+      },
+      {
         "path": "journeymap\\data\\sp\\New World (2)\\the_nether\\1",
         "isSelected": false
       },
       {
         "path": "journeymap\\data\\sp\\New World (2)\\the_nether\\1\\cache",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_nether\\1\\cache\\r.2.-2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_nether\\1\\cache\\r.2.-3.mca",
         "isSelected": false
       },
       {
@@ -5202,11 +5534,31 @@
         "isSelected": false
       },
       {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_nether\\1\\cache\\r.3.-3.mca",
+        "isSelected": false
+      },
+      {
         "path": "journeymap\\data\\sp\\New World (2)\\the_nether\\1\\cache\\r.4.-1.mca",
         "isSelected": false
       },
       {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_nether\\1\\2,-2.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_nether\\1\\2,-3.png",
+        "isSelected": false
+      },
+      {
         "path": "journeymap\\data\\sp\\New World (2)\\the_nether\\1\\3,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_nether\\1\\3,-2.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_nether\\1\\3,-3.png",
         "isSelected": false
       },
       {
@@ -5222,7 +5574,19 @@
         "isSelected": false
       },
       {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_nether\\2\\cache\\r.2.-2.mca",
+        "isSelected": false
+      },
+      {
         "path": "journeymap\\data\\sp\\New World (2)\\the_nether\\2\\cache\\r.3.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_nether\\2\\cache\\r.3.-2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_nether\\2\\cache\\r.3.-3.mca",
         "isSelected": false
       },
       {
@@ -5230,7 +5594,19 @@
         "isSelected": false
       },
       {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_nether\\2\\2,-2.png",
+        "isSelected": false
+      },
+      {
         "path": "journeymap\\data\\sp\\New World (2)\\the_nether\\2\\3,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_nether\\2\\3,-2.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_nether\\2\\3,-3.png",
         "isSelected": false
       },
       {
@@ -5370,7 +5746,23 @@
         "isSelected": false
       },
       {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_nether\\biome\\2,-2.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_nether\\biome\\2,-3.png",
+        "isSelected": false
+      },
+      {
         "path": "journeymap\\data\\sp\\New World (2)\\the_nether\\biome\\3,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_nether\\biome\\3,-2.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_nether\\biome\\3,-3.png",
         "isSelected": false
       },
       {
@@ -5398,7 +5790,23 @@
         "isSelected": false
       },
       {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_nether\\cache\\r.2.-2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_nether\\cache\\r.2.-3.mca",
+        "isSelected": false
+      },
+      {
         "path": "journeymap\\data\\sp\\New World (2)\\the_nether\\cache\\r.3.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_nether\\cache\\r.3.-2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_nether\\cache\\r.3.-3.mca",
         "isSelected": false
       },
       {
@@ -5410,11 +5818,19 @@
         "isSelected": false
       },
       {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_nether\\day\\-1,0.png",
+        "isSelected": false
+      },
+      {
         "path": "journeymap\\data\\sp\\New World (2)\\the_nether\\day\\0,0.png",
         "isSelected": false
       },
       {
         "path": "journeymap\\data\\sp\\New World (2)\\the_nether\\night",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_nether\\night\\-1,0.png",
         "isSelected": false
       },
       {
@@ -5446,7 +5862,23 @@
         "isSelected": false
       },
       {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_nether\\topo\\cache\\r.2.-2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_nether\\topo\\cache\\r.2.-3.mca",
+        "isSelected": false
+      },
+      {
         "path": "journeymap\\data\\sp\\New World (2)\\the_nether\\topo\\cache\\r.3.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_nether\\topo\\cache\\r.3.-2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_nether\\topo\\cache\\r.3.-3.mca",
         "isSelected": false
       },
       {
@@ -5470,7 +5902,23 @@
         "isSelected": false
       },
       {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_nether\\topo\\2,-2.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_nether\\topo\\2,-3.png",
+        "isSelected": false
+      },
+      {
         "path": "journeymap\\data\\sp\\New World (2)\\the_nether\\topo\\3,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_nether\\topo\\3,-2.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (2)\\the_nether\\topo\\3,-3.png",
         "isSelected": false
       },
       {
@@ -5651,6 +6099,14 @@
       },
       {
         "path": "journeymap\\icon\\entity\\minecraft\\ghast_outlined.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\guardian_elder.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\guardian_elder_outlined.png",
         "isSelected": false
       },
       {
@@ -5846,6 +6302,14 @@
         "isSelected": false
       },
       {
+        "path": "journeymap\\icon\\entity\\minecraft\\silverfish.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\silverfish_outlined.png",
+        "isSelected": false
+      },
+      {
         "path": "journeymap\\icon\\entity\\minecraft\\skeleton.png",
         "isSelected": false
       },
@@ -5895,6 +6359,14 @@
       },
       {
         "path": "journeymap\\icon\\entity\\minecraft\\strider.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\strider_cold.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\strider_cold_outlined.png",
         "isSelected": false
       },
       {
@@ -5995,6 +6467,14 @@
       },
       {
         "path": "journeymap\\icon\\entity\\minecraft\\villager_outlined.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\villager_shepherd.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\minecraft\\villager_shepherd_outlined.png",
         "isSelected": false
       },
       {
@@ -7479,1871 +7959,1799 @@
       },
       {
         "path": "kubejs",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\gateways",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\gateways\\lang",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\gateways\\lang\\en_us.json",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\models",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\models\\block",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\models\\block\\agronomancers_workbench.json",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\models\\item",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\models\\item\\iron_hammer.json",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\models\\item\\iron_trowel.json",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\models\\item\\stone_hammer.json",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\models\\item\\stone_trowel.json",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\models\\item\\wooden_trowel.json",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\block",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\block\\aluminum_block.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\block\\andesite_gravel.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\block\\apatite_block.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\block\\block_of_raw_aluminum.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\block\\block_of_raw_lead.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\block\\block_of_raw_nickel.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\block\\block_of_raw_silver.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\block\\block_of_raw_uranium.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\block\\brass_block.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\block\\bronze_block.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\block\\cinnabar_block.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\block\\constantan_block.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\block\\deepslate_gravel.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\block\\diorite_gravel.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\block\\electrum_block.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\block\\elementium_block.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\block\\enderium_block.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\block\\example_block.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\block\\gold_block.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\block\\granite_gravel.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\block\\infinitium_block.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\block\\invar_block.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\block\\lead_block.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\block\\lumium_block.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\block\\manasteel_block.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\block\\nickel_block.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\block\\niter_block.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\block\\osmium_block.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\block\\ruby_block.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\block\\sapphire_block.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\block\\signalum_block.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\block\\silver_block.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\block\\steel_block.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\block\\sulfur_block.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\block\\terrasteel_block.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\block\\tin_block.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\block\\tuff_gravel.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\block\\uranium_block.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\block\\zinc_block.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\allay_catalyst.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\aluminum_dust.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\aluminum_ingot.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\aluminum_nugget.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\aluminum_plate.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\alumium_gear.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\ancient_glyph.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\andesite_pebble.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\apatite_dust.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\apatite_gem.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\arrow.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\ashen_vessel.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\axolotl_catalyst.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\basalz_catalyst.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\bastion_key.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\bat_catalyst.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\bee_catalyst.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\black_bronze_gear.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\black_steel_gear.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\blaze_catalyst.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\blitz_catalyst.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\blizz_catalyst.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\blue_candle.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\blue_steel_gear.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\bomb.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\boomerang.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\bow.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\brass_dust.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\brass_ingot.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\brass_nugget.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\brass_plate.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\bronze_dust.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\bronze_gear.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\bronze_ingot.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\bronze_nugget.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\bronze_plate.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\brown_mushroom_spores.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\camel_catalyst.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\charcoal_dust.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\chicken_fried_steak_ingot.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\chicken_fried_steak_sword.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\cinnabar_dust.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\cinnabar_gem.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\coal_dust.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\cobalt_brass_gear.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\compass.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\constantan_dust.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\constantan_gear.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\constantan_ingot.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\constantan_nugget.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\constantan_plate.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\copper_dust.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\copper_gear.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\copper_mesh.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\copper_nugget.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\copper_plate.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\dark_matter.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\deepslate_pebble.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\desert_temple_dungeon_key.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\diamond_dust.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\diamond_gear.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\dolphin_catalyst.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\dragonfire_relic.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\dragon_eye_gem.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\drowned_catalyst.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\dungeon_key.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\duranium_gear.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\e-logic_controller.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\elder_guardian_catalyst.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\electrum_dust.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\electrum_gear.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\electrum_ingot.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\electrum_nugget.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\electrum_plate.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\elementium_dust.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\elementium_ingot.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\emerald_dust.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\emerald_gear.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\enderium_dust.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\enderium_gear.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\enderium_ingot.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\enderium_nugget.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\enderium_plate.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\ender_addon.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\ender_controller.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\ender_pearl_dust.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\end_gateway_key.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\end_key.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\end_stone_dust.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\evoker_catalyst.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\explorer_map.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\food.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\forbidden_transmutation_matter.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\fortress_key.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\fox_catalyst.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\frog_catalyst.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\ghast_catalyst.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\glow_squid_catalyst.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\goat_catalyst.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\gold_dust.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\gold_gear.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\gold_plate.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\guardian_catalyst.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\hoglin_catalyst.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\hss-g_gear.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\hss-s_gear.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\husk_catalyst.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\infernal_reagent.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\infernal_sigil.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\infinite_void_rune.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\infinitium_dust.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\infinitium_ingot.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\infinitium_nugget.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\infinitium_plate.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\invar_dust.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\invar_gear.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\invar_ingot.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\invar_nugget.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\invar_plate.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\iridium_gear.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\iron_dust.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\iron_gear.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\iron_hammer.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\iron_mesh.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\iron_plate.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\iron_trowel.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\jungle_temple_dungeon_key.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\ladder.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\lapis_dust.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\lapis_gear.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\lava_infuser.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\lead_dust.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\lead_gear.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\lead_ingot.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\lead_nugget.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\lead_plate.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\llama_catalyst.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\lumium_dust.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\lumium_gear.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\lumium_ingot.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\lumium_nugget.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\lumium_plate.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\magical_boomerang.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\magical_sword.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\magma_core.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\magma_cube_catalyst.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\manasteel_dust.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\manasteel_gear.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\manasteel_ingot.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\manasteel_nugget.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\manasteel_plate.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\mekanism_mystery_box.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\naquadah_alloy_gear.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\naquadria_gear.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\netherite_dust.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\netherite_gear.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\netherite_mesh.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\netherite_nugget.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\netherite_plate.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\netherite_wire.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\nether_addon.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\nether_gemstone.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\nether_key.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\nickel_dust.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\nickel_gear.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\nickel_ingot.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\nickel_nugget.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\nickel_plate.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\niter_dust.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\niter_gem.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\obsidian_dust.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\osmiridium_gear.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\osmium_dust.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\osmium_ingot.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\osmium_nugget.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\parrot_catalyst.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\piglin_catalyst.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\pillager_catalyst.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\polar_bear_catalyst.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\potin_gear.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\purpur_lantern.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\quartz_dust.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\quartz_gear.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\raw_aluminum.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\raw_lead.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\raw_nickel.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\raw_osmium.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\raw_silver.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\raw_tin.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\raw_uranium.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\recorder.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\red_candle.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\red_steel_gear.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\rhodium_gear.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\rubber_gear.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\ruby_dust.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\ruby_gear.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\ruby_gem.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\ruined_portal_key.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\rune_of_the_end.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\rune_of_the_nether.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\ruridit_gear.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\ruthenium_gear.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\sapphire_dust.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\sapphire_gear.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\sapphire_gem.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\sawdust.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\shulker_catalyst.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\shulker_shell_chip.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\signalum_dust.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\signalum_gear.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\signalum_ingot.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\signalum_nugget.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\signalum_plate.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\silicon.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\silicone_rubber_gear.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\silver_arrow.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\silver_dust.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\silver_gear.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\silver_ingot.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\silver_nugget.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\silver_plate.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\slime_catalyst.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\soul_prism.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\stainless_steel_gear.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\stargazer_lens.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\steel_dust.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\steel_gear.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\steel_ingot.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\steel_nugget.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\steel_plate.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\stone_alloy.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\stone_gear.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\stone_hammer.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\stone_pebble.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\stone_trowel.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\stray_catalyst.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\stronghold_dungeon_key.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\sulfur_dust.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\sulfur_gem.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\sword.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\terrasteel_dust.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\terrasteel_gear.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\terrasteel_ingot.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\terrasteel_nugget.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\terrasteel_plate.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\tin_dust.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\tin_gear.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\tin_ingot.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\tin_nugget.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\tin_plate.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\titanium_gear.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\token_of_the_end.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\token_of_the_nether.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\trinium_gear.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\tritanium_gear.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\tungstensteel_gear.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\tungsten_carbide_gear.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\tungsten_gear.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\ultimet_gear.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\uranium_dust.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\uranium_ingot.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\uranium_nugget.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\uranium_plate.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\vanadium_steel_gear.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\voidshade_moss.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\voidwalker_reagent.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\voidwalker_sigil.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\void_cake.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\void_cake_base.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\void_flour.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\void_glyph.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\warden_catalyst.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\weak_echo_shard.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\white_sword.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\wither_controller.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\wither_skeletal_contractor.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\wither_skeleton_catalyst.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\wooden_shield.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\wooden_trowel.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\wood_gear.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\wrought_iron_gear.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\zinc_dust.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\zinc_ingot.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\zinc_nugget.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\zinc_plate.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\ponderjs_generated",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\ponderjs_generated\\lang",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\ponderjs_generated\\lang\\en_us.json",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\client_scripts",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\client_scripts\\main.js",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\config",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\config\\client.json",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\config\\common.json",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\config\\web_server.json",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\data",
-        "isSelected": true
-      },
-      {
-        "path": "kubejs\\data\\gateways",
-        "isSelected": true
-      },
-      {
-        "path": "kubejs\\data\\gateways\\gateways",
-        "isSelected": true
-      },
-      {
-        "path": "kubejs\\data\\gateways\\gateways\\basic",
-        "isSelected": true
-      },
-      {
-        "path": "kubejs\\data\\gateways\\gateways\\basic\\blaze1.json",
-        "isSelected": true
-      },
-      {
-        "path": "kubejs\\data\\gateways\\gateways\\basic\\blaze2.json",
-        "isSelected": true
-      },
-      {
-        "path": "kubejs\\data\\gateways\\gateways\\basic\\blaze3.json",
-        "isSelected": true
-      },
-      {
-        "path": "kubejs\\data\\gateways\\gateways\\basic\\cave_spider1.json",
-        "isSelected": true
-      },
-      {
-        "path": "kubejs\\data\\gateways\\gateways\\basic\\cave_spider2.json",
-        "isSelected": true
-      },
-      {
-        "path": "kubejs\\data\\gateways\\gateways\\basic\\cave_spider3.json",
-        "isSelected": true
-      },
-      {
-        "path": "kubejs\\data\\gateways\\gateways\\basic\\warden.json",
-        "isSelected": true
-      },
-      {
-        "path": "kubejs\\data\\gateways\\gateways\\basic\\wither_skeleton1.json",
-        "isSelected": true
-      },
-      {
-        "path": "kubejs\\data\\gateways\\gateways\\basic\\wither_skeleton2.json",
-        "isSelected": true
-      },
-      {
-        "path": "kubejs\\data\\gateways\\gateways\\basic\\wither_skeleton3.json",
-        "isSelected": true
-      },
-      {
-        "path": "kubejs\\data\\gateways\\recipe",
-        "isSelected": true
-      },
-      {
-        "path": "kubejs\\data\\gateways\\recipe\\basic",
-        "isSelected": true
-      },
-      {
-        "path": "kubejs\\data\\gateways\\recipe\\basic\\blaze1.json",
-        "isSelected": true
-      },
-      {
-        "path": "kubejs\\data\\gateways\\recipe\\basic\\cave_spider1.json",
-        "isSelected": true
-      },
-      {
-        "path": "kubejs\\data\\gateways\\recipe\\basic\\wither_skeleton1.json",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\expert mode",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\expert mode\\remove.js",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\BlockEvents",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\BlockEvents\\blaze_burner.js",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\BlockEvents\\ominous_vault.js",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\BlockEvents\\trial_spawners.js",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\BlockEvents\\trial_vault.js",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\LootJS",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\LootJS\\loot table",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\LootJS\\loot table\\remove",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\LootJS\\loot table\\remove\\village_weaponsmith.js",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\LootJS\\modifiers",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\LootJS\\modifiers\\block",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\LootJS\\modifiers\\block\\hammers.js",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\LootJS\\modifiers\\block\\tree_bark.js",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\LootJS\\modifiers\\block\\trowels.js",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\LootJS\\modifiers\\entity",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\LootJS\\modifiers\\entity\\loot_crates.js",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Recipes",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Create",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Create\\Milling",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Create\\Milling\\gravels.js",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Create\\Mixing",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Create\\Mixing\\redstone_acid.js",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Create\\Sifting",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Create\\Sifting\\deepslate_gravel.js",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Create\\Sifting\\dirt.js",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Create\\Sifting\\grass_block.js",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Create\\Sifting\\gravel.js",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Create\\Sifting\\netherrack.js",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Create\\Sifting\\sand.js",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Create\\Sifting\\soul_sand.js",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Create\\Sifting\\waterlogged_sand.js",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Create\\extruding.js",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Immersive Engineering",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Immersive Engineering\\Fertilizer",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Immersive Engineering\\Fertilizer\\mystical_agriculture.js",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Immersive Engineering\\Garden Cloche",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Immersive Engineering\\Garden Cloche\\farmers_delight.js",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Immersive Engineering\\Garden Cloche\\mystical_agriculture.js",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Immersive Engineering\\Metal Press",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Immersive Engineering\\Metal Press\\wires.js",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Minecraft",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Minecraft\\Blasting",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Minecraft\\Campfire Cooking",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Minecraft\\Crafting Table",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Minecraft\\Crafting Table\\Shaped",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Minecraft\\Crafting Table\\Shaped\\Minecraft",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Minecraft\\Crafting Table\\Shaped\\Minecraft\\powder_snow_bucket.js",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Minecraft\\Crafting Table\\Shaped\\gateways.js",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Minecraft\\Crafting Table\\Shaped\\hammers.js",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Minecraft\\Crafting Table\\Shaped\\trowels.js",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Minecraft\\Crafting Table\\Shapeless",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Minecraft\\Crafting Table\\Shapeless\\two_by_two.js",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Mystical Agriculture",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Mystical Agriculture\\Infusion",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Smelting",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Smithing",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Smoking",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Recipes\\Stonecutting",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Recipes\\removing_recipes.js",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Recipes\\replace_input.js",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Tags",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Tags\\Block",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Tags\\Block\\materials.js",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Tags\\Block\\trial_chamber.js",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Tags\\Item",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Tags\\Item\\ae2.js",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Tags\\Item\\armor.js",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Tags\\Item\\ender_pearl_dust.js",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Tags\\Item\\end_stone_dust.js",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Tags\\Item\\materials.js",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Tags\\Item\\sawdust.js",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Tags\\Item\\sophisticated_mods.js",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Tags\\Item\\stone_alloy.js",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\Tags\\structures.js",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\end_key.js",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\normal mode\\nether_key.js",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\startup_scripts",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\startup_scripts\\Registry",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\startup_scripts\\Registry\\Block",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\startup_scripts\\Registry\\Block\\block_of_raw_material.js",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\startup_scripts\\Registry\\Block\\gravel.js",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\startup_scripts\\Registry\\Block\\materials.js",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\startup_scripts\\Registry\\Item",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\startup_scripts\\Registry\\Item\\difficulty.js",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\startup_scripts\\Registry\\Item\\items.js",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\startup_scripts\\Registry\\Item\\materials.js",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\startup_scripts\\Registry\\Item\\tools.js",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\startup_scripts\\Registry\\meshes.js",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\startup_scripts\\material_list.js",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\startup_scripts\\mesh.js",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\startup_scripts\\replacingKubeJSDisplay.js",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\README.txt",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "local",
@@ -10355,6 +10763,10 @@
       },
       {
         "path": "local\\kubejs\\cache\\web\\img\\item\\21\\21552a30d9bd3c7fb32f86ecaf9a549d_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\21\\2162105298aa3bcfbbd1060efe8b90cc_16.png",
         "isSelected": false
       },
       {
@@ -12386,6 +12798,10 @@
         "isSelected": false
       },
       {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\a7\\a77793b47c233428a976596b5343fc7d_16.png",
+        "isSelected": false
+      },
+      {
         "path": "local\\kubejs\\cache\\web\\img\\item\\a7\\a78d9bda0eac3da7a68466aaf5c796ec_16.png",
         "isSelected": false
       },
@@ -13467,6 +13883,10 @@
       },
       {
         "path": "local\\kubejs\\cache\\web\\img\\item\\e6\\e6100b981cfd3554b37ce647b782c208_16.png",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache\\web\\img\\item\\e6\\e649d288e19236598f0d093cbc11a6f0_16.png",
         "isSelected": false
       },
       {
@@ -14646,6 +15066,22 @@
         "isSelected": false
       },
       {
+        "path": "logs\\2025-08-08-4.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-08-18-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-08-18-2.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-08-18-3.log.gz",
+        "isSelected": false
+      },
+      {
         "path": "logs\\debug-1.log.gz",
         "isSelected": false
       },
@@ -14694,7 +15130,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\appliedenergistics2-19.2.14.jar",
+        "path": "mods\\appliedenergistics2-19.2.15.jar",
         "isSelected": true
       },
       {
@@ -14711,10 +15147,6 @@
       },
       {
         "path": "mods\\Clumps-neoforge-1.21.1-19.0.0.1.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\cobblegengalore-1.21.1-0.2.1.jar",
         "isSelected": true
       },
       {
@@ -14746,7 +15178,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\Cucumber-1.21.1-8.0.13.jar",
+        "path": "mods\\Cucumber-1.21.1-8.0.14.jar",
         "isSelected": true
       },
       {
@@ -14782,15 +15214,15 @@
         "isSelected": true
       },
       {
-        "path": "mods\\ftb-filter-system-neoforge-21.1.2.jar",
+        "path": "mods\\ftb-filter-system-neoforge-21.1.3.jar",
         "isSelected": true
       },
       {
-        "path": "mods\\ftb-library-neoforge-2101.1.18.jar",
+        "path": "mods\\ftb-library-neoforge-2101.1.19.jar",
         "isSelected": true
       },
       {
-        "path": "mods\\ftb-quests-neoforge-2101.1.13.jar",
+        "path": "mods\\ftb-quests-neoforge-2101.1.14.jar",
         "isSelected": true
       },
       {
@@ -14798,11 +15230,11 @@
         "isSelected": true
       },
       {
-        "path": "mods\\ftb-ultimine-neoforge-2101.1.7.jar",
+        "path": "mods\\ftb-ultimine-neoforge-2101.1.8.jar",
         "isSelected": true
       },
       {
-        "path": "mods\\ftb-xmod-compat-neoforge-21.1.4.jar",
+        "path": "mods\\ftb-xmod-compat-neoforge-21.1.5.jar",
         "isSelected": true
       },
       {
@@ -14886,11 +15318,11 @@
         "isSelected": true
       },
       {
-        "path": "mods\\MysticalAgradditions-1.21.1-8.0.8.jar",
+        "path": "mods\\MysticalAgradditions-1.21.1-8.0.9.jar",
         "isSelected": true
       },
       {
-        "path": "mods\\MysticalAgriculture-1.21.1-8.0.18.jar",
+        "path": "mods\\MysticalAgriculture-1.21.1-8.0.19.jar",
         "isSelected": true
       },
       {
@@ -14926,7 +15358,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\PuzzlesLib-v21.1.37-1.21.1-NeoForge.jar",
+        "path": "mods\\PuzzlesLib-v21.1.38-1.21.1-NeoForge.jar",
         "isSelected": true
       },
       {
@@ -14942,7 +15374,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\rhino-2101.2.7-build.74.jar",
+        "path": "mods\\rhino-2101.2.7-build.77.jar",
         "isSelected": true
       },
       {
@@ -14950,15 +15382,15 @@
         "isSelected": true
       },
       {
-        "path": "mods\\sophisticatedbackpacks-1.21.1-3.24.19.1292.jar",
+        "path": "mods\\sophisticatedbackpacks-1.21.1-3.24.20.1306.jar",
         "isSelected": true
       },
       {
-        "path": "mods\\sophisticatedcore-1.21.1-1.3.62.1074.jar",
+        "path": "mods\\sophisticatedcore-1.21.1-1.3.64.1090.jar",
         "isSelected": true
       },
       {
-        "path": "mods\\sophisticatedstorage-1.21.1-1.4.46.1216.jar",
+        "path": "mods\\sophisticatedstorage-1.21.1-1.4.48.1225.jar",
         "isSelected": true
       },
       {
@@ -14990,1812 +15422,12 @@
         "isSelected": true
       },
       {
-        "path": "saves",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\advancements",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\advancements\\b6ca8b7a-a074-4089-8ae0-1c8c14e73031.json",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\data",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\data\\netherportalspread",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\data\\netherportalspread\\portals",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\data\\netherportalspread\\portals\\overworld",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\data\\netherportalspread\\portals\\overworld\\-10000_101_100002.portal",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\data\\netherportalspread\\portals\\overworld\\-9998_101_-9999.portal",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\data\\netherportalspread\\portals\\overworld\\104_100_44.portal",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\data\\netherportalspread\\portals\\overworld\\999999_101_10004.portal",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\data\\netherportalspread\\portals\\overworld\\9999_101_9999.portal",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\data\\netherportalspread\\portals\\spatial_storage",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\data\\netherportalspread\\portals\\the_end",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\data\\idcounts.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\data\\ImmersiveEngineering-SaveData.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\data\\JMPlayerSettings.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\data\\map_0.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\data\\map_1.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\data\\mfix_strongholds.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\data\\neoforge_data_attachments.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\data\\raids.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\data\\random_sequences.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\data\\sophisticatedbackpacks.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\data\\TitaniumReward.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\data\\waystones.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\data\\WorldUUID.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\datapacks",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\datapacks\\restrictedportals",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\datapacks\\restrictedportals\\data",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\datapacks\\restrictedportals\\data\\restrictedportals",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\datapacks\\restrictedportals\\data\\restrictedportals\\advancement",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\datapacks\\restrictedportals\\data\\restrictedportals\\advancement\\end.json",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\datapacks\\restrictedportals\\data\\restrictedportals\\advancement\\nether.json",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\datapacks\\restrictedportals\\pack.mcmeta",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\datapacks\\1.21.1-1.0.zip",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\data",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\data\\mfix_strongholds.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\data\\neoforge_data_attachments.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\data\\raids.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\entities",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\entities\\r.-1.-1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\entities\\r.-1.0.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\entities\\r.-2.-2.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\entities\\r.-2.-3.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\entities\\r.-2.23.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\entities\\r.-2.24.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\entities\\r.-3.-2.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\entities\\r.-3.-3.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\entities\\r.-3.23.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\entities\\r.-3.24.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\entities\\r.0.-1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\entities\\r.0.0.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\entities\\r.1.-195.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\entities\\r.1.-196.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\entities\\r.18.18.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\entities\\r.18.19.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\entities\\r.19.-19.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\entities\\r.19.-20.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\entities\\r.19.-21.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\entities\\r.19.18.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\entities\\r.19.19.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\entities\\r.2.-195.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\entities\\r.2.-196.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\entities\\r.2.2.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\entities\\r.20.-20.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\entities\\r.20.-21.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\entities\\r.243.2.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\entities\\r.244.2.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\poi",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\poi\\r.-1.-1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\poi\\r.-1.0.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\poi\\r.-2.-2.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\poi\\r.-2.-3.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\poi\\r.-2.-4.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\poi\\r.-2.23.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\poi\\r.-2.24.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\poi\\r.-2.25.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\poi\\r.-3.-2.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\poi\\r.-3.-3.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\poi\\r.-3.23.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\poi\\r.-3.24.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\poi\\r.-3.25.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\poi\\r.-4.-2.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\poi\\r.-4.-3.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\poi\\r.-4.25.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\poi\\r.0.-1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\poi\\r.0.0.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\poi\\r.1.-195.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\poi\\r.1.-196.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\poi\\r.1.-197.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\poi\\r.18.-19.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\poi\\r.18.-20.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\poi\\r.18.-21.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\poi\\r.18.18.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\poi\\r.18.20.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\poi\\r.19.-21.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\poi\\r.19.18.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\poi\\r.19.20.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\poi\\r.2.-195.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\poi\\r.2.-196.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\poi\\r.2.-197.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\poi\\r.2.2.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\poi\\r.20.-19.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\poi\\r.20.-21.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\poi\\r.20.18.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\poi\\r.20.19.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\poi\\r.20.20.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\poi\\r.243.1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\poi\\r.243.2.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\poi\\r.243.3.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\poi\\r.244.1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\poi\\r.244.2.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\poi\\r.244.3.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.-1.-1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.-1.0.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.-1.1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.-2.-2.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.-2.-3.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.-2.-4.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.-2.23.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.-2.24.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.-2.25.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.-3.-2.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.-3.-3.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.-3.-4.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.-3.23.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.-3.24.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.-3.25.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.-4.-2.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.-4.-3.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.-4.-4.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.-4.23.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.-4.24.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.-4.25.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.0.-1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.0.0.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.0.1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.1.-1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.1.-195.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.1.-196.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.1.-197.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.1.0.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.1.1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.1.2.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.1.3.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.18.-19.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.18.-20.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.18.-21.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.18.18.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.18.19.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.18.20.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.19.-19.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.19.-20.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.19.-21.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.19.18.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.19.19.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.19.20.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.2.-195.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.2.-196.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.2.-197.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.2.1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.2.2.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.2.3.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.20.-19.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.20.-20.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.20.-21.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.20.18.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.20.19.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.20.20.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.243.1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.243.2.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.243.3.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.244.1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.244.2.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.244.3.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.3.1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.3.2.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\region\\r.3.3.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM1",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM1\\data",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM1\\data\\neoforge_data_attachments.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM1\\data\\raids_end.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM1\\entities",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM1\\entities\\r.-1.-1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM1\\entities\\r.-1.0.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM1\\entities\\r.0.-1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM1\\entities\\r.0.0.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM1\\poi",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM1\\poi\\r.0.-1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM1\\poi\\r.0.0.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM1\\region",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM1\\region\\r.-1.-1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM1\\region\\r.-1.0.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM1\\region\\r.0.-1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM1\\region\\r.0.0.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\dimensions",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\dimensions\\ae2",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\dimensions\\ae2\\spatial_storage",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\dimensions\\ae2\\spatial_storage\\data",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\dimensions\\ae2\\spatial_storage\\data\\neoforge_data_attachments.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\dimensions\\ae2\\spatial_storage\\data\\raids.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\entities",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\entities\\r.-1.-1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\entities\\r.-1.0.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\entities\\r.-20.-20.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\entities\\r.-20.195.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\entities\\r.0.-1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\entities\\r.0.0.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\entities\\r.1.-1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\entities\\r.1.0.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\entities\\r.1.1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\entities\\r.1.2.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\entities\\r.19.19.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\entities\\r.194.19.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\entities\\r.195.19.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\entities\\r.1952.19.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\entities\\r.1953.19.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\entities\\r.2.1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\entities\\r.2.2.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\ftbquests",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\ftbquests\\b6ca8b7a-a074-4089-8ae0-1c8c14e73031.snbt",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\ftbteams",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\ftbteams\\party",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\ftbteams\\player",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\ftbteams\\player\\b6ca8b7a-a074-4089-8ae0-1c8c14e73031.snbt",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\ftbteams\\server",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\ftbteams\\ftbteams.snbt",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\playerdata",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\playerdata\\b6ca8b7a-a074-4089-8ae0-1c8c14e73031-15296907084137688144.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\playerdata\\b6ca8b7a-a074-4089-8ae0-1c8c14e73031.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\playerdata\\b6ca8b7a-a074-4089-8ae0-1c8c14e73031.dat_old",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\poi",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\poi\\r.-1.-1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\poi\\r.-1.0.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\poi\\r.-1.1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\poi\\r.-20.-20.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\poi\\r.-20.-21.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\poi\\r.-20.194.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\poi\\r.-20.195.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\poi\\r.0.-1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\poi\\r.0.0.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\poi\\r.0.1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\poi\\r.1.-1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\poi\\r.1.0.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\poi\\r.1.1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\poi\\r.1.2.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\poi\\r.18.18.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\poi\\r.18.19.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\poi\\r.19.18.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\poi\\r.19.19.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\poi\\r.19.20.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\poi\\r.194.18.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\poi\\r.194.19.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\poi\\r.194.20.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\poi\\r.195.18.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\poi\\r.195.19.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\poi\\r.195.20.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\poi\\r.1952.18.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\poi\\r.1952.19.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\poi\\r.1952.20.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\poi\\r.1953.18.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\poi\\r.1953.19.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\poi\\r.1953.20.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\poi\\r.196.18.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\poi\\r.196.19.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\poi\\r.2.1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\poi\\r.2.2.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\poi\\r.20.18.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\poi\\r.20.19.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\poi\\r.20.20.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\poi\\r.3.2.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.-1.-1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.-1.0.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.-1.1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.-19.-19.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.-19.-20.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.-19.-21.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.-19.194.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.-19.195.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.-20.-19.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.-20.-20.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.-20.-21.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.-20.194.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.-20.195.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.-21.-19.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.-21.-20.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.-21.-21.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.-21.194.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.-21.195.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.0.-1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.0.0.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.0.1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.1.-1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.1.0.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.1.1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.1.2.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.18.18.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.18.19.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.18.20.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.19.18.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.19.19.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.19.20.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.194.18.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.194.19.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.194.20.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.195.18.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.195.19.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.195.20.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.1952.18.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.1952.19.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.1952.20.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.1953.18.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.1953.19.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.1953.20.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.196.18.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.196.19.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.196.20.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.2.1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.2.2.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.20.18.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.20.19.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.20.20.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.3.1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.3.2.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\serverconfig",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\serverconfig\\readme.txt",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\stats",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\stats\\b6ca8b7a-a074-4089-8ae0-1c8c14e73031.json",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\icon.png",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\kubejs_persistent_data.nbt",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\level.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\level.dat_old",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\session.lock",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\advancements",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\advancements\\b6ca8b7a-a074-4089-8ae0-1c8c14e73031.json",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\data",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\data\\netherportalspread",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\data\\netherportalspread\\portals",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\data\\netherportalspread\\portals\\overworld",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\data\\netherportalspread\\portals\\overworld\\400_101_225.portal",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\data\\netherportalspread\\portals\\overworld\\407_101_251.portal",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\data\\netherportalspread\\portals\\spatial_storage",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\data\\netherportalspread\\portals\\the_end",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\data\\ImmersiveEngineering-SaveData.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\data\\JMPlayerSettings.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\data\\neoforge_data_attachments.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\data\\raids.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\data\\random_sequences.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\data\\sophisticatedbackpacks.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\data\\TitaniumReward.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\data\\waystones.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\data\\WorldUUID.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\datapacks",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\datapacks\\restrictedportals",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\datapacks\\restrictedportals\\data",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\datapacks\\restrictedportals\\data\\restrictedportals",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\datapacks\\restrictedportals\\data\\restrictedportals\\advancement",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\datapacks\\restrictedportals\\data\\restrictedportals\\advancement\\end.json",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\datapacks\\restrictedportals\\data\\restrictedportals\\advancement\\nether.json",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\datapacks\\restrictedportals\\pack.mcmeta",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\DIM-1",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\DIM-1\\data",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\DIM-1\\data\\mfix_strongholds.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\DIM-1\\data\\neoforge_data_attachments.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\DIM-1\\data\\raids.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\DIM-1\\entities",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\DIM-1\\entities\\r.-1.-1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\DIM-1\\entities\\r.-1.0.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\DIM-1\\entities\\r.0.-1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\DIM-1\\entities\\r.0.0.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\DIM-1\\poi",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\DIM-1\\poi\\r.-1.-1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\DIM-1\\poi\\r.-1.0.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\DIM-1\\poi\\r.0.-1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\DIM-1\\poi\\r.0.0.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\DIM-1\\poi\\r.0.1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\DIM-1\\poi\\r.1.0.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\DIM-1\\region",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\DIM-1\\region\\r.-1.-1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\DIM-1\\region\\r.-1.0.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\DIM-1\\region\\r.-1.1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\DIM-1\\region\\r.-3.2.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\DIM-1\\region\\r.0.-1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\DIM-1\\region\\r.0.0.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\DIM-1\\region\\r.0.1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\DIM-1\\region\\r.1.-1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\DIM-1\\region\\r.1.0.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\DIM-1\\region\\r.2.0.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\DIM1",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\DIM1\\data",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\DIM1\\data\\neoforge_data_attachments.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\DIM1\\data\\raids_end.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\dimensions",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\dimensions\\ae2",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\dimensions\\ae2\\spatial_storage",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\dimensions\\ae2\\spatial_storage\\data",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\dimensions\\ae2\\spatial_storage\\data\\neoforge_data_attachments.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\dimensions\\ae2\\spatial_storage\\data\\raids.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\entities",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\entities\\r.-1.0.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\entities\\r.0.-1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\entities\\r.0.0.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\entities\\r.1.-1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\entities\\r.1.0.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\ftbquests",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\ftbquests\\b6ca8b7a-a074-4089-8ae0-1c8c14e73031.snbt",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\ftbteams",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\ftbteams\\party",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\ftbteams\\player",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\ftbteams\\player\\b6ca8b7a-a074-4089-8ae0-1c8c14e73031.snbt",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\ftbteams\\server",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\ftbteams\\ftbteams.snbt",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\playerdata",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\playerdata\\b6ca8b7a-a074-4089-8ae0-1c8c14e73031.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\playerdata\\b6ca8b7a-a074-4089-8ae0-1c8c14e73031.dat_old",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\poi",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\poi\\r.-1.-1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\poi\\r.-1.0.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\poi\\r.-1.1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\poi\\r.0.-1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\poi\\r.0.0.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\poi\\r.0.1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\poi\\r.1.-1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\poi\\r.1.0.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\poi\\r.1.1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\region",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\region\\r.-1.-1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\region\\r.-1.0.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\region\\r.-1.1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\region\\r.0.-1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\region\\r.0.0.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\region\\r.0.1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\region\\r.1.-1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\region\\r.1.0.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\region\\r.1.1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\serverconfig",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\serverconfig\\readme.txt",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\stats",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\stats\\b6ca8b7a-a074-4089-8ae0-1c8c14e73031.json",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\icon.png",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\kubejs_persistent_data.nbt",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\level.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\level.dat_old",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World (1)\\session.lock",
-        "isSelected": false
-      },
-      {
         "path": "schematics",
         "isSelected": false
       },
       {
         "path": "shaderpacks",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "waypoints",
@@ -16850,6 +15482,10 @@
         "isSelected": false
       },
       {
+        "path": "user-prefs.json",
+        "isSelected": false
+      },
+      {
         "path": "usercache.json",
         "isSelected": false
       },
@@ -16858,7 +15494,7 @@
         "isSelected": false
       }
     ],
-    "recommendedRam": 4096,
+    "recommendedRam": null,
     "enableRecommendedRam": false
   }
 }

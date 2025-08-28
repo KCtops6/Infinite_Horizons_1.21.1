@@ -369,6 +369,7 @@ Updated Waystones.
 Removed Cobblegen Galore.
 
 Added BedTime.
+Added Productive Bees.
 
 Readded LootJS: KubeJS Addon.
 

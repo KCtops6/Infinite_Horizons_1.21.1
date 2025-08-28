@@ -293,6 +293,27 @@
 		{
 			dependencies: ["3642E2D78B348AE3"]
 			id: "2AFC343E56D3BA1B"
+			rewards: [
+				{
+					id: "059CF056E4C190B1"
+					item: {
+						count: 1
+						id: "minecraft:bucket"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "7DE1045F091D776B"
+					item: {
+						count: 1
+						id: "minecraft:iron_ingot"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "6B42FEBFF1BFDDFC"
@@ -339,6 +360,15 @@
 				id: "minecraft:copper_ingot"
 			}
 			id: "5A382D145AA88DD9"
+			rewards: [{
+				id: "7A7661B6378F6345"
+				item: {
+					count: 1
+					id: "minecraft:copper_ingot"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "64F44EBB9305343B"
@@ -385,10 +415,7 @@
 			y: 1.0d
 		}
 		{
-			dependencies: [
-				"2AFC343E56D3BA1B"
-				"073087ED7AC745F3"
-			]
+			dependencies: ["2AFC343E56D3BA1B"]
 			id: "71B4677400CE51F3"
 			tasks: [{
 				id: "1D2B11A1D7A308F6"
@@ -396,7 +423,7 @@
 				type: "item"
 			}]
 			x: 11.0d
-			y: 4.0d
+			y: 3.0d
 		}
 		{
 			dependencies: [
@@ -1146,6 +1173,16 @@
 		{
 			dependencies: ["3642E2D78B348AE3"]
 			id: "60AD223F4B468680"
+			rewards: [{
+				count: 9
+				id: "5AA8FEACB54416F2"
+				item: {
+					count: 1
+					id: "minecraft:iron_ingot"
+				}
+				random_bonus: 7
+				type: "item"
+			}]
 			tasks: [{
 				id: "13F57836DE48CDD2"
 				item: { count: 1, id: "minecraft:anvil" }
@@ -1246,6 +1283,22 @@
 			}]
 			x: 14.0d
 			y: -8.0d
+		}
+		{
+			dependencies: ["57401F4BD3952C56"]
+			id: "06C11C85AE952B68"
+			tasks: [{
+				icon: {
+					id: "minecraft:bee_nest"
+				}
+				id: "5929F4C04A9E373F"
+				observe_type: 0
+				timer: 0L
+				to_observe: "minecraft:bee_nest"
+				type: "observation"
+			}]
+			x: 1.0d
+			y: -2.0d
 		}
 	]
 }

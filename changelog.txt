@@ -397,3 +397,4 @@ Updated Gamma (Mystical Agriculture) questline.
 Updated Pam's Harvestcraft questline.
 
 Added recipes for diorite and granite using their pebbles.
+Added lava recipe from just using pebbles.

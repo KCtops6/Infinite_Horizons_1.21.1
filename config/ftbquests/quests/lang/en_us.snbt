@@ -294,6 +294,7 @@
 	quest.6F234337CE289CD4.quest_subtitle: "Forging the Andesite Alloy"
 	quest.6F234337CE289CD4.title: "The Heart of Creation"
 	quest.70A474AF7638B9C0.quest_desc: [""]
+	quest.71B4677400CE51F3.quest_desc: ["You can find lava in a blacksmith, craft fire seeds, or mix pebbles in a create mixer."]
 	quest.720A2F80D5E73A17.quest_desc: ["The &lNetherite Generator&r is the ultimate power source, capable of generating 256 FE/t with a transfer rate of 1024 FE/t. This upgrade from the Diamond Generator provides an efficient 0.4 FE/t consumption rate and boasts a buffer capacity of 1,000,000 FE. By using solid fuels, the Netherite Generator brings a reliable, high-output energy source to your setup. Upgrade now to harness the power of Netherite and fuel your machines with the most advanced energy production available."]
 	quest.720A2F80D5E73A17.quest_subtitle: "Upgrade to the pinnacle of energy generation"
 	quest.720A2F80D5E73A17.title: "Harnessing the Power of Netherite"

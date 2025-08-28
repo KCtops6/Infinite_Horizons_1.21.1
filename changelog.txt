@@ -368,6 +368,8 @@ Updated Waystones.
 1.21.1-1.0
 Removed Cobblegen Galore.
 
+Added BedTime.
+
 Readded LootJS: KubeJS Addon.
 
 Updated Applied Energistics 2.
@@ -392,6 +394,7 @@ Updated Sophisticated Core.
 Updated Sophisticated Storage.
 
 Updated Alpha (Overworld) Questline.
+Updated Nether questline.
 Updated Beta (Create) Questline.
 Updated Gamma (Mystical Agriculture) questline.
 Updated Pam's Harvestcraft questline.
@@ -400,5 +403,6 @@ Updated Immersive engineering questline.
 Added recipes for diorite and granite using their pebbles.
 Added lava recipe from just using pebbles.
 Added tree sap, rubber, and rubber sheet items.
+Added recipes for tree sap, rubber, and rubber sheets.
 Added scared birch and jungle wood items.
 Added infinite horizons coal coke.

@@ -55,8 +55,21 @@
 			y: 1.0d
 		}
 		{
-			dependencies: ["5D00196D169F65C2"]
+			dependencies: [
+				"5D00196D169F65C2"
+				"215396364C37E4C1"
+			]
+			dependency_requirement: "one_completed"
 			id: "01AEEA186BB50BB0"
+			rewards: [{
+				id: "7ED4EBC0F9EC7214"
+				item: {
+					count: 1
+					id: "minecraft:quartz"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
 			tasks: [{
 				id: "32E2755DF41B0F32"
 				item: { count: 1, id: "minecraft:quartz" }

@@ -33,4 +33,6 @@ StartupEvents.registry('item', event => {
     global.raw_ores.forEach(r => {
         event.create(`raw_${r}`).displayName(`Raw ${capitalize(r)}`);
     });
+
+    event.create('coal_coke').displayName('Coal Coke');
 });

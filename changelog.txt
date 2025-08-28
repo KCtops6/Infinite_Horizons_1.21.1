@@ -395,6 +395,10 @@ Updated Alpha (Overworld) Questline.
 Updated Beta (Create) Questline.
 Updated Gamma (Mystical Agriculture) questline.
 Updated Pam's Harvestcraft questline.
+Updated Immersive engineering questline.
 
 Added recipes for diorite and granite using their pebbles.
-'40x kubejs:andesite_pebble'
+Added lava recipe from just using pebbles.
+Added tree sap, rubber, and rubber sheet items.
+Added scared birch and jungle wood items.
+Added infinite horizons coal coke.

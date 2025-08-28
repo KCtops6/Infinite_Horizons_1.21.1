@@ -10,30 +10,74 @@
 	id: "197A296AEC020B47"
 	order_index: 1
 	quest_links: [ ]
-	quests: [{
-		icon: {
-			id: "immersiveengineering:cokebrick"
-		}
-		id: "42EB6A512A16A54C"
-		tasks: [
-			{
-				count: 27L
-				id: "4C016BE50FC6892A"
-				item: { count: 1, id: "immersiveengineering:cokebrick" }
-				type: "item"
+	quests: [
+		{
+			icon: {
+				id: "immersiveengineering:cokebrick"
 			}
-			{
-				icon: {
-					id: "minecraft:spyglass"
+			id: "42EB6A512A16A54C"
+			tasks: [
+				{
+					count: 27L
+					id: "4C016BE50FC6892A"
+					item: { count: 1, id: "immersiveengineering:cokebrick" }
+					type: "item"
 				}
-				id: "720F3CD6BEB6B7BE"
-				observe_type: 0
-				timer: 0L
-				to_observe: "immersiveengineering:coke_oven"
-				type: "observation"
+				{
+					icon: {
+						id: "minecraft:spyglass"
+					}
+					id: "720F3CD6BEB6B7BE"
+					observe_type: 0
+					timer: 0L
+					to_observe: "immersiveengineering:coke_oven"
+					type: "observation"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["42EB6A512A16A54C"]
+			icon: {
+				id: "immersiveengineering:treated_wood_horizontal"
 			}
-		]
-		x: 0.0d
-		y: 0.0d
-	}]
+			id: "345CD8F9393B4116"
+			rewards: [
+				{
+					id: "00FBCB8A671C5E49"
+					item: {
+						count: 1
+						id: "immersiveengineering:creosote_bucket"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "0460C27C30710BE3"
+					item: {
+						count: 1
+						id: "immersiveengineering:treated_wood_horizontal"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "70FF772BA721F80B"
+					item: { count: 1, id: "immersiveengineering:creosote_bucket" }
+					type: "item"
+				}
+				{
+					id: "4FC570B81E7D3E90"
+					item: { count: 1, id: "immersiveengineering:treated_wood_horizontal" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -1.0d
+		}
+	]
 }

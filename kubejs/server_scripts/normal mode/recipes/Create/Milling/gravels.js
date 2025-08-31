@@ -17,6 +17,6 @@ ServerEvents.recipes(event => {
                     id: `kubejs:${s}_gravel`
                 }
             ]
-        })
+        }).id(`kubejs:milling/${s}_to_${s}_gravel`);
     })
 })

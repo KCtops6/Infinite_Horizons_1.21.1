@@ -36,6 +36,7 @@ LootJS.modifiers(event => {
         .addLoot(LootEntry.of("kubejs:andesite_pebble").randomChance(0.5))
         .addLoot(LootEntry.of("kubejs:granite_pebble").randomChance(0.5))
         .addLoot(LootEntry.of("kubejs:diorite_pebble").randomChance(0.5))
+        .addLoot(LootEntry.of("kubejs:deepslate_pebble").randomChance(0.25))
         .randomChance(0.75)
         .removeLoot("minecraft:dirt");
     event.addBlockModifier("minecraft:grass_block")
@@ -44,6 +45,7 @@ LootJS.modifiers(event => {
         .addLoot(LootEntry.of("kubejs:andesite_pebble").randomChance(0.5))
         .addLoot(LootEntry.of("kubejs:granite_pebble").randomChance(0.5))
         .addLoot(LootEntry.of("kubejs:diorite_pebble").randomChance(0.5))
+        .addLoot(LootEntry.of("kubejs:deepslate_pebble").randomChance(0.25))
         .randomChance(0.75)
         .removeLoot("minecraft:grass_block");
     
@@ -75,6 +77,7 @@ LootJS.modifiers(event => {
     // Iron trowel gives diamonds and lapis when breaking deepslate gravel.
     event.addBlockModifier("kubejs:deepslate_gravel")
         .matchTool("kubejs:iron_trowel")
+        .addLoot(LootEntry.of("kubejs:tuff_pebble").randomChance(0.75))
         .addLoot(LootEntry.of("minecraft:diamond").randomChance(0.125))
         .addLoot(LootEntry.of("minecraft:lapis_lazuli").randomChance(0.25))
         .addLoot(LootEntry.of("minecraft:redstone").randomChance(0.25))

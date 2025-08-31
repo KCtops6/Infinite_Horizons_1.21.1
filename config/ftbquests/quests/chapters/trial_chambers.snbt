@@ -8,6 +8,16 @@
 		id: "minecraft:trial_key"
 	}
 	id: "64FE7FCF6127CD6A"
+	images: [{
+		click: "https://github.com/KCtops6/Infinite_Horizons_1.21.1/wiki/Trial-Vault-Activation-Guide"
+		height: 0.75d
+		hover: ["Learn more about trial chambers!"]
+		image: "minecraft:item/book"
+		rotation: 0.0d
+		width: 0.75d
+		x: -1.0d
+		y: 0.0d
+	}]
 	order_index: 1
 	quest_links: [ ]
 	quests: [
@@ -466,6 +476,47 @@
 			}]
 			x: 7.0d
 			y: 3.0d
+		}
+		{
+			dependencies: ["7DCD55B7E458CF00"]
+			id: "329942AD2F6AF1C0"
+			rewards: [
+				{
+					id: "1D6E82D38FCA0D99"
+					item: {
+						count: 1
+						id: "minecraft:vex_armor_trim_smithing_template"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "5BF124421FCE746F"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "2163D8391BF0B5A3"
+					item: {
+						count: 1
+						id: "pamhc2foodextended:epicbltitem"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "791B757129E316CF"
+				item: { count: 1, id: "minecraft:vex_armor_trim_smithing_template" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 5.0d
 		}
 	]
 }

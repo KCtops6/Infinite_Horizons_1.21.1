@@ -35,6 +35,15 @@
 		{
 			dependencies: ["5D00196D169F65C2"]
 			id: "74AED40DCEDCCA58"
+			rewards: [{
+				id: "706EB746A197B493"
+				item: {
+					count: 1
+					id: "minecraft:magma_block"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
 			tasks: [{
 				id: "57B3050D2AF8CF22"
 				item: { count: 1, id: "minecraft:magma_block" }
@@ -304,6 +313,36 @@
 				"58380D6136DF37AD"
 			]
 			id: "732EE5DB19BC573C"
+			rewards: [
+				{
+					id: "0E5C3AB4F9C601FC"
+					item: {
+						count: 1
+						id: "minecraft:netherite_ingot"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "2115CEEE898E6B4D"
+					item: {
+						count: 1
+						id: "minecraft:netherite_scrap"
+					}
+					random_bonus: 1
+					type: "item"
+				}
+				{
+					id: "5A3474FE72066B46"
+					item: {
+						count: 1
+						id: "pamhc2foodextended:gourmetporkburgeritem"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "0CD1ACDF12DA824C"
 				item: { count: 1, id: "minecraft:netherite_ingot" }
@@ -318,6 +357,26 @@
 				"74B7E90FE385180A"
 			]
 			id: "58380D6136DF37AD"
+			rewards: [
+				{
+					id: "7446DFBFE53532FD"
+					item: {
+						count: 1
+						id: "minecraft:netherite_scrap"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "239C84A04D22DAB2"
+					item: {
+						count: 1
+						id: "pamhc2foodextended:spicymustardporkitem"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "577E470E5F2837E9"
 				item: { count: 1, id: "minecraft:netherite_scrap" }
@@ -332,6 +391,15 @@
 				"40B85C791F3753C2"
 			]
 			id: "6BC4240AF36D8AA9"
+			rewards: [{
+				id: "2346BFF0B80FF539"
+				item: {
+					count: 1
+					id: "minecraft:blackstone"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
 			tasks: [{
 				id: "0631B3A3C0B448EF"
 				item: { count: 1, id: "minecraft:blackstone" }
@@ -342,6 +410,7 @@
 		}
 		{
 			dependencies: ["465C87D45CF7C220"]
+			hide_dependent_lines: true
 			id: "3E571F8FEDEEFDCB"
 			rewards: [
 				{
@@ -440,7 +509,10 @@
 			y: 3.0d
 		}
 		{
-			dependencies: ["732EE5DB19BC573C"]
+			dependencies: [
+				"732EE5DB19BC573C"
+				"3E571F8FEDEEFDCB"
+			]
 			hide_dependency_lines: true
 			id: "78C38D600E58159C"
 			optional: true
@@ -454,7 +526,10 @@
 			y: 2.75d
 		}
 		{
-			dependencies: ["732EE5DB19BC573C"]
+			dependencies: [
+				"732EE5DB19BC573C"
+				"3E571F8FEDEEFDCB"
+			]
 			hide_dependency_lines: true
 			id: "658399DB3AD1D28A"
 			optional: true
@@ -468,7 +543,10 @@
 			y: 2.75d
 		}
 		{
-			dependencies: ["732EE5DB19BC573C"]
+			dependencies: [
+				"732EE5DB19BC573C"
+				"3E571F8FEDEEFDCB"
+			]
 			hide_dependency_lines: true
 			id: "0345CCEC59322E78"
 			optional: true
@@ -482,7 +560,10 @@
 			y: 3.25d
 		}
 		{
-			dependencies: ["732EE5DB19BC573C"]
+			dependencies: [
+				"732EE5DB19BC573C"
+				"3E571F8FEDEEFDCB"
+			]
 			hide_dependency_lines: true
 			id: "551CC7E896138597"
 			optional: true
@@ -496,7 +577,10 @@
 			y: 3.25d
 		}
 		{
-			dependencies: ["732EE5DB19BC573C"]
+			dependencies: [
+				"732EE5DB19BC573C"
+				"3E571F8FEDEEFDCB"
+			]
 			hide_dependency_lines: true
 			id: "4DF5ED1CE71EEE93"
 			optional: true
@@ -510,7 +594,10 @@
 			y: 3.75d
 		}
 		{
-			dependencies: ["732EE5DB19BC573C"]
+			dependencies: [
+				"732EE5DB19BC573C"
+				"3E571F8FEDEEFDCB"
+			]
 			hide_dependency_lines: true
 			id: "4899BF4C3AFB69B6"
 			optional: true
@@ -524,7 +611,10 @@
 			y: 3.75d
 		}
 		{
-			dependencies: ["732EE5DB19BC573C"]
+			dependencies: [
+				"732EE5DB19BC573C"
+				"3E571F8FEDEEFDCB"
+			]
 			hide_dependency_lines: true
 			id: "56E2CB3C01C4FAFD"
 			optional: true
@@ -538,7 +628,10 @@
 			y: 3.75d
 		}
 		{
-			dependencies: ["732EE5DB19BC573C"]
+			dependencies: [
+				"732EE5DB19BC573C"
+				"3E571F8FEDEEFDCB"
+			]
 			hide_dependency_lines: true
 			id: "7D49AF282850A612"
 			optional: true
@@ -552,7 +645,10 @@
 			y: 4.25d
 		}
 		{
-			dependencies: ["732EE5DB19BC573C"]
+			dependencies: [
+				"732EE5DB19BC573C"
+				"3E571F8FEDEEFDCB"
+			]
 			hide_dependency_lines: true
 			id: "238923FC439B15AE"
 			optional: true

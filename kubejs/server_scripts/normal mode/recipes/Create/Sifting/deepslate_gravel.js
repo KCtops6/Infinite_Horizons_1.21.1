@@ -8,6 +8,7 @@ ServerEvents.recipes(event => {
         Output.of('kubejs:raw_uranium', 0.0125)
     ],'kubejs:deepslate_gravel','kubejs:copper_mesh')
     event.recipes.createsifter.sifting([
+        Output.of('minecraft:diamond', 0.1),
         Output.of('kubejs:raw_aluminum', 0.025 * 1.5),
         Output.of('kubejs:raw_lead', 0.05 * 1.5),
         Output.of('kubejs:raw_nickel', 0.05 * 1.5),
@@ -16,6 +17,7 @@ ServerEvents.recipes(event => {
         Output.of('kubejs:raw_uranium', 0.0125 * 1.5)
     ],'kubejs:deepslate_gravel','kubejs:iron_mesh')
     event.recipes.createsifter.sifting([
+        Output.of('minecraft:diamond', 0.1 * 1.5),
         Output.of('minecraft:raw_gold', 0.2),
         Output.of('kubejs:raw_aluminum', 0.025 * 1.5 * 2),
         Output.of('kubejs:raw_lead', 0.05 * 1.5 * 2),
@@ -27,6 +29,7 @@ ServerEvents.recipes(event => {
         Output.of('mysticalagriculture:prosperity_shard', 0.15)
     ],'kubejs:deepslate_gravel','createsifter:brass_mesh')
     event.recipes.createsifter.sifting([
+        Output.of('minecraft:diamond', 0.1 * 1.5 * 2),
         Output.of('minecraft:raw_gold', 0.3),
         Output.of('kubejs:raw_aluminum', 0.025 * 1.5 * 2 * 2.5),
         Output.of('kubejs:raw_lead', 0.05 * 1.5 * 2 * 2.5),

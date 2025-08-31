@@ -7,6 +7,17 @@
 		id: "create:andesite_alloy"
 	}
 	id: "6B16A1E49845B379"
+	images: [{
+		click: "https://github.com/KCtops6/Infinite_Horizons_1.21.1/wiki/Obtaining-Blaze-Burner"
+		height: 0.75d
+		hover: ["Learn more about obtaining Blaze Burners!"]
+		image: "minecraft:item/book"
+		order: 1
+		rotation: 0.0d
+		width: 0.75d
+		x: 9.0d
+		y: -2.0d
+	}]
 	order_index: 0
 	quest_links: [ ]
 	quests: [
@@ -114,7 +125,7 @@
 					type: "item"
 				}
 				{
-					count: 9L
+					count: 10L
 					id: "68EED5BC29A93781"
 					item: { count: 9, id: "create:white_sail" }
 					type: "item"
@@ -188,11 +199,31 @@
 					type: "item"
 				}
 				{
+					count: 3
+					id: "18B8892260FA9FAB"
+					item: {
+						count: 1
+						id: "create:cogwheel"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
 					id: "268C7292FD101CCC"
 					item: {
 						count: 1
 						id: "farmersdelight:bacon_and_eggs"
 					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "4E7A3AE522DACF48"
+					item: {
+						count: 1
+						id: "create:andesite_casing"
+					}
+					random_bonus: 2
 					type: "item"
 				}
 			]
@@ -255,8 +286,8 @@
 					type: "item"
 				}
 			]
-			x: 6.0d
-			y: -4.0d
+			x: 8.0d
+			y: -6.0d
 		}
 		{
 			dependencies: ["073087ED7AC745F3"]
@@ -277,8 +308,8 @@
 					type: "item"
 				}
 			]
-			x: 6.0d
-			y: -6.0d
+			x: 8.0d
+			y: -8.0d
 		}
 		{
 			dependencies: ["27115761CCA7ADB6"]
@@ -307,6 +338,15 @@
 			id: "170192578F1D5CA0"
 			rewards: [
 				{
+					id: "5D3A431A2AD40C81"
+					item: {
+						count: 1
+						id: "createsifter:sifter"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
 					id: "514EEC2E6ADF62EC"
 					item: {
 						count: 1
@@ -330,8 +370,8 @@
 				item: { count: 1, id: "createsifter:sifter" }
 				type: "item"
 			}]
-			x: 6.0d
-			y: 0.0d
+			x: 4.0d
+			y: 2.0d
 		}
 		{
 			dependencies: [
@@ -339,12 +379,42 @@
 				"579D7FD06F5DC4D7"
 			]
 			id: "33FD237C4BEF8440"
+			rewards: [
+				{
+					id: "3D5A4969463CA265"
+					item: {
+						count: 1
+						id: "create:blaze_burner"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "267752DBC3231765"
+					item: {
+						count: 1
+						id: "kubejs:iron_plate"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "70A745784CC5E43E"
+					item: {
+						count: 1
+						id: "pamhc2foodextended:hotwingsitem"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "3FE9B5B94E4ADAD1"
 				item: { count: 1, id: "create:blaze_burner" }
 				type: "item"
 			}]
-			x: 6.0d
+			x: 8.0d
 			y: -2.0d
 		}
 		{
@@ -354,13 +424,53 @@
 				"37A11322027C7509"
 			]
 			id: "246E7273A1E9A735"
+			rewards: [
+				{
+					id: "0E58DA677D8F5977"
+					item: {
+						count: 1
+						id: "kubejs:brass_ingot"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "4211167D3AED4FA2"
+					item: {
+						count: 1
+						id: "minecraft:copper_ingot"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "2B86006F4FBF438F"
+					item: {
+						count: 1
+						id: "kubejs:zinc_ingot"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "7E9E6E52DE6BB471"
+					item: {
+						count: 1
+						id: "pamhc2foodcore:baconcheeseburgeritem"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "1F02A7CBF19F7FC8"
 				item: { count: 1, id: "kubejs:brass_ingot" }
 				type: "item"
 			}]
-			x: 8.0d
-			y: -4.0d
+			x: 12.0d
+			y: -6.0d
 		}
 		{
 			dependencies: ["15085B53BFCDE2EF"]
@@ -370,7 +480,7 @@
 				item: { count: 1, id: "kubejs:zinc_ingot" }
 				type: "item"
 			}]
-			x: 8.0d
+			x: 12.0d
 			y: -2.0d
 		}
 		{
@@ -379,24 +489,105 @@
 				"6346D688C76ED68C"
 			]
 			id: "49BA6BED4D5EF537"
+			rewards: [
+				{
+					id: "0A96DEA241034D70"
+					item: {
+						count: 1
+						id: "create:deployer"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "32FFCAC42E735EAE"
+					item: {
+						count: 1
+						id: "create:electron_tube"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "6FB984C1E8C50B54"
+					item: {
+						count: 1
+						id: "create:andesite_casing"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 12
+					id: "7504BA1C39D3184A"
+					item: {
+						count: 1
+						id: "kubejs:brass_plate"
+					}
+					random_bonus: 8
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "31821C7C4173E7D1"
 				item: { count: 1, id: "create:deployer" }
 				type: "item"
 			}]
-			x: 10.0d
-			y: -4.0d
+			x: 14.0d
+			y: -6.0d
 		}
 		{
 			dependencies: ["28D064931756E6FF"]
 			id: "6346D688C76ED68C"
+			rewards: [
+				{
+					id: "3AC24039048CAB74"
+					item: {
+						count: 1
+						id: "create:electron_tube"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "4C01D05FCD590AC2"
+					item: {
+						count: 1
+						id: "create:polished_rose_quartz"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "1C797FF439930EE8"
+					item: {
+						count: 1
+						id: "kubejs:iron_plate"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "3BC5058BE08382D6"
+					item: {
+						count: 1
+						id: "pamhc2foodextended:spagettiandmeatballsitem"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "1213264E0D2907A1"
 				item: { count: 1, id: "create:electron_tube" }
 				type: "item"
 			}]
-			x: 10.0d
-			y: -2.0d
+			x: 16.0d
+			y: -4.0d
 		}
 		{
 			dependencies: [
@@ -407,6 +598,46 @@
 				id: "create:polished_rose_quartz"
 			}
 			id: "28D064931756E6FF"
+			rewards: [
+				{
+					id: "443F609F9D1BE302"
+					item: {
+						count: 1
+						id: "create:polished_rose_quartz"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "74A8ACBEDC294342"
+					item: {
+						count: 1
+						id: "minecraft:quartz"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "4CDD8335C888FD63"
+					item: {
+						count: 1
+						id: "minecraft:redstone"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "6866F517D60FF893"
+					item: {
+						count: 1
+						id: "pamhc2foodextended:strawberryjellytoastitem"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
 			tasks: [
 				{
 					icon: {
@@ -427,30 +658,83 @@
 					type: "item"
 				}
 			]
-			x: 10.0d
-			y: 0.0d
+			x: 16.0d
+			y: -3.0d
 		}
 		{
 			dependencies: ["49BA6BED4D5EF537"]
 			id: "1161BD7A3BA53123"
+			rewards: [
+				{
+					id: "12FE42F6D5B038F2"
+					item: {
+						count: 1
+						id: "create:precision_mechanism"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "4823CDAA87B9DDE9"
+					item: {
+						count: 1
+						id: "create:cogwheel"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "60C3AC09886756B3"
+					item: {
+						count: 1
+						id: "create:large_cogwheel"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "59C576EF1D123C7C"
+					item: {
+						count: 1
+						id: "kubejs:gold_plate"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "5D1AB7A3D751BFEE"
+					item: {
+						count: 1
+						id: "pamhc2foodextended:chickenparmasanitem"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "037E6555A45FF1C7"
 				item: { count: 1, id: "create:precision_mechanism" }
 				type: "item"
 			}]
-			x: 12.0d
-			y: -4.0d
+			x: 18.0d
+			y: -6.0d
 		}
 		{
-			dependencies: ["1161BD7A3BA53123"]
+			dependencies: [
+				"1161BD7A3BA53123"
+				"40B3B159DE68602F"
+			]
 			id: "22704AC0B7D673FC"
 			tasks: [{
 				id: "4D0F4030A9A6206A"
 				item: { count: 1, id: "create:mechanical_arm" }
 				type: "item"
 			}]
-			x: 10.0d
-			y: -6.0d
+			x: 18.0d
+			y: -8.0d
 		}
 		{
 			dependencies: ["1161BD7A3BA53123"]
@@ -460,8 +744,8 @@
 				item: { count: 1, id: "create:rotation_speed_controller" }
 				type: "item"
 			}]
-			x: 12.0d
-			y: -6.0d
+			x: 20.0d
+			y: -8.0d
 		}
 		{
 			dependencies: ["579D7FD06F5DC4D7"]
@@ -477,13 +761,603 @@
 		{
 			dependencies: ["1B922950A7570482"]
 			id: "3EAD081D51E205AE"
+			rewards: [
+				{
+					id: "4AE51ED572C5BB58"
+					item: {
+						count: 1
+						id: "create_mechanical_extruder:mechanical_extruder"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "009C115EF71F627E"
+					item: {
+						count: 1
+						id: "create:shaft"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "01839DA56C46374E"
+					item: {
+						count: 1
+						id: "create:andesite_casing"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "147136B12DDF3DF1"
+					item: {
+						count: 1
+						id: "pamhc2foodextended:cornonthecobitem"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "5056C4E2BCBCCF5F"
 				item: { count: 1, id: "create_mechanical_extruder:mechanical_extruder" }
 				type: "item"
 			}]
-			x: 4.0d
+			x: 3.0d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"246E7273A1E9A735"
+				"6346D688C76ED68C"
+			]
+			id: "32DB78C384307058"
+			rewards: [
+				{
+					count: 2
+					id: "3DCE5235C9D048F4"
+					item: {
+						count: 1
+						id: "create:brass_funnel"
+					}
+					random_bonus: 4
+					type: "item"
+				}
+				{
+					count: 3
+					id: "160049F0E5A641D5"
+					item: {
+						count: 1
+						id: "create:electron_tube"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "004510BF203AB1AB"
+					item: {
+						count: 1
+						id: "kubejs:brass_ingot"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "57DB37B60981570E"
+				item: { count: 1, id: "create:brass_funnel" }
+				type: "item"
+			}]
+			x: 14.0d
+			y: -4.0d
+		}
+		{
+			dependencies: [
+				"33FD237C4BEF8440"
+				"34F88B08256546FB"
+				"0EB34C0CB9179CBF"
+			]
+			id: "120B11C9D2EC0CA0"
+			rewards: [
+				{
+					id: "70510610337DF9E4"
+					item: {
+						count: 1
+						id: "create:steam_engine"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "087DA45F96F4223B"
+					item: {
+						count: 1
+						id: "kubejs:gold_plate"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "130B34462C1E63B7"
+					item: {
+						count: 1
+						id: "create:andesite_alloy"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "61107C00FA8ADCD3"
+					item: {
+						count: 1
+						id: "minecraft:copper_block"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "325DC1F439001138"
+					item: {
+						count: 1
+						id: "pamhc2foodextended:cantaloupejellyitem"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4388863B25FD915E"
+				item: { count: 1, id: "create:steam_engine" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["579D7FD06F5DC4D7"]
+			id: "34F88B08256546FB"
+			rewards: [
+				{
+					id: "2BF39DCE25274D3C"
+					item: {
+						count: 1
+						id: "create:fluid_tank"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "089E3E1B7159D254"
+					item: {
+						count: 1
+						id: "kubejs:copper_plate"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "0F531230570B251F"
+					item: {
+						count: 1
+						id: "minecraft:barrel"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "2EE31BA9F9F76378"
+					item: {
+						count: 1
+						id: "pamhc2foodextended:neapolitanicecreamitem"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2AA7304559E6C49F"
+				item: { count: 1, id: "create:fluid_tank" }
+				type: "item"
+			}]
+			x: 8.0d
 			y: 2.0d
+		}
+		{
+			dependencies: ["579D7FD06F5DC4D7"]
+			id: "6783BFDE6E6F147D"
+			rewards: [
+				{
+					count: 4
+					id: "2ADAC2B1D728B617"
+					item: {
+						count: 1
+						id: "create:fluid_pipe"
+					}
+					random_bonus: 8
+					type: "item"
+				}
+				{
+					count: 3
+					id: "082225F8CD9C615D"
+					item: {
+						count: 1
+						id: "kubejs:copper_plate"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "0963DE0EFD5138AF"
+					item: {
+						count: 1
+						id: "minecraft:copper_ingot"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "56318BF92EB754AC"
+					item: {
+						count: 1
+						id: "pamhc2foodextended:mangopieitem"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2B766649099CC23D"
+				item: { count: 1, id: "create:fluid_pipe" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6783BFDE6E6F147D"]
+			id: "0EB34C0CB9179CBF"
+			rewards: [
+				{
+					id: "5760B853576DA210"
+					item: {
+						count: 1
+						id: "create:mechanical_pump"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "487AF1B3E95149D1"
+					item: {
+						count: 1
+						id: "create:fluid_pipe"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "22A27334CDCE0055"
+					item: {
+						count: 1
+						id: "create:cogwheel"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "31D15D81A17D53A2"
+					item: {
+						count: 1
+						id: "pamhc2foodcore:pumpkindonutitem"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "37F34A19D12DE4CE"
+				item: { count: 1, id: "create:mechanical_pump" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["246E7273A1E9A735"]
+			id: "40B3B159DE68602F"
+			rewards: [
+				{
+					id: "7847FF1B48037FDC"
+					item: {
+						count: 1
+						id: "create:brass_casing"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "0FC3792724A84A0D"
+					item: {
+						count: 1
+						id: "kubejs:brass_ingot"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "4839D51676C07C44"
+					item: {
+						count: 1
+						id: "pamhc2foodcore:beefjerkyitem"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "59677E57092C8282"
+				item: { count: 1, id: "create:brass_casing" }
+				type: "item"
+			}]
+			x: 14.0d
+			y: -8.0d
+		}
+		{
+			dependencies: [
+				"6346D688C76ED68C"
+				"40B3B159DE68602F"
+			]
+			id: "0257C2107FC7B356"
+			rewards: [
+				{
+					count: 3
+					id: "760F741727A537AE"
+					item: {
+						count: 1
+						id: "create:mechanical_crafter"
+					}
+					random_bonus: 6
+					type: "item"
+				}
+				{
+					count: 3
+					id: "73FA17F2D6D70CE5"
+					item: {
+						count: 1
+						id: "create:electron_tube"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "56D4D191D4118EFA"
+					item: {
+						count: 1
+						id: "create:brass_casing"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "2FBB943EB3680889"
+					item: {
+						count: 1
+						id: "pamhc2foodcore:softpretzelitem"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "5863C64502C51623"
+				item: { count: 1, id: "create:mechanical_crafter" }
+				type: "item"
+			}]
+			x: 16.0d
+			y: -6.0d
+		}
+		{
+			dependencies: [
+				"246E7273A1E9A735"
+				"6346D688C76ED68C"
+			]
+			id: "3751912ECD106254"
+			rewards: [
+				{
+					count: 2
+					id: "56B6BCDB1E44D4EB"
+					item: {
+						count: 1
+						id: "create:brass_tunnel"
+					}
+					random_bonus: 4
+					type: "item"
+				}
+				{
+					count: 3
+					id: "5D1D1D6A80BC2281"
+					item: {
+						count: 1
+						id: "kubejs:brass_ingot"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "44C1B00911BCDC0A"
+					item: {
+						count: 1
+						id: "create:electron_tube"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "4DFC019B4E75A1DF"
+					item: {
+						count: 1
+						id: "pamhc2foodcore:cookiesandmilkitem"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2087D8F465CFA06D"
+				item: { count: 1, id: "create:brass_tunnel" }
+				type: "item"
+			}]
+			x: 14.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["0257C2107FC7B356"]
+			id: "4243B129B50170C2"
+			rewards: [
+				{
+					count: 2
+					id: "1F3A5C959A9B5A76"
+					item: {
+						count: 1
+						id: "create:crushing_wheel"
+					}
+					random_bonus: 4
+					type: "item"
+				}
+				{
+					count: 3
+					id: "7F0DDF3E46564A2F"
+					item: {
+						count: 1
+						id: "create:andesite_alloy"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "7FF69E945491168F"
+					item: {
+						count: 1
+						id: "pamhc2foodextended:roastpotatoesitem"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1242A09449A933A6"
+				item: { count: 1, id: "create:crushing_wheel" }
+				type: "item"
+			}]
+			x: 18.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["4243B129B50170C2"]
+			id: "14FAB5055BA9C3A1"
+			rewards: [
+				{
+					id: "0439D451496CE5C1"
+					item: {
+						count: 1
+						id: "create:cinder_flour"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "035AEB426D5AF92C"
+					item: {
+						count: 1
+						id: "minecraft:netherrack"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "7F54136BC7955500"
+					item: {
+						count: 1
+						id: "pamhc2foodextended:porklettucewrapitem"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2A0CB742BE2E1BC0"
+				item: { count: 1, id: "create:cinder_flour" }
+				type: "item"
+			}]
+			x: 19.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["14FAB5055BA9C3A1"]
+			icon: {
+				id: "create:blaze_cake"
+			}
+			id: "75427194B86E02D5"
+			rewards: [
+				{
+					id: "1599CA5EB4B1F7A1"
+					item: {
+						count: 1
+						id: "create:blaze_cake"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "205C74997225166A"
+					item: {
+						count: 1
+						id: "create:cinder_flour"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "5F4C047AD4EA3F9E"
+					item: {
+						count: 1
+						id: "pamhc2foodcore:hotdogitem"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "298B476326991772"
+					item: { count: 1, id: "create:blaze_cake_base" }
+					type: "item"
+				}
+				{
+					id: "617FFABCC3C2F81E"
+					item: { count: 1, id: "create:blaze_cake" }
+					type: "item"
+				}
+			]
+			x: 20.0d
+			y: -4.0d
 		}
 	]
 }

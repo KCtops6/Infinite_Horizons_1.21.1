@@ -67,7 +67,7 @@
 			y: 0.0d
 		}
 		{
-			dependencies: ["5C6BCB357546F47A"]
+			dependencies: ["60DE94EF49F133DD"]
 			hide_dependency_lines: true
 			icon: {
 				id: "mysticalagriculture:stone_essence"
@@ -95,10 +95,10 @@
 				}
 			]
 			x: -3.0d
-			y: 0.0d
+			y: 2.0d
 		}
 		{
-			dependencies: ["5C6BCB357546F47A"]
+			dependencies: ["60DE94EF49F133DD"]
 			hide_dependency_lines: true
 			icon: {
 				id: "mysticalagriculture:fire_essence"
@@ -126,7 +126,7 @@
 				}
 			]
 			x: -2.0d
-			y: -1.0d
+			y: 1.0d
 		}
 		{
 			dependencies: ["7C75AE73B3CCD66E"]
@@ -150,7 +150,7 @@
 			y: 2.0d
 		}
 		{
-			dependencies: ["5C6BCB357546F47A"]
+			dependencies: ["60DE94EF49F133DD"]
 			hide_dependency_lines: true
 			icon: {
 				id: "mysticalagriculture:air_essence"
@@ -178,10 +178,10 @@
 				}
 			]
 			x: -4.0d
-			y: -1.0d
+			y: 1.0d
 		}
 		{
-			dependencies: ["5C6BCB357546F47A"]
+			dependencies: ["60DE94EF49F133DD"]
 			hide_dependency_lines: true
 			icon: {
 				id: "mysticalagriculture:earth_essence"
@@ -209,10 +209,10 @@
 				}
 			]
 			x: -3.0d
-			y: -1.0d
+			y: 1.0d
 		}
 		{
-			dependencies: ["5C6BCB357546F47A"]
+			dependencies: ["60DE94EF49F133DD"]
 			hide_dependency_lines: true
 			icon: {
 				id: "mysticalagriculture:water_essence"
@@ -240,10 +240,10 @@
 				}
 			]
 			x: -4.0d
-			y: 0.0d
+			y: 2.0d
 		}
 		{
-			dependencies: ["5C6BCB357546F47A"]
+			dependencies: ["60DE94EF49F133DD"]
 			hide_dependency_lines: true
 			icon: {
 				id: "mysticalagriculture:dirt_essence"
@@ -271,10 +271,9 @@
 				}
 			]
 			x: -2.0d
-			y: 0.0d
+			y: 2.0d
 		}
 		{
-			dependencies: ["5C6BCB357546F47A"]
 			hide_dependency_lines: true
 			icon: {
 				id: "mysticalagriculture:wood_essence"
@@ -302,10 +301,9 @@
 				}
 			]
 			x: -4.0d
-			y: 1.0d
+			y: 3.0d
 		}
 		{
-			dependencies: ["5C6BCB357546F47A"]
 			hide_dependency_lines: true
 			icon: {
 				id: "mysticalagriculture:ice_essence"
@@ -333,13 +331,10 @@
 				}
 			]
 			x: -3.0d
-			y: 1.0d
+			y: 3.0d
 		}
 		{
-			dependencies: [
-				"5C6BCB357546F47A"
-				"35B8E383C14A9B9D"
-			]
+			dependencies: ["35B8E383C14A9B9D"]
 			hide_dependency_lines: true
 			icon: {
 				id: "mysticalagriculture:deepslate_essence"
@@ -367,40 +362,9 @@
 				}
 			]
 			x: -2.0d
-			y: 1.0d
+			y: 3.0d
 		}
 		{
-			icon: {
-				id: "mysticalagriculture:tertium_essence"
-			}
-			id: "245CC55733D2D5C6"
-			rewards: [{
-				count: 3
-				id: "123374D0F215DA70"
-				item: {
-					count: 1
-					id: "mysticalagriculture:tertium_essence"
-				}
-				random_bonus: 2
-				type: "item"
-			}]
-			tasks: [
-				{
-					id: "6888500FBDE8DA03"
-					item: { count: 1, id: "matc:prudentium_crystal" }
-					type: "item"
-				}
-				{
-					id: "519192B7078538F5"
-					item: { count: 1, id: "mysticalagriculture:tertium_essence" }
-					type: "item"
-				}
-			]
-			x: 0.0d
-			y: 6.0d
-		}
-		{
-			dependencies: ["5C6BCB357546F47A"]
 			hide_dependency_lines: true
 			icon: {
 				id: "mysticalagriculture:amethyst_essence"
@@ -427,8 +391,8 @@
 					type: "item"
 				}
 			]
-			x: -2.0d
-			y: 2.0d
+			x: 11.0d
+			y: 9.0d
 		}
 		{
 			dependencies: ["1284CA2D49C1FE72"]
@@ -452,7 +416,6 @@
 			y: 5.0d
 		}
 		{
-			dependencies: ["5C6BCB357546F47A"]
 			hide_dependency_lines: true
 			icon: {
 				id: "mysticalagriculture:honey_essence"
@@ -489,11 +452,10 @@
 					type: "item"
 				}
 			]
-			x: -3.0d
-			y: 2.0d
+			x: 10.0d
+			y: 9.0d
 		}
 		{
-			dependencies: ["5C6BCB357546F47A"]
 			hide_dependency_lines: true
 			icon: {
 				id: "mysticalagriculture:coral_essence"
@@ -521,11 +483,10 @@
 					type: "item"
 				}
 			]
-			x: -4.0d
-			y: 2.0d
+			x: 9.0d
+			y: 9.0d
 		}
 		{
-			dependencies: ["5C6BCB357546F47A"]
 			hide_dependency_lines: true
 			icon: {
 				id: "mysticalagriculture:coal_essence"
@@ -552,12 +513,11 @@
 					type: "item"
 				}
 			]
-			x: -5.0d
-			y: 2.0d
+			x: 8.0d
+			y: 9.0d
 		}
 		{
 			dependencies: [
-				"5C6BCB357546F47A"
 				"27115761CCA7ADB6"
 				"27AD5982B40072FD"
 				"37480F6CE7572160"
@@ -588,11 +548,10 @@
 					type: "item"
 				}
 			]
-			x: -6.0d
-			y: 2.0d
+			x: 7.0d
+			y: 9.0d
 		}
 		{
-			dependencies: ["5C6BCB357546F47A"]
 			hide_dependency_lines: true
 			icon: {
 				id: "mysticalagriculture:dye_essence"
@@ -619,11 +578,10 @@
 					type: "item"
 				}
 			]
-			x: -7.0d
-			y: 2.0d
+			x: 6.0d
+			y: 9.0d
 		}
 		{
-			dependencies: ["5C6BCB357546F47A"]
 			hide_dependency_lines: true
 			icon: {
 				id: "mysticalagriculture:nature_essence"
@@ -650,14 +608,11 @@
 					type: "item"
 				}
 			]
-			x: -8.0d
-			y: 2.0d
+			x: 5.0d
+			y: 9.0d
 		}
 		{
-			dependencies: [
-				"5C6BCB357546F47A"
-				"1DFAEDA158D3563B"
-			]
+			dependencies: ["1DFAEDA158D3563B"]
 			hide_dependency_lines: true
 			icon: {
 				id: "mysticalagriculture:pig_essence"
@@ -695,14 +650,11 @@
 					type: "item"
 				}
 			]
-			x: -8.0d
-			y: 3.0d
+			x: 5.0d
+			y: 10.0d
 		}
 		{
-			dependencies: [
-				"5C6BCB357546F47A"
-				"1DFAEDA158D3563B"
-			]
+			dependencies: ["1DFAEDA158D3563B"]
 			hide_dependency_lines: true
 			icon: {
 				id: "mysticalagriculture:chicken_essence"
@@ -739,14 +691,11 @@
 					type: "item"
 				}
 			]
-			x: -7.0d
-			y: 3.0d
+			x: 6.0d
+			y: 10.0d
 		}
 		{
-			dependencies: [
-				"5C6BCB357546F47A"
-				"1DFAEDA158D3563B"
-			]
+			dependencies: ["1DFAEDA158D3563B"]
 			hide_dependency_lines: true
 			icon: {
 				id: "mysticalagriculture:cow_essence"
@@ -784,14 +733,11 @@
 					type: "item"
 				}
 			]
-			x: -6.0d
-			y: 3.0d
+			x: 7.0d
+			y: 10.0d
 		}
 		{
-			dependencies: [
-				"5C6BCB357546F47A"
-				"1DFAEDA158D3563B"
-			]
+			dependencies: ["1DFAEDA158D3563B"]
 			hide_dependency_lines: true
 			icon: {
 				id: "mysticalagriculture:sheep_essence"
@@ -828,14 +774,11 @@
 					type: "item"
 				}
 			]
-			x: -5.0d
-			y: 3.0d
+			x: 8.0d
+			y: 10.0d
 		}
 		{
-			dependencies: [
-				"5C6BCB357546F47A"
-				"1DFAEDA158D3563B"
-			]
+			dependencies: ["1DFAEDA158D3563B"]
 			hide_dependency_lines: true
 			icon: {
 				id: "mysticalagriculture:squid_essence"
@@ -872,14 +815,11 @@
 					type: "item"
 				}
 			]
-			x: -4.0d
-			y: 3.0d
+			x: 9.0d
+			y: 10.0d
 		}
 		{
-			dependencies: [
-				"5C6BCB357546F47A"
-				"1DFAEDA158D3563B"
-			]
+			dependencies: ["1DFAEDA158D3563B"]
 			hide_dependency_lines: true
 			icon: {
 				id: "mysticalagriculture:fish_essence"
@@ -917,14 +857,11 @@
 					type: "item"
 				}
 			]
-			x: -3.0d
-			y: 3.0d
+			x: 10.0d
+			y: 10.0d
 		}
 		{
-			dependencies: [
-				"5C6BCB357546F47A"
-				"1DFAEDA158D3563B"
-			]
+			dependencies: ["1DFAEDA158D3563B"]
 			hide_dependency_lines: true
 			icon: {
 				id: "mysticalagriculture:slime_essence"
@@ -951,14 +888,11 @@
 					type: "item"
 				}
 			]
-			x: -2.0d
-			y: 3.0d
+			x: 11.0d
+			y: 10.0d
 		}
 		{
-			dependencies: [
-				"5C6BCB357546F47A"
-				"1DFAEDA158D3563B"
-			]
+			dependencies: ["1DFAEDA158D3563B"]
 			hide_dependency_lines: true
 			icon: {
 				id: "mysticalagriculture:turtle_essence"
@@ -985,8 +919,8 @@
 					type: "item"
 				}
 			]
-			x: -8.0d
-			y: 4.0d
+			x: 5.0d
+			y: 11.0d
 		}
 		{
 			dependencies: [
@@ -1019,8 +953,8 @@
 					type: "item"
 				}
 			]
-			x: -7.0d
-			y: 4.0d
+			x: 6.0d
+			y: 11.0d
 		}
 		{
 			dependencies: ["5C6BCB357546F47A"]
@@ -1050,8 +984,8 @@
 					type: "item"
 				}
 			]
-			x: -6.0d
-			y: 4.0d
+			x: 7.0d
+			y: 11.0d
 		}
 		{
 			dependencies: ["5C6BCB357546F47A"]
@@ -1081,8 +1015,8 @@
 					type: "item"
 				}
 			]
-			x: -5.0d
-			y: 4.0d
+			x: 8.0d
+			y: 11.0d
 		}
 		{
 			dependencies: ["5C6BCB357546F47A"]
@@ -1112,8 +1046,8 @@
 					type: "item"
 				}
 			]
-			x: -4.0d
-			y: 4.0d
+			x: 9.0d
+			y: 11.0d
 		}
 		{
 			dependencies: ["5C6BCB357546F47A"]
@@ -1143,8 +1077,8 @@
 					type: "item"
 				}
 			]
-			x: -3.0d
-			y: 4.0d
+			x: 10.0d
+			y: 11.0d
 		}
 		{
 			dependencies: [
@@ -1204,10 +1138,7 @@
 			y: 6.0d
 		}
 		{
-			dependencies: [
-				"5C6BCB357546F47A"
-				"245CC55733D2D5C6"
-			]
+			dependencies: ["5C6BCB357546F47A"]
 			hide_dependency_lines: true
 			icon: {
 				id: "mysticalagriculture:prismarine_essence"
@@ -1283,8 +1214,42 @@
 			y: 5.0d
 		}
 		{
-			dependencies: ["726CEB2724A750D7"]
+			dependencies: [
+				"726CEB2724A750D7"
+				"20CEFFF2715407F7"
+			]
 			id: "49F010512E2E2851"
+			rewards: [
+				{
+					id: "359D4E675596DA1A"
+					item: {
+						count: 1
+						id: "mysticalagriculture:prosperity_gemstone"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "0738FF2123BC7723"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "1D4533F120B78714"
+					item: {
+						count: 1
+						id: "mysticalagriculture:prosperity_shard"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "243214BF182C60DD"
 				item: { count: 1, id: "mysticalagriculture:prosperity_gemstone" }
@@ -1296,6 +1261,37 @@
 		{
 			dependencies: ["49F010512E2E2851"]
 			id: "29FE4C08FFAC36BD"
+			rewards: [
+				{
+					id: "7C18158D9AE2FF19"
+					item: {
+						count: 1
+						id: "mysticalagriculture:inferium_gemstone"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "0D56202D73A034EC"
+					item: {
+						count: 1
+						id: "mysticalagriculture:prosperity_gemstone"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "70393ED20542134A"
+					item: {
+						count: 1
+						id: "mysticalagriculture:inferium_essence"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "49B01B11AF20AC48"
 				item: { count: 1, id: "mysticalagriculture:inferium_gemstone" }
@@ -1307,17 +1303,68 @@
 		{
 			dependencies: ["29FE4C08FFAC36BD"]
 			id: "4C067A85033A5FD2"
+			optional: true
 			tasks: [{
 				id: "6034ACBB8593A236"
 				item: { count: 1, id: "mysticalagriculture:inferium_growth_accelerator" }
 				type: "item"
 			}]
 			x: 6.0d
-			y: 7.0d
+			y: 6.0d
 		}
 		{
 			dependencies: ["29FE4C08FFAC36BD"]
 			id: "57B88BEDB9B615AA"
+			rewards: [
+				{
+					id: "53CA7A1AE048D5C4"
+					item: {
+						count: 1
+						id: "matc:inferium_crystal"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "0A8FA2FE9E07D50C"
+					item: {
+						count: 1
+						id: "mysticalagriculture:inferium_gemstone"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "6D10235B1050034B"
+					item: {
+						count: 1
+						id: "mysticalagriculture:prosperity_shard"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "60F7700079FABC8B"
+					item: {
+						count: 1
+						id: "mysticalagriculture:inferium_essence"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "4265991B5D9E4D5F"
+					item: {
+						count: 1
+						id: "pamhc2foodcore:basicfishsandwichitem"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "13C05DAAB821D4EE"
 				item: { count: 1, id: "matc:inferium_crystal" }
@@ -1329,6 +1376,26 @@
 		{
 			dependencies: ["57B88BEDB9B615AA"]
 			id: "4FF56671822790A5"
+			rewards: [
+				{
+					id: "633E71C0740790D8"
+					item: {
+						count: 1
+						id: "mysticalagriculture:prudentium_essence"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "6F308C9D74058BE0"
+					item: {
+						count: 1
+						id: "pamhc2foodextended:cherrysmoothieitem"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "055FC4A797FCD6E4"
 				item: { count: 1, id: "mysticalagriculture:prudentium_essence" }
@@ -1987,7 +2054,7 @@
 			y: 3.0d
 		}
 		{
-			dependencies: ["49C1E756D880F6AF"]
+			dependencies: ["780B474DBCE85FC2"]
 			id: "7A1E4EBB97BA64E2"
 			rewards: [
 				{
@@ -2015,8 +2082,50 @@
 				item: { count: 1, id: "mysticalagriculture:inferium_farmland" }
 				type: "item"
 			}]
+			x: 1.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["726CEB2724A750D7"]
+			hide_dependent_lines: true
+			id: "60DE94EF49F133DD"
+			rewards: [
+				{
+					id: "683C277ADC21D657"
+					item: {
+						count: 1
+						id: "mysticalagriculture:prosperity_seed_base"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "7F5934ABA31434BF"
+					item: {
+						count: 1
+						id: "mysticalagriculture:prosperity_shard"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "607DD956BCCD17C8"
+					item: {
+						count: 1
+						id: "pamhc2foodextended:raspberrytrifleitem"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "74430F8E9041E552"
+				item: { count: 1, id: "mysticalagriculture:prosperity_seed_base" }
+				type: "item"
+			}]
 			x: 0.0d
-			y: -2.0d
+			y: 2.0d
 		}
 	]
 }

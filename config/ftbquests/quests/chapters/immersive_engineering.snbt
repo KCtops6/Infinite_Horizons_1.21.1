@@ -251,10 +251,7 @@
 			y: -4.0d
 		}
 		{
-			dependencies: [
-				"579D7FD06F5DC4D7"
-				"340DD2DC2C2D5178"
-			]
+			dependencies: ["579D7FD06F5DC4D7"]
 			dependency_requirement: "one_completed"
 			id: "5E827E06E44A7392"
 			rewards: [{
@@ -326,8 +323,8 @@
 				item: { count: 1, id: "immersiveengineering:wirecoil_copper" }
 				type: "item"
 			}]
-			x: -4.0d
-			y: -1.0d
+			x: -8.0d
+			y: 0.0d
 		}
 		{
 			dependencies: [
@@ -371,8 +368,8 @@
 				item: { count: 1, id: "immersiveengineering:wirecoil_copper_ins" }
 				type: "item"
 			}]
-			x: -5.0d
-			y: -1.0d
+			x: -9.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["5C6E52E6852A69A3"]
@@ -403,8 +400,8 @@
 				item: { count: 1, id: "immersiveengineering:hemp_fabric" }
 				type: "item"
 			}]
-			x: -6.0d
-			y: 0.0d
+			x: -10.0d
+			y: 1.0d
 		}
 		{
 			dependencies: ["7E6FA6BACC7B007E"]
@@ -445,13 +442,13 @@
 					type: "item"
 				}
 			]
-			x: -7.0d
-			y: 0.0d
+			x: -11.0d
+			y: 1.0d
 		}
 		{
 			dependencies: [
 				"5E827E06E44A7392"
-				"04FA260584F1022B"
+				"60F8FFEE0B7D784C"
 			]
 			id: "284B54FA16435A6E"
 			rewards: [
@@ -590,8 +587,8 @@
 					type: "item"
 				}
 			]
-			x: -5.0d
-			y: -2.0d
+			x: -7.0d
+			y: 0.0d
 		}
 		{
 			dependencies: [
@@ -739,7 +736,6 @@
 			y: -7.0d
 		}
 		{
-			dependencies: ["340DD2DC2C2D5178"]
 			dependency_requirement: "one_completed"
 			id: "3FF38CBC418A2850"
 			rewards: [
@@ -773,10 +769,7 @@
 			y: -8.0d
 		}
 		{
-			dependencies: [
-				"5E827E06E44A7392"
-				"340DD2DC2C2D5178"
-			]
+			dependencies: ["5E827E06E44A7392"]
 			dependency_requirement: "one_completed"
 			hide_dependency_lines: true
 			hide_dependent_lines: true
@@ -839,22 +832,6 @@
 			}]
 			x: 0.0d
 			y: 2.0d
-		}
-		{
-			hide_dependent_lines: true
-			id: "340DD2DC2C2D5178"
-			tasks: [{
-				icon: {
-					id: "immersiveengineering:craftingtable"
-				}
-				id: "2C4D546AE253CBDD"
-				observe_type: 0
-				timer: 0L
-				to_observe: "immersiveengineering:craftingtable"
-				type: "observation"
-			}]
-			x: 1.0d
-			y: -3.0d
 		}
 		{
 			dependencies: ["579D7FD06F5DC4D7"]
@@ -921,7 +898,60 @@
 			y: 2.0d
 		}
 		{
+			dependencies: ["39267BFF9DE8197E"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
 			id: "5E90BCCF83E8809E"
+			rewards: [
+				{
+					id: "684BD8E275A97FF7"
+					item: {
+						count: 1
+						id: "immersiveengineering:heavy_engineering"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "7E7262043DFCEB31"
+					item: {
+						count: 1
+						id: "immersiveengineering:component_steel"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "2026327F4D6DF69D"
+					item: {
+						count: 1
+						id: "kubejs:steel_plate"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "46208C33C99E64C1"
+					item: {
+						count: 1
+						id: "kubejs:electrum_ingot"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "5618DECB4C82865E"
+					item: {
+						count: 1
+						id: "pamhc2foodextended:friedbolognasandwichitem"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "06E998DC6D7B1E40"
 				item: { count: 1, id: "immersiveengineering:heavy_engineering" }
@@ -929,6 +959,359 @@
 			}]
 			x: 1.0d
 			y: 2.0d
+		}
+		{
+			dependencies: [
+				"11C7F6A80D189A56"
+				"579D7FD06F5DC4D7"
+			]
+			id: "39267BFF9DE8197E"
+			rewards: [
+				{
+					id: "56A52BE8CB829753"
+					item: {
+						count: 1
+						id: "immersiveengineering:component_steel"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "0F28FAE7E85F685A"
+					item: {
+						count: 1
+						id: "kubejs:steel_plate"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "32D20FB061288B38"
+					item: {
+						count: 1
+						id: "minecraft:copper_ingot"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "1AC87A39E6C0E463"
+					item: {
+						count: 1
+						id: "pamhc2foodextended:cashewchickenitem"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1B3D724DA62013EA"
+				item: { count: 1, id: "immersiveengineering:component_steel" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"36B33FC4353651BE"
+				"11C7F6A80D189A56"
+				"5E827E06E44A7392"
+			]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "4F46215D6C93192D"
+			rewards: [
+				{
+					id: "06F6CBB61AC72E80"
+					item: {
+						count: 1
+						id: "immersiveengineering:generator"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "3F01BBD52D43F9D3"
+					item: {
+						count: 1
+						id: "immersiveengineering:component_iron"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "3F5F3FD96D2E61A9"
+					item: {
+						count: 1
+						id: "immersiveengineering:coil_mv"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "6C18C29B9C397935"
+					item: {
+						count: 1
+						id: "kubejs:steel_plate"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "272B314CEE28CE05"
+					item: {
+						count: 1
+						id: "pamhc2foodcore:grilledcheeseandhamitem"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "16222AD129F0A14B"
+				item: { count: 1, id: "immersiveengineering:generator" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["04FA260584F1022B"]
+			id: "60F8FFEE0B7D784C"
+			rewards: [
+				{
+					id: "596490CC7BE5CC9B"
+					item: {
+						count: 1
+						id: "immersiveengineering:coil_lv"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "6445A2FE878B32BD"
+					item: {
+						count: 1
+						id: "immersiveengineering:wirecoil_copper"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "262A8CC790A5F94A"
+					item: {
+						count: 1
+						id: "minecraft:iron_ingot"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "4D0ED4A5FAEFCEE4"
+					item: {
+						count: 1
+						id: "pamhc2foodcore:grilledbeefskeweritem"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3DA5FF0E51AB85B1"
+				item: { count: 1, id: "immersiveengineering:coil_lv" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["0866DAF8B5A928A7"]
+			id: "7EC218EBB7D30AAE"
+			rewards: [{
+				id: "36AD91F1770C6C62"
+				item: {
+					count: 1
+					id: "immersiveengineering:wirecoil_electrum"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [{
+				id: "7DB19412A55BB0D6"
+				item: { count: 1, id: "immersiveengineering:wirecoil_electrum" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["7EC218EBB7D30AAE"]
+			id: "36B33FC4353651BE"
+			rewards: [
+				{
+					id: "57E448BADB88B4F3"
+					item: {
+						count: 1
+						id: "immersiveengineering:coil_mv"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "35020442648E3AF5"
+					item: {
+						count: 1
+						id: "immersiveengineering:wirecoil_electrum"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "49A152F8DB6A0696"
+				item: { count: 1, id: "immersiveengineering:coil_mv" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["11C7F6A80D189A56"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "5F703A23C26C01E6"
+			tasks: [{
+				id: "35BF606C73AFE8F2"
+				item: { count: 1, id: "immersiveengineering:radiator" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"7EC218EBB7D30AAE"
+				"54386D0E651B858B"
+			]
+			id: "0C0070FFB7D2AB60"
+			rewards: [
+				{
+					id: "09FA77DE811386EC"
+					item: {
+						count: 1
+						id: "immersiveengineering:wirecoil_electrum_ins"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "757449E8F440B121"
+					item: {
+						count: 1
+						id: "immersiveengineering:wirecoil_electrum"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4262566B431069FA"
+				item: { count: 1, id: "immersiveengineering:wirecoil_electrum_ins" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["7EC218EBB7D30AAE"]
+			icon: {
+				id: "immersiveengineering:connector_mv"
+			}
+			id: "1979586CA2823D1D"
+			rewards: [
+				{
+					count: 4
+					id: "1DFFCB356DC73B14"
+					item: {
+						count: 1
+						id: "immersiveengineering:connector_mv"
+					}
+					random_bonus: 8
+					type: "item"
+				}
+				{
+					count: 8
+					id: "685E0FEB005A5FF1"
+					item: {
+						count: 1
+						id: "immersiveengineering:connector_mv_relay"
+					}
+					random_bonus: 16
+					type: "item"
+				}
+				{
+					count: 3
+					id: "1ABEB5C402D83FAB"
+					item: {
+						count: 1
+						id: "kubejs:electrum_ingot"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "7F00CB60F3631951"
+					item: { count: 1, id: "immersiveengineering:connector_mv" }
+					type: "item"
+				}
+				{
+					id: "2F1ED08192C0E839"
+					item: { count: 1, id: "immersiveengineering:connector_mv_relay" }
+					type: "item"
+				}
+			]
+			x: -7.0d
+			y: 2.0d
+		}
+		{
+			id: "54F996FCBFB65449"
+			rewards: [{
+				count: 3
+				id: "65CCE0A6B9DF2A42"
+				item: {
+					count: 1
+					id: "kubejs:steel_plate"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [
+				{
+					count: 27L
+					id: "21C68880E7234909"
+					item: { count: 1, id: "immersiveengineering:blastbrick_reinforced" }
+					type: "item"
+				}
+				{
+					id: "0EEB081CBFC83786"
+					item: { count: 1, id: "minecraft:hopper" }
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: 0.0d
 		}
 	]
 }

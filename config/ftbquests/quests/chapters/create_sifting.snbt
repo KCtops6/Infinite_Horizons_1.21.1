@@ -11,17 +11,6 @@
 	quest_links: [ ]
 	quests: [
 		{
-			dependencies: ["170192578F1D5CA0"]
-			id: "5AA4B91C385A159A"
-			tasks: [{
-				id: "600471447EB2CDDC"
-				item: { count: 1, id: "createsifter:string_mesh" }
-				type: "item"
-			}]
-			x: 0.0d
-			y: 0.0d
-		}
-		{
 			dependencies: ["246E7273A1E9A735"]
 			id: "74B7E90FE385180A"
 			rewards: [
@@ -74,6 +63,17 @@
 				type: "item"
 			}]
 			x: 1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["170192578F1D5CA0"]
+			id: "5AA4B91C385A159A"
+			tasks: [{
+				id: "600471447EB2CDDC"
+				item: { count: 1, id: "createsifter:string_mesh" }
+				type: "item"
+			}]
+			x: 0.0d
 			y: 0.0d
 		}
 	]

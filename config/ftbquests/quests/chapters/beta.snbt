@@ -330,7 +330,7 @@
 				item: { count: 1, id: "create:encased_fan" }
 				type: "item"
 			}]
-			x: 4.0d
+			x: 2.0d
 			y: -4.0d
 		}
 		{
@@ -755,7 +755,7 @@
 				item: { count: 1, id: "createaddition:rolling_mill" }
 				type: "item"
 			}]
-			x: 2.0d
+			x: 4.0d
 			y: -4.0d
 		}
 		{
@@ -972,7 +972,10 @@
 			y: 2.0d
 		}
 		{
-			dependencies: ["579D7FD06F5DC4D7"]
+			dependencies: [
+				"579D7FD06F5DC4D7"
+				"5A382D145AA88DD9"
+			]
 			id: "6783BFDE6E6F147D"
 			rewards: [
 				{
@@ -1357,6 +1360,20 @@
 				}
 			]
 			x: 20.0d
+			y: -4.0d
+		}
+		{
+			dependencies: [
+				"33FD237C4BEF8440"
+				"0866DAF8B5A928A7"
+			]
+			id: "7FF59CE4574EE944"
+			tasks: [{
+				id: "14002FCB5F6C8B50"
+				item: { count: 1, id: "createaddition:straw" }
+				type: "item"
+			}]
+			x: 6.0d
 			y: -4.0d
 		}
 	]

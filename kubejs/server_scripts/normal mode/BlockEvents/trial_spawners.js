@@ -68,9 +68,9 @@ BlockEvents.rightClicked('minecraft:copper_grate', event => {
 
     // Special case for Vindicator -> Evoker
     if (trialName === 'vindicator') {
-        command = `setblock ${x} ${y} ${z} trial_spawner[ominous=false,trial_spawner_state=active]{normal_config:{spawn_potentials:[{data:{entity:{id:"minecraft:vindicator"}},weight:1}]},ominous_config:{spawn_potentials:[{data:{entity:{id:"minecraft:evoker"}},weight:1}]},target_cooldown_length:6000} replace`;
+        command = `setblock ${x} ${y} ${z} trial_spawner[ominous=true,trial_spawner_state=active]{LootTable:"minecraft:trials/ominous/trial_spawner",normal_config:{spawn_potentials:[{data:{entity:{id:"minecraft:vindicator"}},weight:1}]},ominous_config:{spawn_potentials:[{data:{entity:{id:"minecraft:evoker"}},weight:1}]},target_cooldown_length:6000} replace`;
     } else {
-        command = `setblock ${x} ${y} ${z} trial_spawner[ominous=false,trial_spawner_state=active]{normal_config:{spawn_potentials:[{data:{entity:{id:"minecraft:${trialName}"}},weight:1}]},target_cooldown_length:6000} replace`;
+        command = `setblock ${x} ${y} ${z} trial_spawner[ominous=true,trial_spawner_state=active]{LootTable:"minecraft:trials/ominous/trial_spawner",normal_config:{spawn_potentials:[{data:{entity:{id:"minecraft:${trialName}"}},weight:1}]},target_cooldown_length:6000} replace`;
     }
 
     server.runCommandSilent(command);

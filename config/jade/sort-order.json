@@ -91,5 +91,8 @@
   "mysticalagriculture:crop": null,
   "mysticalagriculture:inferium_crop": null,
   "mysticalagriculture:infused_farmland": null,
+  "productivebees:bee": null,
+  "productivebees:canvas_beehive": null,
+  "productivebees:solitary_nest": null,
   "waystones:waystone": null
 }

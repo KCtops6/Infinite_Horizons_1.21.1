@@ -116,6 +116,7 @@ ServerEvents.recipes(event => {
                 },
                 results: [
                     {
+                        count: i,
                         item: `mysticalagriculture:${seed.material}_essence`    // certain output of whatever essence
                     },
                     {
@@ -127,7 +128,7 @@ ServerEvents.recipes(event => {
                     item: `mysticalagriculture:${map.get(i)}_farmland`  // soil of whatever tier we are currently on.
                 },
                 time: t // grow time (depicted by base grow time minus iterative percentage decrease).
-            })
+            }).id('kubejs:cloche/mystical_agriculture/' + seed.material + '_tier_' + i) // recipe id.
             t -= (t * 0.1)  // if there is a next tier, it will be ten percent faster.
         }
     })

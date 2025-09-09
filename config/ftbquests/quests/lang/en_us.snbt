@@ -1,9 +1,10 @@
 {
-	chapter.120EED8195D4B10C.title: "Pam's Harvestcraft"
+	chapter.02795623E294F878.title: "Pam's Harvestcraft"
 	chapter.17F179085511CF63.title: "Earthly Beginnings"
 	chapter.197A296AEC020B47.title: "Immersive Engineering"
 	chapter.1B73F34BAB8F6FCD.chapter_subtitle: ["Power Generation"]
 	chapter.1B73F34BAB8F6FCD.title: "Generators Galore"
+	chapter.1C990C36267A7CE1.title: "Productive Bees"
 	chapter.247639ED7F0AF536.title: "Mystical Agriculture"
 	chapter.2A5182EC401BA623.title: "The Final Trial"
 	chapter.2F34CC58AE75DDE7.chapter_subtitle: ["Early-Game \"Non-Digital\" Storage"]
@@ -127,9 +128,6 @@
 	quest.233FF73DF6AF2D93.quest_desc: ["The Nether’s corruption runs deep, even altering Scoria placed near a Nether Portal. This transformation yields &lSoulstone&r and Soulium Ore, materials infused with the essence of the lost. Break Soulium Ore to obtain &lSoulium Dust&r, a crucial component for crafting Mystical Agriculture’s Mob Seeds. If you seek to harness the power of creatures, you’ll need to start here."]
 	quest.233FF73DF6AF2D93.quest_subtitle: "Scoria’s Dark Transformation"
 	quest.233FF73DF6AF2D93.title: "The Essence of Souls"
-	quest.245CC55733D2D5C6.quest_desc: ["&lTertium&r is the next level after Prudentium, and to unlock it, you’ll need to craft a &lPrudentium Infusion Crystal&r. Combine Prudentium Essence, a Tertium Infusion Crystal, and additional Prosperity Shards to create the crystal. Once crafted, use it in the same manner as before to infuse and obtain Tertium Essence, unlocking even more powerful resources for your journey!"]
-	quest.245CC55733D2D5C6.quest_subtitle: "Ascending to the Next Level"
-	quest.245CC55733D2D5C6.title: "The Tertium Infusion"
 	quest.246E7273A1E9A735.quest_desc: ["Brass is a very useful alloy in Create as it is used for later-game infrastructure. "]
 	quest.246E7273A1E9A735.quest_subtitle: "Very Useful Alloy"
 	quest.26760351A93ADC05.quest_desc: ["The wind can be harnessed to generate rotational energy. Craft a &lWindmill Bearing&r and gather enough &lSails&r to build your Windmill. Once assembled, place it in an open area to capture the wind’s energy and power your mechanical systems. Let the wind carry you to new heights of automation!"]
@@ -228,6 +226,7 @@
 	quest.49C1E756D880F6AF.quest_desc: ["Unlock the ability to grow Inferium passively by crafting &lInferium Seeds&r. Plant and tend to these seeds to harvest Inferium Essence over time, giving you a steady supply of this crucial resource for Mystical Agriculture. Cultivate your own source of power and take your farming to the next level!"]
 	quest.49C1E756D880F6AF.quest_subtitle: "Growing Inferium"
 	quest.49C1E756D880F6AF.title: "Seeds of Power"
+	quest.4BB559E512BBA041.title: "Crop Collecting"
 	quest.4DDAD3C6DB61772F.quest_desc: ["With &lArmadillo Seeds&r, you can grow &lArmadillo Essence&r, granting you access to materials related to armadillos, including their tough, protective armor. Plant these seeds to harvest the essence and craft with the resilience of an armadillo."]
 	quest.4DDAD3C6DB61772F.quest_subtitle: "Armor from the Ground"
 	quest.4DDAD3C6DB61772F.title: "Essence of the Armadillo"
@@ -246,9 +245,6 @@
 	quest.51747FB6033E44CA.quest_desc: ["With &lNether Seeds&r, you can grow &lNether Essence&r, a crucial material for crafting various Nether-related resources. No need to rely on portal transformations—produce Nether materials safely and efficiently in your own world."]
 	quest.51747FB6033E44CA.quest_subtitle: "Bringing the Nether to You"
 	quest.51747FB6033E44CA.title: "Essence of the Nether"
-	quest.518AD3B1EB3FADBF.quest_desc: ["By combining Stone with Fire Essence, you can craft &lTuff&r, an essential step toward obtaining Deepslate. If you're aiming to work with deeper, more resilient materials, this is your gateway to expansion. Start crafting and prepare for the next stage of stonework!"]
-	quest.518AD3B1EB3FADBF.quest_subtitle: "Crafting Tuff"
-	quest.518AD3B1EB3FADBF.title: "Toughen Up"
 	quest.528AC4A13D35951B.quest_desc: ["Sometimes, you need a little extra force to break through. Craft a &lStone Hammer&r, then use it to break cobblestone into &lGravel&r. This simple tool will help you expand your resource pool and provide the materials needed for future advancements. Keep hammering away."]
 	quest.528AC4A13D35951B.quest_subtitle: "Turning Stone into Gravel"
 	quest.528AC4A13D35951B.title: "Hammering the Basics"
@@ -287,13 +283,14 @@
 	quest.66CC1872F77E4EE6.quest_desc: ["&lAir Seeds&r grow into &lAir Essence&r, which may not be immediately useful for early-game crafting, but it becomes crucial for high-level gear in the end game. It’s best to start growing some now, as you’ll need it later for advanced recipes and powerful equipment. Planting these seeds early will save you time when you’re ready to push toward endgame progression."]
 	quest.66CC1872F77E4EE6.quest_subtitle: "Preparing for the Future"
 	quest.66CC1872F77E4EE6.title: "Winds of Change"
+	quest.6B053EAB0CB56AE7.title: "Kitchen Essentials"
 	quest.6BC4240AF36D8AA9.quest_desc: ["The Nether’s influence can reshape the Overworld. By placing Sandstone near an active Nether Portal, the heat and energy from the portal will gradually darken it, transforming it into &lBlackstone&r. This method provides an Overworld-friendly way to obtain Blackstone, making it a valuable resource for builders and crafters alike."]
 	quest.6BC4240AF36D8AA9.quest_subtitle: "Transforming Sandstone into Blackstone"
 	quest.6BC4240AF36D8AA9.title: "Shadowed Sands"
 	quest.6F234337CE289CD4.quest_desc: ["With &lAndesite&r and &lIron&r in hand, it’s time to craft the cornerstone of Create’s mechanical systems—&lAndesite Alloy&r. Combine Andesite with Iron to forge this versatile material. Andesite Alloy will be used in various Create machines, unlocking your potential for automation and advancement."]
 	quest.6F234337CE289CD4.quest_subtitle: "Forging the Andesite Alloy"
 	quest.6F234337CE289CD4.title: "The Heart of Creation"
-	quest.70A474AF7638B9C0.quest_desc: [""]
+	quest.70A474AF7638B9C0.quest_desc: ["Check out the wiki for more information."]
 	quest.71B4677400CE51F3.quest_desc: ["You can find lava in a blacksmith, craft fire seeds, or mix pebbles in a create mixer."]
 	quest.720A2F80D5E73A17.quest_desc: ["The &lNetherite Generator&r is the ultimate power source, capable of generating 256 FE/t with a transfer rate of 1024 FE/t. This upgrade from the Diamond Generator provides an efficient 0.4 FE/t consumption rate and boasts a buffer capacity of 1,000,000 FE. By using solid fuels, the Netherite Generator brings a reliable, high-output energy source to your setup. Upgrade now to harness the power of Netherite and fuel your machines with the most advanced energy production available."]
 	quest.720A2F80D5E73A17.quest_subtitle: "Upgrade to the pinnacle of energy generation"
@@ -307,6 +304,7 @@
 	quest.74AED40DCEDCCA58.quest_desc: ["With the Nether Portal active, its influence begins to spread. Any Stone placed near the portal will slowly transform into &lMagma Blocks&r, a useful material for various contraptions, traps, and even lava generation. Take advantage of this passive conversion to gather magma without ever stepping foot in the Nether!"]
 	quest.74AED40DCEDCCA58.quest_subtitle: "Magma from the Nether’s Influence"
 	quest.74AED40DCEDCCA58.title: "The Heat Spreads"
+	quest.74B7E90FE385180A.quest_desc: ["The brass mesh unlocks &6netherite scrap&r production."]
 	quest.76B1BFA765F786BE.quest_desc: ["The &lObsidian Generator&r is a powerful upgrade that brings your energy generation to a new level. With a generation rate of 128 FE/t and a transfer rate of 512 FE/t, this generator ensures a stable and efficient energy flow. With a substantial buffer capacity of 500,000 FE and a consumption rate of just 0.6, it is an excellent choice for long-term power needs. Fueling on solid resources, it offers a seamless upgrade from the Diamond Generator, providing the energy boost your systems demand."]
 	quest.76B1BFA765F786BE.quest_subtitle: "A new tier of efficiency for energy generation"
 	quest.76B1BFA765F786BE.title: "Obsidian Power Surge"
@@ -361,6 +359,7 @@
 	task.18D7038439CDF699.title: "Construct the Bottling Machine"
 	task.1B6D2A206694B182.title: "Create a Vault."
 	task.1F0741044C7EBCBF.title: "Welcome to Infinite Horizons 2!"
+	task.22EFF4295996F3B4.title: "Observe an Engineer's Workbench."
 	task.23F9812A10B9EDCF.title: "Any #sophisticated:auto_blasting_upgrades"
 	task.25812E1A01567F7C.title: "Any #sophisticated:smoking_upgrades"
 	task.27149F550CA01926.title: "Any #curios:back"
@@ -368,6 +367,7 @@
 	task.29AE4DCAE647CCC7.title: "Kill a Piglin Brute."
 	task.2BB146FC3DFF7CB8.title: "Any #sophisticated:void_upgrades"
 	task.2BBABE6D3F58A4FF.title: "Any #sophisticatedstorage:diamond_upgrades"
+	task.2C4D546AE253CBDD.title: "Observe an Engineer's Crafting Table."
 	task.2D769F0F763C040B.title: "Assemble the Coke Oven"
 	task.2EC0140CC254EA63.title: "Craft a fluid storage cell."
 	task.30319FC6F26BC172.title: "Any #sophisticated:advanced_void_upgrades"
@@ -376,6 +376,7 @@
 	task.35DBF5A6561B3A66.title: "Harvest logs."
 	task.36C620A510598435.title: "Observe a Blast Furnace"
 	task.38E0BE74D0393D6D.title: "Observe a Smithing Table."
+	task.3D94047A9C0C9797.title: "Any #c:juices"
 	task.3F38B2A629773F00.title: "Any #sophisticatedstorage:gold_upgrades"
 	task.40DA8ED52BE6492A.title: "Any #sophisticated:magnet_upgrades"
 	task.410A38954F068438.title: "Any #sophisticatedstorage:iron_upgrades"
@@ -399,6 +400,7 @@
 	task.5A702F712D92A8C9.title: "Any #c:cheese"
 	task.5A8534B4DD19A691.title: "Craft Sand Paper."
 	task.5A9ADEB7C349E1CA.title: "Craft an item storage cell."
+	task.5D2C3D8D94140C4E.title: "Pam's Harvestcraft"
 	task.6335A2495218B5F6.title: "Any #sophisticatedstorage:upgrade"
 	task.6509A635775E13FF.title: "Rotational Energy Setup"
 	task.65132A4E053F1FF4.title: "Craft a Shulker Box."
@@ -411,10 +413,12 @@
 	task.6F526BEC8B38F756.title: "Any #sophisticatedstorage:copper_storages"
 	task.6FF29BA6B39ED82E.title: "Kill 25 Breezes."
 	task.70901D36D39D3797.title: "Kill 15 Evokers."
+	task.7570386276C99EBD.title: "Obtain any wool."
 	task.77310FD68DBCFAE8.title: "Kill a Breeze"
 	task.779D6F34909CC0A0.title: "Any #c:jellies"
 	task.77D7C9FB811D97C1.title: "Any #sophisticated:void_upgrades"
 	task.78677E7486B9BA7B.title: "Find a Strider."
 	task.7D5DDC5CDF4EB6EC.title: "Kill a Shulker."
 	task.7DC414DB130CC223.title: "Craft a digital crafting storage block."
+	task.7DC78BA3F070AEA6.title: "Craft an Advanced Beehive."
 }

@@ -62,14 +62,6 @@
   "ftbquests": {
     "barrier": true
   },
-  "easy_villagers": {
-    "villager": true,
-    "converter": true,
-    "breeder": true
-  },
-  "mysticalagradditions": {
-    "infused_farmland": true
-  },
   "immersiveengineering": {
     "multiblock_icon": true
   },
@@ -87,14 +79,6 @@
     "block_properties": false,
     "mod_name": true
   },
-  "waystones": {
-    "waystone": true
-  },
-  "mysticalagriculture": {
-    "infused_farmland": true,
-    "crop": true,
-    "inferium_crop": true
-  },
   "balm": {
     "jade": true
   },
@@ -109,5 +93,27 @@
     "power_storage": true,
     "crafting_monitor": true,
     "part_name": true
+  },
+  "productivebees": {
+    "bee": true,
+    "solitary_nest": true,
+    "canvas_beehive": true,
+    "bee_attributes": true
+  },
+  "easy_villagers": {
+    "villager": true,
+    "converter": true,
+    "breeder": true
+  },
+  "mysticalagradditions": {
+    "infused_farmland": true
+  },
+  "waystones": {
+    "waystone": true
+  },
+  "mysticalagriculture": {
+    "infused_farmland": true,
+    "crop": true,
+    "inferium_crop": true
   }
 }

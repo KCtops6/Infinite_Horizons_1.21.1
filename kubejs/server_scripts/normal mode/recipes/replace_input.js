@@ -1,8 +1,17 @@
+/**
+ * KubeJS script to replace specific inputs in crafting recipes
+ * to improve resource availability and recipe consistency.
+ */
 ServerEvents.recipes(event => {
-    event.replaceInput(
-        { output: 'mysticalagriculture:fire_agglomeratio' },
-        'minecraft:lava_bucket',
-        'minecraft:flint'
+    /**
+     * Replace lava bucket with flint in Mystical Agriculture's fire agglomeratio recipen
+     * Flint is more abundant and easier to obtain than lava buckets
+     * which require a bucket and a source of lava.
+     */
+    event.replaceInput( // Replace input in recipes
+        { output: 'mysticalagriculture:fire_agglomeratio' },    // any recipe that outputs fire agglomeratio
+        'minecraft:lava_bucket',    // specifically replace lava bucket
+        'minecraft:flint'   // force it to use flint instead
     )
 
     /**
@@ -33,5 +42,4 @@ ServerEvents.recipes(event => {
          'create:wheat_flour'   // force it to use Create's wheat flour
     ); // Replace Pam's HarvestCraft flour with Create's wheat flour
 
-    
 })

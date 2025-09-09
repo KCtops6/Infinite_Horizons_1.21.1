@@ -83,6 +83,42 @@ let recipes = [
         catalyst: 'minecraft:obsidian',
         consumeFirstBlock: false,
         consumeSecondBlock: false
+    }, /* Stone */ {
+        result: 'minecraft:stone',
+        advanced: false,
+        input1: 'minecraft:water',
+        input2: 'minecraft:lava',
+        requirements: [{
+            "type": "mechanicals:min_speed",
+            "value": 8.0
+        }],
+        catalyst: null,
+        consumeFirstBlock: false,
+        consumeSecondBlock: false
+    }, /* Deepslate */ {
+        result: 'minecraft:deepslate',
+        advanced: false,
+        input1: 'minecraft:water',
+        input2: 'minecraft:lava',
+        requirements: [{
+            "type": "mechanicals:min_speed",
+            "value": 16.0
+        }],
+        catalyst: 'minecraft:deepslate',
+        consumeFirstBlock: false,
+        consumeSecondBlock: false
+    }, /* Netherrack */ {
+        result: 'minecraft:netherrack',
+        advanced: false,
+        input1: 'minecraft:water',
+        input2: 'minecraft:lava',
+        requirements: [{
+            "type": "mechanicals:min_speed",
+            "value": 32.0
+        }],
+        catalyst: 'minecraft:netherrack',
+        consumeFirstBlock: false,
+        consumeSecondBlock: false
     }
 ]
 ServerEvents.recipes(event => {
@@ -101,6 +137,6 @@ ServerEvents.recipes(event => {
                 "second": r.consumeSecondBlock
             },
             "result": { "id": r.result }
-        })
+        }).id('kubejs:extruding/' + r.result.replace(':', '_') + (r.advanced ? '_advanced' : ''))
     })
 })

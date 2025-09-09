@@ -1,3 +1,3 @@
 ServerEvents.recipes(event => {
-    event.smelting('kubejs:rubber', 'kubejs:tree_sap').xp(0.1);
+    event.smelting('kubejs:raw_rubber', 'kubejs:tree_sap').xp(0.1);
 });

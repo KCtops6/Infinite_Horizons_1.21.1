@@ -321,7 +321,7 @@
 				type: "item"
 			}]
 			x: 15.0d
-			y: 2.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["3642E2D78B348AE3"]
@@ -422,8 +422,8 @@
 				item: { count: 1, id: "minecraft:lava_bucket" }
 				type: "item"
 			}]
-			x: 15.0d
-			y: 3.0d
+			x: 16.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["7C75AE73B3CCD66E"]
@@ -996,7 +996,7 @@
 				type: "item"
 			}]
 			x: 15.0d
-			y: 0.0d
+			y: -1.0d
 		}
 		{
 			dependencies: ["7C42B99D6CD2EB48"]
@@ -1305,6 +1305,285 @@
 			}]
 			x: 7.0d
 			y: -2.0d
+		}
+		{
+			dependencies: ["3642E2D78B348AE3"]
+			id: "1037DA8CC7AAF5BD"
+			rewards: [{
+				count: 5
+				id: "5146F1E65F468FD1"
+				item: {
+					count: 1
+					id: "minecraft:emerald"
+				}
+				random_bonus: 4
+				type: "item"
+			}]
+			tasks: [{
+				id: "63958D259942EC4C"
+				item: { count: 1, id: "forester_villager:foresters_table" }
+				type: "item"
+			}]
+			x: 15.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["1037DA8CC7AAF5BD"]
+			icon: {
+				id: "minecraft:birch_log"
+			}
+			id: "38D12C56D606F9F7"
+			rewards: [
+				{
+					id: "5361821A6556D52B"
+					item: {
+						count: 1
+						id: "minecraft:birch_sapling"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "1E20766C0E5133B7"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 16L
+					id: "26293F4516DA46F0"
+					item: { count: 1, id: "minecraft:birch_log" }
+					type: "item"
+				}
+				{
+					id: "385457FBC9C65E03"
+					item: { count: 1, id: "minecraft:birch_sapling" }
+					type: "item"
+				}
+			]
+			x: 15.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["1037DA8CC7AAF5BD"]
+			icon: {
+				id: "minecraft:spruce_log"
+			}
+			id: "4E8BCB9E293B6B7C"
+			rewards: [
+				{
+					id: "437E3409108CD1F7"
+					item: {
+						count: 1
+						id: "minecraft:spruce_sapling"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "4BE105559D43BF3D"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 16L
+					id: "33F49650596BCD81"
+					item: { count: 1, id: "minecraft:spruce_log" }
+					type: "item"
+				}
+				{
+					id: "0B9D87EAB7D7A450"
+					item: { count: 1, id: "minecraft:spruce_sapling" }
+					type: "item"
+				}
+			]
+			x: 16.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["1037DA8CC7AAF5BD"]
+			icon: {
+				id: "minecraft:acacia_log"
+			}
+			id: "5707A9488191ED4E"
+			rewards: [
+				{
+					id: "37027B6251E36094"
+					item: {
+						count: 1
+						id: "minecraft:acacia_sapling"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "4AA46FC32469E93E"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 16L
+					id: "7D49999F8673FB4A"
+					item: { count: 1, id: "minecraft:acacia_log" }
+					type: "item"
+				}
+				{
+					id: "77EBAB250509F7B1"
+					item: { count: 1, id: "minecraft:acacia_sapling" }
+					type: "item"
+				}
+			]
+			x: 16.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["1037DA8CC7AAF5BD"]
+			icon: {
+				id: "minecraft:birch_log"
+			}
+			id: "7D4466389690E079"
+			rewards: [
+				{
+					id: "1444C41B86B39D2F"
+					item: {
+						count: 1
+						id: "minecraft:birch_sapling"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "5E76F9D0F3AA0745"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 16L
+					id: "0C9CF354B87D29EE"
+					item: { count: 1, id: "minecraft:birch_log" }
+					type: "item"
+				}
+				{
+					id: "5160B0F1287A2302"
+					item: { count: 1, id: "minecraft:birch_sapling" }
+					type: "item"
+				}
+			]
+			x: 14.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["1037DA8CC7AAF5BD"]
+			icon: {
+				id: "minecraft:birch_log"
+			}
+			id: "09D17A8E9EC4394B"
+			rewards: [
+				{
+					id: "3974C695714BDDBF"
+					item: {
+						count: 1
+						id: "minecraft:birch_sapling"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "55940E2217342DAD"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 16L
+					id: "3A6073A55CE3E551"
+					item: { count: 1, id: "minecraft:birch_log" }
+					type: "item"
+				}
+				{
+					id: "53D18FEC0B6A194D"
+					item: { count: 1, id: "minecraft:birch_sapling" }
+					type: "item"
+				}
+			]
+			x: 15.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["1037DA8CC7AAF5BD"]
+			icon: {
+				id: "minecraft:dark_oak_log"
+			}
+			id: "2942B2BC1A1F4E6D"
+			rewards: [
+				{
+					id: "7BCE6FD2D9FBCE2A"
+					item: {
+						count: 1
+						id: "minecraft:dark_oak_sapling"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "356840475103A1F6"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 16L
+					id: "1283615C4F7CC947"
+					item: { count: 1, id: "minecraft:dark_oak_log" }
+					type: "item"
+				}
+				{
+					id: "7804D6242822D953"
+					item: { count: 1, id: "minecraft:dark_oak_sapling" }
+					type: "item"
+				}
+			]
+			x: 16.0d
+			y: 3.0d
 		}
 	]
 }

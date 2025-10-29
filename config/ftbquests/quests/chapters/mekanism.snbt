@@ -1,0 +1,390 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "mekanism"
+	group: "44896694C1F231C3"
+	id: "51E518A61C4133E7"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			hide_dependency_lines: true
+			id: "3DE14A937275D1A6"
+			rewards: [
+				{
+					id: "1EFC39C103258406"
+					item: {
+						count: 1
+						id: "mekanism:basic_chemical_tank"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "1F918FBB77E38C0F"
+					item: {
+						count: 1
+						id: "kubejs:osmium_ingot"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "5DF901B77B28A0AC"
+					item: {
+						count: 1
+						id: "minecraft:redstone"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2F1294A976385454"
+				item: { count: 1, id: "mekanism:basic_chemical_tank" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			id: "51FB74D751023EC9"
+			rewards: [{
+				id: "5F98BD0C98604861"
+				item: {
+					count: 1
+					id: "kubejs:osmium_ingot"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [{
+				id: "286E3EBF85D3213E"
+				item: { count: 1, id: "kubejs:osmium_ingot" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["51FB74D751023EC9"]
+			id: "6C273EC799815F7E"
+			optional: true
+			rewards: [
+				{
+					id: "0868D370DB8859D9"
+					item: {
+						count: 1
+						id: "mekanismgenerators:heat_generator"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "103C1FC73AEFE534"
+					item: {
+						count: 1
+						id: "kubejs:osmium_ingot"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7BDABE0A75042E90"
+				item: { count: 1, id: "mekanismgenerators:heat_generator" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["51FB74D751023EC9"]
+			id: "567D1C4F8BE959F9"
+			rewards: [
+				{
+					id: "6229131AA6B20F8C"
+					item: {
+						count: 1
+						id: "kubejs:osmium_ingot"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "707740B13E4F4F8D"
+					item: {
+						count: 1
+						id: "mekanism:configurator"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1FB28EA52E3FA21C"
+				item: { count: 1, id: "mekanism:metallurgic_infuser" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["567D1C4F8BE959F9"]
+			id: "6DBE8C47E5D4AFE9"
+			rewards: [
+				{
+					id: "3D86694A7BF7ED58"
+					item: {
+						count: 1
+						id: "mekanism:basic_control_circuit"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "4F30A2DFEA9C883E"
+					item: {
+						count: 1
+						id: "kubejs:osmium_ingot"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "094FF8191D06F04F"
+					item: {
+						count: 1
+						id: "minecraft:redstone"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2800F5E33CAFB3D0"
+				item: { count: 1, id: "mekanism:basic_control_circuit" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["567D1C4F8BE959F9"]
+			id: "4D8088BB789E5D84"
+			rewards: [
+				{
+					id: "55E3441DF233742D"
+					item: {
+						count: 1
+						id: "mekanism:alloy_infused"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "375C3887B4CC9E54"
+					item: {
+						count: 1
+						id: "minecraft:copper_ingot"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "7A6A62E3F36AC51A"
+					item: {
+						count: 1
+						id: "minecraft:redstone"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "32BF9910019559E1"
+				item: { count: 1, id: "mekanism:alloy_infused" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["4D8088BB789E5D84"]
+			id: "08CE85CA674FC3EC"
+			rewards: [
+				{
+					id: "7B613E6779865EFC"
+					item: {
+						count: 1
+						id: "mekanism:energy_tablet"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "59E43D35DB1BAAD0"
+					item: {
+						count: 1
+						id: "mekanism:alloy_infused"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "638FAA119C85EB11"
+				item: { count: 1, id: "mekanism:energy_tablet" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["059A7345EF862B13"]
+			id: "519535E43820AEBE"
+			rewards: [
+				{
+					id: "4D1095FA4AFE69D1"
+					item: {
+						count: 1
+						id: "kubejs:steel_ingot"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "111DA509D45A8BFB"
+					item: {
+						count: 1
+						id: "mekanism:enriched_iron"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "65FA76880AB7476D"
+					item: {
+						count: 1
+						id: "minecraft:coal"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "235184CFCFFD0605"
+				item: { count: 1, id: "kubejs:steel_ingot" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["567D1C4F8BE959F9"]
+			id: "059A7345EF862B13"
+			rewards: [
+				{
+					id: "7003775732E529C0"
+					item: {
+						count: 1
+						id: "mekanism:enriched_iron"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "0339D5BDBF4018A5"
+					item: {
+						count: 1
+						id: "minecraft:iron_ingot"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "183DD650D359A713"
+					item: {
+						count: 1
+						id: "minecraft:coal"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "5A20FEA4DF2430E7"
+				item: { count: 1, id: "mekanism:enriched_iron" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["519535E43820AEBE"]
+			id: "499E25B9E3EC0D82"
+			tasks: [{
+				id: "3DE6940559763ECE"
+				item: { count: 1, id: "mekanism:steel_casing" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"08CE85CA674FC3EC"
+				"499E25B9E3EC0D82"
+			]
+			id: "1FE2B4E4C700CD69"
+			rewards: [
+				{
+					count: 3
+					id: "34440B4AF77DAF68"
+					item: {
+						count: 1
+						id: "kubejs:steel_ingot"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "24F61880FA24B802"
+					item: {
+						count: 1
+						id: "kubejs:osmium_ingot"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "6B65D7DD439DE44F"
+					item: {
+						count: 1
+						id: "mekanism:alloy_infused"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6E29BB005FEB771E"
+				item: { count: 1, id: "mekanism:basic_energy_cube" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 1.0d
+		}
+	]
+}

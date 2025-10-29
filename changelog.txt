@@ -418,6 +418,7 @@ Added deepslate pebble as iron trowel drop from dirt/grass block.
 Added feed items to summon passive mobs early game.
 
 1.21.1-1.0 Pre Release 2
+Added Forester Villager.
 Added Mekanism.
 Added Mekanism Additions.
 Added Mekanism Generators.

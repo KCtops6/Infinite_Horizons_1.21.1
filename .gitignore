@@ -19,4 +19,13 @@ imgui.ini
 mods/Essential*.jar
 /essential
 ops.json
-downloads/git
+downloads/
+whitelist.json
+ops.json
+options.txt
+user-prefs.json
+screenshots/
+resourcepacks/
+profileImage/
+datapacks/
+.vscode/

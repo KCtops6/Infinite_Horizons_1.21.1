@@ -437,3 +437,4 @@ Updated FTB Quests (Forge).
 Updated FTB Teams (Forge).
 Updated FTB Ultimine (Forge).
 Updated FTB XMod Compat.
+Updated GuideME.

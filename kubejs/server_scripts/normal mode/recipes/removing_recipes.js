@@ -12,4 +12,8 @@ ServerEvents.recipes(event => {
      */
     event.remove({ output: 'farmersdelight:wheat_dough' }); // Remove Farmer's Delight wheat dough
     event.remove({ output: 'pamhc2foodcore:doughitem' });   // Remove Pam's HarvestCraft dough item
+    global.nests.forEach(n => {
+		event.remove({ output: `productivebees:${n}_nest` })
+	})
+    event.remove({ output: 'productivebees:bamboo_hive'})
 })

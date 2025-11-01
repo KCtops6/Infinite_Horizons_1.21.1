@@ -423,3 +423,5 @@ Added Mekanism.
 Added Mekanism Additions.
 Added Mekanism Generators.
 Added Mekanism Tools.
+
+Updated Applied Energistics 2.

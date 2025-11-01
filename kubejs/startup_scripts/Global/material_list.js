@@ -73,3 +73,9 @@ global.raw_ore_blocks = [
 global.stones = [
     'tuff', 'deepslate', 'diorite', 'granite', 'andesite'
 ];
+global.nests = [
+    'oak_wood', 'spruce_wood', 'birch_wood', 'dark_oak_wood', 'jungle_wood', 'acacia_wood',
+    'cherry_wood', 'mangrove_wood', 'stone', 'coarse_dirt', 'sand', 'snow',
+    'gravel', 'sugar_cane', 'slimy', 'glowstone', 'soul_sand', 'nether_quartz', 'nether_gold',
+    'nether_brick', 'end_stone', 'obsidian', 'bumble_bee', 'sugarbag', 'warped_bee', 'crimson_bee'
+]

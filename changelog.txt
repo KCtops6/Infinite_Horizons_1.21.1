@@ -426,3 +426,4 @@ Added Mekanism Tools.
 
 Updated Applied Energistics 2.
 Updated Balm.
+Updated Collective.

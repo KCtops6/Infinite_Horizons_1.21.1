@@ -427,9 +427,6 @@ Added Mekanism Tools.
 Updated Applied Energistics 2.
 Updated Balm.
 Updated Collective.
-Updated Create.
-Updated Create Crafts & Additions.
-Updated Create: Deep Dark [Forge/NeoForge].
 Updated Easy Magic.
 Updated Entity Culling Fabric/Forge.
 Updated FTB Library (Forge).
@@ -440,8 +437,6 @@ Updated FTB XMod Compat.
 Updated GuideME.
 Updated Industrial Foregoing.
 Updated Just Enough Items (JEI).
-Updated KubeJS.
-Updated LootJS: KubeJS Addon.
 Updated Moonlight Lib.
 Updated MoreJS.
 Updated Pam's HarvestCraft 2 - Crops.

@@ -450,3 +450,4 @@ Updated Smarter Farmers (farmers replant).
 Updated Sophisticated Backpacks.
 Updated Sophisticated Core.
 Updated Sophisticated Storage.
+Updated Trading Post.

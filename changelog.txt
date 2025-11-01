@@ -447,3 +447,4 @@ Updated Pam's HarvestCraft 2 - Crops.
 Updated Productive Bees.
 Updated Puzzles Lib.
 Updated Smarter Farmers (farmers replant).
+Updated Sophisticated Backpacks.

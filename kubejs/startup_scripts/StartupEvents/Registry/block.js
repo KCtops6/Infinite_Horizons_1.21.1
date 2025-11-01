@@ -1,3 +1,4 @@
+const capitalize = str => str.charAt(0).toUpperCase() + str.slice(1)
 StartupEvents.registry("block", (event) => {
     const formatName = (id) => {
         return id.split('_').map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' ')

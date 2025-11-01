@@ -432,3 +432,4 @@ Updated Create Crafts & Additions.
 Updated Create: Deep Dark [Forge/NeoForge].
 Updated Easy Magic.
 Updated Entity Culling Fabric/Forge.
+Updated FTB Library (Forge).

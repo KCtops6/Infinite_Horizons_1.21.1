@@ -445,3 +445,4 @@ Updated Moonlight Lib.
 Updated MoreJS.
 Updated Pam's HarvestCraft 2 - Crops.
 Updated Productive Bees.
+Updated Puzzles Lib.

@@ -424,6 +424,11 @@ Added Mekanism Additions.
 Added Mekanism Generators.
 Added Mekanism Tools.
 
+Updated existing quest lines.
+Added Mekanism quest line.
+Updated Nether totem recipe (added crafting components).
+Revamped productive bees early game.
+
 Updated Applied Energistics 2.
 Updated Balm.
 Updated Collective.

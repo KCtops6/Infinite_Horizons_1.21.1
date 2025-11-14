@@ -30,3 +30,8 @@ profileImage/
 datapacks/
 .vscode/
 dynamic-resource-pack-cache/
+debug/
+defaultconfigs/
+local/
+changelog.txt
+options.txt

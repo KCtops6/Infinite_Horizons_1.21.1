@@ -41,5 +41,8 @@ ServerEvents.recipes(event => {
          'pamhc2foodcore:flouritem',    // specifically replace this one
          'create:wheat_flour'   // force it to use Create's wheat flour
     ); // Replace Pam's HarvestCraft flour with Create's wheat flour
-
+    let other_bio_fuels = [ 'createaddition:biomass', 'mekanism:bio_fuel']
+    other_bio_fuels.forEach(f => {
+        event.replaceInput( { input: f }, f, 'kubejs:bio_matter')
+    })
 })

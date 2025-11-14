@@ -38,7 +38,8 @@
     "c:storage_blocks/raw_{material}",
     "c:crops/{material}",
     "c:seeds/{material}",
-    "c:{material}"
+    "c:{material}",
+    "c:fuels/{bio}"
   ],
   "materials": [
     "aeternium",
@@ -46,6 +47,7 @@
     "amber",
     "andesite_alloy",
     "apatite",
+    "bio",
     "bitumen",
     "brass",
     "bronze",

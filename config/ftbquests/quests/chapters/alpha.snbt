@@ -1320,12 +1320,12 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "63958D259942EC4C"
-				item: { count: 1, id: "forester_villager:foresters_table" }
+				id: "387C1EEFF1F7B70B"
+				item: { count: 1, id: "forestervillager:foresters_table" }
 				type: "item"
 			}]
-			x: 15.0d
-			y: 2.0d
+			x: 18.0d
+			y: 5.0d
 		}
 		{
 			dependencies: ["1037DA8CC7AAF5BD"]
@@ -1367,8 +1367,8 @@
 					type: "item"
 				}
 			]
-			x: 15.0d
-			y: 1.0d
+			x: 18.0d
+			y: 4.0d
 		}
 		{
 			dependencies: ["1037DA8CC7AAF5BD"]
@@ -1410,8 +1410,8 @@
 					type: "item"
 				}
 			]
-			x: 16.0d
-			y: 1.0d
+			x: 19.0d
+			y: 4.0d
 		}
 		{
 			dependencies: ["1037DA8CC7AAF5BD"]
@@ -1453,13 +1453,13 @@
 					type: "item"
 				}
 			]
-			x: 16.0d
-			y: 2.0d
+			x: 19.0d
+			y: 5.0d
 		}
 		{
 			dependencies: ["1037DA8CC7AAF5BD"]
 			icon: {
-				id: "minecraft:birch_log"
+				id: "minecraft:cherry_log"
 			}
 			id: "7D4466389690E079"
 			rewards: [
@@ -1467,7 +1467,7 @@
 					id: "1444C41B86B39D2F"
 					item: {
 						count: 1
-						id: "minecraft:birch_sapling"
+						id: "minecraft:cherry_sapling"
 					}
 					random_bonus: 2
 					type: "item"
@@ -1487,22 +1487,22 @@
 				{
 					count: 16L
 					id: "0C9CF354B87D29EE"
-					item: { count: 1, id: "minecraft:birch_log" }
+					item: { count: 1, id: "minecraft:cherry_log" }
 					type: "item"
 				}
 				{
 					id: "5160B0F1287A2302"
-					item: { count: 1, id: "minecraft:birch_sapling" }
+					item: { count: 1, id: "minecraft:cherry_sapling" }
 					type: "item"
 				}
 			]
-			x: 14.0d
-			y: 4.0d
+			x: 17.0d
+			y: 6.0d
 		}
 		{
 			dependencies: ["1037DA8CC7AAF5BD"]
 			icon: {
-				id: "minecraft:birch_log"
+				id: "minecraft:jungle_log"
 			}
 			id: "09D17A8E9EC4394B"
 			rewards: [
@@ -1510,7 +1510,7 @@
 					id: "3974C695714BDDBF"
 					item: {
 						count: 1
-						id: "minecraft:birch_sapling"
+						id: "minecraft:jungle_sapling"
 					}
 					random_bonus: 2
 					type: "item"
@@ -1530,17 +1530,17 @@
 				{
 					count: 16L
 					id: "3A6073A55CE3E551"
-					item: { count: 1, id: "minecraft:birch_log" }
+					item: { count: 1, id: "minecraft:jungle_log" }
 					type: "item"
 				}
 				{
 					id: "53D18FEC0B6A194D"
-					item: { count: 1, id: "minecraft:birch_sapling" }
+					item: { count: 1, id: "minecraft:jungle_sapling" }
 					type: "item"
 				}
 			]
-			x: 15.0d
-			y: 3.0d
+			x: 18.0d
+			y: 6.0d
 		}
 		{
 			dependencies: ["1037DA8CC7AAF5BD"]
@@ -1582,8 +1582,51 @@
 					type: "item"
 				}
 			]
-			x: 16.0d
-			y: 3.0d
+			x: 19.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["1037DA8CC7AAF5BD"]
+			icon: {
+				id: "minecraft:mangrove_log"
+			}
+			id: "725D252422B2C03B"
+			rewards: [
+				{
+					id: "3337B9891304267A"
+					item: {
+						count: 1
+						id: "minecraft:mangrove_propagule"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "4F36C92203F4E2A7"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 16L
+					id: "063DD10E05A553B0"
+					item: { count: 1, id: "minecraft:mangrove_log" }
+					type: "item"
+				}
+				{
+					id: "4FBE55012C945C84"
+					item: { count: 1, id: "minecraft:mangrove_propagule" }
+					type: "item"
+				}
+			]
+			x: 17.0d
+			y: 5.0d
 		}
 	]
 }

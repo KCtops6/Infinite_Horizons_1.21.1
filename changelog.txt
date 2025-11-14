@@ -456,3 +456,5 @@ Updated Waystones.
 
 1.21.1-1.0 Pre Release 3
 Updated Productive Bees.
+
+Fixed foresters table and oak log quests in alpha quest line.

@@ -127,7 +127,7 @@
 				{
 					count: 10L
 					id: "68EED5BC29A93781"
-					item: { count: 9, id: "create:white_sail" }
+					item: { count: 1, id: "create:white_sail" }
 					type: "item"
 				}
 			]

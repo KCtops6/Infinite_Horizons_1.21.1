@@ -1,4 +1,4 @@
-//ingored: false
+//ignored: false
 ServerEvents.tags('item', event => {
     global.blocks.forEach(block => {
         event.add(`c:storage_blocks/${block}`, `kubejs:${block}_block`);

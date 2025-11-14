@@ -71,4 +71,5 @@ StartupEvents.registry('item', event => {
             .texture("mesh", `kubejs:item/${mesh.material}_mesh`)
             .maxDamage(mesh.durability)
     })
+    event.create('bio_matter').displayName("Bio Matter")
 })

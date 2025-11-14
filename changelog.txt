@@ -459,4 +459,5 @@ Updated Productive Bees.
 
 Modified Mekanism quest line.
 
+Added Bio Matter Item (merging Create and Mekanism item equivalent).
 Fixed foresters table and oak log quests in alpha quest line.

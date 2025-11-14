@@ -171,7 +171,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: -1.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["567D1C4F8BE959F9"]
@@ -217,6 +217,7 @@
 		}
 		{
 			dependencies: ["4D8088BB789E5D84"]
+			hide_dependent_lines: true
 			id: "08CE85CA674FC3EC"
 			rewards: [
 				{
@@ -244,8 +245,8 @@
 				item: { count: 1, id: "mekanism:energy_tablet" }
 				type: "item"
 			}]
-			x: 3.0d
-			y: 1.0d
+			x: 2.0d
+			y: 2.0d
 		}
 		{
 			dependencies: ["059A7345EF862B13"]
@@ -286,8 +287,8 @@
 				item: { count: 1, id: "kubejs:steel_ingot" }
 				type: "item"
 			}]
-			x: 3.0d
-			y: 0.0d
+			x: 1.0d
+			y: 2.0d
 		}
 		{
 			dependencies: ["567D1C4F8BE959F9"]
@@ -328,19 +329,20 @@
 				item: { count: 1, id: "mekanism:enriched_iron" }
 				type: "item"
 			}]
-			x: 2.0d
-			y: 0.0d
+			x: 1.0d
+			y: 1.0d
 		}
 		{
 			dependencies: ["519535E43820AEBE"]
+			hide_dependent_lines: true
 			id: "499E25B9E3EC0D82"
 			tasks: [{
 				id: "3DE6940559763ECE"
 				item: { count: 1, id: "mekanism:steel_casing" }
 				type: "item"
 			}]
-			x: 4.0d
-			y: 0.0d
+			x: 1.0d
+			y: 3.0d
 		}
 		{
 			dependencies: [
@@ -384,7 +386,147 @@
 				type: "item"
 			}]
 			x: 4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["6DBE8C47E5D4AFE9"]
+			id: "080B4B56FB2BA3C1"
+			tasks: [{
+				id: "1EDCEC9B53BA0ADB"
+				item: { count: 1, id: "mekanism:basic_tier_installer" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"4D8088BB789E5D84"
+				"6DBE8C47E5D4AFE9"
+			]
+			id: "399A880EE6E5B426"
+			tasks: [{
+				id: "4B53D9CF8C639533"
+				item: { count: 1, id: "mekanism:advanced_control_circuit" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4D8088BB789E5D84"]
+			id: "6A44EB6100DCC9D5"
+			tasks: [{
+				id: "553B957EE0F4D301"
+				item: { count: 1, id: "mekanism:alloy_reinforced" }
+				type: "item"
+			}]
+			x: 3.0d
 			y: 1.0d
+		}
+		{
+			dependencies: ["6A44EB6100DCC9D5"]
+			id: "0C08781A6D7E2355"
+			tasks: [{
+				id: "46E58EBC46F7357F"
+				item: { count: 1, id: "mekanism:alloy_atomic" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"399A880EE6E5B426"
+				"6A44EB6100DCC9D5"
+			]
+			id: "5B179F66EE052863"
+			tasks: [{
+				id: "0CD640365E0B5717"
+				item: { count: 1, id: "mekanism:elite_control_circuit" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"5B179F66EE052863"
+				"0C08781A6D7E2355"
+			]
+			id: "444F6FAB198F054B"
+			tasks: [{
+				id: "12B6717E9DAA73EA"
+				item: { count: 1, id: "mekanism:ultimate_control_circuit" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "mekanism:hdpe_sheet"
+			}
+			id: "45CF6C8916CD8F07"
+			rewards: [
+				{
+					count: 3
+					id: "3C2A1ABAEAA0CC46"
+					item: {
+						count: 1
+						id: "mekanism:hdpe_pellet"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "092025B43D099050"
+					item: {
+						count: 1
+						id: "mekanism:hdpe_rod"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "4B569F782D6C0E7E"
+					item: {
+						count: 1
+						id: "mekanism:hdpe_sheet"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "4FCD6EB2770EFCC7"
+					item: { count: 1, id: "mekanism:hdpe_pellet" }
+					type: "item"
+				}
+				{
+					id: "349016FEBF4E5B19"
+					item: { count: 1, id: "mekanism:hdpe_rod" }
+					type: "item"
+				}
+				{
+					id: "5509C68CC87EC266"
+					item: { count: 1, id: "mekanism:hdpe_sheet" }
+					type: "item"
+				}
+			]
+			x: 9.5d
+			y: 0.0d
+		}
+		{
+			id: "04FE8F0D3C004371"
+			tasks: [{
+				id: "681C3F6F7BBCAD30"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(mekanismadditions:plastic_blocks)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 9.5d
+			y: -1.0d
 		}
 	]
 }

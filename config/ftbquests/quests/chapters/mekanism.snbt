@@ -390,7 +390,17 @@
 		}
 		{
 			dependencies: ["6DBE8C47E5D4AFE9"]
+			hide_dependency_lines: true
 			id: "080B4B56FB2BA3C1"
+			rewards: [{
+				id: "58885343BCA950C6"
+				item: {
+					count: 1
+					id: "mekanism:basic_control_circuit"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
 			tasks: [{
 				id: "1EDCEC9B53BA0ADB"
 				item: { count: 1, id: "mekanism:basic_tier_installer" }
@@ -519,14 +529,102 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["45CF6C8916CD8F07"]
 			id: "04FE8F0D3C004371"
+			optional: true
+			rewards: [{
+				id: "2E1C448011077C1C"
+				item: {
+					count: 1
+					id: "mekanism:hdpe_sheet"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
 			tasks: [{
+				icon: {
+					id: "mekanismadditions:white_plastic"
+				}
 				id: "681C3F6F7BBCAD30"
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(mekanismadditions:plastic_blocks)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: 9.5d
 			y: -1.0d
+		}
+		{
+			dependencies: ["45CF6C8916CD8F07"]
+			id: "0FC49D73B58033B5"
+			tasks: [{
+				id: "3FC5CE46EE493834"
+				item: { count: 1, id: "mekanism:module_base" }
+				type: "item"
+			}]
+			x: 9.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["399A880EE6E5B426"]
+			hide_dependency_lines: true
+			id: "4B8AE3BD5CDAF1E2"
+			rewards: [{
+				id: "33FA125372BAA0B0"
+				item: {
+					count: 1
+					id: "mekanism:advanced_control_circuit"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [{
+				id: "639F4514BFCB4D81"
+				item: { count: 1, id: "mekanism:advanced_tier_installer" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["5B179F66EE052863"]
+			hide_dependency_lines: true
+			id: "07CB1C2892608F91"
+			rewards: [{
+				id: "5A7EBE758210C3A5"
+				item: {
+					count: 1
+					id: "mekanism:elite_control_circuit"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [{
+				id: "188B046B558908FF"
+				item: { count: 1, id: "mekanism:elite_tier_installer" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["444F6FAB198F054B"]
+			hide_dependency_lines: true
+			id: "03DF70C63A68B8FA"
+			rewards: [{
+				id: "0A20305A590B66EB"
+				item: {
+					count: 1
+					id: "mekanism:ultimate_control_circuit"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [{
+				id: "1563C6EBA8A51EEB"
+				item: { count: 1, id: "mekanism:ultimate_tier_installer" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -2.0d
 		}
 	]
 }

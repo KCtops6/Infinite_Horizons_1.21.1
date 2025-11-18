@@ -737,7 +737,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 2.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["5A382D145AA88DD9"]
@@ -1627,6 +1627,69 @@
 			]
 			x: 17.0d
 			y: 5.0d
+		}
+		{
+			dependencies: ["7E6FA6BACC7B007E"]
+			id: "0A32D1747C313758"
+			rewards: [{
+				count: 3
+				id: "2B59986A84D0E8C4"
+				item: {
+					count: 1
+					id: "minecraft:emerald"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [{
+				id: "512EDD953DA93AB8"
+				item: { count: 1, id: "minecraft:emerald" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["0A32D1747C313758"]
+			id: "53AC5BC20682441D"
+			rewards: [
+				{
+					id: "16851F48B144734C"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "07CA367F6F4178FF"
+					item: {
+						count: 1
+						id: "minecraft:wheat"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "7F440463DC1B8A29"
+					item: {
+						count: 1
+						id: "minecraft:wheat_seeds"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "53A3B5BA035251AA"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(infinitehorizons:feeds)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.0d
 		}
 	]
 }

@@ -56,6 +56,7 @@
 	quest.08AA4A1FF88BADA2.quest_desc: ["The &lPotion Generator&r taps into the power of potions to generate energy. With a generation rate of 8 FE/t and a transfer rate of 512 FE/t, it consumes 1 FE/t, drawing its fuel from potions. This upgrade from the Culinary Generator provides a buffer capacity of 250,000 FE, allowing you to harness the magical energy of potions for your power needs."]
 	quest.08AA4A1FF88BADA2.quest_subtitle: "Upgrade to the Potion Generator"
 	quest.08AA4A1FF88BADA2.title: "Brewing Power"
+	quest.0A32D1747C313758.quest_desc: ["You are going to need a lot of these..."]
 	quest.0A4836489D04FF80.quest_desc: ["With &lHoney Seeds&r, you can produce &lHoney Essence&r, a renewable way to get honey without needing to rely on beehives. Perfect for those sticky situations where more honey is needed."]
 	quest.0A4836489D04FF80.quest_subtitle: "Grow Your Own Honey"
 	quest.0A4836489D04FF80.title: "Sweet Harvest"
@@ -249,6 +250,7 @@
 	quest.528AC4A13D35951B.quest_desc: ["Sometimes, you need a little extra force to break through. Craft a &lStone Hammer&r, then use it to break cobblestone into &lGravel&r. This simple tool will help you expand your resource pool and provide the materials needed for future advancements. Keep hammering away."]
 	quest.528AC4A13D35951B.quest_subtitle: "Turning Stone into Gravel"
 	quest.528AC4A13D35951B.title: "Hammering the Basics"
+	quest.53AC5BC20682441D.quest_desc: ["You may struggle to find certain animals in the superflat environment. This is what the modpack's feed items are for."]
 	quest.57401F4BD3952C56.quest_desc: ["In a world without forests, villages are your best source of wood. Chop down trees in a village to gather logs—essential for crafting tools, structures, and more. Make sure to replant saplings when possible to keep resources sustainable!"]
 	quest.57401F4BD3952C56.quest_subtitle: "The Key to Survival"
 	quest.57401F4BD3952C56.title: "Timber!"
@@ -391,6 +393,7 @@
 	task.5071C7B2EC85DAAC.title: "check this box"
 	task.522147DE7E3ED21D.title: "Any #sophisticatedstorage:base_tier_wooden_storage"
 	task.52D9230F4ED65A75.title: "Any #sophisticated:crafting_upgrades"
+	task.53A3B5BA035251AA.title: "Obtain an animal feed."
 	task.53C2C947DC840D17.title: "Any #sophisticated:smelting_upgrades"
 	task.5479C4378BCFF9F5.title: "Any #sophisticated:filter_upgrades"
 	task.5506F1A98B72C7B1.title: "Any #sophisticatedstorage:netherite_storages"

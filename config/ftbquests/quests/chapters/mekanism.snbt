@@ -525,7 +525,7 @@
 					type: "item"
 				}
 			]
-			x: 9.5d
+			x: 13.0d
 			y: 0.0d
 		}
 		{
@@ -549,7 +549,7 @@
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(mekanismadditions:plastic_blocks)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 9.5d
+			x: 13.0d
 			y: -1.0d
 		}
 		{
@@ -560,7 +560,7 @@
 				item: { count: 1, id: "mekanism:module_base" }
 				type: "item"
 			}]
-			x: 9.5d
+			x: 13.0d
 			y: 1.0d
 		}
 		{
@@ -625,6 +625,16 @@
 			}]
 			x: 5.0d
 			y: -2.0d
+		}
+		{
+			id: "568199CB75A4D2E1"
+			tasks: [{
+				id: "436A11072198B3A5"
+				item: { count: 1, id: "kubejs:bio_matter" }
+				type: "item"
+			}]
+			x: 8.5d
+			y: 0.0d
 		}
 	]
 }

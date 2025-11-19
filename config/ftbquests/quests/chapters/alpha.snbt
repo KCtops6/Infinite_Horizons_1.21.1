@@ -736,8 +736,8 @@
 				item: { count: 1, id: "minecraft:name_tag" }
 				type: "item"
 			}]
-			x: 1.0d
-			y: 3.0d
+			x: -2.5d
+			y: 0.0d
 		}
 		{
 			dependencies: ["5A382D145AA88DD9"]
@@ -1629,7 +1629,7 @@
 			y: 5.0d
 		}
 		{
-			dependencies: ["7E6FA6BACC7B007E"]
+			dependencies: ["497252ADF991FABA"]
 			id: "0A32D1747C313758"
 			rewards: [{
 				count: 3
@@ -1646,8 +1646,8 @@
 				item: { count: 1, id: "minecraft:emerald" }
 				type: "item"
 			}]
-			x: 1.0d
-			y: 1.0d
+			x: 0.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["0A32D1747C313758"]
@@ -1688,8 +1688,28 @@
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(infinitehorizons:feeds)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 2.0d
-			y: 1.0d
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["7E6FA6BACC7B007E"]
+			id: "497252ADF991FABA"
+			tasks: [{
+				icon: {
+					components: {
+						"!ftbquests:icon": { }
+						"ftbquests:entity_face": "minecraft:villager"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "13267DC24D108AFC"
+				observe_type: 5
+				timer: 0L
+				to_observe: "minecraft:villager"
+				type: "observation"
+			}]
+			x: 0.0d
+			y: 2.0d
 		}
 	]
 }

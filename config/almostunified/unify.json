@@ -13,7 +13,8 @@
     "ae2",
     "extendedcrafting",
     "pamshc2crops",
-    "gtceu"
+    "gtceu",
+    "productivebees"
   ],
   "stoneStrata": [
     "stone",
@@ -39,7 +40,8 @@
     "c:crops/{material}",
     "c:seeds/{material}",
     "c:{material}",
-    "c:fuels/{bio}"
+    "c:fuels/{bio}",
+    "c:honey"
   ],
   "materials": [
     "aeternium",

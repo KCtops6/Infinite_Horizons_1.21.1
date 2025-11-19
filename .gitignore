@@ -35,3 +35,4 @@ defaultconfigs/
 local/
 changelog.txt
 options.txt
+.probe

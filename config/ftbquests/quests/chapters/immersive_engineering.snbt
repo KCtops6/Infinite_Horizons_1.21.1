@@ -2,13 +2,13 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "immersive_engineering"
-	group: "44896694C1F231C3"
+	group: "3C16C4C95F1091C7"
 	hide_quest_until_deps_complete: true
 	icon: {
 		id: "immersiveengineering:hammer"
 	}
 	id: "197A296AEC020B47"
-	order_index: 1
+	order_index: 2
 	quest_links: [ ]
 	quests: [
 		{

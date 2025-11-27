@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "trial_chambers"
-	group: "650B408990186E73"
+	group: "0BA6C43BB6B5DE06"
 	hide_quest_until_deps_complete: true
 	icon: {
 		id: "minecraft:trial_key"
@@ -18,7 +18,7 @@
 		x: -1.0d
 		y: 0.0d
 	}]
-	order_index: 1
+	order_index: 4
 	quest_links: [ ]
 	quests: [
 		{
@@ -180,30 +180,43 @@
 		{
 			dependencies: ["041C0F5E471298D2"]
 			hide_dependency_lines: true
-			id: "3EAEC140055DB143"
-			tasks: [{
-				entity: "minecraft:slime"
-				icon: {
-					components: {
-						"minecraft:profile": {
-							id: [I;
-								62437143
-								1757495694
-								-1099938715
-								-1620534173
-							]
-							properties: [{
-								name: "textures"
-								value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjA2MWY5OGFhZmYxZTQwNmUwNmY2ZjEzZmZlMDYwMDU4NzNmM2QxZWFkZGIxYjU5ZTE5ZGRhMGVkOWZmYjI3MCJ9fX0="
-							}]
-						}
-					}
-					id: "minecraft:player_head"
+			icon: {
+				components: {
+					"!ftbquests:icon": { }
+					"ftbquests:entity_face": "minecraft:slime"
 				}
-				id: "32080E3CB589B878"
-				type: "kill"
-				value: 1L
+				id: "ftbquests:custom_icon"
+			}
+			id: "3EAEC140055DB143"
+			rewards: [{
+				id: "77C2C3A77FB987A8"
+				item: {
+					count: 1
+					id: "minecraft:slime_ball"
+				}
+				random_bonus: 2
+				type: "item"
 			}]
+			tasks: [
+				{
+					entity: "minecraft:slime"
+					icon: {
+						components: {
+							"!ftbquests:icon": { }
+							"ftbquests:entity_face": "minecraft:slime"
+						}
+						id: "ftbquests:custom_icon"
+					}
+					id: "32080E3CB589B878"
+					type: "kill"
+					value: 1L
+				}
+				{
+					id: "2A239BBD66ADE6DD"
+					item: { count: 1, id: "minecraft:slime_ball" }
+					type: "item"
+				}
+			]
 			x: 0.0d
 			y: 3.0d
 		}
@@ -389,20 +402,10 @@
 				entity: "minecraft:evoker"
 				icon: {
 					components: {
-						"minecraft:profile": {
-							id: [I;
-								1662638663
-								828198224
-								-1833578565
-								-1912836640
-							]
-							properties: [{
-								name: "textures"
-								value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODA2YWMwMmZkOWRhYzk2NmI3ZTU4MDY3MzZiNmZlYjkwZTJmM2IwNTc3OTY5ZTY3MzI5MWI4MzA3YzFlZjhlNSJ9fX0="
-							}]
-						}
+						"!ftbquests:icon": { }
+						"ftbquests:entity_face": "minecraft:evoker"
 					}
-					id: "minecraft:player_head"
+					id: "ftbquests:custom_icon"
 				}
 				id: "06F56F0B8CE584F2"
 				type: "kill"
@@ -430,20 +433,10 @@
 				entity: "minecraft:evoker"
 				icon: {
 					components: {
-						"minecraft:profile": {
-							id: [I;
-								1662638663
-								828198224
-								-1833578565
-								-1912836640
-							]
-							properties: [{
-								name: "textures"
-								value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODA2YWMwMmZkOWRhYzk2NmI3ZTU4MDY3MzZiNmZlYjkwZTJmM2IwNTc3OTY5ZTY3MzI5MWI4MzA3YzFlZjhlNSJ9fX0="
-							}]
-						}
+						"!ftbquests:icon": { }
+						"ftbquests:entity_face": "minecraft:evoker"
 					}
-					id: "minecraft:player_head"
+					id: "ftbquests:custom_icon"
 				}
 				id: "70901D36D39D3797"
 				type: "kill"

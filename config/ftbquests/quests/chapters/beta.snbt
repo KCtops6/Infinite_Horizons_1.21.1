@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "beta"
-	group: "315F05EC1C91DE0B"
+	group: "0BA6C43BB6B5DE06"
 	icon: {
 		id: "create:andesite_alloy"
 	}
@@ -18,7 +18,7 @@
 		x: 9.0d
 		y: -2.0d
 	}]
-	order_index: 0
+	order_index: 2
 	quest_links: [ ]
 	quests: [
 		{
@@ -473,7 +473,6 @@
 			y: -6.0d
 		}
 		{
-			dependencies: ["15085B53BFCDE2EF"]
 			id: "37A11322027C7509"
 			tasks: [{
 				id: "778487DCC45D367C"
@@ -1375,6 +1374,17 @@
 			}]
 			x: 6.0d
 			y: -4.0d
+		}
+		{
+			dependencies: ["6783BFDE6E6F147D"]
+			id: "78469C1E60112B2E"
+			tasks: [{
+				id: "38B62220E746EF04"
+				item: { count: 1, id: "create:fluid_valve" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: -1.0d
 		}
 	]
 }

@@ -72,7 +72,6 @@ BlockEvents.rightClicked('minecraft:copper_grate', event => {
     } else {
         command = `setblock ${x} ${y} ${z} trial_spawner[ominous=true,trial_spawner_state=active]{LootTable:"minecraft:trials/ominous/trial_spawner",normal_config:{spawn_potentials:[{data:{entity:{id:"minecraft:${trialName}"}},weight:1}]},target_cooldown_length:6000} replace`;
     }
-
     server.runCommandSilent(command);
     player.mainHandItem.count--;
     player.tell(Text.green(`Trial spawner set for ${trialName}!`));

@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "alpha"
-	group: "650B408990186E73"
+	group: "0BA6C43BB6B5DE06"
 	hide_quest_until_deps_complete: true
 	icon: {
 		id: "minecraft:oak_log"
@@ -1236,7 +1236,6 @@
 			y: 8.0d
 		}
 		{
-			dependencies: ["15085B53BFCDE2EF"]
 			id: "19603D7BAE364AC6"
 			rewards: [{
 				id: "5E8E2951663E2694"
@@ -1710,6 +1709,34 @@
 			}]
 			x: 0.0d
 			y: 2.0d
+		}
+		{
+			dependencies: ["2271A8EDA3C7F64C"]
+			id: "04410D3CF8C6FA7D"
+			tasks: [{
+				icon: {
+					id: "minecraft:white_concrete_powder"
+				}
+				id: "523D0C50943B6B1F"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:concrete_powders)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["04410D3CF8C6FA7D"]
+			id: "1474661C4164425A"
+			tasks: [{
+				icon: {
+					id: "minecraft:white_concrete"
+				}
+				id: "20F10AB288B9B858"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:concretes)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: 5.0d
 		}
 	]
 }

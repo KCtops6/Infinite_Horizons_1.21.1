@@ -2,13 +2,13 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "netherbound"
-	group: "650B408990186E73"
+	group: "0BA6C43BB6B5DE06"
 	hide_quest_until_deps_complete: true
 	icon: {
 		id: "minecraft:netherrack"
 	}
 	id: "5E07E3741CBC3BFE"
-	order_index: 2
+	order_index: 1
 	quest_links: [ ]
 	quests: [
 		{
@@ -352,10 +352,7 @@
 			y: 3.0d
 		}
 		{
-			dependencies: [
-				"27AD5982B40072FD"
-				"74B7E90FE385180A"
-			]
+			dependencies: ["27AD5982B40072FD"]
 			id: "58380D6136DF37AD"
 			rewards: [
 				{

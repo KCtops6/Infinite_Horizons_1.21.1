@@ -2,12 +2,12 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "productive_bees"
-	group: "16E846EDFB82BF5E"
+	group: "3C16C4C95F1091C7"
 	icon: {
 		id: "minecraft:honeycomb"
 	}
 	id: "1C990C36267A7CE1"
-	order_index: 1
+	order_index: 5
 	quest_links: [ ]
 	quests: [
 		{

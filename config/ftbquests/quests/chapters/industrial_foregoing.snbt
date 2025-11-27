@@ -2,9 +2,9 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "industrial_foregoing"
-	group: "7264F9DB2A129085"
+	group: "3C16C4C95F1091C7"
 	id: "73BAD2E24E99AD1D"
-	order_index: 0
+	order_index: 7
 	quest_links: [ ]
 	quests: [
 		{

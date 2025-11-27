@@ -2,9 +2,9 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "mekanism"
-	group: "44896694C1F231C3"
+	group: "3C16C4C95F1091C7"
 	id: "51E518A61C4133E7"
-	order_index: 2
+	order_index: 1
 	quest_links: [ ]
 	quests: [
 		{

@@ -2,13 +2,13 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "the_final_trial"
-	group: "253F25E4F5B0D065"
+	group: "0BA6C43BB6B5DE06"
 	hide_quest_until_deps_complete: true
 	icon: {
 		id: "minecraft:dragon_egg"
 	}
 	id: "2A5182EC401BA623"
-	order_index: 0
+	order_index: 5
 	quest_links: [ ]
 	quests: [
 		{
@@ -143,20 +143,10 @@
 				entity: "minecraft:piglin_brute"
 				icon: {
 					components: {
-						"minecraft:profile": {
-							id: [I;
-								-1495583819
-								509627582
-								-1550874603
-								2046378806
-							]
-							properties: [{
-								name: "textures"
-								value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2UzMDBlOTAyNzM0OWM0OTA3NDk3NDM4YmFjMjllM2E0Yzg3YTg0OGM1MGIzNGMyMTI0MjcyN2I1N2Y0ZTFjZiJ9fX0="
-							}]
-						}
+						"!ftbquests:icon": { }
+						"ftbquests:entity_face": "minecraft:piglin_brute"
 					}
-					id: "minecraft:player_head"
+					id: "ftbquests:custom_icon"
 				}
 				id: "29AE4DCAE647CCC7"
 				type: "kill"
@@ -282,20 +272,10 @@
 				entity: "minecraft:shulker"
 				icon: {
 					components: {
-						"minecraft:profile": {
-							id: [I;
-								-58375745
-								-420788112
-								-1300098878
-								-705227407
-							]
-							properties: [{
-								name: "textures"
-								value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzY2NDA1MzBkOThkYjkzNGZjNWI5NTVlYTIzYzExYzgwYzRmZGFkMDYxMDAxZThhMjkxM2UzODM5MGRmNjlhNiJ9fX0="
-							}]
-						}
+						"!ftbquests:icon": { }
+						"ftbquests:entity_face": "minecraft:shulker"
 					}
-					id: "minecraft:player_head"
+					id: "ftbquests:custom_icon"
 				}
 				id: "7D5DDC5CDF4EB6EC"
 				type: "kill"

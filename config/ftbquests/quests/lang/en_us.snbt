@@ -1,31 +1,28 @@
 {
 	chapter.02795623E294F878.title: "Pam's Harvestcraft"
-	chapter.17F179085511CF63.title: "Earthly Beginnings"
+	chapter.17F179085511CF63.chapter_subtitle: ["Getting Started"]
+	chapter.17F179085511CF63.title: "Alpha"
 	chapter.197A296AEC020B47.title: "Immersive Engineering"
 	chapter.1B73F34BAB8F6FCD.chapter_subtitle: ["Power Generation"]
 	chapter.1B73F34BAB8F6FCD.title: "Generators Galore"
 	chapter.1C990C36267A7CE1.title: "Productive Bees"
-	chapter.247639ED7F0AF536.title: "Mystical Agriculture"
-	chapter.2A5182EC401BA623.title: "The Final Trial"
+	chapter.247639ED7F0AF536.chapter_subtitle: ["Mystical Agriculture"]
+	chapter.247639ED7F0AF536.title: "Delta"
+	chapter.2A5182EC401BA623.title: "Omega"
 	chapter.2F34CC58AE75DDE7.chapter_subtitle: ["Early-Game \"Non-Digital\" Storage"]
 	chapter.2F34CC58AE75DDE7.title: "Sophisticated Mods"
 	chapter.51E518A61C4133E7.title: "Mekanism"
-	chapter.5E07E3741CBC3BFE.title: "Netherbound"
-	chapter.64FE7FCF6127CD6A.title: "Ancient Trials"
-	chapter.6B16A1E49845B379.title: "Create"
-	chapter.6B81C6743929D1A4.title: "Create Sifting"
+	chapter.5E07E3741CBC3BFE.chapter_subtitle: ["Nether Items and Blocks"]
+	chapter.5E07E3741CBC3BFE.title: "Beta"
+	chapter.64FE7FCF6127CD6A.chapter_subtitle: ["Infinite Horizons Trial Chambers"]
+	chapter.64FE7FCF6127CD6A.title: "Epsilon"
+	chapter.6B16A1E49845B379.chapter_subtitle: ["Create and Addons"]
+	chapter.6B16A1E49845B379.title: "Gamma"
 	chapter.73BAD2E24E99AD1D.title: "Industrial Foregoing"
 	chapter.76260707B1BAF870.chapter_subtitle: ["Digital Storage"]
 	chapter.76260707B1BAF870.title: "Applied Energistics"
-	chapter_group.0ACDAC097705746A.title: "Eta"
-	chapter_group.16E846EDFB82BF5E.title: "Gamma"
-	chapter_group.253F25E4F5B0D065.title: "Omega"
-	chapter_group.2E80E5A65C333522.title: "Delta"
-	chapter_group.302395001647454F.title: "Epsilon"
-	chapter_group.315F05EC1C91DE0B.title: "Beta"
-	chapter_group.44896694C1F231C3.title: "Zeta"
-	chapter_group.650B408990186E73.title: "Alpha"
-	chapter_group.7264F9DB2A129085.title: "Theta"
+	chapter_group.0BA6C43BB6B5DE06.title: "Main Progression"
+	chapter_group.3C16C4C95F1091C7.title: "Optional Endeavors"
 	quest.01AEEA186BB50BB0.quest_desc: ["The Nether Portal’s energy doesn’t just bring heat—it also alters stone into valuable resources. If you place Stone near an active portal, it will slowly transform into Nether Quartz Ore. Mine it to collect &lNether Quartz&r, an essential material for redstone components, decorative blocks, and more. Even without stepping into the Nether, you can still harness its unique resources!"]
 	quest.01AEEA186BB50BB0.quest_subtitle: "Harvesting Nether Quartz"
 	quest.01AEEA186BB50BB0.title: "Crystals of the Nether"
@@ -362,6 +359,7 @@
 	task.18D7038439CDF699.title: "Construct the Bottling Machine"
 	task.1B6D2A206694B182.title: "Create a Vault."
 	task.1F0741044C7EBCBF.title: "Welcome to Infinite Horizons 2!"
+	task.20F10AB288B9B858.title: "Craft Concrete"
 	task.22EFF4295996F3B4.title: "Observe an Engineer's Workbench."
 	task.23F9812A10B9EDCF.title: "Any #sophisticated:auto_blasting_upgrades"
 	task.25812E1A01567F7C.title: "Any #sophisticated:smoking_upgrades"
@@ -392,6 +390,7 @@
 	task.4DA2C42C8ED94D99.title: "Craft a Shulker Box."
 	task.5071C7B2EC85DAAC.title: "check this box"
 	task.522147DE7E3ED21D.title: "Any #sophisticatedstorage:base_tier_wooden_storage"
+	task.523D0C50943B6B1F.title: "Craft Concrete Powder"
 	task.52D9230F4ED65A75.title: "Any #sophisticated:crafting_upgrades"
 	task.53A3B5BA035251AA.title: "Obtain an animal feed."
 	task.53C2C947DC840D17.title: "Any #sophisticated:smelting_upgrades"

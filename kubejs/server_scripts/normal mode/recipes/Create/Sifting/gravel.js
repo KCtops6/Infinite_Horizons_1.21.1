@@ -11,7 +11,7 @@ ServerEvents.recipes(event => {
         Output.of('create:raw_zinc', 0.2),
         Output.of('kubejs:raw_tin', 0.25),
         Output.of('kubejs:raw_lead', 0.1)
-    ],'minecraft:gravel','kubejs:copper_mesh').id('kubejs:sifting/gravel/copper_mesh')
+    ],'minecraft:gravel','kubejs:copper_mesh')
     event.recipes.createsifter.sifting([
         Output.of('minecraft:coal', ironMultiplier(0.3)),
         Output.of('minecraft:raw_iron', ironMultiplier(0.25)),
@@ -20,7 +20,7 @@ ServerEvents.recipes(event => {
         Output.of('create:raw_zinc', ironMultiplier(0.2)),
         Output.of('kubejs:raw_tin', ironMultiplier(0.25)),
         Output.of('kubejs:raw_lead', ironMultiplier(0.1))
-    ],'minecraft:gravel','kubejs:iron_mesh').id('kubejs:sifting/gravel/iron_mesh')
+    ],'minecraft:gravel','kubejs:iron_mesh')
     event.recipes.createsifter.sifting([
         Output.of('minecraft:coal', brassMultiplier(0.3)),
         Output.of('minecraft:raw_iron', brassMultiplier(0.25)),
@@ -29,7 +29,7 @@ ServerEvents.recipes(event => {
         Output.of('create:raw_zinc', brassMultiplier(0.2)),
         Output.of('kubejs:raw_tin', brassMultiplier(0.25)),
         Output.of('kubejs:raw_lead', brassMultiplier(0.1))
-    ],'minecraft:gravel','createsifter:brass_mesh').id('kubejs:sifting/gravel/brass_mesh')
+    ],'minecraft:gravel','createsifter:brass_mesh')
     event.recipes.createsifter.sifting([
         Output.of('minecraft:coal', netheriteMultiplier(0.3)),
         Output.of('minecraft:raw_iron', netheriteMultiplier(0.25)),
@@ -38,6 +38,6 @@ ServerEvents.recipes(event => {
         Output.of('create:raw_zinc', netheriteMultiplier(0.2)),
         Output.of('kubejs:raw_tin', netheriteMultiplier(0.25)),
         Output.of('kubejs:raw_lead', netheriteMultiplier(0.1))
-    ],'minecraft:gravel','kubejs:netherite_mesh').id('kubejs:sifting/gravel/netherite_mesh')
+    ],'minecraft:gravel','kubejs:netherite_mesh')
     
 })

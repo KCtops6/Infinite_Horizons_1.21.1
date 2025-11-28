@@ -406,7 +406,7 @@
 				item: { count: 1, id: "mekanism:basic_tier_installer" }
 				type: "item"
 			}]
-			x: 2.0d
+			x: 4.0d
 			y: -2.0d
 		}
 		{
@@ -581,7 +581,7 @@
 				item: { count: 1, id: "mekanism:advanced_tier_installer" }
 				type: "item"
 			}]
-			x: 3.0d
+			x: 5.0d
 			y: -2.0d
 		}
 		{
@@ -602,7 +602,7 @@
 				item: { count: 1, id: "mekanism:elite_tier_installer" }
 				type: "item"
 			}]
-			x: 4.0d
+			x: 6.0d
 			y: -2.0d
 		}
 		{
@@ -623,7 +623,7 @@
 				item: { count: 1, id: "mekanism:ultimate_tier_installer" }
 				type: "item"
 			}]
-			x: 5.0d
+			x: 7.0d
 			y: -2.0d
 		}
 		{
@@ -635,6 +635,40 @@
 			}]
 			x: 8.5d
 			y: 0.0d
+		}
+		{
+			dependencies: ["6DBE8C47E5D4AFE9"]
+			id: "5296687C9089FF79"
+			optional: true
+			tasks: [{
+				id: "0EACF982A172FC9E"
+				item: { count: 1, id: "mekanism:basic_bin" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["5296687C9089FF79"]
+			id: "5F531756FDBB07BB"
+			optional: true
+			tasks: [{
+				id: "4E3BB04FE85CD8CD"
+				item: { count: 1, id: "mekanism:advanced_bin" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -3.0d
+		}
+		{
+			id: "776AFAB730419BD4"
+			tasks: [{
+				id: "6D66677E53AB4CDD"
+				item: { count: 1, id: "mekanism:elite_bin" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -4.0d
 		}
 	]
 }

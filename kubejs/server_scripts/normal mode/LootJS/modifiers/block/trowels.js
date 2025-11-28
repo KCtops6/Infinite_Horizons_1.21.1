@@ -65,7 +65,7 @@ LootJS.modifiers(event => {
     event.addBlockModifier("minecraft:gravel")  // Gravel block modifier
         .matchTool("kubejs:stone_trowel")   // Match only if using stone trowel
         .addLoot(LootEntry.of('create:crushed_raw_iron').randomChance(0.25))    // 25% chance to add crushed raw iron
-        .randomChance(0.5)  // 50% chance to apply the whole modifier
+        .randomChance(0.25)  // 50% chance to apply the whole modifier
         .removeLoot("minecraft:gravel") // Remove the gravel drop
 
     /**
@@ -78,7 +78,7 @@ LootJS.modifiers(event => {
         .addLoot(LootEntry.of('create:crushed_raw_gold').randomChance(0.125))   // 12.5% chance to add crushed raw gold
         .addLoot(LootEntry.of('create:crushed_raw_zinc').randomChance(0.125))   // 12.5% chance to add crushed raw zinc
         .addLoot(LootEntry.of('mysticalagriculture:prosperity_shard').randomChance(0.125))  // 12.5% chance to add prosperity shard
-        .randomChance(0.75) // 75% chance to apply the whole modifier
+        .randomChance(0.5) // 75% chance to apply the whole modifier
         .removeLoot("minecraft:gravel") // Remove the gravel drop
     
     /**
@@ -95,7 +95,6 @@ LootJS.modifiers(event => {
      */
     event.addBlockModifier("kubejs:deepslate_gravel")   // Deepslate gravel block modifier
         .matchTool("kubejs:iron_trowel")    // Match only if using iron trowel
-        .addLoot(LootEntry.of("kubejs:tuff_pebble").randomChance(0.75))   // 75% chance to add tuff pebble
         .addLoot(LootEntry.of("minecraft:diamond").randomChance(0.125))  // 12.5% chance to add diamond
         .addLoot(LootEntry.of("minecraft:lapis_lazuli").randomChance(0.25)) // 25% chance to add lapis lazuli
         .addLoot(LootEntry.of("minecraft:redstone").randomChance(0.25)) // 25% chance to add redstone

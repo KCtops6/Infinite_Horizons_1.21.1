@@ -80,8 +80,8 @@
 				item: { count: 1, id: "create:large_water_wheel" }
 				type: "item"
 			}]
-			x: 2.0d
-			y: -2.0d
+			x: 1.0d
+			y: -1.0d
 		}
 		{
 			dependencies: ["6F234337CE289CD4"]
@@ -330,8 +330,8 @@
 				item: { count: 1, id: "create:encased_fan" }
 				type: "item"
 			}]
-			x: 2.0d
-			y: -4.0d
+			x: 3.0d
+			y: -3.0d
 		}
 		{
 			dependencies: ["1B922950A7570482"]

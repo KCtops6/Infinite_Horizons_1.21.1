@@ -68,6 +68,22 @@ LootJS.modifiers(event => {
         .randomChance(0.25)  // 50% chance to apply the whole modifier
         .removeLoot("minecraft:gravel") // Remove the gravel drop
 
+    event.addBlockModifier("kubejs:andesite_gravel")
+        .matchTool("kubejs:stone_trowel")
+        .addLoot(LootEntry.of('create:crushed_raw_iron').randomChance(0.25))
+        .randomChance(0.25)
+        .removeLoot("kubejs:andesite_gravel")
+    event.addBlockModifier("kubejs:granite_gravel")
+        .matchTool("kubejs:stone_trowel")
+        .addLoot(LootEntry.of('create:crushed_raw_iron').randomChance(0.25))
+        .randomChance(0.25)
+        .removeLoot("kubejs:granite_gravel")
+    event.addBlockModifier("kubejs:diorite_gravel")
+        .matchTool("kubejs:stone_trowel")
+        .addLoot(LootEntry.of('create:crushed_raw_iron').randomChance(0.25))
+        .randomChance(0.25)
+        .removeLoot("kubejs:diorite_gravel")
+
     /**
      * Iron Trowel gives various crushed ores and prosperity shards when breaking gravel.
      */
@@ -80,6 +96,34 @@ LootJS.modifiers(event => {
         .addLoot(LootEntry.of('mysticalagriculture:prosperity_shard').randomChance(0.125))  // 12.5% chance to add prosperity shard
         .randomChance(0.5) // 75% chance to apply the whole modifier
         .removeLoot("minecraft:gravel") // Remove the gravel drop
+
+    event.addBlockModifier("kubejs:andesite_gravel")
+        .matchTool("kubejs:iron_trowel")
+        .addLoot(LootEntry.of('create:crushed_raw_iron').randomChance(0.5))
+        .addLoot(LootEntry.of('create:crushed_raw_copper').randomChance(0.25))
+        .addLoot(LootEntry.of('create:crushed_raw_gold').randomChance(0.125))
+        .addLoot(LootEntry.of('create:crushed_raw_zinc').randomChance(0.125))
+        .addLoot(LootEntry.of('mysticalagriculture:prosperity_shard').randomChance(0.125))
+        .randomChance(0.5)
+        .removeLoot("kubejs:andesite_gravel")
+    event.addBlockModifier("kubejs:granite_gravel")
+        .matchTool("kubejs:iron_trowel")
+        .addLoot(LootEntry.of('create:crushed_raw_iron').randomChance(0.5))
+        .addLoot(LootEntry.of('create:crushed_raw_copper').randomChance(0.25))
+        .addLoot(LootEntry.of('create:crushed_raw_gold').randomChance(0.125))
+        .addLoot(LootEntry.of('create:crushed_raw_zinc').randomChance(0.125))
+        .addLoot(LootEntry.of('mysticalagriculture:prosperity_shard').randomChance(0.125))
+        .randomChance(0.5)
+        .removeLoot("kubejs:granite_gravel")
+    event.addBlockModifier("kubejs:diorite_gravel")
+        .matchTool("kubejs:iron_trowel")
+        .addLoot(LootEntry.of('create:crushed_raw_iron').randomChance(0.5))
+        .addLoot(LootEntry.of('create:crushed_raw_copper').randomChance(0.25))
+        .addLoot(LootEntry.of('create:crushed_raw_gold').randomChance(0.125))
+        .addLoot(LootEntry.of('create:crushed_raw_zinc').randomChance(0.125))
+        .addLoot(LootEntry.of('mysticalagriculture:prosperity_shard').randomChance(0.125))
+        .randomChance(0.5)
+        .removeLoot("kubejs:diorite_gravel")
     
     /**
      * Iron trowel gives tuff pebbles when breaking tuff gravel and deepslate pebbles, diamonds, lapis, and redstone when breaking deepslate gravel.

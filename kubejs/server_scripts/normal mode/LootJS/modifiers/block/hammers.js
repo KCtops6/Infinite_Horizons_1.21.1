@@ -21,5 +21,17 @@ LootJS.modifiers(event => {
             .matchTool(`kubejs:${m}_hammer`)   // ...and when the player is using the stone hammer...
             .removeLoot("minecraft:cobbled_deepslate")  // ...remove the cobbled deepslate drop...
             .addLoot(LootEntry.of("kubejs:deepslate_gravel"))   // ...and replace it with deepslate gravel.
+        event.addBlockModifier("minecraft:granite")
+            .matchTool(`kubejs:${m}_hammer`)
+            .removeLoot("minecraft:granite")
+            .addLoot(LootEntry.of("kubejs:granite_gravel"))
+        event.addBlockModifier("minecraft:diorite")
+            .matchTool(`kubejs:${m}_hammer`)
+            .removeLoot("minecraft:diorite")
+            .addLoot(LootEntry.of("kubejs:diorite_gravel"))
+        event.addBlockModifier("minecraft:andesite")
+            .matchTool(`kubejs:${m}_hammer`)
+            .removeLoot("minecraft:andesite")
+            .addLoot(LootEntry.of("kubejs:andesite_gravel"))
     })
 })

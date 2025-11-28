@@ -104,17 +104,12 @@
 					item: { count: 1, id: "minecraft:cobblestone" }
 					type: "item"
 				}
-				{
-					id: "1D7545C7BBBAD588"
-					item: { count: 1, id: "minecraft:furnace" }
-					type: "item"
-				}
 			]
 			x: 7.0d
 			y: 0.0d
 		}
 		{
-			dependencies: ["40F041C17BEAADEE"]
+			dependencies: ["0567F63B6578840D"]
 			icon: {
 				id: "minecraft:gravel"
 			}
@@ -139,18 +134,11 @@
 					type: "item"
 				}
 			]
-			tasks: [
-				{
-					id: "2407D224E136A0CF"
-					item: { count: 1, id: "kubejs:stone_hammer" }
-					type: "item"
-				}
-				{
-					id: "6885F73EF1301152"
-					item: { count: 1, id: "minecraft:gravel" }
-					type: "item"
-				}
-			]
+			tasks: [{
+				id: "6885F73EF1301152"
+				item: { count: 1, id: "minecraft:gravel" }
+				type: "item"
+			}]
 			x: 10.0d
 			y: 3.0d
 		}
@@ -1323,8 +1311,8 @@
 				item: { count: 1, id: "forestervillager:foresters_table" }
 				type: "item"
 			}]
-			x: 18.0d
-			y: 5.0d
+			x: 20.0d
+			y: 7.0d
 		}
 		{
 			dependencies: ["1037DA8CC7AAF5BD"]
@@ -1366,8 +1354,8 @@
 					type: "item"
 				}
 			]
-			x: 18.0d
-			y: 4.0d
+			x: 20.0d
+			y: 5.0d
 		}
 		{
 			dependencies: ["1037DA8CC7AAF5BD"]
@@ -1409,8 +1397,8 @@
 					type: "item"
 				}
 			]
-			x: 19.0d
-			y: 4.0d
+			x: 22.0d
+			y: 5.0d
 		}
 		{
 			dependencies: ["1037DA8CC7AAF5BD"]
@@ -1452,8 +1440,8 @@
 					type: "item"
 				}
 			]
-			x: 19.0d
-			y: 5.0d
+			x: 22.0d
+			y: 7.0d
 		}
 		{
 			dependencies: ["1037DA8CC7AAF5BD"]
@@ -1495,8 +1483,8 @@
 					type: "item"
 				}
 			]
-			x: 17.0d
-			y: 6.0d
+			x: 18.0d
+			y: 9.0d
 		}
 		{
 			dependencies: ["1037DA8CC7AAF5BD"]
@@ -1538,8 +1526,8 @@
 					type: "item"
 				}
 			]
-			x: 18.0d
-			y: 6.0d
+			x: 20.0d
+			y: 9.0d
 		}
 		{
 			dependencies: ["1037DA8CC7AAF5BD"]
@@ -1581,8 +1569,8 @@
 					type: "item"
 				}
 			]
-			x: 19.0d
-			y: 6.0d
+			x: 22.0d
+			y: 9.0d
 		}
 		{
 			dependencies: ["1037DA8CC7AAF5BD"]
@@ -1624,8 +1612,8 @@
 					type: "item"
 				}
 			]
-			x: 17.0d
-			y: 5.0d
+			x: 18.0d
+			y: 7.0d
 		}
 		{
 			dependencies: ["497252ADF991FABA"]
@@ -1737,6 +1725,118 @@
 			}]
 			x: 12.0d
 			y: 5.0d
+		}
+		{
+			dependencies: ["62DBB6855DF2639C"]
+			id: "38497E79214E71FE"
+			rewards: [
+				{
+					id: "5EA553FA7CF04734"
+					item: {
+						count: 1
+						id: "minecraft:oak_planks"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "6D9D2F9E9505A655"
+					item: {
+						count: 1
+						id: "minecraft:stick"
+					}
+					type: "item"
+				}
+				{
+					id: "5B8A94F76461CC05"
+					item: {
+						count: 1
+						id: "pamhc2foodextended:pineapplepieitem"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "094AF8A1F8379333"
+				item: { count: 1, id: "minecraft:wooden_axe" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["40F041C17BEAADEE"]
+			id: "5872241D6E8743EB"
+			rewards: [
+				{
+					id: "37ECD3272F121A6D"
+					item: {
+						count: 1
+						id: "minecraft:furnace"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "7D6DB2A404389BF5"
+					item: {
+						count: 1
+						id: "minecraft:cobblestone"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "631B98A42441A79F"
+					item: {
+						count: 1
+						id: "pamhc2foodextended:cornonthecobitem"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "78CEC64B86C33E29"
+				item: { count: 1, id: "minecraft:furnace" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["40F041C17BEAADEE"]
+			id: "0567F63B6578840D"
+			rewards: [
+				{
+					count: 3
+					id: "4887644EEE086377"
+					item: {
+						count: 1
+						id: "minecraft:cobblestone"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "6AA4636A4D235448"
+					item: {
+						count: 1
+						id: "pamhc2foodextended:greeneggsandhamitem"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3978750621EE38DC"
+				item: { count: 1, id: "kubejs:stone_hammer" }
+				type: "item"
+			}]
+			x: 8.5d
+			y: 1.5d
 		}
 	]
 }

@@ -24,6 +24,7 @@
 		{
 			dependencies: ["6F234337CE289CD4"]
 			id: "31950EF5E62EC10F"
+			optional: true
 			rewards: [
 				{
 					id: "5785E201BF109B18"
@@ -55,6 +56,7 @@
 		{
 			dependencies: ["31950EF5E62EC10F"]
 			id: "4ECFE2AB1E743F96"
+			optional: true
 			rewards: [
 				{
 					id: "0833A6A06555D8AE"
@@ -89,6 +91,7 @@
 				id: "create:windmill_bearing"
 			}
 			id: "26760351A93ADC05"
+			optional: true
 			rewards: [
 				{
 					id: "3EFE013EA2A14D2C"
@@ -480,7 +483,7 @@
 				type: "item"
 			}]
 			x: 12.0d
-			y: -2.0d
+			y: -5.0d
 		}
 		{
 			dependencies: [
@@ -539,6 +542,7 @@
 		}
 		{
 			dependencies: ["28D064931756E6FF"]
+			hide_dependent_lines: true
 			id: "6346D688C76ED68C"
 			rewards: [
 				{
@@ -743,8 +747,8 @@
 				item: { count: 1, id: "create:rotation_speed_controller" }
 				type: "item"
 			}]
-			x: 20.0d
-			y: -8.0d
+			x: 19.0d
+			y: -7.0d
 		}
 		{
 			dependencies: ["579D7FD06F5DC4D7"]
@@ -1385,6 +1389,98 @@
 			}]
 			x: 7.0d
 			y: -1.0d
+		}
+		{
+			dependencies: [
+				"75427194B86E02D5"
+				"5BC99E3F6FACEAD8"
+				"732EE5DB19BC573C"
+			]
+			id: "131CB918E3D68522"
+			tasks: [{
+				id: "16E8808DA093A4AA"
+				item: { count: 1, id: "create_deep_dark:echo_ingot" }
+				type: "item"
+			}]
+			x: 22.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["246E7273A1E9A735"]
+			id: "605BD3EA74718784"
+			optional: true
+			size: 0.5d
+			tasks: [{
+				id: "718051C5A484EA08"
+				item: { count: 1, id: "create:pulse_repeater" }
+				type: "item"
+			}]
+			x: 12.25d
+			y: -6.75d
+		}
+		{
+			dependencies: ["246E7273A1E9A735"]
+			id: "1577193FDB87D32F"
+			optional: true
+			size: 0.5d
+			tasks: [{
+				id: "20AEFBF9005A2E09"
+				item: { count: 1, id: "create:pulse_extender" }
+				type: "item"
+			}]
+			x: 11.75d
+			y: -6.75d
+		}
+		{
+			dependencies: ["246E7273A1E9A735"]
+			id: "035B359F91E4FA10"
+			optional: true
+			size: 0.5d
+			tasks: [{
+				id: "76762EB149571E65"
+				item: { count: 1, id: "create:pulse_timer" }
+				type: "item"
+			}]
+			x: 11.25d
+			y: -6.5d
+		}
+		{
+			dependencies: ["40B3B159DE68602F"]
+			id: "6E41D895C4C4B7CB"
+			tasks: [{
+				id: "1319AC0199BEC11C"
+				item: { count: 1, id: "create:sequenced_gearshift" }
+				type: "item"
+			}]
+			x: 15.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["40B3B159DE68602F"]
+			id: "63ED990C5F3F695E"
+			optional: true
+			tasks: [{
+				id: "0D24E11DFBAFF514"
+				item: { count: 1, id: "create:content_observer" }
+				type: "item"
+			}]
+			x: 14.0d
+			y: -9.0d
+		}
+		{
+			dependencies: [
+				"170192578F1D5CA0"
+				"0866DAF8B5A928A7"
+				"5A382D145AA88DD9"
+			]
+			id: "4599C37835978122"
+			tasks: [{
+				id: "503F6588A9595F0D"
+				item: { count: 1, id: "kubejs:copper_mesh" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 3.0d
 		}
 	]
 }

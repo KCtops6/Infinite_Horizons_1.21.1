@@ -198,6 +198,7 @@
 	]
 	quest.3DA1DEC9395CA411.quest_subtitle: "chop trees down"
 	quest.3DA1DEC9395CA411.title: "Gather wood"
+	quest.3E29C768BBBA289F.quest_desc: ["Obtained from using a stone trowel (or higher) on dirt or grass. The crushed version of this block (obtained by breaking with a hammer) has the same trowel drops as normal gravel."]
 	quest.3E9EF2ED3C05EE34.quest_desc: ["With &lApatite Seeds&r, you can grow &lApatite Essence&r, a crucial resource for crafting various advanced materials and fertilizers. Plant these seeds to easily harvest apatite without needing to mine or explore deep caverns."]
 	quest.3E9EF2ED3C05EE34.quest_subtitle: "Mineral of Progress"
 	quest.3E9EF2ED3C05EE34.title: "Essence of Apatite"
@@ -235,7 +236,7 @@
 	quest.4FC13F2C6001CFC4.quest_desc: ["The &lEnder Generator&r marks a significant leap forward in your energy production capabilities. With a generation rate of 96 FE/t and a transfer rate of 512 FE/t, it offers powerful and reliable energy for even the most demanding systems. Fueled by Ender Pearls and Ender Eyes, it consumes a bit more at 1 FE/t, but the results are worth it. With a buffer capacity of 500,000 FE, this generator offers the energy reserves necessary for long-term operations. Upgrade from Obsidian to Ender and bring your energy production into the next dimension."]
 	quest.4FC13F2C6001CFC4.quest_subtitle: "Harness the power of the End for unstoppable energy"
 	quest.4FC13F2C6001CFC4.title: "The Ender Power Shift"
-	quest.4FCED4F5C0320523.quest_desc: ["In the world of automation, &lAndesite&r is a crucial resource. Use a &lStone Trowel&r or better to break dirt or grass blocks and gather &lAndesite Pebbles&r. Combine four pebbles to craft Andesite, an essential material for Create’s &lAndesite Alloy&r. Gather wisely—this will be key to your mechanical creations!"]
+	quest.4FCED4F5C0320523.quest_desc: ["Obtained from using a stone trowel (or higher) on dirt or grass. The crushed version of this block (obtained by breaking with a hammer) has the same trowel drops as normal gravel."]
 	quest.4FCED4F5C0320523.quest_subtitle: "Crafting the Building Blocks"
 	quest.4FCED4F5C0320523.title: "Andesite Essentials"
 	quest.50AA14991528833D.quest_desc: ["Harness the energy of the earth by growing &lNature Seeds,&r which yield Nature Essence. This essence is a versatile resource, allowing you to craft various plant-based materials. Whether you need vines, cactus, or other natural elements, this will be your gateway to sustainable flora."]
@@ -260,6 +261,7 @@
 	quest.5C6BCB357546F47A.quest_desc: ["To craft powerful Mystical Agriculture seeds, you'll need an &lInfusion Altar&r and eight &lInfusion Pedestals&r. This structure is essential for progressing through the mod, allowing you to create resource-generating crops. Set up your altar, gather your materials, and begin the infusion process to expand your farming potential!"]
 	quest.5C6BCB357546F47A.quest_subtitle: "The Infusion Altar"
 	quest.5C6BCB357546F47A.title: "Ritual of Growth"
+	quest.5CBC838755D23495.quest_desc: ["Obtained from using a stone trowel (or higher) on dirt or grass. The crushed version of this block (obtained by breaking with a hammer) has the same trowel drops as normal gravel."]
 	quest.5D00196D169F65C2.quest_desc: ["Even though you can’t enter the Nether just yet, activating a &lNether Portal&r still has its uses. Craft a &lFlint and Steel&r and light the portal to begin its transformation effect. Nearby blocks will slowly turn into their Nether equivalents, giving you access to some Nether-exclusive materials without ever stepping through. Keep this in mind as you plan for the late game when you’ll eventually unlock the &lNether Key&r and explore what lies beyond!"]
 	quest.5D00196D169F65C2.quest_subtitle: "Lighting the Nether Portal"
 	quest.5D00196D169F65C2.title: "A Gateway’s Influence"

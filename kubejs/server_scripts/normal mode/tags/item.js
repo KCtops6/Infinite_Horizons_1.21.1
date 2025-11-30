@@ -1,7 +1,6 @@
 let storage_sizes = [ '1', '4', '16', '64', '256' ];  // each storage size.
 let materials = ['chainmail', 'iron', 'diamond'];
 let pieces = ['helmet', 'chestplate', 'leggings', 'boots']
-let other_bio_fuels = [ 'createaddition:biomass', 'mekanism:bio_fuel']
 let animals = ['chicken', 'cow', 'pig', 'sheep', 'horse', 'rabbit']
 let types = ['stone', 'andesite', 'deepslate', 'diorite', 'granite']
 let tiers = ['copper', 'iron', 'gold', 'diamond', 'netherite']
@@ -26,10 +25,6 @@ ServerEvents.tags('item', event => {
         pieces.forEach(p => {
             event.add(`c:armors/${m}`, `minecraft:${m}_${p}`)
         })
-    })
-    event.add('c:fuels/bio', 'kubejs:bio_matter');
-    other_bio_fuels.forEach(fuel => {
-        event.remove('c:fuels/bio', fuel)
     })
     event.removeAll('forge:dusts/endstone')    // Removing the endstone tag.
     event.add('c:dusts/end_stone', [    // to the 'forge:dusts/end_stone' tag we add...

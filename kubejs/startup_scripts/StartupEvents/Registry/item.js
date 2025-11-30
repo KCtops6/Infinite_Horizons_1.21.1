@@ -8,7 +8,6 @@ let meshes = [
 StartupEvents.registry('item', event => {
     const items = [
         'stone_pebble', 'andesite_pebble', 'deepslate_pebble', 'diorite_pebble', 'granite_pebble',
-        'bastion_key', 'fortress_key', 'ruined_portal_key',
         'chicken_feed', 'cow_feed', 'pig_feed', 'sheep_feed', 'rabbit_feed', 'horse_feed',
         'nether_totem', 'incomplete_nether_totem', 'infernal_matter'
     ]

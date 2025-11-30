@@ -35,7 +35,7 @@ ServerEvents.recipes(event => {
         Output.of('kubejs:diorite_pebble', 1),
         Output.of('kubejs:granite_pebble', 1),
         Output.of('kubejs:deepslate_pebble', 0.75)
-    ],'minecraft:dirt','kubejs:brass_mesh')
+    ],'minecraft:dirt','createsifter:brass_mesh')
     event.recipes.createsifter.sifting([
         Output.of('kubejs:stone_pebble', 0.25),
         Output.of('kubejs:andesite_pebble', 0.5),

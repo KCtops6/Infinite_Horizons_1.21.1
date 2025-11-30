@@ -4,5 +4,5 @@ ServerEvents.recipes(event => {
         Output.of('minecraft:seagrass', 0.4),
         Output.of('minecraft:sugar_cane', 0.15),
         Output.of('minecraft:nautilus_shell', 0.01),
-    ],'minecraft:sand','createsifter:andesite_mesh').waterlogged(true)
+    ],'minecraft:sand','string:andesite_mesh').waterlogged(true)
 })

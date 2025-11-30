@@ -6,8 +6,166 @@ let mapping = {
     "kubejs:sheep_feed": "Used on a Grass Block to summon a Sheep",
     "kubejs:rabbit_feed": "Used on a Grass Block to summon a Rabbit",
     "kubejs:horse_feed": "Used on a Grass Block to summon a Horse",
-    "minecraft:trial_spawner": ""
+    "minecraft:trial_spawner": "",
+    "kubejs:stone_pebble": "Obtained from sifting dirt or using trowels.",
+    "kubejs:andesite_pebble": "Obtained from sifting dirt or using trowels.",
+    "kubejs:diorite_pebble": "Obtained from sifting dirt or using trowels.",
+    "kubejs:granite_pebble": "Obtained from sifting dirt or using trowels.",
+    "kubejs:deepslate_pebble": "Obtained from sifting dirt or using trowels.",
+    "minecraft:pumpkin_seeds": "Can be sifted from dirt.",
+    "minecraft:melon_seeds": "Can be sifted from dirt.",
+    "farmersdelight:wild_rice": "Can be sifted from dirt.",
 }
+
+let complexMapping = {
+    "minecraft:coal": [
+        "Obtained by sifting Gravel.",
+        "Appears in Copper, Iron, Brass, and Netherite Tier Meshes.",
+        "Best chance with Iron Mesh."
+    ],
+    "minecraft:raw_iron": [
+        "Obtained by sifting Gravel.",
+        "Appears in Copper, Iron, Brass, and Netherite Tier Meshes.",
+        "Best chance with Brass Mesh."
+    ],
+    "minecraft:raw_copper": [
+        "Obtained by sifting Gravel.",
+        "Appears in Copper, Iron, Brass, and Netherite Tier Meshes.",
+        "Best chance with Iron Mesh."
+    ],
+    "create:raw_zinc": [
+        "Obtained by sifting Gravel.",
+        "Appears in Copper, Iron, Brass, and Netherite Tier Meshes.",
+        "Best chance with Netherite Mesh."
+    ],
+    "kubejs:raw_tin": [
+        "Obtained by sifting Gravel.",
+        "Appears in Iron, Brass, and Netherite Tier Meshes.",
+        "Best chance with Netherite Mesh."
+    ],
+    "kubejs:raw_aluminum": [
+        "Obtained by sifting Deepslate Gravel.",
+        "Appears in Copper, Iron, Brass, and Netherite Tier Meshes.",
+        "Best chance with Netherite Mesh."
+    ],
+    "kubejs:raw_lead": [
+        "Obtained by sifting Deepslate Gravel.",
+        "Appears in Copper, Iron, Brass, and Netherite Tier Meshes.",
+        "Best chance with Netherite Mesh."
+    ],
+    "kubejs:raw_nickel": [
+        "Obtained by sifting Deepslate Gravel.",
+        "Appears in Copper, Iron, Brass, and Netherite Tier Meshes.",
+        "Best chance with Netherite Mesh."
+    ],
+    "kubejs:raw_osmium": [
+        "Obtained by sifting Deepslate Gravel.",
+        "Appears in Copper, Iron, Brass, and Netherite Tier Meshes.",
+        "Best chance with Brass Mesh."
+    ],
+    "kubejs:raw_silver": [
+        "Obtained by sifting Deepslate Gravel.",
+        "Appears in Copper, Iron, Brass, and Netherite Tier Meshes.",
+        "Best chance with Netherite Mesh."
+    ],
+    "kubejs:raw_uranium": [
+        "Obtained by sifting Deepslate Gravel.",
+        "Appears in Copper, Iron, Brass, and Netherite Tier Meshes.",
+        "Best chance with Netherite Mesh."
+    ],
+    "minecraft:diamond": [
+        "Obtained by sifting Deepslate Gravel.",
+        "Appears in Iron, Brass, and Netherite Tier Meshes.",
+        "Best chance with Netherite Mesh."
+    ],
+    "minecraft:amethyst_shard": [
+        "Obtained by sifting Deepslate Gravel.",
+        "Appears in Brass and Netherite Tier Meshes.",
+        "Best chance with Netherite Mesh."
+    ],
+    "mysticalagriculture:prosperity_shard": [
+        "Obtained by sifting Deepslate Gravel.",
+        "Appears in Brass and Netherite Tier Meshes.",
+        "Best chance with Netherite Mesh."
+    ],
+    "minecraft:crimson_roots": [
+        "Obtained by sifting Crushed Netherrack.",
+        "Appears in String, Copper, and Iron Tier Meshes.",
+        "Best chance with Copper Mesh."
+    ],
+    "minecraft:warped_roots": [
+        "Obtained by sifting Crushed Netherrack.",
+        "Appears in String, Copper, and Iron Tier Meshes.",
+        "Best chance with Copper Mesh."
+    ],
+    "minecraft:nether_sprouts": [
+        "Obtained by sifting Crushed Netherrack.",
+        "Appears in String, Copper, and Iron Tier Meshes.",
+        "Best chance with Copper Mesh."
+    ],
+    "minecraft:warped_fungus": [
+        "Obtained by sifting Crushed Netherrack.",
+        "Appears in Copper, Iron, and Brass Tier Meshes.",
+        "Best chance with Iron Mesh."
+    ],
+    "minecraft:crimson_fungus": [
+        "Obtained by sifting Crushed Netherrack.",
+        "Appears in Copper, Iron, and Brass Tier Meshes.",
+        "Best chance with Iron Mesh."
+    ],
+    "minecraft:netherite_scrap": [
+        "Obtained by sifting Crushed Netherrack.",
+        "Appears in Brass and Netherite Tier Meshes.",
+        "Best chance with Netherite Mesh."
+    ],
+    "minecraft:raw_gold": [
+        "Obtained by sifting Deepslate Gravel and Crushed Netherrack.",
+        "Appears in Iron, Brass, and Netherite Tier Meshes.",
+        "Best chance with Brass Mesh."
+    ],
+    "minecraft:bone_meal": [
+        "Obtained by sifting Sand.",
+        "Appears in String Tier Mesh.",
+        "Best chance with String Mesh."
+    ],
+
+    "minecraft:cactus": [
+        "Obtained by sifting Sand.",
+        "Appears in String Tier Mesh.",
+        "Best chance with String Mesh."
+    ],
+
+    "mysticalagriculture:soulium_dust": [
+        "Obtained by sifting Soul Sand.",
+        "Appears in String Tier Mesh.",
+        "Best chance with String Mesh."
+    ],
+
+    "minecraft:kelp": [
+        "Obtained by sifting Sand.",
+        "Appears in Waterlogged String Tier Mesh.",
+        "Best chance with Waterlogged String Mesh."
+    ],
+
+    "minecraft:seagrass": [
+        "Obtained by sifting Sand.",
+        "Appears in Waterlogged String Tier Mesh.",
+        "Best chance with Waterlogged String Mesh."
+    ],
+
+    "minecraft:sugar_cane": [
+        "Obtained by sifting Sand.",
+        "Appears in Waterlogged String Tier Mesh.",
+        "Best chance with Waterlogged String Mesh."
+    ],
+
+    "minecraft:nautilus_shell": [
+        "Obtained by sifting Sand.",
+        "Appears in Waterlogged String Tier Mesh.",
+        "Best chance with Waterlogged String Mesh."
+    ]
+}
+
 ItemEvents.modifyTooltips(event => {
     Object.entries(mapping).forEach(([itemID, tooltipLine]) => {
         event.modify(itemID, { shift: false }, text => {
@@ -23,6 +181,28 @@ ItemEvents.modifyTooltips(event => {
             ])
         })
     })
+
+    Object.entries(complexMapping).forEach(([itemID, tooltipLines]) => {
+        event.modify(itemID, { shift: false }, text => {
+            text.insert(1, Text.join([
+                Text.yellow("Press ").italic(),
+                Text.gold("Shift").bold(),
+                Text.yellow(" for more info...").italic()
+            ]))
+        })
+        event.modify(itemID, { shift: true }, text => {
+            text.insert(1, [
+                Text.green(tooltipLines[0])
+            ])
+            text.insert(2, [
+                Text.green(tooltipLines[1])
+            ])
+            text.insert(3, [
+                Text.green(tooltipLines[2])
+            ])
+        })
+    })
+
     event.modify("minecraft:trial_key", { shift: true }, text => {
         text.insert(1, Text.join([
             Text.green("Used to create "),

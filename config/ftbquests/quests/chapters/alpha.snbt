@@ -1836,8 +1836,8 @@
 				item: { count: 1, id: "kubejs:stone_hammer" }
 				type: "item"
 			}]
-			x: 8.5d
-			y: 1.5d
+			x: 8.0d
+			y: 1.0d
 		}
 		{
 			dependencies: ["0A32D1747C313758"]

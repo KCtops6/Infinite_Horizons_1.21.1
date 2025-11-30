@@ -36,3 +36,6 @@ local/
 changelog.txt
 options.txt
 .probe
+config/lmft.json
+kubejs/client_scripts/jsconfig.json
+kubejs/config/probe-settings.json

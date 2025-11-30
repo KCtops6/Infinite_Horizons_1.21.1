@@ -111,6 +111,9 @@
 		}
 		{
 			dependencies: ["041C0F5E471298D2"]
+			icon: {
+				id: "minecraft:wither_skeleton_skull"
+			}
 			id: "287FB95D062FF224"
 			rewards: [{
 				id: "0421C37FD243EF97"
@@ -125,7 +128,11 @@
 				{
 					entity: "minecraft:wither_skeleton"
 					icon: {
-						id: "minecraft:wither_skeleton_skull"
+						components: {
+							"!ftbquests:icon": { }
+							"ftbquests:entity_face": "minecraft:wither_skeleton"
+						}
+						id: "ftbquests:custom_icon"
 					}
 					id: "3322E1157AA75A66"
 					type: "kill"
@@ -444,7 +451,11 @@
 			tasks: [{
 				entity: "minecraft:piglin"
 				icon: {
-					id: "minecraft:piglin_head"
+					components: {
+						"!ftbquests:icon": { }
+						"ftbquests:entity_face": "minecraft:piglin"
+					}
+					id: "ftbquests:custom_icon"
 				}
 				id: "07C632E10A44BE41"
 				type: "kill"
@@ -665,20 +676,10 @@
 				entity: "minecraft:blaze"
 				icon: {
 					components: {
-						"minecraft:profile": {
-							id: [I;
-								-545139939
-								-2011543045
-								-1075025684
-								1554734973
-							]
-							properties: [{
-								name: "textures"
-								value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjIwNjU3ZTI0YjU2ZTFiMmY4ZmMyMTlkYTFkZTc4OGMwYzI0ZjM2Mzg4YjFhNDA5ZDBjZDJkOGRiYTQ0YWEzYiJ9fX0="
-							}]
-						}
+						"!ftbquests:icon": { }
+						"ftbquests:entity_face": "minecraft:blaze"
 					}
-					id: "minecraft:player_head"
+					id: "ftbquests:custom_icon"
 				}
 				id: "3F3AD8042770490F"
 				type: "kill"
@@ -731,25 +732,10 @@
 				entity: "minecraft:magma_cube"
 				icon: {
 					components: {
-						"minecraft:custom_name": "{\"bold\":true,\"color\":\"gold\",\"italic\":false,\"text\":\"Magma Cube\",\"underlined\":true}"
-						"minecraft:lore": [
-							"{\"color\":\"gray\",\"italic\":false,\"text\":\"Custom Head ID: 45421\"}"
-							"{\"color\":\"blue\",\"italic\":false,\"text\":\"www.minecraft-heads.com\"}"
-						]
-						"minecraft:profile": {
-							id: [I;
-								-783380762
-								-309113330
-								-2006895573
-								1994652983
-							]
-							properties: [{
-								name: "textures"
-								value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTFjOTdhMDZlZmRlMDRkMDAyODdiZjIwNDE2NDA0YWIyMTAzZTEwZjA4NjIzMDg3ZTFiMGMxMjY0YTFjMGYwYyJ9fX0="
-							}]
-						}
+						"!ftbquests:icon": { }
+						"ftbquests:entity_face": "minecraft:magma_cube"
 					}
-					id: "minecraft:player_head"
+					id: "ftbquests:custom_icon"
 				}
 				id: "65595508689DBDDB"
 				type: "kill"

@@ -52,3 +52,5 @@ config/easy*
 config/moonlight*
 config/village*
 config/waystones*
+config/toastcontrol-client.toml
+kubejs/config/probe-settings.json

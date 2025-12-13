@@ -70,4 +70,7 @@ StartupEvents.registry('item', event => {
             .texture("mesh", `kubejs:item/${mesh.material}_mesh`)
             .maxDamage(mesh.durability)
     })
+    event.create('blazing_mechanism').displayName('Blazing Mechanism').maxStackSize(1).rarity('epic');
+    event.create('piglin_forged_mechanism').displayName('Piglin-Forged Mechanism').maxStackSize(1).rarity('epic');
+    event.create('ender_mechanism').displayName('Ender Mechanism').maxStackSize(1).rarity('epic');
 })

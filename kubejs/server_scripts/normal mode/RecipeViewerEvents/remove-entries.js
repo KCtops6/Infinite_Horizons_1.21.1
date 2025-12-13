@@ -1,9 +1,9 @@
 RecipeViewerEvents.removeEntries('item', event => {
-    event.remove('kubejs:incomplete_nether_totem')
+    event.remove('kubejs:incomplete_nether_totem');
     global.nests.forEach(n => {
-        event.remove(`productivebees:${n}_nest`)
-    })
-    event.remove('productivebees:bamboo_hive')
+        event.remove(`productivebees:${n}_nest`);
+    });
+    event.remove('productivebees:bamboo_hive');
     let extraRemovals = [
         'createsifter:andesite_pebble', 'createsifter:basalt_pebble',
         'createsifter:blackstone_pebble', 'createsifter:calcite_pebble',
@@ -19,5 +19,6 @@ RecipeViewerEvents.removeEntries('item', event => {
 		'createsifter:custom_mesh', 'createsifter:advanced_brass_mesh', 
 		'createsifter:advanced_sturdy_mesh', 'createsifter:advanced_custom_mesh'
 	]
-    extraRemovals.forEach(id => event.remove(id))
-})
+    extraRemovals.forEach(id => event.remove(id));
+    event.remove(/^ae2:(?!fluix)\w+_(smart|covered|dense|smart_dense|covered_dense|glass)_cable$/);
+});

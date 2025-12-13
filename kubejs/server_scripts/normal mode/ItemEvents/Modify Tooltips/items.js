@@ -245,4 +245,18 @@ ItemEvents.modifyTooltips(event => {
             ]))
         })
     })
-})
+    let ae2CableTypes = ['smart', 'covered', 'glass', 'covered_dense', 'smart_dense'];
+    ae2CableTypes.forEach(t => {
+        let itemID = `ae2:fluix_${t}_cable`
+        event.modify(itemID, { shift: false }, text => {
+            text.insert(1, Text.join([
+                Text.yellow("Press ").italic(),
+                Text.gold("Shift").bold(),
+                Text.yellow(" for more info...").italic()
+            ]));
+        });
+        event.modify(itemID, { shift: true }, text => {
+            text.insert(1, Text.green("You are able to dye these cables."));
+        });
+    });
+});

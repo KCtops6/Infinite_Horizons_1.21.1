@@ -54,3 +54,5 @@ config/village*
 config/waystones*
 config/toastcontrol-client.toml
 kubejs/config/probe-settings.json
+config/transition.json
+config/trender.json

@@ -630,7 +630,7 @@
 			id: "568199CB75A4D2E1"
 			tasks: [{
 				id: "436A11072198B3A5"
-				item: { count: 1, id: "kubejs:bio_matter" }
+				item: { components: { "ftbquests:missing_item": "kubejs:bio_matter" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 8.5d

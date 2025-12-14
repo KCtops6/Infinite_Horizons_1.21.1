@@ -18,9 +18,4 @@ ServerEvents.recipes(event => {
         'create:precision_mechanism',
         'minecraft:netherite_ingot'
     ]).id('kubejs:piglin_forged_mechanism');
-    event.shapeless(Item.of('kubejs:ender_mechanism', 1), [
-        'minecraft:eye_trim_smithing_template', 
-        'create:precision_mechanism',
-        'minecraft:ender_pearl'
-    ]).id('kubejs:ender_mechanism');
 });

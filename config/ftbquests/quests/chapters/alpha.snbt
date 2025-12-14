@@ -373,36 +373,6 @@
 			y: -2.0d
 		}
 		{
-			dependencies: ["7C75AE73B3CCD66E"]
-			icon: {
-				id: "minecraft:gold_ingot"
-			}
-			id: "28018BE994F02339"
-			rewards: [{
-				id: "74C970FAEC829CAC"
-				item: {
-					count: 1
-					id: "minecraft:gold_ingot"
-				}
-				random_bonus: 2
-				type: "item"
-			}]
-			tasks: [
-				{
-					id: "4395800E0D49456B"
-					item: { count: 1, id: "create:crushed_raw_gold" }
-					type: "item"
-				}
-				{
-					id: "3C6D576FA6367F88"
-					item: { count: 1, id: "minecraft:gold_ingot" }
-					type: "item"
-				}
-			]
-			x: 18.0d
-			y: 1.0d
-		}
-		{
 			dependencies: ["2AFC343E56D3BA1B"]
 			id: "71B4677400CE51F3"
 			tasks: [{
@@ -1862,6 +1832,36 @@
 			}]
 			x: 0.0d
 			y: 4.0d
+		}
+		{
+			dependencies: ["7C75AE73B3CCD66E"]
+			icon: {
+				id: "minecraft:gold_ingot"
+			}
+			id: "28018BE994F02339"
+			rewards: [{
+				id: "74C970FAEC829CAC"
+				item: {
+					count: 1
+					id: "minecraft:gold_ingot"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "4395800E0D49456B"
+					item: { count: 1, id: "create:crushed_raw_gold" }
+					type: "item"
+				}
+				{
+					id: "3C6D576FA6367F88"
+					item: { count: 1, id: "minecraft:gold_ingot" }
+					type: "item"
+				}
+			]
+			x: 18.0d
+			y: 1.0d
 		}
 	]
 }

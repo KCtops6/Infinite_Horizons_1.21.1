@@ -2,16 +2,13 @@
 	chapter.02795623E294F878.title: "Pam's Harvestcraft"
 	chapter.17F179085511CF63.chapter_subtitle: ["Getting Started"]
 	chapter.17F179085511CF63.title: "Alpha"
-	chapter.197A296AEC020B47.title: "Immersive Engineering"
 	chapter.1B73F34BAB8F6FCD.chapter_subtitle: ["Power Generation"]
 	chapter.1B73F34BAB8F6FCD.title: "Generators Galore"
 	chapter.1C990C36267A7CE1.title: "Productive Bees"
-	chapter.247639ED7F0AF536.chapter_subtitle: ["Mystical Agriculture"]
-	chapter.247639ED7F0AF536.title: "Delta"
+	chapter.1F10B15237CFBB52.title: "Delta"
 	chapter.2A5182EC401BA623.title: "Omega"
 	chapter.2F34CC58AE75DDE7.chapter_subtitle: ["Early-Game \"Non-Digital\" Storage"]
 	chapter.2F34CC58AE75DDE7.title: "Sophisticated Mods"
-	chapter.51E518A61C4133E7.title: "Mekanism"
 	chapter.5E07E3741CBC3BFE.chapter_subtitle: ["Nether Items and Blocks"]
 	chapter.5E07E3741CBC3BFE.title: "Beta"
 	chapter.64FE7FCF6127CD6A.chapter_subtitle: ["Infinite Horizons Trial Chambers"]
@@ -26,9 +23,6 @@
 	quest.01AEEA186BB50BB0.quest_desc: ["The Nether Portal’s energy doesn’t just bring heat—it also alters stone into valuable resources. If you place Stone near an active portal, it will slowly transform into Nether Quartz Ore. Mine it to collect &lNether Quartz&r, an essential material for redstone components, decorative blocks, and more. Even without stepping into the Nether, you can still harness its unique resources!"]
 	quest.01AEEA186BB50BB0.quest_subtitle: "Harvesting Nether Quartz"
 	quest.01AEEA186BB50BB0.title: "Crystals of the Nether"
-	quest.0254E09CD6298AE0.quest_desc: ["With &lSquid Seeds&r, you can grow &lSquid Essence&r, unlocking the ability to obtain ink and other squid-related resources without needing to dive into the water. Plant these seeds and harvest the essence for your crafting needs."]
-	quest.0254E09CD6298AE0.quest_subtitle: "Ink in the Soil"
-	quest.0254E09CD6298AE0.title: "Essence of the Squid"
 	quest.03552227F62B6320.quest_desc: ["Breaking Cobbled Deepslate with an Iron Hammer or better produces &lDeepslate Gravel&r, a valuable material with the potential for rare finds. Sifting through it can yield rare items, making it an essential step for obtaining high-tier resources. The deeper you go, the greater the rewards!"]
 	quest.03552227F62B6320.quest_subtitle: "Deepslate Gravel Rewards"
 	quest.03552227F62B6320.title: "Sifting the Depths"
@@ -54,15 +48,9 @@
 	quest.08AA4A1FF88BADA2.quest_subtitle: "Upgrade to the Potion Generator"
 	quest.08AA4A1FF88BADA2.title: "Brewing Power"
 	quest.0A32D1747C313758.quest_desc: ["You are going to need a lot of these..."]
-	quest.0A4836489D04FF80.quest_desc: ["With &lHoney Seeds&r, you can produce &lHoney Essence&r, a renewable way to get honey without needing to rely on beehives. Perfect for those sticky situations where more honey is needed."]
-	quest.0A4836489D04FF80.quest_subtitle: "Grow Your Own Honey"
-	quest.0A4836489D04FF80.title: "Sweet Harvest"
 	quest.0E2601518E952F8C.quest_desc: ["&lWater Seeds&r grow into &lWater Essence&r, which is useful for a few early-game recipes. While it may not be as versatile as some other essences, it's an essential resource for crafting basic items and progressing through the early stages of Mystical Agriculture. Start planting to unlock new crafting possibilities!"]
 	quest.0E2601518E952F8C.quest_subtitle: "Harnessing Water Essence"
 	quest.0E2601518E952F8C.title: "Seeds of the Sea"
-	quest.0EF473D1AB25C4C5.quest_desc: ["With &lCoal Seeds&r, you can grow &lCoal Essence&r, allowing you to craft coal without ever touching a pickaxe. A renewable fuel source is always a good investment!"]
-	quest.0EF473D1AB25C4C5.quest_subtitle: "Coal Without Mining"
-	quest.0EF473D1AB25C4C5.title: "Growing Fuel"
 	quest.0F4C5B2728A47022.quest_desc: ["You've successfully set up a solid foundation for power generation, providing a reliable energy source for your Applied Energistics 2 network. With this setup, you’ll be able to support your AE2 systems, ensuring a smooth and efficient operation. Check this quest to acknowledge that you're ready to power your devices!"]
 	quest.0F4C5B2728A47022.quest_subtitle: "Ensure a Steady Energy Flow"
 	quest.102CBDC3FA5552DC.quest_desc: ["The &lIron Hammer&r is a direct upgrade from the Stone Hammer, allowing you to break tougher materials with ease. It is essential for processing Tuff into Tuff Gravel and is required to obtain Deepslate Gravel. With this tool in hand, you're ready to break through stronger stone and progress further!"]
@@ -74,12 +62,6 @@
 	quest.1284CA2D49C1FE72.quest_desc: ["The intense heat of the furnace can burn away the souls trapped in Soul Sand, leaving behind solidified &lScoria&r. This dark, volcanic stone is perfect for building or crafting unique blocks. Toss some Soul Sand into a furnace and see what remains after the fire has done its work."]
 	quest.1284CA2D49C1FE72.quest_subtitle: "Smelting the Sands of the Nether"
 	quest.1284CA2D49C1FE72.title: "Charred Remnants"
-	quest.14E23476AD101304.quest_desc: ["With &lDye Seeds&r, you can grow &lDye Essence&r, which serves as a universal dye source. No need to search for flowers or rare materials—craft any dye you need directly from the essence. Whether for wool, stained glass, or banners, you'll always have the right color on hand."]
-	quest.14E23476AD101304.quest_subtitle: "A Spectrum of Possibilities"
-	quest.14E23476AD101304.title: "Essence of Color"
-	quest.1579F3D1E91940BD.quest_desc: ["With &lSlime Seeds&r, you can grow &lSlime Essence&r, unlocking a renewable source of slimeballs without hunting for slimes. Simply plant the seeds, and let them provide all the resources you need."]
-	quest.1579F3D1E91940BD.quest_subtitle: "Growing Goo"
-	quest.1579F3D1E91940BD.title: "Essence of the Slime"
 	quest.169040E33441DBE9.quest_desc: ["The &lEnchantment Generator&r is a powerful upgrade, taking your energy generation to the next level. With a generation rate of 40 FE/t and a transfer rate of 1,024 FE/t, this generator draws its power from the very essence of enchantments. It consumes energy at a rate of 1 FE/t and offers a buffer capacity of 1,000,000 FE, making it an excellent choice for systems that require both efficiency and substantial energy reserves. Upgrade from the Obsidian Generator to the Enchantment Generator and unlock the power of enchantments as a unique fuel source."]
 	quest.169040E33441DBE9.quest_subtitle: "Harness the energy of magical forces"
 	quest.169040E33441DBE9.title: "The Power of Enchantment"
@@ -100,9 +82,6 @@
 	quest.19CB8B99AFF3FA10.quest_desc: ["&lWood Seeds&r grow into &lWood Essence&r, providing the fastest way to obtain non-native wood types. This essence allows you to craft various wood-based materials, expanding your options for building and crafting. Plant these seeds to diversify your wood supply and explore new possibilities in your designs and creations."]
 	quest.19CB8B99AFF3FA10.quest_subtitle: "Growing New Timber"
 	quest.19CB8B99AFF3FA10.title: "The Essence of Wood"
-	quest.1AF74B5C0867A081.quest_desc: ["With &lFish Seeds,&r you can grow &lFish Essence&r, providing you with fish-related resources without the need to fish. Simply plant the seeds and harvest the essence for all your aquatic crafting needs."]
-	quest.1AF74B5C0867A081.quest_subtitle: "Catching Resources Without a Rod"
-	quest.1AF74B5C0867A081.title: "Essence of the Fish"
 	quest.1B48B2DBAB35CFEC.quest_desc: ["In case you get unlucky with ominous trial key drops..."]
 	quest.1B922950A7570482.quest_desc: ["Check the box to acknowledge that you have a working source of rotational energy."]
 	quest.1B922950A7570482.quest_subtitle: "Early Game Power"
@@ -118,6 +97,7 @@
 	quest.20CEFFF2715407F7.quest_desc: ["By using an Iron Trowel or better on Deepslate Gravel, you have a chance to uncover &lDiamonds&r. These precious gems are crucial for crafting powerful tools, advanced machinery, and progressing further. If you need a steady supply, consider finding ways to automate the process or work toward Diamond Seeds in the future!"]
 	quest.20CEFFF2715407F7.quest_subtitle: "Finding Diamonds"
 	quest.20CEFFF2715407F7.title: "Diamonds are Forever"
+	quest.21E2B653C69880FF.quest_desc: ["Fundamental crafting component in Mystical Agriculture."]
 	quest.2204AA3E838C4962.quest_desc: ["Transform &oorganic matter&r and &owater&r into &lPulp&r using the Mechanical Mixer. Once you have enough pulp, use the Mechanical Press to turn it into &lCardboard&r. Cardboard serves as a cost-effective material, especially for crafting items like books. It’s a simple yet valuable resource that can streamline your crafting process. Get mixing and pressing to unlock its potential!"]
 	quest.2204AA3E838C4962.quest_subtitle: "From Pulp to Cardboard"
 	quest.2204AA3E838C4962.title: "Paper Trails"
@@ -135,9 +115,6 @@
 	quest.27115761CCA7ADB6.quest_desc: ["The Nether Portal’s influence reaches beyond stone, twisting Sand into &lSoul Sand&r. This eerie material is essential for farming Nether Wart, crafting Soul Torches, and even slowing down enemies. Place sand near the portal and let the transformation take place—who knows what lost souls might be lurking within?"]
 	quest.27115761CCA7ADB6.quest_subtitle: "The Birth of Soul Sand"
 	quest.27115761CCA7ADB6.title: "Whispering Sands"
-	quest.275FAAEDB605ECD0.quest_desc: ["With &lAmethyst Seeds&r, you can grow &lAmethyst Essence&r in your superflat world. This allows you to obtain amethyst without relying on any external sources. Cultivate these seeds to ensure a steady supply of this beautiful and valuable material for your crafting needs!"]
-	quest.275FAAEDB605ECD0.quest_subtitle: "Cultivating Amethyst"
-	quest.275FAAEDB605ECD0.title: "Crystal Growth"
 	quest.27AD5982B40072FD.quest_desc: ["The Nether Portal’s presence seeps into the world, corrupting nearby Stone into &lNetherrack&r. While it may not seem valuable at first, this fiery rock has its uses in crafting and smelting. Let the portal do its work, then gather as much as you need—no Nether travel required!"]
 	quest.27AD5982B40072FD.quest_subtitle: "The Spread of Netherrack"
 	quest.27AD5982B40072FD.title: "Corrupted Stone"
@@ -150,27 +127,19 @@
 	quest.2DE910ED267EC744.quest_desc: ["The &lSoul Jar&r is an essential tool used in crafting &oMystical Agriculture Mob Seeds&r. By capturing the essence of mobs, this jar allows you to create seeds that will grow into the resources dropped by these creatures. Use it to unlock a new way to farm mob-based materials and improve your resource gathering."]
 	quest.2DE910ED267EC744.quest_subtitle: "Harness the Essence of Mobs"
 	quest.2DE910ED267EC744.title: "Crafting with the Soul Jar"
+	quest.2E3C3B797975843F.quest_desc: ["Limited uses other than for \"Awakening\" crafting much later on."]
 	quest.2EEB389CD9B0976B.quest_desc: ["The &lTinkering Table&r is a crucial tool for upgrading Mystical Agriculture tools, weapons, and armor. By using this table, you can enhance the capabilities of your gear, improving its durability, effectiveness, and special attributes. Whether you’re looking to make your tools more efficient or strengthen your armor, the Tinkering Table is the key to unlocking the full potential of your mystical creations."]
 	quest.2EEB389CD9B0976B.quest_subtitle: "Upgrading Your Mystical Gear"
 	quest.2EEB389CD9B0976B.title: "Tinkering for Power"
-	quest.3184DE24BE1CE6C8.quest_desc: ["With &lTurtle Seeds&r, you can grow &lTurtle Essence&r, providing a steady source of turtle-related resources like scutes. No need to search the beaches—plant these seeds for all your turtle crafting needs."]
-	quest.3184DE24BE1CE6C8.quest_subtitle: "Shelled Growth"
-	quest.3184DE24BE1CE6C8.title: "Essence of the Turtle"
 	quest.31950EF5E62EC10F.quest_desc: ["The natural flow of water can be transformed into rotational energy with a &lWater Wheel&r. Craft and place one near flowing water to generate power for your mechanical systems. This early energy source is key for automating tasks and building more complex machines. Use the power of the current to fuel your creations!"]
 	quest.31950EF5E62EC10F.quest_subtitle: "The Power of Water"
 	quest.31950EF5E62EC10F.title: "Harnessing the Current"
-	quest.32245E61F86CBB8E.quest_desc: ["With &lCow Seeds&r, you can grow &lCow Essence&r, providing all the resources related to cows without the need for breeding or finding them. Simply plant the seeds and enjoy a steady supply of cow-based materials."]
-	quest.32245E61F86CBB8E.quest_subtitle: "Herding Through Seeds"
-	quest.32245E61F86CBB8E.title: "Essence of the Cow"
 	quest.33FD237C4BEF8440.quest_desc: ["Use an Empty Blaze Burner on a Nether Portal (left-click) to reignite its core and obtain a Blaze Burner."]
 	quest.33FD237C4BEF8440.quest_subtitle: "Acquire a Blaze Burner"
 	quest.33FD237C4BEF8440.title: "Ignite the Flame"
 	quest.346117052F12664B.quest_desc: ["The &lIron Generator&r is an upgrade from the Copper Generator, doubling the generation rate to 16 FE/t and increasing the transfer rate to 64 FE/t. With a 10,000 FE internal buffer, it provides more consistent energy for your machines. It still runs on solid fuel and lacks a charge slot or 64x upgrade support, but it’s a solid choice for scaling up your power network. Upgrade from a Copper Generator or craft one from scratch."]
 	quest.346117052F12664B.quest_subtitle: "A stronger, more efficient generator"
 	quest.346117052F12664B.title: " Ironing Out Your Power"
-	quest.34CAA2174F107E50.quest_desc: ["With &lSheep Seeds&r, you can grow &lSheep Essence&r, granting you easy access to wool and other sheep-related resources. No need to herd or shear—just plant these seeds for a constant supply of all things woolly."]
-	quest.34CAA2174F107E50.quest_subtitle: "Wool in Abundance"
-	quest.34CAA2174F107E50.title: "Essence of the Sheep"
 	quest.35B8E383C14A9B9D.quest_desc: ["To obtain &lCobbled Deepslate&r, you'll need to process &lTuff&r step by step. Breaking Tuff with a Stone Hammer or better turns it into &lTuff Gravel&r. Using an Iron Trowel or better on Tuff Gravel gives you &lDeepslate Pebbles&r, which can be crafted into Cobbled Deepslate by combining four of them. While this method works, crafting Deepslate Seeds will save you time and effort in the long run!"]
 	quest.35B8E383C14A9B9D.quest_subtitle: "Crafting Cobbled Deepslate"
 	quest.35B8E383C14A9B9D.title: "Into the Depths"
@@ -185,13 +154,7 @@
 	quest.37480F6CE7572160.title: "Cursed Harvest"
 	quest.37A11322027C7509.quest_desc: ["Zinc is obtained by sifting and is important to make brass."]
 	quest.37A11322027C7509.quest_subtitle: "Useful Material"
-	quest.39F9B7656BCFF313.quest_desc: [
-		"With &lCoral Seeds&r, you can grow &lCoral Essence&r, making it possible to obtain coral without needing to rely on wandering traders forever. If you're planning on using coral for anything, this will make your life much easier."
-		""
-		"&oHint, you need wandering traders to get coral needed for seeds.&r"
-	]
-	quest.39F9B7656BCFF313.quest_subtitle: "Grow Your Own Coral"
-	quest.39F9B7656BCFF313.title: "Cultivating the Reef"
+	quest.3AEF3DF55015B968.quest_desc: ["Alternative method to get inferium besides mob drops."]
 	quest.3DA1DEC9395CA411.quest_desc: [
 		"&6find a&r &ltree&r and &ochop&r it &ndown&r."
 		"{image: width:100 height:100 align:center}"
@@ -199,37 +162,24 @@
 	quest.3DA1DEC9395CA411.quest_subtitle: "chop trees down"
 	quest.3DA1DEC9395CA411.title: "Gather wood"
 	quest.3E29C768BBBA289F.quest_desc: ["Obtained from using a stone trowel (or higher) on dirt or grass. The crushed version of this block (obtained by breaking with a hammer) has the same trowel drops as normal gravel."]
-	quest.3E9EF2ED3C05EE34.quest_desc: ["With &lApatite Seeds&r, you can grow &lApatite Essence&r, a crucial resource for crafting various advanced materials and fertilizers. Plant these seeds to easily harvest apatite without needing to mine or explore deep caverns."]
-	quest.3E9EF2ED3C05EE34.quest_subtitle: "Mineral of Progress"
-	quest.3E9EF2ED3C05EE34.title: "Essence of Apatite"
 	quest.3EA384F839BB5D14.quest_desc: ["&lIce Seeds&r grow into &lIce Essence&r, a valuable resource for crafting ice-related items. While it may not be needed for every crafting recipe, it plays an important role in some unique and advanced items. Start planting Ice Seeds to prepare for the colder aspects of your progression and unlock more crafting opportunities."]
 	quest.3EA384F839BB5D14.quest_subtitle: "Harnessing Ice Essence"
 	quest.3EA384F839BB5D14.title: "Seeds of Winter"
 	quest.3ED909426B9083D9.quest_desc: ["The &lDiamond Generator&r outshines the Gold Generator with a 64 FE/t generation rate and a transfer rate of 256 FE/t. It also boasts a significantly larger 100,000 FE buffer while improving fuel efficiency with a consumption rate of just 0.6. Still running on solid fuel, this generator ensures a steady and powerful energy supply for your machines. Upgrade from a Gold Generator or craft one to take your power system to the next level."]
 	quest.3ED909426B9083D9.quest_subtitle: "Twice the power, even more efficient"
 	quest.3ED909426B9083D9.title: "Diamond Power"
-	quest.3EF6C5B6FCA2917F.quest_desc: ["With &lPig Seeds&r, you can grow &lPig Essence&r, a vital material for crafting all things related to pigs. No need to find or breed pigs—just let the seeds take care of it and enjoy the bounty that follows."]
-	quest.3EF6C5B6FCA2917F.quest_subtitle: "Raising Livestock in the Soil"
-	quest.3EF6C5B6FCA2917F.title: "Essence of the Pig"
+	quest.3FC55D67C1E5368E.quest_desc: ["You will need to consult a few wandering traders to get your hands on coral."]
 	quest.40B85C791F3753C2.quest_desc: ["&lSandstone&r is formed when sand compresses under pressure over time. While naturally occurring in deserts and beaches, you can craft it yourself by combining four Sand in a crafting grid. It serves as a sturdy building block and is also useful for obtaining Blackstone when placed near a Nether Portal."]
 	quest.40B85C791F3753C2.quest_subtitle: "The Foundation of Many Structures"
 	quest.40B85C791F3753C2.title: "Pressured Grains"
 	quest.40F041C17BEAADEE.quest_desc: ["Without natural stone, you'll need to get creative. Craft a &lWooden Trowel&r and use it to break dirt or grass blocks—this will yield &lStone Pebbles&r. Gather four pebbles and craft them into a &lCobblestone&r block. With cobblestone in hand, sturdier tools and new possibilities await!"]
 	quest.40F041C17BEAADEE.quest_subtitle: "From Dirt to Stone"
 	quest.40F041C17BEAADEE.title: "The First Stones"
-	quest.45954B3B5A15BAB1.quest_desc: ["With &lAluminium Seeds&r, you can grow &lAluminium Essence&r, providing a renewable source of this versatile and lightweight metal. Plant these seeds and unlock the ability to craft aluminum-based items without the need for mining or smelting."]
-	quest.45954B3B5A15BAB1.quest_subtitle: "A Lightweight Metal"
-	quest.45954B3B5A15BAB1.title: "Essence of Aluminium"
-	quest.46AF7CB0ADC39F68.quest_desc: ["With &lChicken Seeds&r, you can grow &lChicken Essence&r, unlocking everything you need related to chickens. No need to search for eggs or raise chickens—simply plant these seeds and let the essence provide."]
-	quest.46AF7CB0ADC39F68.quest_subtitle: "Farming Fowl"
-	quest.46AF7CB0ADC39F68.title: "Essence of the Chicken"
+	quest.41E6E28A9A57DDD1.quest_desc: ["Limited uses other than for \"Awakening\" crafting much later on."]
 	quest.49C1E756D880F6AF.quest_desc: ["Unlock the ability to grow Inferium passively by crafting &lInferium Seeds&r. Plant and tend to these seeds to harvest Inferium Essence over time, giving you a steady supply of this crucial resource for Mystical Agriculture. Cultivate your own source of power and take your farming to the next level!"]
 	quest.49C1E756D880F6AF.quest_subtitle: "Growing Inferium"
 	quest.49C1E756D880F6AF.title: "Seeds of Power"
 	quest.4BB559E512BBA041.title: "Crop Collecting"
-	quest.4DDAD3C6DB61772F.quest_desc: ["With &lArmadillo Seeds&r, you can grow &lArmadillo Essence&r, granting you access to materials related to armadillos, including their tough, protective armor. Plant these seeds to harvest the essence and craft with the resilience of an armadillo."]
-	quest.4DDAD3C6DB61772F.quest_subtitle: "Armor from the Ground"
-	quest.4DDAD3C6DB61772F.title: "Essence of the Armadillo"
 	quest.4ECFE2AB1E743F96.quest_desc: ["For even more power, upgrade your &lWater Wheel&r to the &lLarge Water Wheel&r. This improved version generates significantly more rotational energy, perfect for scaling up your mechanical systems. Craft it with additional materials, place it in flowing water, and watch your energy output soar, powering more advanced machines and automation."]
 	quest.4ECFE2AB1E743F96.quest_subtitle: "The Mighty Water Wheel"
 	quest.4ECFE2AB1E743F96.title: "Power Unleashed"
@@ -239,16 +189,11 @@
 	quest.4FCED4F5C0320523.quest_desc: ["Obtained from using a stone trowel (or higher) on dirt or grass. The crushed version of this block (obtained by breaking with a hammer) has the same trowel drops as normal gravel."]
 	quest.4FCED4F5C0320523.quest_subtitle: "Crafting the Building Blocks"
 	quest.4FCED4F5C0320523.title: "Andesite Essentials"
-	quest.50AA14991528833D.quest_desc: ["Harness the energy of the earth by growing &lNature Seeds,&r which yield Nature Essence. This essence is a versatile resource, allowing you to craft various plant-based materials. Whether you need vines, cactus, or other natural elements, this will be your gateway to sustainable flora."]
-	quest.50AA14991528833D.quest_subtitle: "Cultivating the Wild"
-	quest.50AA14991528833D.title: "Essence of Nature"
-	quest.51747FB6033E44CA.quest_desc: ["With &lNether Seeds&r, you can grow &lNether Essence&r, a crucial material for crafting various Nether-related resources. No need to rely on portal transformations—produce Nether materials safely and efficiently in your own world."]
-	quest.51747FB6033E44CA.quest_subtitle: "Bringing the Nether to You"
-	quest.51747FB6033E44CA.title: "Essence of the Nether"
 	quest.528AC4A13D35951B.quest_desc: ["Sometimes, you need a little extra force to break through. Craft a &lStone Hammer&r, then use it to break cobblestone into &lGravel&r. This simple tool will help you expand your resource pool and provide the materials needed for future advancements. Keep hammering away."]
 	quest.528AC4A13D35951B.quest_subtitle: "Turning Stone into Gravel"
 	quest.528AC4A13D35951B.title: "Hammering the Basics"
 	quest.53AC5BC20682441D.quest_desc: ["You may struggle to find certain animals in the superflat environment. This is what the modpack's feed items are for."]
+	quest.545A6FF013A3C65C.quest_desc: ["Probably the most useful essence in the modpack."]
 	quest.57401F4BD3952C56.quest_desc: ["In a world without forests, villages are your best source of wood. Chop down trees in a village to gather logs—essential for crafting tools, structures, and more. Make sure to replant saplings when possible to keep resources sustainable!"]
 	quest.57401F4BD3952C56.quest_subtitle: "The Key to Survival"
 	quest.57401F4BD3952C56.title: "Timber!"
@@ -258,6 +203,7 @@
 	quest.5A382D145AA88DD9.quest_desc: ["With an &lIron Trowel&r, you can now extract &lCrushed Raw Copper&r while digging through gravel. Smelt it in a furnace for a &lCopper Ingot&r, unlocking new crafting possibilities. Copper is essential for wires, machinery, and more—so start gathering and put it to good use!"]
 	quest.5A382D145AA88DD9.quest_subtitle: "Unearthing New Metals"
 	quest.5A382D145AA88DD9.title: "Copper Prospects"
+	quest.5A3BDE124AB8EBAF.quest_desc: ["Look at JEI for all of the useful crafts with this item."]
 	quest.5C6BCB357546F47A.quest_desc: ["To craft powerful Mystical Agriculture seeds, you'll need an &lInfusion Altar&r and eight &lInfusion Pedestals&r. This structure is essential for progressing through the mod, allowing you to create resource-generating crops. Set up your altar, gather your materials, and begin the infusion process to expand your farming potential!"]
 	quest.5C6BCB357546F47A.quest_subtitle: "The Infusion Altar"
 	quest.5C6BCB357546F47A.title: "Ritual of Growth"
@@ -293,6 +239,7 @@
 	quest.6F234337CE289CD4.quest_subtitle: "Forging the Andesite Alloy"
 	quest.6F234337CE289CD4.title: "The Heart of Creation"
 	quest.70A474AF7638B9C0.quest_desc: ["Check out the wiki for more information."]
+	quest.7112ED278B1CE804.quest_desc: ["Look at JEI for all of the useful crafts with this item."]
 	quest.71B4677400CE51F3.quest_desc: ["You can find lava in a blacksmith, craft fire seeds, or mix pebbles in a create mixer."]
 	quest.720A2F80D5E73A17.quest_desc: ["The &lNetherite Generator&r is the ultimate power source, capable of generating 256 FE/t with a transfer rate of 1024 FE/t. This upgrade from the Diamond Generator provides an efficient 0.4 FE/t consumption rate and boasts a buffer capacity of 1,000,000 FE. By using solid fuels, the Netherite Generator brings a reliable, high-output energy source to your setup. Upgrade now to harness the power of Netherite and fuel your machines with the most advanced energy production available."]
 	quest.720A2F80D5E73A17.quest_subtitle: "Upgrade to the pinnacle of energy generation"
@@ -310,9 +257,6 @@
 	quest.76B1BFA765F786BE.quest_desc: ["The &lObsidian Generator&r is a powerful upgrade that brings your energy generation to a new level. With a generation rate of 128 FE/t and a transfer rate of 512 FE/t, this generator ensures a stable and efficient energy flow. With a substantial buffer capacity of 500,000 FE and a consumption rate of just 0.6, it is an excellent choice for long-term power needs. Fueling on solid resources, it offers a seamless upgrade from the Diamond Generator, providing the energy boost your systems demand."]
 	quest.76B1BFA765F786BE.quest_subtitle: "A new tier of efficiency for energy generation"
 	quest.76B1BFA765F786BE.title: "Obsidian Power Surge"
-	quest.77698223E71E6E8E.quest_desc: ["With &lSulfur Seeds&r, you can grow &lSulfur Essence&r, a key ingredient for crafting explosives and other sulfur-based items. Plant these seeds to easily obtain sulfur without the need for dangerous mining or hunting."]
-	quest.77698223E71E6E8E.quest_subtitle: "The Spark of Industry"
-	quest.77698223E71E6E8E.title: "Essence of Sulfur"
 	quest.780B474DBCE85FC2.quest_desc: ["&lInferium Essence&r is a powerful material dropped by mobs, and it plays a vital role in the &oMystical Agriculture&r mod. Use it to craft seeds for growing a variety of resources, from basic crops to rare materials. Start gathering this essence to unlock a whole new world of farming and resource generation!"]
 	quest.780B474DBCE85FC2.quest_subtitle: "Harnessing Inferium"
 	quest.780B474DBCE85FC2.title: "The Essence of Growth"
@@ -326,9 +270,7 @@
 	quest.7D5453D77D188888.quest_subtitle: "Harnessing Fire Essence"
 	quest.7D5453D77D188888.title: "Seeds of Flame"
 	quest.7D9B5C7F6DB2BF69.quest_desc: ["In case you get unlucky with trial key drops..."]
-	quest.7F0AC6B1D0CCBDE4.quest_desc: ["With &lLimestone Seeds&r, you can grow &lLimestone Essence&r, providing you with a steady supply of limestone for construction and crafting. Plant these seeds and harness the power of this durable stone without the need to mine for it."]
-	quest.7F0AC6B1D0CCBDE4.quest_subtitle: "Stone of Strength"
-	quest.7F0AC6B1D0CCBDE4.title: "Essence of Limestone"
+	quest.7E44B2364F520C4C.quest_desc: ["The next tier up unlocks more advanced seeds."]
 	reward_table.0C1CF05CCCD5916C.title: "Woodland Mansion"
 	reward_table.1B2242C9DE88E106.title: "Bastion"
 	reward_table.1BB1DCEB3ADCCD34.title: "End City"

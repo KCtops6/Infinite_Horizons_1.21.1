@@ -31,7 +31,7 @@ global.plates = [
     'terrasteel', 'tin', 'uranium', 'zinc'
 ];
 global.gems = [
-    'apatite', 'cinnabar', 'niter', 'ruby', 'sapphire', 'sulfur'
+    'apatite', 'cinnabar', 'niter', 'peridot', 'ruby', 'sapphire', 'sulfur'
 ];
 global.gears = [
     'bronze', 'constantan', 'copper',
@@ -62,7 +62,7 @@ global.blocks = [
     'gold', 'infinitium', 'invar',
     'iron', 'lead', 'lumium',
     'manasteel', 'nickel', 'niter',
-    'osmium', 'ruby', 'sapphire',
+    'osmium', 'peridot', 'ruby', 'sapphire',
     'signalum', 'silver', 'steel',
     'sulfur', 'terrasteel', 'tin',
     'uranium', 'zinc'

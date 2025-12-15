@@ -8,17 +8,15 @@ global.ingots = [
     'tin', 'uranium', 'zinc'
 ];
 global.dusts = [
-    'aluminum', 'apatite', 'brass',
-    'bronze', 'charcoal', 'cinnabar',
-    'constantan', 'coal', 'copper',
-    'diamond', 'electrum', 'elementium', 'emerald',
+    'aluminum', 'brass',
+    'bronze',
+    'constantan', 'copper',
+    'diamond', 'electrum', 'elementium',
     'enderium', 'gold', 'invar',
-    'iron', 'lapis', 'lead',
-    'lumium', 'manasteel', 'netherite', 'nickel',
-    'niter', 'obsidian', 'osmium',
-    'quartz', 'sapphire', 'signalum',
-    'silver', 'steel', 'sulfur',
-    'terrasteel', 'tin',
+    'iron', 'lead',
+    'lumium', 'netherite', 'nickel',
+    'osmium', 'signalum',
+    'silver', 'steel', 'tin',
     'uranium', 'zinc'
 ];
 global.plates = [

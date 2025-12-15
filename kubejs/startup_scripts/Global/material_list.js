@@ -34,14 +34,8 @@ global.gems = [
     'apatite', 'cinnabar', 'niter', 'peridot', 'ruby', 'sapphire', 'sulfur'
 ];
 global.gears = [
-    'bronze', 'constantan', 'copper',
-    'diamond', 'electrum', 'emerald',
-    'enderium', 'gold', 'invar',
-    'iron', 'lapis', 'lead',
-    'lumium', 'manasteel', 'netherite',
-    'nickel', 'quartz',
-    'sapphire', 'signalum', 'silver',
-    'terrasteel', 'tin'
+    'bronze', 'constantan', 'copper', 'diamond', 'electrum', 'enderium', 'gold', 'invar',
+    'iron', 'lead', 'lumium', 'netherite', 'nickel', 'signalum', 'silver', 'tin'
 ];
 global.nuggets = [
     'aluminum', 'brass', 'bronze', 'constantan',

@@ -15,5 +15,6 @@ ServerEvents.recipes(event => {
     global.nests.forEach(n => {
 		event.remove({ output: `productivebees:${n}_nest` })
 	})
-    event.remove({ output: 'productivebees:bamboo_hive'})
+    event.remove({ output: 'productivebees:bamboo_hive'});
+    event.remove({ type: 'productivebees:bee_fishing' });
 })

@@ -180,6 +180,7 @@
 	quest.49C1E756D880F6AF.quest_desc: ["Unlock the ability to grow Inferium passively by crafting &lInferium Seeds&r. Plant and tend to these seeds to harvest Inferium Essence over time, giving you a steady supply of this crucial resource for Mystical Agriculture. Cultivate your own source of power and take your farming to the next level!"]
 	quest.49C1E756D880F6AF.quest_subtitle: "Growing Inferium"
 	quest.49C1E756D880F6AF.title: "Seeds of Power"
+	quest.4A5F42E6E34A7926.quest_desc: ["You can obtain a water bee by simply right clicking a water bucket on a vanilla bee."]
 	quest.4BB559E512BBA041.title: "Crop Collecting"
 	quest.4ECFE2AB1E743F96.quest_desc: ["For even more power, upgrade your &lWater Wheel&r to the &lLarge Water Wheel&r. This improved version generates significantly more rotational energy, perfect for scaling up your mechanical systems. Craft it with additional materials, place it in flowing water, and watch your energy output soar, powering more advanced machines and automation."]
 	quest.4ECFE2AB1E743F96.quest_subtitle: "The Mighty Water Wheel"
@@ -322,6 +323,7 @@
 	task.35DBF5A6561B3A66.title: "Harvest logs."
 	task.36C620A510598435.title: "Observe a Blast Furnace"
 	task.38E0BE74D0393D6D.title: "Observe a Smithing Table."
+	task.3D87643B6DE64FF6.title: "Obtain a Water Bee"
 	task.3D94047A9C0C9797.title: "Any #c:juices"
 	task.3F38B2A629773F00.title: "Any #sophisticatedstorage:gold_upgrades"
 	task.40DA8ED52BE6492A.title: "Any #sophisticated:magnet_upgrades"
@@ -351,6 +353,7 @@
 	task.5A9ADEB7C349E1CA.title: "Craft an item storage cell."
 	task.5D2C3D8D94140C4E.title: "Pam's Harvestcraft"
 	task.6335A2495218B5F6.title: "Any #sophisticatedstorage:upgrade"
+	task.6395DE6E1A9429CB.title: "Obtain a Sponge Bee"
 	task.6509A635775E13FF.title: "Rotational Energy Setup"
 	task.65132A4E053F1FF4.title: "Craft a Shulker Box."
 	task.677C4C295A195E5F.title: "Find a Ruined Portal."

@@ -65,7 +65,7 @@ BlockEvents.rightClicked(event => {
             'productivebees:spawn_egg_configurable_bee[entity_data={id:"productivebees:configurable_bee",type:"productivebees:magmatic"}]'
         ],
         'minecraft:end_stone': [
-            'productivebees:spawn_egg_configurable_bee[entity_data={id:"productivebees:configurable_bee",type:"productivebees:end"}]'
+            'productivebees:spawn_egg_configurable_bee[entity_data={id:"productivebees:configurable_bee",type:"productivebees:ender"}]'
         ],
         'minecraft:obsidian': [
             'productivebees:spawn_egg_configurable_bee[entity_data={id:"productivebees:configurable_bee",type:"productivebees:draconic"}]'

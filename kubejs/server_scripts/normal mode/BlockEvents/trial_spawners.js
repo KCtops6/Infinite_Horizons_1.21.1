@@ -1,21 +1,18 @@
-BlockEvents.rightClicked('minecraft:copper_grate', event => { 
+BlockEvents.rightClicked('kubejs:dormant_trial_spawner', event => { 
     const { item, level, player, server } = event;
     const { x, y, z } = event.block;
-
-    const timeOfDay = level.getDayTime() % 24000;
-    const isNight = (timeOfDay >= 13000 && timeOfDay <= 23000);
-    if (!isNight) {
+    const TIME_OF_DAY = level.getDayTime() % 24000;
+    const IS_NIGHT = (TIME_OF_DAY >= 13000 && TIME_OF_DAY <= 23000);
+    if (item.id !== 'kubejs:trial_core') {
+        player.tell(Text.red('You need to hold a Trial Core.'));
+        return;
+    }
+    if (!IS_NIGHT) {
         player.tell(Text.red('This can only be activated at night.'));
         return;
     }
-
-    if (item.id !== 'minecraft:trial_key') {
-        player.tell(Text.red('You need to hold a Trial Key.'));
-        return;
-    }
-
-    const getId = (dx, dy, dz) => level.getBlock(x + dx, y + dy, z + dz).id;
-    const cornerTypes = {
+    const GET_ID = (dx, dy, dz) => level.getBlock(x + dx, y + dy, z + dz).id;
+    const CORNER_TYPES = {
         'minecraft:chiseled_tuff': 'breeze',
         'minecraft:nether_bricks': 'blaze',
         'minecraft:moss_block': 'slime',
@@ -27,7 +24,6 @@ BlockEvents.rightClicked('minecraft:copper_grate', event => {
         'minecraft:dark_oak_log': 'pillager',
         'minecraft:emerald_block': 'vindicator'
     };
-
     const sideOffsets = [
         [0, -1, -1],
         [0, -1, 1],
@@ -41,16 +37,16 @@ BlockEvents.rightClicked('minecraft:copper_grate', event => {
         [1, -1, 1],
     ];
 
-    const centerValid = getId(0, -1, 0) === 'minecraft:copper_block';
+    const centerValid = GET_ID(0, -1, 0) === 'minecraft:copper_block';
     const sidesValid = sideOffsets.every(([dx, dy, dz]) =>
-        getId(dx, dy, dz) === 'minecraft:chiseled_copper'
+        GET_ID(dx, dy, dz) === 'minecraft:chiseled_copper'
     );
     if (!centerValid || !sidesValid) {
         player.tell(Text.red('Incorrect structure.'));
         return;
     }
 
-    const cornerIds = cornerOffsets.map(([dx, dy, dz]) => getId(dx, dy, dz));
+    const cornerIds = cornerOffsets.map(([dx, dy, dz]) => GET_ID(dx, dy, dz));
     const firstCorner = cornerIds[0];
     const uniformCorners = cornerIds.every(id => id === firstCorner);
     if (!uniformCorners) {
@@ -58,7 +54,7 @@ BlockEvents.rightClicked('minecraft:copper_grate', event => {
         return;
     }
 
-    const trialName = cornerTypes[firstCorner];
+    const trialName = CORNER_TYPES[firstCorner];
     if (!trialName) {
         player.tell(Text.red('Invalid corner block for trial.'));
         return;

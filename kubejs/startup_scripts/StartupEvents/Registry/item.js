@@ -73,4 +73,6 @@ StartupEvents.registry('item', event => {
     event.create('blazing_mechanism').displayName('Blazing Mechanism').maxStackSize(1).rarity('epic');
     event.create('piglin_forged_mechanism').displayName('Piglin-Forged Mechanism').maxStackSize(1).rarity('epic');
     event.create('ender_mechanism').displayName('Ender Mechanism').maxStackSize(1).rarity('epic');
+    event.create('trial_core').displayName('Trial Core').maxStackSize(16).rarity('uncommon');
+    event.create('netherite_bars').displayName('Netherite Bars');
 })

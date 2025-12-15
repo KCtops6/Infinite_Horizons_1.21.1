@@ -32,4 +32,5 @@ StartupEvents.registry("block", (event) => {
             .tagBlock('minecraft:mineable/pickaxe')
             .tagBlock('minecraft:needs_iron_tool')
     })
+    event.create('dormant_trial_spawner').displayName('Dormant Trial Spawner');
 })

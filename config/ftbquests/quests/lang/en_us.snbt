@@ -4,11 +4,11 @@
 	chapter.17F179085511CF63.title: "Alpha"
 	chapter.1B73F34BAB8F6FCD.chapter_subtitle: ["Power Generation"]
 	chapter.1B73F34BAB8F6FCD.title: "Generators Galore"
-	chapter.1C990C36267A7CE1.title: "Productive Bees"
 	chapter.1F10B15237CFBB52.title: "Delta"
 	chapter.2A5182EC401BA623.title: "Omega"
 	chapter.2F34CC58AE75DDE7.chapter_subtitle: ["Early-Game \"Non-Digital\" Storage"]
 	chapter.2F34CC58AE75DDE7.title: "Sophisticated Mods"
+	chapter.55AA5265FF6363C1.title: "Zeta"
 	chapter.5E07E3741CBC3BFE.chapter_subtitle: ["Nether Items and Blocks"]
 	chapter.5E07E3741CBC3BFE.title: "Beta"
 	chapter.64FE7FCF6127CD6A.chapter_subtitle: ["Infinite Horizons Trial Chambers"]
@@ -109,6 +109,7 @@
 	quest.233FF73DF6AF2D93.title: "The Essence of Souls"
 	quest.246E7273A1E9A735.quest_desc: ["Brass is a very useful alloy in Create as it is used for later-game infrastructure. "]
 	quest.246E7273A1E9A735.quest_subtitle: "Very Useful Alloy"
+	quest.25451C960D037A8C.quest_desc: ["You need Ashy Mining Bees for &lIron&r, &lTin&r, &lCopper&r, and &lAluminum&r Bees."]
 	quest.26760351A93ADC05.quest_desc: ["The wind can be harnessed to generate rotational energy. Craft a &lWindmill Bearing&r and gather enough &lSails&r to build your Windmill. Once assembled, place it in an open area to capture the wind’s energy and power your mechanical systems. Let the wind carry you to new heights of automation!"]
 	quest.26760351A93ADC05.quest_subtitle: "Tapping into the Breeze"
 	quest.26760351A93ADC05.title: "Winds of Progress"

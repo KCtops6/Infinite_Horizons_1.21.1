@@ -18,7 +18,7 @@ global.dusts = [
     'niter', 'obsidian', 'osmium',
     'quartz', 'sapphire', 'signalum',
     'silver', 'steel', 'sulfur',
-    'terrasteel', 'ruby', 'tin',
+    'terrasteel', 'tin',
     'uranium', 'zinc'
 ];
 global.plates = [
@@ -39,7 +39,7 @@ global.gears = [
     'enderium', 'gold', 'invar',
     'iron', 'lapis', 'lead',
     'lumium', 'manasteel', 'netherite',
-    'nickel', 'quartz', 'ruby', 
+    'nickel', 'quartz',
     'sapphire', 'signalum', 'silver',
     'terrasteel', 'tin'
 ];

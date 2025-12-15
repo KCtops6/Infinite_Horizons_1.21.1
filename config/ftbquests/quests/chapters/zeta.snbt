@@ -1,479 +1,338 @@
 {
-	default_hide_dependency_lines: true
+	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "zeta"
-	group: "0BA6C43BB6B5DE06"
+	group: "3C16C4C95F1091C7"
 	icon: {
-		id: "minecraft:honeycomb"
+		id: "generatorgalore:iron_generator"
 	}
-	id: "55AA5265FF6363C1"
-	order_index: 5
+	id: "1B73F34BAB8F6FCD"
+	order_index: 1
 	quest_links: [ ]
 	quests: [
 		{
-			dependencies: ["6F03ED53C0B2D201"]
-			hide_dependent_lines: true
-			id: "25451C960D037A8C"
-			rewards: [{
-				id: "409034DBAEB540F0"
-				item: {
-					count: 1
-					id: "productivebees:spawn_egg_ashy_mining_bee"
-				}
-				random_bonus: 2
-				type: "item"
-			}]
-			tasks: [{
-				id: "6E794BF5BE374A39"
-				item: { count: 1, id: "productivebees:spawn_egg_ashy_mining_bee" }
-				type: "item"
-			}]
-			x: -3.0d
-			y: -3.0d
-		}
-		{
-			dependencies: ["6F03ED53C0B2D201"]
-			hide_dependent_lines: true
-			icon: {
-				components: {
-					"minecraft:entity_data": {
-						id: "productivebees:configurable_bee"
-						type: "productivebees:crystalline"
-					}
-				}
-				id: "productivebees:spawn_egg_configurable_bee"
-			}
-			id: "5037327A437036B8"
-			rewards: [
-				{
-					id: "452DE5289D35DE4A"
-					item: {
-						components: {
-							"minecraft:entity_data": {
-								id: "productivebees:configurable_bee"
-								type: "productivebees:crystalline"
-							}
-						}
-						count: 1
-						id: "productivebees:spawn_egg_configurable_bee"
-					}
-					random_bonus: 2
-					type: "item"
-				}
-				{
-					count: 3
-					id: "5504E1E79D7697FA"
-					item: {
-						components: {
-							"productivebees:bee_type": "productivebees:crystalline"
-						}
-						count: 1
-						id: "productivebees:configurable_honeycomb"
-					}
-					random_bonus: 2
-					type: "item"
-				}
-			]
-			tasks: [
-				{
-					id: "5EA36774645CAF67"
-					item: { components: { "minecraft:entity_data": { id: "productivebees:configurable_bee", type: "productivebees:crystalline" } }, count: 1, id: "productivebees:spawn_egg_configurable_bee" }
-					type: "item"
-				}
-				{
-					id: "6AEFCACE00FB92A7"
-					item: { components: { "productivebees:bee_type": "productivebees:crystalline" }, count: 1, id: "productivebees:configurable_honeycomb" }
-					type: "item"
-				}
-			]
-			x: -3.0d
-			y: -2.0d
-		}
-		{
 			dependencies: [
-				"5037327A437036B8"
-				"25451C960D037A8C"
+				"11332A8490D1FD31"
+				"5A382D145AA88DD9"
 			]
-			id: "0B8CE9686FFE1D18"
-			rewards: [{
-				id: "34D442D9217656B0"
-				item: {
-					components: {
-						"productivebees:bee_type": "productivebees:iron"
-					}
-					count: 1
-					id: "productivebees:configurable_honeycomb"
-				}
-				random_bonus: 2
-				type: "item"
-			}]
+			id: "196A568A00583805"
 			tasks: [{
-				id: "4093163A35E6FA6A"
-				item: { components: { "productivebees:bee_type": "productivebees:iron" }, count: 1, id: "productivebees:configurable_honeycomb" }
-				type: "item"
-			}]
-			x: 5.0d
-			y: -4.0d
-		}
-		{
-			dependencies: ["0B8CE9686FFE1D18"]
-			id: "5B347C9BB55727EE"
-			rewards: [{
-				id: "71B127F85B7494F8"
-				item: {
-					components: {
-						"productivebees:bee_type": "productivebees:zinc"
-					}
-					count: 1
-					id: "productivebees:configurable_honeycomb"
-				}
-				random_bonus: 2
-				type: "item"
-			}]
-			tasks: [{
-				id: "57E11B61A6B8C26A"
-				item: { components: { "productivebees:bee_type": "productivebees:zinc" }, count: 1, id: "productivebees:configurable_honeycomb" }
-				type: "item"
-			}]
-			x: 6.0d
-			y: -3.0d
-		}
-		{
-			dependencies: [
-				"5B347C9BB55727EE"
-				"504D10F0179BDB81"
-			]
-			id: "3AA8F2D2CA1F1651"
-			rewards: [{
-				id: "7406A0AD405C58BA"
-				item: {
-					components: {
-						"productivebees:bee_type": "productivebees:brass"
-					}
-					count: 1
-					id: "productivebees:configurable_honeycomb"
-				}
-				random_bonus: 2
-				type: "item"
-			}]
-			tasks: [{
-				id: "695F00479652EF8C"
-				item: { components: { "productivebees:bee_type": "productivebees:brass" }, count: 1, id: "productivebees:configurable_honeycomb" }
-				type: "item"
-			}]
-			x: 4.0d
-			y: -2.0d
-		}
-		{
-			dependencies: [
-				"5037327A437036B8"
-				"25451C960D037A8C"
-			]
-			id: "504D10F0179BDB81"
-			tasks: [{
-				id: "1716831DD2E58783"
-				item: { components: { "productivebees:bee_type": "productivebees:copper" }, count: 1, id: "productivebees:configurable_honeycomb" }
-				type: "item"
-			}]
-			x: 4.0d
-			y: -4.0d
-		}
-		{
-			dependencies: ["6F03ED53C0B2D201"]
-			hide_dependent_lines: true
-			id: "56AAB9B63D98FF13"
-			rewards: [{
-				id: "1B8232B562B92872"
-				item: {
-					count: 1
-					id: "productivebees:spawn_egg_mason_bee"
-				}
-				random_bonus: 2
-				type: "item"
-			}]
-			tasks: [{
-				id: "6CCA0F1E69C04882"
-				item: { count: 1, id: "productivebees:spawn_egg_mason_bee" }
-				type: "item"
-			}]
-			x: -2.0d
-			y: -1.0d
-		}
-		{
-			dependencies: [
-				"5037327A437036B8"
-				"56AAB9B63D98FF13"
-			]
-			id: "7EBA6393F6E05A84"
-			rewards: [{
-				id: "2B9B855ABF1E9437"
-				item: {
-					components: {
-						"productivebees:bee_type": "productivebees:gold"
-					}
-					count: 1
-					id: "productivebees:configurable_honeycomb"
-				}
-				random_bonus: 2
-				type: "item"
-			}]
-			tasks: [{
-				id: "3486A532B5F41E4D"
-				item: { components: { "productivebees:bee_type": "productivebees:gold" }, count: 1, id: "productivebees:configurable_honeycomb" }
-				type: "item"
-			}]
-			x: 6.0d
-			y: -4.0d
-		}
-		{
-			dependencies: [
-				"0B8CE9686FFE1D18"
-				"56AAB9B63D98FF13"
-			]
-			id: "398529084DBA22F5"
-			tasks: [{
-				id: "2C1726EA3A07B846"
-				item: { components: { "productivebees:bee_type": "productivebees:silver" }, count: 1, id: "productivebees:configurable_honeycomb" }
-				type: "item"
-			}]
-			x: 5.0d
-			y: -3.0d
-		}
-		{
-			dependencies: [
-				"398529084DBA22F5"
-				"504D10F0179BDB81"
-			]
-			id: "61F7875A536D8863"
-			tasks: [{
-				id: "3BE8BFFF28451C90"
-				item: { components: { "productivebees:bee_type": "productivebees:signalum" }, count: 1, id: "productivebees:configurable_honeycomb" }
-				type: "item"
-			}]
-			x: 5.0d
-			y: -1.0d
-		}
-		{
-			dependencies: [
-				"398529084DBA22F5"
-				"7EBA6393F6E05A84"
-			]
-			id: "7DB79CA9D1E3E592"
-			tasks: [{
-				id: "081249E8609BED1D"
-				item: { components: { "productivebees:bee_type": "productivebees:electrum" }, count: 1, id: "productivebees:configurable_honeycomb" }
-				type: "item"
-			}]
-			x: 5.0d
-			y: -2.0d
-		}
-		{
-			dependencies: [
-				"398529084DBA22F5"
-				"367591C901F5AE03"
-			]
-			id: "16B5BDA94139F77E"
-			tasks: [{
-				id: "1BE7D23A83DD96B6"
-				item: { components: { "productivebees:bee_type": "productivebees:lumium" }, count: 1, id: "productivebees:configurable_honeycomb" }
-				type: "item"
-			}]
-			x: 4.0d
-			y: -1.0d
-		}
-		{
-			dependencies: ["6F03ED53C0B2D201"]
-			hide_dependent_lines: true
-			id: "367591C901F5AE03"
-			tasks: [{
-				id: "0987AF5CBD273B98"
-				item: { components: { "minecraft:entity_data": { id: "productivebees:configurable_bee", type: "productivebees:glowing" } }, count: 1, id: "productivebees:spawn_egg_configurable_bee" }
-				type: "item"
-			}]
-			x: -2.0d
-			y: -2.0d
-		}
-		{
-			dependencies: [
-				"5037327A437036B8"
-				"25451C960D037A8C"
-			]
-			id: "1A258B93249189A5"
-			tasks: [{
-				id: "6E0847D8D957DD4D"
-				item: { components: { "productivebees:bee_type": "productivebees:tin" }, count: 1, id: "productivebees:configurable_honeycomb" }
-				type: "item"
-			}]
-			x: 4.0d
-			y: -3.0d
-		}
-		{
-			dependencies: [
-				"1A258B93249189A5"
-				"504D10F0179BDB81"
-			]
-			id: "562C13100555C400"
-			tasks: [{
-				id: "6674B5844E78BB3D"
-				item: { components: { "productivebees:bee_type": "productivebees:bronze" }, count: 1, id: "productivebees:configurable_honeycomb" }
-				type: "item"
-			}]
-			x: 6.0d
-			y: -2.0d
-		}
-		{
-			dependencies: [
-				"0B8CE9686FFE1D18"
-				"0354BD0F819C5A70"
-			]
-			id: "679E6671406342A3"
-			tasks: [{
-				id: "76CEB9E957BD39DD"
-				item: { components: { "productivebees:bee_type": "productivebees:lead" }, count: 1, id: "productivebees:configurable_honeycomb" }
-				type: "item"
-			}]
-			x: 7.0d
-			y: -3.0d
-		}
-		{
-			dependencies: ["6F03ED53C0B2D201"]
-			hide_dependent_lines: true
-			id: "0354BD0F819C5A70"
-			tasks: [{
-				id: "2BA60A9B233D563C"
-				item: { count: 1, id: "productivebees:spawn_egg_blue_banded_bee" }
-				type: "item"
-			}]
-			x: -2.0d
-			y: -3.0d
-		}
-		{
-			dependencies: ["679E6671406342A3"]
-			id: "562DB5B408C2EC6C"
-			tasks: [{
-				id: "28AD3E6BB1167388"
-				item: { components: { "productivebees:bee_type": "productivebees:enderium" }, count: 1, id: "productivebees:configurable_honeycomb" }
-				type: "item"
-			}]
-			x: 6.0d
-			y: -1.0d
-		}
-		{
-			dependencies: ["06C11C85AE952B68"]
-			id: "6F03ED53C0B2D201"
-			tasks: [{
-				id: "5BE3249D0E0E0A41"
-				item: { count: 1, id: "productivebees:honey_treat" }
+				id: "1083FDFDB1E22EEF"
+				item: { count: 1, id: "generatorgalore:copper_generator" }
 				type: "item"
 			}]
 			x: 0.0d
 			y: 0.0d
 		}
 		{
-			dependencies: [
-				"70C6E392A0B682E7"
-				"3BAF8C6488D28665"
+			dependencies: ["196A568A00583805"]
+			icon: {
+				id: "generatorgalore:iron_generator"
+			}
+			id: "346117052F12664B"
+			tasks: [
+				{
+					id: "6578F95CDAB50B85"
+					item: { count: 1, id: "generatorgalore:iron_generator" }
+					type: "item"
+				}
+				{
+					id: "594EE34854236A72"
+					item: { count: 1, id: "generatorgalore:copper_to_iron_upgrade" }
+					type: "item"
+				}
 			]
-			id: "035CC97B8D08716A"
-			tasks: [{
-				id: "1CBCD8E9C9D18B60"
-				item: { components: { "productivebees:bee_type": "productivebees:coal" }, count: 1, id: "productivebees:configurable_honeycomb" }
-				type: "item"
-			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"346117052F12664B"
+				"28018BE994F02339"
+			]
+			icon: {
+				id: "generatorgalore:gold_generator"
+			}
+			id: "1883DFF81CD530A0"
+			tasks: [
+				{
+					id: "03658D07F6FD0116"
+					item: { count: 1, id: "generatorgalore:gold_generator" }
+					type: "item"
+				}
+				{
+					id: "08A986C7900D4745"
+					item: { count: 1, id: "generatorgalore:iron_to_gold_upgrade" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1883DFF81CD530A0"]
+			icon: {
+				id: "generatorgalore:culinary_generator"
+			}
+			id: "662C6D7106C0C6D2"
+			optional: true
+			tasks: [
+				{
+					id: "36E2E6F36191520A"
+					item: { count: 1, id: "generatorgalore:culinary_generator" }
+					type: "item"
+				}
+				{
+					id: "5747CE6025CEDE97"
+					item: { count: 1, id: "generatorgalore:gold_to_culinary_upgrade" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"1883DFF81CD530A0"
+				"20CEFFF2715407F7"
+			]
+			icon: {
+				id: "generatorgalore:diamond_generator"
+			}
+			id: "3ED909426B9083D9"
+			tasks: [
+				{
+					id: "029C4AB75F6C46D4"
+					item: { count: 1, id: "generatorgalore:diamond_generator" }
+					type: "item"
+				}
+				{
+					id: "1A01DF648CE32C56"
+					item: { count: 1, id: "generatorgalore:gold_to_diamond_upgrade" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3ED909426B9083D9"]
+			dependency_requirement: "one_completed"
+			icon: {
+				id: "generatorgalore:emerald_generator"
+			}
+			id: "040ABB916C18346A"
+			tasks: [
+				{
+					id: "50678EDD11677832"
+					item: { count: 1, id: "generatorgalore:emerald_generator" }
+					type: "item"
+				}
+				{
+					id: "660128F6B5C47B9F"
+					item: { count: 1, id: "generatorgalore:diamond_to_emerald_upgrade" }
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3ED909426B9083D9"]
+			icon: {
+				id: "generatorgalore:netherite_generator"
+			}
+			id: "720A2F80D5E73A17"
+			tasks: [
+				{
+					id: "350848991705C2B3"
+					item: { count: 1, id: "generatorgalore:netherite_generator" }
+					type: "item"
+				}
+				{
+					id: "4153472255053859"
+					item: { count: 1, id: "generatorgalore:diamond_to_netherite_upgrade" }
+					type: "item"
+				}
+			]
 			x: 4.0d
 			y: 1.0d
 		}
 		{
-			dependencies: ["6F03ED53C0B2D201"]
-			id: "3BAF8C6488D28665"
-			tasks: [{
-				id: "249EF8ED54A81BD9"
-				item: { components: { "minecraft:entity_data": { id: "productivebees:configurable_bee", type: "productivebees:magmatic" } }, count: 1, id: "productivebees:spawn_egg_configurable_bee" }
-				type: "item"
-			}]
-			x: -3.0d
+			dependencies: ["76B1BFA765F786BE"]
+			icon: {
+				id: "generatorgalore:enchantment_generator"
+			}
+			id: "169040E33441DBE9"
+			optional: true
+			tasks: [
+				{
+					id: "36D935BD9BDF0890"
+					item: { count: 1, id: "generatorgalore:enchantment_generator" }
+					type: "item"
+				}
+				{
+					id: "3DA717C16B1C2910"
+					item: { count: 1, id: "generatorgalore:obsidian_to_enchantment_upgrade" }
+					type: "item"
+				}
+			]
+			x: 5.0d
 			y: -1.0d
 		}
 		{
-			dependencies: ["6F03ED53C0B2D201"]
-			id: "70C6E392A0B682E7"
-			tasks: [{
-				id: "29B50668B29610EF"
-				item: { count: 1, id: "productivebees:spawn_egg_leafcutter_bee" }
-				type: "item"
-			}]
-			x: -1.0d
+			dependencies: [
+				"3ED909426B9083D9"
+				"07B1B6C8502FD122"
+			]
+			icon: {
+				id: "generatorgalore:obsidian_generator"
+			}
+			id: "76B1BFA765F786BE"
+			tasks: [
+				{
+					id: "34F6D93BA450F47B"
+					item: { count: 1, id: "generatorgalore:obsidian_generator" }
+					type: "item"
+				}
+				{
+					id: "5F32B4C69FB70505"
+					item: { count: 1, id: "generatorgalore:diamond_to_obsidian_upgrade" }
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["76B1BFA765F786BE"]
+			icon: {
+				id: "generatorgalore:ender_generator"
+			}
+			id: "4FC13F2C6001CFC4"
+			optional: true
+			tasks: [
+				{
+					id: "5A625321B9A465C5"
+					item: { count: 1, id: "generatorgalore:ender_generator" }
+					type: "item"
+				}
+				{
+					id: "7B99AB57C7EDBBB8"
+					item: { count: 1, id: "generatorgalore:obsidian_to_ender_upgrade" }
+					type: "item"
+				}
+			]
+			x: 5.0d
 			y: -2.0d
 		}
 		{
-			dependencies: ["035CC97B8D08716A"]
-			id: "48569D15FC4C0508"
-			tasks: [{
-				id: "33FEE6014EE3B1A7"
-				item: { components: { "productivebees:bee_type": "productivebees:sulfur" }, count: 1, id: "productivebees:configurable_honeycomb" }
-				type: "item"
-			}]
-			x: 4.0d
-			y: 2.0d
-		}
-		{
-			dependencies: [
-				"53C11D7779C5070D"
-				"0354BD0F819C5A70"
+			dependencies: ["4FC13F2C6001CFC4"]
+			icon: {
+				id: "generatorgalore:halitosis_generator"
+			}
+			id: "64A01D798C19E655"
+			optional: true
+			tasks: [
+				{
+					id: "301397ADCDB5BACD"
+					item: { count: 1, id: "generatorgalore:halitosis_generator" }
+					type: "item"
+				}
+				{
+					id: "0E827E7DFF007566"
+					item: { count: 1, id: "generatorgalore:ender_to_halitosis_upgrade" }
+					type: "item"
+				}
 			]
-			id: "071EE348FCC72630"
-			tasks: [{
-				id: "5C4A1B3A0431871C"
-				item: { components: { "productivebees:bee_type": "productivebees:lapis" }, count: 1, id: "productivebees:configurable_honeycomb" }
-				type: "item"
-			}]
 			x: 6.0d
-			y: 1.0d
+			y: -2.0d
 		}
 		{
-			dependencies: [
-				"367591C901F5AE03"
-				"766FFC212D9A4F6E"
+			dependencies: ["662C6D7106C0C6D2"]
+			icon: {
+				id: "generatorgalore:honey_generator"
+			}
+			id: "0372C7453493CA18"
+			optional: true
+			tasks: [
+				{
+					id: "433A7A4244DFD01B"
+					item: { count: 1, id: "generatorgalore:honey_generator" }
+					type: "item"
+				}
+				{
+					id: "084417B8A0882B5C"
+					item: { count: 1, id: "generatorgalore:culinary_to_honey_upgrade" }
+					type: "item"
+				}
 			]
-			id: "53C11D7779C5070D"
-			tasks: [{
-				id: "30DC755F94D5F35B"
-				item: { components: { "productivebees:bee_type": "productivebees:redstone" }, count: 1, id: "productivebees:configurable_honeycomb" }
-				type: "item"
-			}]
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["76B1BFA765F786BE"]
+			icon: {
+				id: "generatorgalore:magmatic_generator"
+			}
+			id: "5D769F0200A177C1"
+			tasks: [
+				{
+					id: "51B5C0BA7554EA85"
+					item: { count: 1, id: "generatorgalore:magmatic_generator" }
+					type: "item"
+				}
+				{
+					id: "40853AE9B94BFE6F"
+					item: { count: 1, id: "generatorgalore:obsidian_to_magmatic_upgrade" }
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["662C6D7106C0C6D2"]
+			icon: {
+				id: "generatorgalore:potion_generator"
+			}
+			id: "08AA4A1FF88BADA2"
+			optional: true
+			tasks: [
+				{
+					id: "255A210A0C6FD134"
+					item: { count: 1, id: "generatorgalore:potion_generator" }
+					type: "item"
+				}
+				{
+					id: "14DAA77905607A02"
+					item: { count: 1, id: "generatorgalore:culinary_to_potion_upgrade" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["720A2F80D5E73A17"]
+			icon: {
+				id: "generatorgalore:netherstar_generator"
+			}
+			id: "74596AC8CCF849C2"
+			tasks: [
+				{
+					id: "5B203968EE9BC570"
+					item: { count: 1, id: "generatorgalore:netherstar_generator" }
+					type: "item"
+				}
+				{
+					id: "38FB22FEDAEF2365"
+					item: { count: 1, id: "generatorgalore:netherite_to_netherstar_upgrade" }
+					type: "item"
+				}
+			]
 			x: 5.0d
 			y: 1.0d
-		}
-		{
-			dependencies: ["6F03ED53C0B2D201"]
-			id: "766FFC212D9A4F6E"
-			tasks: [{
-				id: "127C607AC6C7F3A8"
-				item: { count: 1, id: "productivebees:spawn_egg_chocolate_mining_bee" }
-				type: "item"
-			}]
-			x: -1.0d
-			y: -3.0d
-		}
-		{
-			id: "0AE57F895FD3516B"
-			tasks: [{
-				id: "2026739BD834D545"
-				item: { components: { "productivebees:bee_type": "productivebees:diamond" }, count: 1, id: "productivebees:configurable_honeycomb" }
-				type: "item"
-			}]
-			x: 7.0d
-			y: 1.0d
-		}
-		{
-			id: "7D862561B6590EF2"
-			tasks: [{
-				id: "679D6193A5B6DEB1"
-				item: { components: { "minecraft:entity_data": { id: "productivebees:configurable_bee", type: "productivebees:ender" } }, count: 1, id: "productivebees:spawn_egg_configurable_bee" }
-				type: "item"
-			}]
-			x: -1.0d
-			y: -1.0d
 		}
 	]
 }

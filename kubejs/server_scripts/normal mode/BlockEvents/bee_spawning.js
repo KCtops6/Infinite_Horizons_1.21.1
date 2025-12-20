@@ -21,7 +21,10 @@ BlockEvents.rightClicked(event => {
         ],
         'minecraft:jungle_log': ['productivebees:spawn_egg_green_carpenter_bee'],
         'minecraft:acacia_log': ['productivebees:spawn_egg_blue_banded_bee'],
-        'minecraft:cherry_log': ['productivebees:spawn_egg_blue_banded_bee'],
+        'minecraft:cherry_log': [
+            'productivebees:spawn_egg_blue_banded_bee',
+            'productivebees:spawn_egg_neon_cuckoo_bee'
+        ],
         'minecraft:mangrove_log': ['productivebees:spawn_egg_green_carpenter_bee'],
         'minecraft:stone': [
             'productivebees:spawn_egg_mason_bee',

@@ -17,4 +17,6 @@ ServerEvents.recipes(event => {
 	})
     event.remove({ output: 'productivebees:bamboo_hive'});
     event.remove({ type: 'productivebees:bee_fishing' });
+    // removing default productive bees experience comb centrifuge recipe.
+    event.remove({ id: 'productivebees:centrifuge/honeycomb_experience_fluid' });
 })

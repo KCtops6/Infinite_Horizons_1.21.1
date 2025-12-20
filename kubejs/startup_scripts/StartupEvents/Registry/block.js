@@ -32,5 +32,12 @@ StartupEvents.registry("block", (event) => {
             .tagBlock('minecraft:mineable/pickaxe')
             .tagBlock('minecraft:needs_iron_tool')
     })
-    event.create('dormant_trial_spawner').displayName('Dormant Trial Spawner');
-})
+    event.create('dormant_trial_spawner')
+        .displayName('Dormant Trial Spawner')
+        .mapColor('stone')
+        .soundType('metal')
+        .hardness(5.0)
+        .resistance(10.0)
+        .opaque(true)
+        .fullBlock(true);
+});

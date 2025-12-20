@@ -16,7 +16,10 @@ const beeMap = {
         "productivebees:spawn_egg_green_carpenter_bee",
         "productivebees:spawn_egg_yellow_black_carpenter_bee"
     ],
-    "minecraft:jungle_log": ["productivebees:spawn_egg_green_carpenter_bee"],
+    "minecraft:jungle_log": [
+        "productivebees:spawn_egg_green_carpenter_bee",
+        'productivebees:spawn_egg_configurable_bee[entity_data={id:"productivebees:configurable_bee",type:"productivebees:chocolate"}]'
+    ],
     "minecraft:acacia_log": [
         "productivebees:spawn_egg_blue_banded_bee",
         'productivebees:spawn_egg_neon_cuckoo_bee'

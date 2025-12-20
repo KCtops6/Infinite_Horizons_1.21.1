@@ -1043,7 +1043,6 @@
 		}
 		{
 			dependencies: ["57401F4BD3952C56"]
-			hide_dependent_lines: true
 			id: "06C11C85AE952B68"
 			tasks: [{
 				icon: {
@@ -1055,7 +1054,7 @@
 				to_observe: "minecraft:bee_nest"
 				type: "observation"
 			}]
-			x: 1.0d
+			x: 3.0d
 			y: -2.0d
 		}
 		{
@@ -1090,8 +1089,8 @@
 				item: { count: 1, id: "minecraft:honey_bottle" }
 				type: "item"
 			}]
-			x: 10.0d
-			y: 9.0d
+			x: 3.0d
+			y: -3.0d
 		}
 		{
 			dependencies: [
@@ -1104,7 +1103,7 @@
 				item: { count: 1, id: "minecraft:honeycomb" }
 				type: "item"
 			}]
-			x: 11.0d
+			x: 4.0d
 			y: -3.0d
 		}
 		{
@@ -1150,11 +1149,12 @@
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(minecraft:wool)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 9.0d
-			y: -3.0d
+			x: 10.0d
+			y: -4.0d
 		}
 		{
 			dependencies: ["174AD92AAE3A1FAF"]
+			hide_dependent_lines: true
 			id: "3A6476510B7621C1"
 			rewards: [
 				{
@@ -1862,6 +1862,29 @@
 			]
 			x: 18.0d
 			y: 1.0d
+		}
+		{
+			dependencies: ["7E6FA6BACC7B007E"]
+			hide_dependency_lines: true
+			id: "6F2840F05660704F"
+			tasks: [{
+				id: "23639F6F27489A2E"
+				item: { count: 1, id: "minecraft:gunpowder" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["6F2840F05660704F"]
+			id: "4B493CAC922A363E"
+			tasks: [{
+				id: "5BB0121823BD883E"
+				item: { count: 1, id: "minecraft:tnt" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 3.0d
 		}
 	]
 }

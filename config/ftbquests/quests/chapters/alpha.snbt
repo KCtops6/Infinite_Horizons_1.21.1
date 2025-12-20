@@ -1872,7 +1872,7 @@
 				item: { count: 1, id: "minecraft:gunpowder" }
 				type: "item"
 			}]
-			x: 3.0d
+			x: 4.0d
 			y: 3.0d
 		}
 		{
@@ -1883,7 +1883,17 @@
 				item: { count: 1, id: "minecraft:tnt" }
 				type: "item"
 			}]
-			x: 4.0d
+			x: 5.0d
+			y: 3.0d
+		}
+		{
+			id: "5107BA5D5D9691F5"
+			tasks: [{
+				id: "235AEC573917FD95"
+				item: { count: 1, id: "minecraft:rotten_flesh" }
+				type: "item"
+			}]
+			x: 3.0d
 			y: 3.0d
 		}
 	]

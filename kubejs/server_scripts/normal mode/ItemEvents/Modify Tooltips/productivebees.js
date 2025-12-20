@@ -45,9 +45,10 @@ const beeMap = {
         "productivebees:spawn_egg_chocolate_mining_bee",
         "productivebees:spawn_egg_ashy_mining_bee"
     ],
-    "minecraft:sugar_cane": [
-        "productivebees:spawn_egg_mason_bee",
-        "productivebees:spawn_egg_reed_bee"
+    'minecraft:sugar_cane': [
+        'productivebees:spawn_egg_mason_bee',
+        'productivebees:spawn_egg_reed_bee',
+        'productivebees:spawn_egg_configurable_bee[entity_data={id:"productivebees:configurable_bee",type:"productivebees:sugarbag"}]'
     ],
     "minecraft:slime_block": [
         'productivebees:spawn_egg_configurable_bee[entity_data={id:"productivebees:configurable_bee",type:"productivebees:slimy"}]'

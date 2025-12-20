@@ -14,7 +14,7 @@ global.dusts = [
     'diamond', 'electrum', 'elementium',
     'enderium', 'gold', 'invar',
     'iron', 'lead',
-    'lumium', 'netherite', 'nickel',
+    'lumium', 'netherite', 'nickel', 'niter',
     'osmium', 'signalum',
     'silver', 'steel', 'tin',
     'uranium', 'zinc'

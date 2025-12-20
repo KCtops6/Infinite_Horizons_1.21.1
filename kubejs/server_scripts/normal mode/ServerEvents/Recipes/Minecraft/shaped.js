@@ -30,4 +30,12 @@ ServerEvents.recipes(event => {
             }).id(`${i}_block_from_gem`);
         }
     });
+    event.shaped('kubejs:dormant_trial_spawner', [
+        'PPP',
+        'BBB',
+        'PBP'
+    ], {
+        P: 'kubejs:netherite_plate',
+        B: 'kubejs:netherite_bars'
+    }).id('dormant_trial_spawner');
 });

@@ -66,6 +66,9 @@ const beeMap = {
     ],
     "minecraft:obsidian": [
         'productivebees:spawn_egg_configurable_bee[entity_data={id:"productivebees:configurable_bee",type:"productivebees:draconic"}]'
+    ],
+    'minecraft:bone_block': [
+        'productivebees:spawn_egg_configurable_bee[entity_data={id:"productivebees:configurable_bee",type:"productivebees:skeletal"}]'
     ]
 }
 const beesToBlocks = {}

@@ -70,6 +70,9 @@ BlockEvents.rightClicked(event => {
         'minecraft:obsidian': [
             'productivebees:spawn_egg_configurable_bee[entity_data={id:"productivebees:configurable_bee",type:"productivebees:draconic"}]'
         ],
+        'minecraft:bone_block': [
+            'productivebees:spawn_egg_configurable_bee[entity_data={id:"productivebees:configurable_bee",type:"productivebees:skeletal"}]'
+        ]
     };
     if (!(block.id in beeMap)) return;
     const bees = beeMap[block.id];

@@ -12,13 +12,14 @@ let crates = [
     { name: 'nether_fortress', mobs: ['wither_skeleton', 'blaze'], chance: 0.1 },
     { name: 'woodland_mansion', mobs: ['vindicator'], chance: 0.25 },
     { name: 'woodland_mansion', mobs: ['evoker'], chance: 0.5 }
-]
+];
+const overworldMobs = ['zombie', 'skeleton', 'enderman', 'spider', 'creeper'];
 LootJS.modifiers(event => {
     crates.forEach(c => {
         c.mobs.forEach(m => {
             event.addEntityModifier(`minecraft:${m}`)
                 .randomChance(c.chance)
                 .addLoot(`ftbquests:lootcrate[ftbquests:loot_crate="${c.name}"]`)
-        })
-    })
-})
+        });
+    });
+});

@@ -208,4 +208,11 @@ ServerEvents.recipes(event => {
         P: 'kubejs:netherite_plate',
         B: 'kubejs:netherite_bars'
     }).id('dormant_trial_spawner');
+    event.shaped(Item.of('kubejs:netherite_bars', 16), [
+        '   ',
+        'III',
+        'III'
+    ], {
+        I: 'minecraft:netherite_ingot'
+    }).id('kubejs:netherite_bars');
 });

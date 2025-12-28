@@ -1,0 +1,338 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "zeta"
+	group: "3C16C4C95F1091C7"
+	icon: {
+		id: "generatorgalore:iron_generator"
+	}
+	id: "1B73F34BAB8F6FCD"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"11332A8490D1FD31"
+				"5A382D145AA88DD9"
+			]
+			id: "196A568A00583805"
+			tasks: [{
+				id: "1083FDFDB1E22EEF"
+				item: { count: 1, id: "generatorgalore:copper_generator" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["196A568A00583805"]
+			icon: {
+				id: "generatorgalore:iron_generator"
+			}
+			id: "346117052F12664B"
+			tasks: [
+				{
+					id: "6578F95CDAB50B85"
+					item: { count: 1, id: "generatorgalore:iron_generator" }
+					type: "item"
+				}
+				{
+					id: "594EE34854236A72"
+					item: { count: 1, id: "generatorgalore:copper_to_iron_upgrade" }
+					type: "item"
+				}
+			]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"346117052F12664B"
+				"28018BE994F02339"
+			]
+			icon: {
+				id: "generatorgalore:gold_generator"
+			}
+			id: "1883DFF81CD530A0"
+			tasks: [
+				{
+					id: "03658D07F6FD0116"
+					item: { count: 1, id: "generatorgalore:gold_generator" }
+					type: "item"
+				}
+				{
+					id: "08A986C7900D4745"
+					item: { count: 1, id: "generatorgalore:iron_to_gold_upgrade" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1883DFF81CD530A0"]
+			icon: {
+				id: "generatorgalore:culinary_generator"
+			}
+			id: "662C6D7106C0C6D2"
+			optional: true
+			tasks: [
+				{
+					id: "36E2E6F36191520A"
+					item: { count: 1, id: "generatorgalore:culinary_generator" }
+					type: "item"
+				}
+				{
+					id: "5747CE6025CEDE97"
+					item: { count: 1, id: "generatorgalore:gold_to_culinary_upgrade" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"1883DFF81CD530A0"
+				"20CEFFF2715407F7"
+			]
+			icon: {
+				id: "generatorgalore:diamond_generator"
+			}
+			id: "3ED909426B9083D9"
+			tasks: [
+				{
+					id: "029C4AB75F6C46D4"
+					item: { count: 1, id: "generatorgalore:diamond_generator" }
+					type: "item"
+				}
+				{
+					id: "1A01DF648CE32C56"
+					item: { count: 1, id: "generatorgalore:gold_to_diamond_upgrade" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3ED909426B9083D9"]
+			dependency_requirement: "one_completed"
+			icon: {
+				id: "generatorgalore:emerald_generator"
+			}
+			id: "040ABB916C18346A"
+			tasks: [
+				{
+					id: "50678EDD11677832"
+					item: { count: 1, id: "generatorgalore:emerald_generator" }
+					type: "item"
+				}
+				{
+					id: "660128F6B5C47B9F"
+					item: { count: 1, id: "generatorgalore:diamond_to_emerald_upgrade" }
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3ED909426B9083D9"]
+			icon: {
+				id: "generatorgalore:netherite_generator"
+			}
+			id: "720A2F80D5E73A17"
+			tasks: [
+				{
+					id: "350848991705C2B3"
+					item: { count: 1, id: "generatorgalore:netherite_generator" }
+					type: "item"
+				}
+				{
+					id: "4153472255053859"
+					item: { count: 1, id: "generatorgalore:diamond_to_netherite_upgrade" }
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["76B1BFA765F786BE"]
+			icon: {
+				id: "generatorgalore:enchantment_generator"
+			}
+			id: "169040E33441DBE9"
+			optional: true
+			tasks: [
+				{
+					id: "36D935BD9BDF0890"
+					item: { count: 1, id: "generatorgalore:enchantment_generator" }
+					type: "item"
+				}
+				{
+					id: "3DA717C16B1C2910"
+					item: { count: 1, id: "generatorgalore:obsidian_to_enchantment_upgrade" }
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"3ED909426B9083D9"
+				"07B1B6C8502FD122"
+			]
+			icon: {
+				id: "generatorgalore:obsidian_generator"
+			}
+			id: "76B1BFA765F786BE"
+			tasks: [
+				{
+					id: "34F6D93BA450F47B"
+					item: { count: 1, id: "generatorgalore:obsidian_generator" }
+					type: "item"
+				}
+				{
+					id: "5F32B4C69FB70505"
+					item: { count: 1, id: "generatorgalore:diamond_to_obsidian_upgrade" }
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["76B1BFA765F786BE"]
+			icon: {
+				id: "generatorgalore:ender_generator"
+			}
+			id: "4FC13F2C6001CFC4"
+			optional: true
+			tasks: [
+				{
+					id: "5A625321B9A465C5"
+					item: { count: 1, id: "generatorgalore:ender_generator" }
+					type: "item"
+				}
+				{
+					id: "7B99AB57C7EDBBB8"
+					item: { count: 1, id: "generatorgalore:obsidian_to_ender_upgrade" }
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["4FC13F2C6001CFC4"]
+			icon: {
+				id: "generatorgalore:halitosis_generator"
+			}
+			id: "64A01D798C19E655"
+			optional: true
+			tasks: [
+				{
+					id: "301397ADCDB5BACD"
+					item: { count: 1, id: "generatorgalore:halitosis_generator" }
+					type: "item"
+				}
+				{
+					id: "0E827E7DFF007566"
+					item: { count: 1, id: "generatorgalore:ender_to_halitosis_upgrade" }
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["662C6D7106C0C6D2"]
+			icon: {
+				id: "generatorgalore:honey_generator"
+			}
+			id: "0372C7453493CA18"
+			optional: true
+			tasks: [
+				{
+					id: "433A7A4244DFD01B"
+					item: { count: 1, id: "generatorgalore:honey_generator" }
+					type: "item"
+				}
+				{
+					id: "084417B8A0882B5C"
+					item: { count: 1, id: "generatorgalore:culinary_to_honey_upgrade" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["76B1BFA765F786BE"]
+			icon: {
+				id: "generatorgalore:magmatic_generator"
+			}
+			id: "5D769F0200A177C1"
+			tasks: [
+				{
+					id: "51B5C0BA7554EA85"
+					item: { count: 1, id: "generatorgalore:magmatic_generator" }
+					type: "item"
+				}
+				{
+					id: "40853AE9B94BFE6F"
+					item: { count: 1, id: "generatorgalore:obsidian_to_magmatic_upgrade" }
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["662C6D7106C0C6D2"]
+			icon: {
+				id: "generatorgalore:potion_generator"
+			}
+			id: "08AA4A1FF88BADA2"
+			optional: true
+			tasks: [
+				{
+					id: "255A210A0C6FD134"
+					item: { count: 1, id: "generatorgalore:potion_generator" }
+					type: "item"
+				}
+				{
+					id: "14DAA77905607A02"
+					item: { count: 1, id: "generatorgalore:culinary_to_potion_upgrade" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["720A2F80D5E73A17"]
+			icon: {
+				id: "generatorgalore:netherstar_generator"
+			}
+			id: "74596AC8CCF849C2"
+			tasks: [
+				{
+					id: "5B203968EE9BC570"
+					item: { count: 1, id: "generatorgalore:netherstar_generator" }
+					type: "item"
+				}
+				{
+					id: "38FB22FEDAEF2365"
+					item: { count: 1, id: "generatorgalore:netherite_to_netherstar_upgrade" }
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 1.0d
+		}
+	]
+}

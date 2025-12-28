@@ -14,14 +14,14 @@ StartupEvents.registry("block", (event) => {
     const blocks = [
         'tuff', 'deepslate', 'andesite', 'diorite', 'granite'
     ]
-    blocks.forEach(b => {
-        event.create(`${b}_gravel`)
-        .displayName(formatName(`${b}_gravel`)).hardness(0.6)
-        .resistance(0.6)
-        .gravelSoundType()
-        .requiresTool(false)
-        .tagBlock("mineable/shovel")
-    })
+    blocks.forEach(block => {
+        event.create(`${block}_gravel`, 'kubejs:falling')
+            .displayName(formatName(`${block}_gravel`)).hardness(0.6)
+            .resistance(0.6)
+            .gravelSoundType()
+            .requiresTool(false)
+            .tagBlock("mineable/shovel");
+    });
     global.blocks.forEach(block => {
         event.create(`${block}_block`)
             .displayName(`${capitalize(block)} Block`)

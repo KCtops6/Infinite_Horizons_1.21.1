@@ -4,7 +4,8 @@ ServerEvents.recipes(event => {
         { input: 'kubejs:andesite_pebble', output: 'minecraft:andesite'},
         { input: 'kubejs:deepslate_pebble', output: 'minecraft:cobbled_deepslate'},
         { input: 'kubejs:diorite_pebble', output: 'minecraft:diorite'},
-        { input: 'kubejs:granite_pebble', output: 'minecraft:granite'}
+        { input: 'kubejs:granite_pebble', output: 'minecraft:granite'},
+        { input: 'kubejs:tuff_pebble', output: 'minecraft:tuff' }
     ];
     PEBBLE_TO_BLOCK_MAPPINGS.forEach(recipe => {
         event.shapeless(recipe.output, Item.of(recipe.input, 4));

@@ -13,12 +13,14 @@
 	order_index: 1
 	rewards: [
 		{
+			count: 6
 			id: "046FD14D39077C9D"
 			item: {
 				count: 1
 				id: "minecraft:coal"
 			}
-			weight: 0.08139535f
+			random_bonus: 9
+			weight: 46.5f
 		}
 		{
 			id: "21ADED5FD70AC592"
@@ -26,7 +28,8 @@
 				count: 1
 				id: "minecraft:bone"
 			}
-			weight: 0.058139537f
+			random_bonus: 14
+			weight: 35.9f
 		}
 		{
 			id: "6A55EA2C498AF734"
@@ -34,15 +37,18 @@
 				count: 1
 				id: "minecraft:soul_torch"
 			}
-			weight: 0.058139537f
+			random_bonus: 14
+			weight: 35.9f
 		}
 		{
+			count: 3
 			id: "36FF338300AE1C3E"
 			item: {
 				count: 1
 				id: "minecraft:book"
 			}
-			weight: 0.058139537f
+			random_bonus: 7
+			weight: 35.9f
 		}
 		{
 			id: "1D48DA50AE4F1A57"
@@ -55,7 +61,8 @@
 				count: 1
 				id: "minecraft:potion"
 			}
-			weight: 0.058139537f
+			random_bonus: 2
+			weight: 35.9f
 		}
 		{
 			id: "33D59BC5A7ACF681"
@@ -63,7 +70,8 @@
 				count: 1
 				id: "minecraft:disc_fragment_5"
 			}
-			weight: 0.046511628f
+			random_bonus: 2
+			weight: 29.8f
 		}
 		{
 			id: "78F68E9F5D79596E"
@@ -71,7 +79,8 @@
 				count: 1
 				id: "minecraft:amethyst_shard"
 			}
-			weight: 0.034883723f
+			random_bonus: 14
+			weight: 23.2f
 		}
 		{
 			id: "06907C02684A5E60"
@@ -79,15 +88,18 @@
 				count: 1
 				id: "minecraft:glow_berries"
 			}
-			weight: 0.034883723f
+			random_bonus: 14
+			weight: 23.2f
 		}
 		{
+			count: 4
 			id: "2D2A5DE58C51D5B4"
 			item: {
 				count: 1
 				id: "minecraft:sculk"
 			}
-			weight: 0.034883723f
+			random_bonus: 6
+			weight: 23.2f
 		}
 		{
 			id: "0920434F4901756F"
@@ -95,7 +107,8 @@
 				count: 1
 				id: "minecraft:candle"
 			}
-			weight: 0.034883723f
+			random_bonus: 3
+			weight: 23.2f
 		}
 		{
 			id: "4F6B7BDA000CD0D1"
@@ -103,7 +116,8 @@
 				count: 1
 				id: "minecraft:experience_bottle"
 			}
-			weight: 0.034883723f
+			random_bonus: 2
+			weight: 23.2f
 		}
 		{
 			id: "71E6869B9403CCF5"
@@ -111,7 +125,8 @@
 				count: 1
 				id: "minecraft:sculk_sensor"
 			}
-			weight: 0.034883723f
+			random_bonus: 2
+			weight: 23.2f
 		}
 		{
 			id: "38C289B6F60725B5"
@@ -119,7 +134,7 @@
 				count: 1
 				id: "minecraft:iron_leggings"
 			}
-			weight: 0.034883723f
+			weight: 23.2f
 		}
 		{
 			id: "6BFEE84C6AD5A473"
@@ -127,7 +142,8 @@
 				count: 1
 				id: "minecraft:sculk_catalyst"
 			}
-			weight: 0.023255814f
+			random_bonus: 1
+			weight: 16.1f
 		}
 		{
 			id: "0CF53103025BA754"
@@ -135,7 +151,7 @@
 				count: 1
 				id: "minecraft:compass"
 			}
-			weight: 0.023255814f
+			weight: 16.1f
 		}
 		{
 			id: "29571103A7E35FCB"
@@ -143,7 +159,7 @@
 				count: 1
 				id: "minecraft:music_disc_13"
 			}
-			weight: 0.023255814f
+			weight: 16.1f
 		}
 		{
 			id: "3C4B3E15D1EDE3DA"
@@ -151,7 +167,7 @@
 				count: 1
 				id: "minecraft:music_disc_cat"
 			}
-			weight: 0.023255814f
+			weight: 16.1f
 		}
 		{
 			id: "4F3185E2FB19F12A"
@@ -159,7 +175,7 @@
 				count: 1
 				id: "minecraft:lead"
 			}
-			weight: 0.023255814f
+			weight: 16.1f
 		}
 		{
 			id: "5358E445126429BC"
@@ -167,7 +183,7 @@
 				count: 1
 				id: "minecraft:name_tag"
 			}
-			weight: 0.023255814f
+			weight: 16.1f
 		}
 		{
 			id: "76497D45CEEAAFBF"
@@ -175,7 +191,7 @@
 				count: 1
 				id: "minecraft:saddle"
 			}
-			weight: 0.023255814f
+			weight: 16.1f
 		}
 		{
 			id: "1FFC8B5CCB2A8CDE"
@@ -183,7 +199,7 @@
 				count: 1
 				id: "minecraft:diamond_hoe"
 			}
-			weight: 0.023255814f
+			weight: 16.1f
 		}
 		{
 			id: "52970C6AC3041E8D"
@@ -191,7 +207,7 @@
 				count: 1
 				id: "minecraft:diamond_horse_armor"
 			}
-			weight: 0.023255814f
+			weight: 16.1f
 		}
 		{
 			id: "59672388618D8FE7"
@@ -199,7 +215,7 @@
 				count: 1
 				id: "minecraft:diamond_leggings"
 			}
-			weight: 0.023255814f
+			weight: 16.1f
 		}
 		{
 			id: "38760B561CCFCC83"
@@ -207,7 +223,8 @@
 				count: 1
 				id: "minecraft:enchanted_golden_apple"
 			}
-			weight: 0.011627907f
+			random_bonus: 1
+			weight: 8.4f
 		}
 		{
 			id: "096F227FEF143573"
@@ -215,7 +232,7 @@
 				count: 1
 				id: "minecraft:music_disc_otherside"
 			}
-			weight: 0.011627907f
+			weight: 8.4f
 		}
 		{
 			id: "76032D093A9A5E37"
@@ -223,7 +240,7 @@
 				count: 1
 				id: "minecraft:ward_armor_trim_smithing_template"
 			}
-			weight: 0.05f
+			weight: 5.0f
 		}
 		{
 			id: "6220AEF199DF3D8F"
@@ -231,7 +248,16 @@
 				count: 1
 				id: "minecraft:silence_armor_trim_smithing_template"
 			}
-			weight: 0.05f
+			weight: 1.2f
+		}
+		{
+			id: "34FE05D354BA7317"
+			item: {
+				count: 1
+				id: "minecraft:leather"
+			}
+			random_bonus: 4
+			weight: 16.1f
 		}
 	]
 }

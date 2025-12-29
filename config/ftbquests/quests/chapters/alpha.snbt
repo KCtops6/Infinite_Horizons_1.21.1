@@ -8,16 +8,28 @@
 		id: "minecraft:oak_log"
 	}
 	id: "17F179085511CF63"
-	images: [{
-		click: "https://github.com/KCtops6/Infinite_Horizons_1.21.1/wiki/Using-Trowels"
-		height: 0.75d
-		hover: ["Using Trowels on Wiki"]
-		image: "minecraft:block/bookshelf"
-		rotation: 0.0d
-		width: 0.75d
-		x: 6.0d
-		y: 1.0d
-	}]
+	images: [
+		{
+			click: "https://github.com/KCtops6/Infinite_Horizons_1.21.1/wiki/Using-Trowels"
+			height: 0.75d
+			hover: ["Using Trowels on Wiki"]
+			image: "minecraft:block/bookshelf"
+			rotation: 0.0d
+			width: 0.75d
+			x: 6.0d
+			y: 1.0d
+		}
+		{
+			click: "https://github.com/KCtops6/Infinite_Horizons_1.21.1/wiki/Loot-Crates"
+			height: 0.75d
+			hover: ["Loot Crate Information on Wiki"]
+			image: "minecraft:block/bookshelf"
+			rotation: 0.0d
+			width: 0.75d
+			x: 0.0d
+			y: -1.0d
+		}
+	]
 	order_index: 0
 	quest_links: [ ]
 	quests: [
@@ -1897,6 +1909,7 @@
 			y: 3.0d
 		}
 		{
+			dependencies: ["7E6FA6BACC7B007E"]
 			id: "5107BA5D5D9691F5"
 			tasks: [{
 				id: "235AEC573917FD95"

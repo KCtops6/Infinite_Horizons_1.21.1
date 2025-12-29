@@ -103,7 +103,6 @@
 		"Good, steady source of &ocertus quartz&r."
 	]
 	quest.19EC29C268AFA9C9.title: "Spatial Bee"
-	quest.1B48B2DBAB35CFEC.quest_desc: ["In case you get unlucky with ominous trial key drops..."]
 	quest.1B922950A7570482.quest_desc: ["Check the box to acknowledge that you have a working source of rotational energy."]
 	quest.1B922950A7570482.quest_subtitle: "Early Game Power"
 	quest.1BEB220EF0DCE259.quest_desc: ["The &lEnchanting Table&r is a powerful tool that allows you to imbue your items with magical enchantments. To craft one, you'll need Diamonds, Obsidian, and Bookshelves for enhancing its functionality. Use this table to upgrade your gear and gain an edge in your adventures."]
@@ -353,7 +352,6 @@
 	quest.6F234337CE289CD4.quest_desc: ["With &lAndesite&r and &lIron&r in hand, it’s time to craft the cornerstone of Create’s mechanical systems—&lAndesite Alloy&r. Combine Andesite with Iron to forge this versatile material. Andesite Alloy will be used in various Create machines, unlocking your potential for automation and advancement."]
 	quest.6F234337CE289CD4.quest_subtitle: "Forging the Andesite Alloy"
 	quest.6F234337CE289CD4.title: "The Heart of Creation"
-	quest.70A474AF7638B9C0.quest_desc: ["Check out the wiki for more information."]
 	quest.7112ED278B1CE804.quest_desc: ["Look at JEI for all of the useful crafts with this item."]
 	quest.71B4677400CE51F3.quest_desc: ["You can find lava in a blacksmith, craft fire seeds, or mix pebbles in a create mixer."]
 	quest.720A2F80D5E73A17.quest_desc: ["The &lNetherite Generator&r is the ultimate power source, capable of generating 256 FE/t with a transfer rate of 1024 FE/t. This upgrade from the Diamond Generator provides an efficient 0.4 FE/t consumption rate and boasts a buffer capacity of 1,000,000 FE. By using solid fuels, the Netherite Generator brings a reliable, high-output energy source to your setup. Upgrade now to harness the power of Netherite and fuel your machines with the most advanced energy production available."]
@@ -392,16 +390,25 @@
 	quest.7D5453D77D188888.quest_desc: ["&lFire Seeds&r produce &lFire Essence&r, a versatile material used in various recipes. Most importantly, it can be crafted into &lLava Buckets&r, providing a renewable source of lava. Whether for smelting, power generation, or obsidian production, these seeds ensure you'll never run out of molten heat!"]
 	quest.7D5453D77D188888.quest_subtitle: "Harnessing Fire Essence"
 	quest.7D5453D77D188888.title: "Seeds of Flame"
-	quest.7D9B5C7F6DB2BF69.quest_desc: ["In case you get unlucky with trial key drops..."]
 	quest.7E44B2364F520C4C.quest_desc: ["The next tier up unlocks more advanced seeds."]
 	reward_table.0C1CF05CCCD5916C.title: "Woodland Mansion"
+	reward_table.16976502880DAF4C.title: "Stronghold Altar"
 	reward_table.1B2242C9DE88E106.title: "Bastion"
 	reward_table.1BB1DCEB3ADCCD34.title: "End City"
+	reward_table.220A10B37E35B8DE.title: "Ice Box"
+	reward_table.249CC6A153CDB289.title: "Shipwreck Treasure"
 	reward_table.298D142C0C950466.title: "Nether Fortress"
+	reward_table.2B938F25FBE0A57F.title: "Buried Treasure"
+	reward_table.30EF15CBD93EB2B0.title: "Stronghold Storeroom"
 	reward_table.361CDAD4C802B268.title: "Bastion Bridge"
+	reward_table.38C76AD128A7C6AA.title: "Desert Pyramid"
+	reward_table.39F9207FAB52028F.title: "Mineshaft"
 	reward_table.46710C0ECD97A177.title: "Dungeon"
 	reward_table.4A8608518513E665.title: "Ancient City"
+	reward_table.5AB0D349F8989A23.title: "Stronghold Library"
+	reward_table.5AE89AF9EBE81297.title: "Shipwreck Supply"
 	reward_table.73AB99EEB314DAAC.title: "Pillager Outpost"
+	reward_table.7CA3AF27C543FD34.title: "Jungle Pyramid"
 	task.02FD29192B135BC0.title: "Construct the Bottling Machine"
 	task.049328BEB49A0C63.title: "Any #sophisticated:auto_smelting_upgrades"
 	task.05A1297F925E6922.title: "Craft a Juice Item."

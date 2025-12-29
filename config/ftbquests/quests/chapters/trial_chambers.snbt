@@ -8,41 +8,11 @@
 		id: "minecraft:trial_key"
 	}
 	id: "64FE7FCF6127CD6A"
-	images: [{
-		click: "https://github.com/KCtops6/Infinite_Horizons_1.21.1/wiki/Trial-Vault-Activation-Guide"
-		height: 0.75d
-		hover: ["Learn more about trial chambers!"]
-		image: "minecraft:item/book"
-		rotation: 0.0d
-		width: 0.75d
-		x: -1.0d
-		y: 0.0d
-	}]
 	order_index: 4
 	quest_links: [ ]
 	quests: [
 		{
-			dependencies: ["7E6FA6BACC7B007E"]
-			id: "70A474AF7638B9C0"
-			rewards: [{
-				id: "040716B95D949604"
-				item: {
-					count: 1
-					id: "minecraft:trial_key"
-				}
-				random_bonus: 2
-				type: "item"
-			}]
-			tasks: [{
-				id: "6E06C12CCB126F78"
-				item: { count: 1, id: "minecraft:trial_key" }
-				type: "item"
-			}]
-			x: 0.0d
-			y: 0.0d
-		}
-		{
-			dependencies: ["70A474AF7638B9C0"]
+			dependencies: ["742231C130AAC014"]
 			id: "041C0F5E471298D2"
 			tasks: [{
 				icon: {
@@ -252,7 +222,7 @@
 			y: 2.0d
 		}
 		{
-			dependencies: ["70A474AF7638B9C0"]
+			dependencies: ["742231C130AAC014"]
 			hide_dependent_lines: true
 			id: "1E55E9E9E3B8ECEB"
 			tasks: [{
@@ -324,37 +294,6 @@
 			y: -2.0d
 		}
 		{
-			can_repeat: true
-			dependencies: ["4D76020C12C3809E"]
-			id: "7D9B5C7F6DB2BF69"
-			optional: true
-			rewards: [{
-				id: "35F04CDE97F5ADD7"
-				item: {
-					count: 1
-					id: "minecraft:trial_key"
-				}
-				type: "item"
-			}]
-			shape: "circle"
-			size: 0.75d
-			tasks: [{
-				entity: "minecraft:breeze"
-				icon: {
-					components: {
-						"!ftbquests:icon": { }
-						"ftbquests:entity_face": "minecraft:breeze"
-					}
-					id: "ftbquests:custom_icon"
-				}
-				id: "6FF29BA6B39ED82E"
-				type: "kill"
-				value: 25L
-			}]
-			x: 2.75d
-			y: 4.0d
-		}
-		{
 			dependencies: ["7DCD55B7E458CF00"]
 			id: "6AFFE5A781CA5CEB"
 			tasks: [{
@@ -382,37 +321,6 @@
 				value: 1L
 			}]
 			x: 5.0d
-			y: 4.0d
-		}
-		{
-			can_repeat: true
-			dependencies: ["7DCD55B7E458CF00"]
-			id: "1B48B2DBAB35CFEC"
-			optional: true
-			rewards: [{
-				id: "12D9B7787D38F3CC"
-				item: {
-					count: 1
-					id: "minecraft:ominous_trial_key"
-				}
-				type: "item"
-			}]
-			shape: "circle"
-			size: 0.75d
-			tasks: [{
-				entity: "minecraft:evoker"
-				icon: {
-					components: {
-						"!ftbquests:icon": { }
-						"ftbquests:entity_face": "minecraft:evoker"
-					}
-					id: "ftbquests:custom_icon"
-				}
-				id: "70901D36D39D3797"
-				type: "kill"
-				value: 15L
-			}]
-			x: 5.75d
 			y: 4.0d
 		}
 		{
@@ -480,6 +388,27 @@
 			}]
 			x: 6.0d
 			y: 5.0d
+		}
+		{
+			dependencies: ["732EE5DB19BC573C"]
+			icon: {
+				id: "kubejs:trial_core"
+			}
+			id: "742231C130AAC014"
+			tasks: [
+				{
+					id: "01ACE9D1B9CEF0FC"
+					item: { count: 1, id: "kubejs:trial_core" }
+					type: "item"
+				}
+				{
+					id: "6DDEBB14434A434A"
+					item: { count: 1, id: "kubejs:dormant_trial_spawner" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
 		}
 	]
 }

@@ -1,0 +1,70 @@
+{
+	id: "220A10B37E35B8DE"
+	loot_crate: {
+		color: 6662837
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "ice_box"
+	}
+	loot_size: 1
+	order_index: 12
+	rewards: [
+		{
+			count: 2
+			id: "79D128D6E1C6AAFF"
+			item: {
+				count: 1
+				id: "minecraft:snowball"
+			}
+			random_bonus: 4
+			weight: 97.0f
+		}
+		{
+			count: 2
+			id: "450A903C1815559C"
+			item: {
+				count: 1
+				id: "minecraft:packed_ice"
+			}
+			random_bonus: 4
+			weight: 80.5f
+		}
+		{
+			id: "62EA511DDD283F88"
+			item: {
+				count: 1
+				id: "minecraft:baked_potato"
+			}
+			random_bonus: 9
+			weight: 54.9f
+		}
+		{
+			id: "1DA10AB23E6E1989"
+			item: {
+				count: 1
+				id: "minecraft:golden_carrot"
+			}
+			random_bonus: 9
+			weight: 54.9f
+		}
+		{
+			count: 2
+			id: "3D0B201D981EA657"
+			item: {
+				components: {
+					"minecraft:suspicious_stew_effects": [{
+						duration: 7
+						id: "minecraft:saturation"
+					}]
+				}
+				count: 1
+				id: "minecraft:suspicious_stew"
+			}
+			random_bonus: 4
+			weight: 54.9f
+		}
+	]
+}

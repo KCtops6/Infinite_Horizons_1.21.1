@@ -1,0 +1,200 @@
+{
+	id: "39F9207FAB52028F"
+	loot_crate: {
+		color: 9657911
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "mineshaft"
+	}
+	loot_size: 1
+	order_index: 15
+	rewards: [
+		{
+			count: 4
+			id: "5FD254527DFAA500"
+			item: {
+				count: 1
+				id: "minecraft:rail"
+			}
+			random_bonus: 4
+			weight: 78.4f
+		}
+		{
+			id: "4B25081413BDDCA8"
+			item: {
+				count: 1
+				id: "minecraft:torch"
+			}
+			random_bonus: 15
+			weight: 65.7f
+		}
+		{
+			id: "7C5C252E5A70CD4B"
+			item: {
+				count: 1
+				id: "minecraft:name_tag"
+			}
+			weight: 42.3f
+		}
+		{
+			count: 3
+			id: "154D8841D76F09F2"
+			item: {
+				count: 1
+				id: "minecraft:glow_berries"
+			}
+			random_bonus: 3
+			weight: 38.7f
+		}
+		{
+			id: "5300E62C6A9065B1"
+			item: {
+				count: 1
+				id: "minecraft:bread"
+			}
+			random_bonus: 2
+			weight: 38.7f
+		}
+		{
+			id: "1CB0CA3D20B9ECFC"
+			item: {
+				count: 1
+				id: "minecraft:golden_apple"
+			}
+			weight: 28.2f
+		}
+		{
+			count: 3
+			id: "42848A89B58BED3D"
+			item: {
+				count: 1
+				id: "minecraft:coal"
+			}
+			random_bonus: 5
+			weight: 27.3f
+		}
+		{
+			count: 2
+			id: "0F6BDA24926D609D"
+			item: {
+				count: 1
+				id: "minecraft:beetroot_seeds"
+			}
+			random_bonus: 2
+			weight: 27.3f
+		}
+		{
+			count: 2
+			id: "278F4635260CD786"
+			item: {
+				count: 1
+				id: "minecraft:melon_seeds"
+			}
+			random_bonus: 2
+			weight: 27.3f
+		}
+		{
+			count: 2
+			id: "6F4CE1C9D7995A71"
+			item: {
+				count: 1
+				id: "minecraft:pumpkin_seeds"
+			}
+			random_bonus: 2
+			weight: 27.3f
+		}
+		{
+			id: "0126E998B287FE7F"
+			item: {
+				count: 1
+				id: "minecraft:iron_ingot"
+			}
+			random_bonus: 4
+			weight: 27.3f
+		}
+		{
+			id: "6090E5B0C1AC44EA"
+			item: {
+				count: 1
+				id: "minecraft:activator_rail"
+			}
+			random_bonus: 3
+			weight: 27.1f
+		}
+		{
+			id: "01547B4C507D4AFF"
+			item: {
+				count: 1
+				id: "minecraft:detector_rail"
+			}
+			random_bonus: 3
+			weight: 27.1f
+		}
+		{
+			id: "04D98576286CE19C"
+			item: {
+				count: 1
+				id: "minecraft:powered_rail"
+			}
+			random_bonus: 3
+			weight: 27.1f
+		}
+		{
+			count: 4
+			id: "55C32707EA2FF651"
+			item: {
+				count: 1
+				id: "minecraft:lapis_lazuli"
+			}
+			random_bonus: 5
+			weight: 14.5f
+		}
+		{
+			count: 4
+			id: "4F1D21D5BDCC9E4A"
+			item: {
+				count: 1
+				id: "minecraft:redstone"
+			}
+			random_bonus: 5
+			weight: 14.5f
+		}
+		{
+			id: "77153965E280D504"
+			item: {
+				count: 1
+				id: "minecraft:gold_ingot"
+			}
+			random_bonus: 2
+			weight: 14.5f
+		}
+		{
+			id: "10DF36F194B0D73D"
+			item: {
+				count: 1
+				id: "minecraft:diamond"
+			}
+			random_bonus: 1
+			weight: 8.9f
+		}
+		{
+			id: "413014776324E5D6"
+			item: {
+				count: 1
+				id: "minecraft:iron_pickaxe"
+			}
+			weight: 7.0f
+		}
+		{
+			id: "6DF7B28C4FF90453"
+			item: {
+				count: 1
+				id: "minecraft:enchanted_golden_apple"
+			}
+			weight: 1.4f
+		}
+	]
+}

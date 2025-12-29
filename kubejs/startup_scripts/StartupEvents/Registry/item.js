@@ -36,7 +36,7 @@ StartupEvents.registry('item', event => {
     })
     event.create('silicon').displayName('Silicon')
     global.gems.forEach(gem => {
-        event.create(`${gem}_gem`).displayName(`${gem}`)
+        event.create(`${gem}_gem`).displayName(`${capitalize(gem)}`)
     })
     global.gears.forEach(gear => {
         event.create(`${gear}_gear`).displayName(`${capitalize(gear)} Gear`)

@@ -40,6 +40,9 @@ ServerEvents.recipes(event => {
         Output.of('minecraft:redstone', 0.25),
         Output.of('minecraft:amethyst_shard', 0.125),
         Output.of('minecraft:raw_gold', 0.125),
+        Output.of('kubejs:raw_lead', 0.25),
+        Output.of('kubejs:raw_osmium', 0.125),
+        Output.of('kubejs:raw_silver', 0.25),
     ], 'kubejs:deepslate_gravel', 'kubejs:iron_mesh');
     event.recipes.createsifter.sifting([
         Output.of('minecraft:coal', 0.25),
@@ -49,6 +52,11 @@ ServerEvents.recipes(event => {
         Output.of('minecraft:diamond', 0.125),
         Output.of('minecraft:raw_iron', 0.125),
         Output.of('minecraft:raw_gold', 0.25),
+        Output.of('kubejs:raw_lead', 0.375),
+        Output.of('kubejs:raw_nickel', 0.125),
+        Output.of('kubejs:raw_osmium', 0.25),
+        Output.of('kubejs:raw_silver', 0.375),
+        Output.of('kubejs:raw_uranium', 0.125)
     ], 'kubejs:deepslate_gravel', 'createsifter:brass_mesh');
     event.recipes.createsifter.sifting([
         Output.of('minecraft:coal', 0.375),
@@ -59,6 +67,11 @@ ServerEvents.recipes(event => {
         Output.of('minecraft:raw_iron', 0.25),
         Output.of('minecraft:raw_copper', 0.125),
         Output.of('minecraft:raw_gold', 0.375),
+        Output.of('kubejs:raw_lead', 0.5),
+        Output.of('kubejs:raw_nickel', 0.25),
+        Output.of('kubejs:raw_osmium', 0.375),
+        Output.of('kubejs:raw_silver', 0.5),
+        Output.of('kubejs:raw_uranium', 0.25),
         Output.of('kubejs:peridot_gem', 0.125),
         Output.of('kubejs:ruby_gem', 0.125),
         Output.of('kubejs:sapphire_gem', 0.125)

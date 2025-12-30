@@ -24,7 +24,7 @@
 	quest.01AEEA186BB50BB0.quest_desc: ["The Nether Portal’s energy doesn’t just bring heat—it also alters stone into valuable resources. If you place Stone near an active portal, it will slowly transform into Nether Quartz Ore. Mine it to collect &lNether Quartz&r, an essential material for redstone components, decorative blocks, and more. Even without stepping into the Nether, you can still harness its unique resources!"]
 	quest.01AEEA186BB50BB0.quest_subtitle: "Harvesting Nether Quartz"
 	quest.01AEEA186BB50BB0.title: "Crystals of the Nether"
-	quest.03552227F62B6320.quest_desc: ["Breaking Cobbled Deepslate with an Iron Hammer or better produces &lDeepslate Gravel&r, a valuable material with the potential for rare finds. Sifting through it can yield rare items, making it an essential step for obtaining high-tier resources. The deeper you go, the greater the rewards!"]
+	quest.03552227F62B6320.quest_desc: [""]
 	quest.03552227F62B6320.quest_subtitle: "Deepslate Gravel Rewards"
 	quest.03552227F62B6320.title: "Sifting the Depths"
 	quest.0372C7453493CA18.quest_desc: ["The &lHoney Generator&r is a sweet upgrade, offering a more efficient power source that converts honey into energy. With a generation rate of 64 FE/t and a transfer rate of 512 FE/t, it consumes only 0.5 FE/t while drawing power from honey. This upgrade from the Culinary Generator provides a buffer capacity of 500,000 FE, ensuring that your energy needs are met with this naturally sweet solution!"]
@@ -42,7 +42,7 @@
 	quest.07B1B6C8502FD122.quest_desc: ["&lObsidian&r is a crucial material for various advanced crafts, including portals and reinforced tools. The easiest way to obtain it is by combining lava and water, but with the right automation, you can produce it efficiently. Whether you mine it manually or find a way to generate it passively, having a steady supply of Obsidian will open the path to greater possibilities!"]
 	quest.07B1B6C8502FD122.quest_subtitle: "Obtaining Obsidian"
 	quest.07B1B6C8502FD122.title: "Unbreakable Resolve"
-	quest.0886E9D3C195E26E.quest_desc: ["Lapis Lazuli is obtained by breaking deepslate gravel with an Iron Trowel or better. This valuable material is essential for enchanting and crafting magical items. Gather lapis to enhance your gear and unlock new crafting possibilities."]
+	quest.0886E9D3C195E26E.quest_desc: [""]
 	quest.0886E9D3C195E26E.quest_subtitle: "A Shimmering Resource"
 	quest.0886E9D3C195E26E.title: "Shards of Blue"
 	quest.08AA4A1FF88BADA2.quest_desc: ["The &lPotion Generator&r taps into the power of potions to generate energy. With a generation rate of 8 FE/t and a transfer rate of 512 FE/t, it consumes 1 FE/t, drawing its fuel from potions. This upgrade from the Culinary Generator provides a buffer capacity of 250,000 FE, allowing you to harness the magical energy of potions for your power needs."]
@@ -63,7 +63,7 @@
 	quest.102CBDC3FA5552DC.quest_desc: ["The &lIron Hammer&r is a direct upgrade from the Stone Hammer, allowing you to break tougher materials with ease. It is essential for processing Tuff into Tuff Gravel and is required to obtain Deepslate Gravel. With this tool in hand, you're ready to break through stronger stone and progress further!"]
 	quest.102CBDC3FA5552DC.quest_subtitle: "Upgrading to Iron"
 	quest.102CBDC3FA5552DC.title: "A Stronger Strike"
-	quest.11332A8490D1FD31.quest_desc: ["&lRedstone dust&r can be obtained by breaking deepslate gravel with an Iron Trowel or better. This essential material unlocks a world of possibilities, from circuits to automation. Start collecting redstone dust to enhance your creations and power your machines."]
+	quest.11332A8490D1FD31.quest_desc: [""]
 	quest.11332A8490D1FD31.quest_subtitle: "Harnessing the Power of Sparks"
 	quest.11332A8490D1FD31.title: "Essence of Redstone"
 	quest.1284CA2D49C1FE72.quest_desc: ["The intense heat of the furnace can burn away the souls trapped in Soul Sand, leaving behind solidified &lScoria&r. This dark, volcanic stone is perfect for building or crafting unique blocks. Toss some Soul Sand into a furnace and see what remains after the fire has done its work."]
@@ -114,7 +114,7 @@
 	quest.1DFAEDA158D3563B.quest_desc: ["The &lSoulium Dagger&r is a powerful tool used to fill Soul Jars by slaying the mob whose essence you wish to capture. Use the dagger to collect the soul of your target and store it in the jar, allowing you to craft Mystical Agriculture Mob Seeds for efficient farming of mob-based resources. This method allows for controlled resource gathering from mobs, enhancing your ability to progress in your journey."]
 	quest.1DFAEDA158D3563B.quest_subtitle: "The Power of the Soulium Dagger"
 	quest.1DFAEDA158D3563B.title: "Capturing Souls"
-	quest.20CEFFF2715407F7.quest_desc: ["By using an Iron Trowel or better on Deepslate Gravel, you have a chance to uncover &lDiamonds&r. These precious gems are crucial for crafting powerful tools, advanced machinery, and progressing further. If you need a steady supply, consider finding ways to automate the process or work toward Diamond Seeds in the future!"]
+	quest.20CEFFF2715407F7.quest_desc: [""]
 	quest.20CEFFF2715407F7.quest_subtitle: "Finding Diamonds"
 	quest.20CEFFF2715407F7.title: "Diamonds are Forever"
 	quest.21E2B653C69880FF.quest_desc: ["Fundamental crafting component in Mystical Agriculture."]

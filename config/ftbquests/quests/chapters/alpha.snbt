@@ -365,7 +365,7 @@
 			y: -2.0d
 		}
 		{
-			dependencies: ["7C75AE73B3CCD66E"]
+			dependencies: ["64DA461B29FC54FC"]
 			icon: {
 				id: "minecraft:copper_ingot"
 			}
@@ -391,8 +391,8 @@
 					type: "item"
 				}
 			]
-			x: 17.0d
-			y: -2.0d
+			x: 8.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["2AFC343E56D3BA1B"]
@@ -534,7 +534,6 @@
 			y: -4.0d
 		}
 		{
-			dependencies: ["3642E2D78B348AE3"]
 			id: "11332A8490D1FD31"
 			rewards: [{
 				id: "75C89FE922BF9829"
@@ -740,8 +739,8 @@
 				item: { count: 1, id: "minecraft:lightning_rod" }
 				type: "item"
 			}]
-			x: 18.0d
-			y: -2.0d
+			x: 8.0d
+			y: 4.0d
 		}
 		{
 			dependencies: ["28018BE994F02339"]
@@ -1208,7 +1207,7 @@
 			y: 8.0d
 		}
 		{
-			dependencies: ["4599C37835978122"]
+			dependencies: ["64DA461B29FC54FC"]
 			id: "19603D7BAE364AC6"
 			rewards: [{
 				id: "5E8E2951663E2694"
@@ -1918,6 +1917,46 @@
 			}]
 			x: 3.0d
 			y: 3.0d
+		}
+		{
+			dependencies: ["7E6FA6BACC7B007E"]
+			id: "495820200053C81A"
+			rewards: [{
+				id: "06716C370734A8D4"
+				item: {
+					count: 1
+					id: "minecraft:bone"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [{
+				id: "0DD13289AB425536"
+				item: { count: 1, id: "minecraft:bone" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["7E6FA6BACC7B007E"]
+			id: "78E29EADACD52670"
+			rewards: [{
+				id: "6594125FA8C7AE56"
+				item: {
+					count: 1
+					id: "minecraft:string"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [{
+				id: "7E329111382EE10A"
+				item: { count: 1, id: "minecraft:string" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 4.0d
 		}
 	]
 }

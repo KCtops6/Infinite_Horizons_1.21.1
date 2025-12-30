@@ -15,8 +15,8 @@
 		order: 1
 		rotation: 0.0d
 		width: 0.75d
-		x: 9.0d
-		y: -2.0d
+		x: 7.0d
+		y: -3.0d
 	}]
 	order_index: 2
 	quest_links: [ ]
@@ -235,7 +235,7 @@
 				item: { count: 1, id: "create:millstone" }
 				type: "item"
 			}]
-			x: 6.0d
+			x: 4.0d
 			y: 2.0d
 		}
 		{
@@ -373,8 +373,8 @@
 				item: { count: 1, id: "createsifter:sifter" }
 				type: "item"
 			}]
-			x: 4.0d
-			y: 2.0d
+			x: 7.0d
+			y: 3.0d
 		}
 		{
 			dependencies: [
@@ -473,17 +473,18 @@
 				type: "item"
 			}]
 			x: 12.0d
-			y: -6.0d
+			y: -2.0d
 		}
 		{
+			dependencies: ["64DA461B29FC54FC"]
 			id: "37A11322027C7509"
 			tasks: [{
 				id: "778487DCC45D367C"
 				item: { count: 1, id: "kubejs:zinc_ingot" }
 				type: "item"
 			}]
-			x: 12.0d
-			y: -5.0d
+			x: 11.0d
+			y: -1.0d
 		}
 		{
 			dependencies: [
@@ -538,7 +539,7 @@
 				type: "item"
 			}]
 			x: 14.0d
-			y: -6.0d
+			y: -2.0d
 		}
 		{
 			dependencies: ["28D064931756E6FF"]
@@ -590,7 +591,7 @@
 				type: "item"
 			}]
 			x: 16.0d
-			y: -4.0d
+			y: 0.0d
 		}
 		{
 			dependencies: [
@@ -662,7 +663,7 @@
 				}
 			]
 			x: 16.0d
-			y: -3.0d
+			y: 1.0d
 		}
 		{
 			dependencies: ["49BA6BED4D5EF537"]
@@ -723,7 +724,7 @@
 				type: "item"
 			}]
 			x: 18.0d
-			y: -6.0d
+			y: -2.0d
 		}
 		{
 			dependencies: [
@@ -737,7 +738,7 @@
 				type: "item"
 			}]
 			x: 18.0d
-			y: -8.0d
+			y: -4.0d
 		}
 		{
 			dependencies: ["1161BD7A3BA53123"]
@@ -748,10 +749,11 @@
 				type: "item"
 			}]
 			x: 19.0d
-			y: -7.0d
+			y: -3.0d
 		}
 		{
 			dependencies: ["579D7FD06F5DC4D7"]
+			hide_dependent_lines: true
 			id: "0866DAF8B5A928A7"
 			tasks: [{
 				id: "1A147CE76CE19FD9"
@@ -759,7 +761,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: -4.0d
+			y: -3.0d
 		}
 		{
 			dependencies: ["1B922950A7570482"]
@@ -856,7 +858,7 @@
 				type: "item"
 			}]
 			x: 14.0d
-			y: -4.0d
+			y: 0.0d
 		}
 		{
 			dependencies: [
@@ -920,11 +922,11 @@
 				item: { count: 1, id: "create:steam_engine" }
 				type: "item"
 			}]
-			x: 10.0d
-			y: 0.0d
+			x: 7.0d
+			y: -1.0d
 		}
 		{
-			dependencies: ["579D7FD06F5DC4D7"]
+			dependencies: ["6783BFDE6E6F147D"]
 			id: "34F88B08256546FB"
 			rewards: [
 				{
@@ -971,8 +973,8 @@
 				item: { count: 1, id: "create:fluid_tank" }
 				type: "item"
 			}]
-			x: 8.0d
-			y: 2.0d
+			x: 6.0d
+			y: -1.0d
 		}
 		{
 			dependencies: [
@@ -1026,8 +1028,8 @@
 				item: { count: 1, id: "create:fluid_pipe" }
 				type: "item"
 			}]
-			x: 6.0d
-			y: 0.0d
+			x: 5.0d
+			y: -1.0d
 		}
 		{
 			dependencies: ["6783BFDE6E6F147D"]
@@ -1077,7 +1079,7 @@
 				item: { count: 1, id: "create:mechanical_pump" }
 				type: "item"
 			}]
-			x: 8.0d
+			x: 6.0d
 			y: 0.0d
 		}
 		{
@@ -1119,7 +1121,7 @@
 				type: "item"
 			}]
 			x: 14.0d
-			y: -8.0d
+			y: -4.0d
 		}
 		{
 			dependencies: [
@@ -1174,7 +1176,7 @@
 				type: "item"
 			}]
 			x: 16.0d
-			y: -6.0d
+			y: -2.0d
 		}
 		{
 			dependencies: [
@@ -1229,7 +1231,7 @@
 				type: "item"
 			}]
 			x: 14.0d
-			y: -5.0d
+			y: -1.0d
 		}
 		{
 			dependencies: ["0257C2107FC7B356"]
@@ -1271,7 +1273,7 @@
 				type: "item"
 			}]
 			x: 18.0d
-			y: -4.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["4243B129B50170C2"]
@@ -1312,7 +1314,7 @@
 				type: "item"
 			}]
 			x: 19.0d
-			y: -4.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["14FAB5055BA9C3A1"]
@@ -1363,7 +1365,7 @@
 				}
 			]
 			x: 20.0d
-			y: -4.0d
+			y: 0.0d
 		}
 		{
 			dependencies: [
@@ -1376,8 +1378,8 @@
 				item: { count: 1, id: "createaddition:straw" }
 				type: "item"
 			}]
-			x: 6.0d
-			y: -4.0d
+			x: 8.0d
+			y: -3.0d
 		}
 		{
 			dependencies: ["6783BFDE6E6F147D"]
@@ -1387,8 +1389,8 @@
 				item: { count: 1, id: "create:fluid_valve" }
 				type: "item"
 			}]
-			x: 7.0d
-			y: -1.0d
+			x: 5.0d
+			y: 0.0d
 		}
 		{
 			dependencies: [
@@ -1403,7 +1405,7 @@
 				type: "item"
 			}]
 			x: 22.0d
-			y: -6.0d
+			y: -2.0d
 		}
 		{
 			dependencies: ["246E7273A1E9A735"]
@@ -1416,7 +1418,7 @@
 				type: "item"
 			}]
 			x: 12.25d
-			y: -6.75d
+			y: -2.75d
 		}
 		{
 			dependencies: ["246E7273A1E9A735"]
@@ -1429,7 +1431,7 @@
 				type: "item"
 			}]
 			x: 11.75d
-			y: -6.75d
+			y: -2.75d
 		}
 		{
 			dependencies: ["246E7273A1E9A735"]
@@ -1441,8 +1443,8 @@
 				item: { count: 1, id: "create:pulse_timer" }
 				type: "item"
 			}]
-			x: 11.25d
-			y: -6.5d
+			x: 12.0d
+			y: -3.25d
 		}
 		{
 			dependencies: ["40B3B159DE68602F"]
@@ -1453,7 +1455,7 @@
 				type: "item"
 			}]
 			x: 15.0d
-			y: -9.0d
+			y: -5.0d
 		}
 		{
 			dependencies: ["40B3B159DE68602F"]
@@ -1465,21 +1467,31 @@
 				type: "item"
 			}]
 			x: 14.0d
-			y: -9.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["170192578F1D5CA0"]
+			id: "64DA461B29FC54FC"
+			tasks: [{
+				id: "75D6ECA1EFF3FB64"
+				item: { count: 1, id: "kubejs:iron_mesh" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 2.0d
 		}
 		{
 			dependencies: [
+				"246E7273A1E9A735"
 				"170192578F1D5CA0"
-				"0866DAF8B5A928A7"
-				"5A382D145AA88DD9"
 			]
-			id: "4599C37835978122"
+			id: "0649CA1799A662D9"
 			tasks: [{
-				id: "503F6588A9595F0D"
-				item: { count: 1, id: "kubejs:copper_mesh" }
+				id: "2D6BF06C69EF2CB6"
+				item: { count: 1, id: "createsifter:brass_mesh" }
 				type: "item"
 			}]
-			x: 4.0d
+			x: 12.0d
 			y: 3.0d
 		}
 	]

@@ -8,6 +8,26 @@
 		id: "minecraft:trial_key"
 	}
 	id: "64FE7FCF6127CD6A"
+	images: [
+		{
+			click: "https://github.com/KCtops6/Infinite_Horizons_1.21.1/wiki/Trial-Spawners"
+			height: 0.75d
+			hover: ["Creating Trial Spawners"]
+			image: "minecraft:block/bookshelf"
+			rotation: 0.0d
+			width: 0.75d
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/trial_spawner_side_active"
+			rotation: 0.0d
+			width: 0.5d
+			x: 1.0d
+			y: 0.0d
+		}
+	]
 	order_index: 4
 	quest_links: [ ]
 	quests: [

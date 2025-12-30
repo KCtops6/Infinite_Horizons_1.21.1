@@ -7,17 +7,44 @@
 		id: "create:andesite_alloy"
 	}
 	id: "6B16A1E49845B379"
-	images: [{
-		click: "https://github.com/KCtops6/Infinite_Horizons_1.21.1/wiki/Obtaining-Blaze-Burner"
-		height: 0.75d
-		hover: ["Learn more about obtaining Blaze Burners!"]
-		image: "minecraft:item/book"
-		order: 1
-		rotation: 0.0d
-		width: 0.75d
-		x: 7.0d
-		y: -3.0d
-	}]
+	images: [
+		{
+			click: "https://github.com/KCtops6/Infinite_Horizons_1.21.1/wiki/Blaze-Burners"
+			height: 0.75d
+			hover: ["Obtaining Blaze Burners"]
+			image: "minecraft:block/bookshelf"
+			rotation: 0.0d
+			width: 0.75d
+			x: 8.0d
+			y: -1.0d
+		}
+		{
+			click: "https://github.com/KCtops6/Infinite_Horizons_1.21.1/wiki/Sifting"
+			height: 0.75d
+			hover: ["Using Create Sifting"]
+			image: "minecraft:block/bookshelf"
+			rotation: 0.0d
+			width: 0.75d
+			x: 7.0d
+			y: 2.0d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:textures/entity_icon/blaze.png"
+			rotation: 0.0d
+			width: 0.5d
+			x: 8.0d
+			y: -1.0d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/gravel"
+			rotation: 0.0d
+			width: 0.5d
+			x: 7.0d
+			y: 2.0d
+		}
+	]
 	order_index: 2
 	quest_links: [ ]
 	quests: [

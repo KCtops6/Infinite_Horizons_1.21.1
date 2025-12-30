@@ -24,9 +24,6 @@
 	quest.01AEEA186BB50BB0.quest_desc: ["The Nether Portal’s energy doesn’t just bring heat—it also alters stone into valuable resources. If you place Stone near an active portal, it will slowly transform into Nether Quartz Ore. Mine it to collect &lNether Quartz&r, an essential material for redstone components, decorative blocks, and more. Even without stepping into the Nether, you can still harness its unique resources!"]
 	quest.01AEEA186BB50BB0.quest_subtitle: "Harvesting Nether Quartz"
 	quest.01AEEA186BB50BB0.title: "Crystals of the Nether"
-	quest.03552227F62B6320.quest_desc: [""]
-	quest.03552227F62B6320.quest_subtitle: "Deepslate Gravel Rewards"
-	quest.03552227F62B6320.title: "Sifting the Depths"
 	quest.0372C7453493CA18.quest_desc: ["The &lHoney Generator&r is a sweet upgrade, offering a more efficient power source that converts honey into energy. With a generation rate of 64 FE/t and a transfer rate of 512 FE/t, it consumes only 0.5 FE/t while drawing power from honey. This upgrade from the Culinary Generator provides a buffer capacity of 500,000 FE, ensuring that your energy needs are met with this naturally sweet solution!"]
 	quest.0372C7453493CA18.quest_subtitle: "Upgrade to the Honey Generator"
 	quest.0372C7453493CA18.title: "Sweet Power"

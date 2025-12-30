@@ -29,6 +29,22 @@
 			x: 0.0d
 			y: -1.0d
 		}
+		{
+			height: 0.5d
+			image: "ftbquests:block/loot_crate_opener"
+			rotation: 0.0d
+			width: 0.5d
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			height: 0.5d
+			image: "kubejs:item/iron_trowel"
+			rotation: 0.0d
+			width: 0.5d
+			x: 6.0d
+			y: 1.0d
+		}
 	]
 	order_index: 0
 	quest_links: [ ]
@@ -460,41 +476,9 @@
 		}
 		{
 			dependencies: [
-				"102CBDC3FA5552DC"
+				"170192578F1D5CA0"
 				"35B8E383C14A9B9D"
 			]
-			id: "03552227F62B6320"
-			rewards: [
-				{
-					count: 3
-					id: "23A88BA42ABD25AA"
-					item: {
-						count: 1
-						id: "kubejs:deepslate_gravel"
-					}
-					random_bonus: 2
-					type: "item"
-				}
-				{
-					id: "077EC459D58E26D1"
-					item: {
-						count: 1
-						id: "farmersdelight:glow_berry_custard"
-					}
-					random_bonus: 2
-					type: "item"
-				}
-			]
-			tasks: [{
-				id: "6F1FD91115275812"
-				item: { count: 1, id: "kubejs:deepslate_gravel" }
-				type: "item"
-			}]
-			x: 13.0d
-			y: -6.0d
-		}
-		{
-			dependencies: ["03552227F62B6320"]
 			id: "20CEFFF2715407F7"
 			rewards: [{
 				id: "03EF5F8C4C906060"
@@ -534,6 +518,10 @@
 			y: -4.0d
 		}
 		{
+			dependencies: [
+				"170192578F1D5CA0"
+				"35B8E383C14A9B9D"
+			]
 			id: "11332A8490D1FD31"
 			rewards: [{
 				id: "75C89FE922BF9829"
@@ -550,10 +538,13 @@
 				type: "item"
 			}]
 			x: 13.0d
-			y: 2.0d
+			y: -6.0d
 		}
 		{
-			dependencies: ["03552227F62B6320"]
+			dependencies: [
+				"170192578F1D5CA0"
+				"35B8E383C14A9B9D"
+			]
 			id: "0886E9D3C195E26E"
 			rewards: [
 				{
@@ -606,8 +597,8 @@
 				item: { count: 1, id: "minecraft:crafter" }
 				type: "item"
 			}]
-			x: 12.0d
-			y: 3.0d
+			x: 13.0d
+			y: -7.0d
 		}
 		{
 			dependencies: [

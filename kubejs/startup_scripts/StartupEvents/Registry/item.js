@@ -19,7 +19,7 @@ StartupEvents.registry('item', event => {
     });
     const glowing_items = [ 'nether_key', 'end_key' ];
     glowing_items.forEach(id => {
-        event.create(id).displayName(formatName(id)).glow(true);
+        event.create(id).displayName(formatName(id)).glow(true).rarity('epic');
     });
     const capitalize = str => str.charAt(0).toUpperCase() + str.slice(1);
     global.dusts.forEach(dust => {

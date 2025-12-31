@@ -6,10 +6,10 @@ ServerEvents.recipes(event => {
         },
         ingredients: [
             {
-                item: "minecraft:obsidian"
+                item: 'minecraft:eye_armor_trim_smithing_template'
             },
             {
-                item: "minecraft:chorus_fruit"
+                item: 'minecraft:spire_armor_trim_smithing_template'
             },
             {
                 item: "minecraft:ghast_tear"
@@ -41,28 +41,28 @@ ServerEvents.recipes(event => {
         },
         ingredients: [
             {
-                item: "kubejs:infernal_matter"
+                item: 'minecraft:netherite_upgrade_smithing_template'
             },
             {
-                item: "kubejs:blazing_mechanism"
+                item: 'minecraft:snout_armor_trim_smithing_template'
             },
             {
-                item: "create:haunted_bell"
+                item: 'minecraft:rib_armor_trim_smithing_template'
             },
             {
-                item: "create:blaze_cake"
+                item: 'mysticalagriculture:soulium_gemstone'
             },
             {
-                item: "farmersdelight:nether_salad"
+                item: 'mysticalagriculture:soulium_gemstone'
             },
             {
                 item: "kubejs:nether_totem"
             },
             {
-                item: "minecraft:enchanted_golden_apple"
+                item: "create:blaze_cake"
             },
             {
-                item: "kubejs:piglin_forged_mechanism"
+                item: "create:haunted_bell"
             }
         ],
         result: {

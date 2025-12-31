@@ -16,16 +16,34 @@
 			image: "minecraft:block/bookshelf"
 			rotation: 0.0d
 			width: 0.75d
-			x: 1.0d
-			y: 0.0d
+			x: 0.0d
+			y: 1.0d
 		}
 		{
 			height: 0.5d
 			image: "minecraft:block/trial_spawner_side_active"
 			rotation: 0.0d
 			width: 0.5d
-			x: 1.0d
-			y: 0.0d
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			click: "https://github.com/KCtops6/Infinite_Horizons_1.21.1/wiki/Trial-Spawners"
+			height: 0.75d
+			hover: ["Creating Trial Vaults"]
+			image: "minecraft:block/bookshelf"
+			rotation: 0.0d
+			width: 0.75d
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/vault_front_ejecting"
+			rotation: 0.0d
+			width: 0.5d
+			x: 0.0d
+			y: -1.0d
 		}
 	]
 	order_index: 4
@@ -91,8 +109,8 @@
 		}
 		{
 			dependencies: [
-				"050E1CD8EE57035A"
 				"1E55E9E9E3B8ECEB"
+				"00F5A80404525056"
 			]
 			id: "680620315DCA63A9"
 			tasks: [{
@@ -100,8 +118,8 @@
 				item: { count: 1, id: "minecraft:flow_armor_trim_smithing_template" }
 				type: "item"
 			}]
-			x: 7.0d
-			y: 1.0d
+			x: 6.0d
+			y: 2.0d
 		}
 		{
 			dependencies: ["1E55E9E9E3B8ECEB"]
@@ -116,22 +134,7 @@
 			y: -3.0d
 		}
 		{
-			dependencies: ["00F5A80404525056"]
-			hide_dependent_lines: true
-			id: "050E1CD8EE57035A"
-			tasks: [{
-				id: "53D2DB241F42D9A9"
-				item: { count: 1, id: "minecraft:ominous_trial_key" }
-				type: "item"
-			}]
-			x: 6.0d
-			y: 2.0d
-		}
-		{
-			dependencies: [
-				"050E1CD8EE57035A"
-				"1E55E9E9E3B8ECEB"
-			]
+			dependencies: ["1E55E9E9E3B8ECEB"]
 			hide_dependency_lines: true
 			id: "0A5C7E518EC89BBD"
 			tasks: [{
@@ -345,8 +348,8 @@
 		}
 		{
 			dependencies: [
-				"050E1CD8EE57035A"
 				"1E55E9E9E3B8ECEB"
+				"00F5A80404525056"
 			]
 			id: "7B321615E5A4737C"
 			tasks: [{
@@ -354,19 +357,19 @@
 				item: { count: 1, id: "minecraft:music_disc_creator" }
 				type: "item"
 			}]
-			x: 7.0d
-			y: 2.0d
+			x: 6.0d
+			y: 3.0d
 		}
 		{
-			dependencies: ["050E1CD8EE57035A"]
+			dependencies: ["00F5A80404525056"]
 			id: "4F5A4A3DC46FB8A5"
 			tasks: [{
 				id: "32817E3BB0F7EB4C"
 				item: { count: 1, id: "minecraft:flow_banner_pattern" }
 				type: "item"
 			}]
-			x: 7.0d
-			y: 3.0d
+			x: 6.0d
+			y: 1.0d
 		}
 		{
 			dependencies: ["7DCD55B7E458CF00"]

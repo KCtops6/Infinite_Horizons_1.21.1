@@ -14,9 +14,4 @@ ServerEvents.recipes(event => {
     event.shapeless(Item.of('kubejs:infernal_matter', 1), [
         'create_deep_dark:sculk_flour', 'create:cinder_flour', 'minecraft:blaze_powder'
     ]).id('kubejs:infernal_matter');
-    event.shapeless(Item.of('kubejs:piglin_forged_mechanism', 1), [
-        'minecraft:snout_armor_trim_smithing_template', 
-        'create:precision_mechanism',
-        'minecraft:netherite_ingot'
-    ]).id('kubejs:piglin_forged_mechanism');
 });

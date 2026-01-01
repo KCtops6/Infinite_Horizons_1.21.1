@@ -69,19 +69,42 @@ BlockEvents.rightClicked('kubejs:dormant_trial_spawner', event => {
         targetMob = trial.ominousMob;
     }
     const nbt = {
-        trial_spawner_state: "active",
-        ominous: hasOminous,
-        target_cooldown_length: 6000,
+        // Current state of the block
+        base_spawner_state: "active", 
+        is_ominous: hasOminous ? 1 : 0,
+        target_cooldown_length: 6000, // 5 minutes in ticks
+        
+        // Configuration for normal mode
         normal_config: {
             spawn_potentials: [{
                 data: { entity: { id: targetMob } },
                 weight: 1
-            }]
+            }],
+            loot_tables_to_eject: [{
+                data: "minecraft:spawners/trial_chamber/key",
+                weight: 1
+            }],
+            simultaneous_monsters: 2.0,
+            total_mobs: 6.0,
+            ticks_between_spawn: 20
         },
-        LootTable: hasOminous ? "minecraft:trials/ominous/trial_spawner" : "minecraft:trials/trial_spawner"
+
+        // Configuration for ominous mode (required if hasOminous is true)
+        ominous_config: {
+            spawn_potentials: [{
+                data: { entity: { id: targetMob } }, // Usually a harder variant
+                weight: 1
+            }],
+            loot_tables_to_eject: [{
+                data: "minecraft:spawners/ominous/trial_chamber/key",
+                weight: 1
+            }],
+            simultaneous_monsters: 3.0,
+            total_mobs: 8.0,
+            ticks_between_spawn: 20
+        }
     };
     server.runCommandSilent(`setblock ${x} ${y} ${z} minecraft:trial_spawner${JSON.stringify(nbt)} replace`);
-    level.playSound(null, x, y, z, 'block.trial_spawner.detect_player', 'blocks', 1.0, 1.0);
     level.spawnParticles('minecraft:soul_fire_flame', true, x + 0.5, y + 0.5, z + 0.5, 0.5, 0.5, 0.5, 50, 0.1);
     item.count--;
     player.displayClientMessage(Text.gold(`The ritual is complete. Face the ${trial.mob}!`), true);

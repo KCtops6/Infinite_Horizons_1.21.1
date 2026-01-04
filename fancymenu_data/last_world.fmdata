@@ -1,7 +1,0 @@
-type = last_world
-
-last_world {
-  is_server = false
-  world = C:/CurseForge/Instances/1.21.1 - Infinite Horizons - Modded Superflat Survival/saves/New World
-}
-

@@ -13,4 +13,5 @@ To make sure the modpack is not too bloated and has mods you will never use, onl
 |[GregTech CEu Modern](https://www.curseforge.com/minecraft/mc-mods/gregtechceu-modern)*|gtceu-1.21.1-7.02|
 |[Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)|1.21.1-12.4.2-194|
 |[Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism), [Mekanism Additions](https://www.curseforge.com/minecraft/mc-mods/mekanism-additions), [Mekanism Generators](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators), and [Mekanism Tools](https://www.curseforge.com/minecraft/mc-mods/mekanism-tools)|1.21.1-10.7.17.83|
+
 *You need Configuration (configuration-neoforge-1.21.1-3.1.1) and LDLib (ldlib-neoforge-1.21.1-1.0.41) as well.

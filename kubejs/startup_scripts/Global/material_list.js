@@ -19,7 +19,8 @@ global.dusts = [
     'silver', 'steel', 'tin',
     'uranium', 'zinc'
 ];
-if (Platform.isLoaded('refinedstorage')) global.dusts.push('nether_quartz');
+if (Platform.isLoaded('refinedstorage')) global.dusts.push(
+    'nether_quartz', 'quartz_enriched_iron', 'quartz_enriched_copper');
 global.plates = [
     'aluminum', 'brass', 'bronze',
     'constantan', 'copper', 'electrum',

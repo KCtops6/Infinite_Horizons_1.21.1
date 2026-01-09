@@ -7,4 +7,8 @@ ServerEvents.recipes(event => {
             event.smelting(`kubejs:${ingot}_ingot`, `kubejs:${ingot}_dust`).xp(0.7);
         }
     });
+    if (Platform.isLoaded('refinedstorage')) {
+        event.smelting('refinedstorage:quartz_enriched_iron', 'kubejs:quartz_enriched_iron_dust');
+        event.smelting('refinedstorage:quartz_enriched_copper', 'kubejs:quartz_enriched_copper_dust');
+    }
 });

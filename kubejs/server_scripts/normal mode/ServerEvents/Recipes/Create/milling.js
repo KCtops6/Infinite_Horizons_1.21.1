@@ -51,5 +51,21 @@ ServerEvents.recipes(event => {
                 ]
             }).id(`kubejs:milling/${dust}_gem_to_${dust}_dust`);
         }
-    })
+    });
+    if (Platform.isLoaded('refinedstorage')) {
+        event.custom({
+            type: "create:milling",
+            ingredients: [
+                {
+                    item: 'minecraft:quartz'
+                }
+            ],
+            processing_time: 250,
+            results: [
+                {
+                    id: `kubejs:nether_quartz_dust`
+                }
+            ]
+        }).id('kubejs:milling/nether_quartz_dust');
+    }
 });

@@ -20,36 +20,20 @@ ServerEvents.recipes(event => {
         }).id(`kubejs:milling/${s}_to_${s}_gravel`);
     });
     global.dusts.forEach(dust => {
-        if (global.ingots.includes(dust)) {
-            event.custom({
-                type: "create:milling",
-                ingredients: [
-                    {
-                        tag: `c:ingots/${dust}`
-                    }
-                ],
-                processing_time: 250,
-                results: [
-                    {
-                        id: `kubejs:${dust}_dust`
-                    }
-                ]
-            }).id(`kubejs:milling/${dust}_ingot_to_${dust}_dust`);
+        let type = null;
+        let vanillaMaterials = ['iron', 'copper', 'gold', 'netherite'];
+        if (global.ingots.includes(dust) || vanillaMaterials.includes(dust)) {
+            type = 'ingots';
         } else if (global.gems.includes(dust)) {
+            type = 'gems';
+        }
+        if (type !== null) {
             event.custom({
                 type: "create:milling",
-                ingredients: [
-                    {
-                        tag: `c:gems/${dust}`
-                    }
-                ],
+                ingredients: [{ tag: `c:${type}/${dust}` }],
                 processing_time: 250,
-                results: [
-                    {
-                        id: `kubejs:${dust}_dust`
-                    }
-                ]
-            }).id(`kubejs:milling/${dust}_gem_to_${dust}_dust`);
+                results: [{ id: `kubejs:${dust}_dust` }]
+            }).id(`kubejs:milling/${dust}_to_dust`);
         }
     });
     if (Platform.isLoaded('refinedstorage')) {
@@ -67,5 +51,33 @@ ServerEvents.recipes(event => {
                 }
             ]
         }).id('kubejs:milling/nether_quartz_dust');
+        event.custom({
+            type: "create:milling",
+            ingredients: [
+                {
+                    item: 'refinedstorage:quartz_enriched_copper'
+                }
+            ],
+            processing_time: 250,
+            results: [
+                {
+                    id: `kubejs:quartz_enriched_copper_dust`
+                }
+            ]
+        }).id('kubejs:milling/quartz_enriched_copper_dust');
+        event.custom({
+            type: "create:milling",
+            ingredients: [
+                {
+                    item: 'refinedstorage:quartz_enriched_iron'
+                }
+            ],
+            processing_time: 250,
+            results: [
+                {
+                    id: `kubejs:quartz_enriched_iron_dust`
+                }
+            ]
+        }).id('kubejs:milling/quartz_enriched_iron_dust');
     }
 });

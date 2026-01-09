@@ -21,7 +21,7 @@ StartupEvents.registry('item', event => {
     glowing_items.forEach(id => {
         event.create(id).displayName(formatName(id)).glow(true).rarity('epic');
     });
-    const capitalize = str => str.charAt(0).toUpperCase() + str.slice(1);
+    const capitalize = str => str.split('_').map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' ');
     global.dusts.forEach(dust => {
         event.create(`${dust}_dust`).displayName(`${capitalize(dust)} Dust`);
     });

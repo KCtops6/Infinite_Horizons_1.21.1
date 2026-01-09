@@ -766,5 +766,20 @@
 			x: 0.0d
 			y: -3.0d
 		}
+		{
+			dependencies: [
+				"695E4E0F9551D449"
+				"07B1B6C8502FD122"
+				"174AD92AAE3A1FAF"
+			]
+			id: "4D3DA47EFEC3DDC6"
+			tasks: [{
+				id: "3C6E9FB9765DA0BD"
+				item: { count: 1, id: "minecraft:beacon" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -3.0d
+		}
 	]
 }

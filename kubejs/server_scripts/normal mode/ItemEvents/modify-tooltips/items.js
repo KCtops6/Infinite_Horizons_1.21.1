@@ -234,19 +234,6 @@ ItemEvents.modifyTooltips(event => {
             .append(Text.lightPurple('Iron Mesh').bold())
             .append(Text.darkPurple('.')));
     });
-
-    event.modify('minecraft:diamond', { shift: false }, tooltip => {
-        tooltip.insert(1, SHIFT_HINT);
-    });
-    event.modify('minecraft:diamond', { shift: true }, tooltip => {
-        tooltip.insert(1, Text.darkAqua('Obtained by sifting ')
-            .append(Text.aqua('Deepslate').bold()));
-        tooltip.insert(2, Text.darkPurple('You need at least a ')
-            .append(Text.lightPurple('Brass Mesh').bold())
-            .append(Text.darkPurple('.')));
-    });
-
-    // Helper for Deepslate Iron Mesh Metals (Lead, Silver, Osmium)
     ['kubejs:raw_lead', 'kubejs:raw_silver', 'kubejs:raw_osmium'].forEach(item => {
         event.modify(item, { shift: false }, tooltip => {
             tooltip.insert(1, SHIFT_HINT);

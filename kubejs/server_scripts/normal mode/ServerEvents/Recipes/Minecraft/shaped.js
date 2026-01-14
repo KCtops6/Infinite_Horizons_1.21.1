@@ -215,4 +215,12 @@ ServerEvents.recipes(event => {
     ], {
         I: 'minecraft:netherite_ingot'
     }).id('kubejs:netherite_bars');
+    event.shaped('kubejs:netherite_mesh', [
+        'SNS',
+        'NNN',
+        'SNS'
+    ], {
+        S: 'minecraft:stick',
+        N: 'minecraft:netherite_ingot'
+    }).id('kubejs:netherite_mesh');
 });

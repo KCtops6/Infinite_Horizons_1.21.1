@@ -1,17 +1,17 @@
 global.ingots = [
     'aluminum', 'brass', 'bronze',
-    'constantan', 'electrum', 'elementium', 'enderium',
+    'constantan', 'electrum', 'enderium',
     'infinitium', 'invar', 'lead',
-    'lumium', 'manasteel', 'nickel',
+    'lumium', 'nickel',
     'osmium', 'signalum', 'silver',
-    'steel', 'terrasteel',
+    'steel',
     'tin', 'uranium', 'zinc'
 ];
 global.dusts = [
     'aluminum', 'brass',
     'bronze',
     'constantan', 'copper',
-    'diamond', 'electrum', 'elementium',
+    'diamond', 'electrum',
     'enderium', 'gold', 'invar',
     'iron', 'lead',
     'lumium', 'netherite', 'nickel', 'niter',
@@ -19,16 +19,13 @@ global.dusts = [
     'silver', 'steel', 'tin',
     'uranium', 'zinc'
 ];
-if (Platform.isLoaded('refinedstorage')) global.dusts.push(
-    'nether_quartz', 'quartz_enriched_iron', 'quartz_enriched_copper');
 global.plates = [
     'aluminum', 'brass', 'bronze',
     'constantan', 'copper', 'electrum',
     'enderium', 'gold', 'infinitium',
     'invar', 'iron', 'lead',
-    'lumium', 'manasteel', 'netherite',
-    'nickel', 'signalum', 'silver', 'steel',
-    'terrasteel', 'tin', 'uranium', 'zinc'
+    'lumium', 'netherite',
+    'nickel', 'signalum', 'silver', 'steel', 'tin', 'uranium', 'zinc'
 ];
 global.gems = [
     'apatite', 'cinnabar', 'niter', 'peridot', 'ruby', 'sapphire', 'sulfur'
@@ -40,9 +37,9 @@ global.gears = [
 global.nuggets = [
     'aluminum', 'brass', 'bronze', 'constantan',
     'copper', 'electrum', 'enderium', 
-    'invar', 'lead', 'lumium', 'manasteel', 
+    'invar', 'lead', 'lumium', 
     'netherite', 'nickel', 'osmium',
-    'signalum', 'silver', 'steel', 'terrasteel',
+    'signalum', 'silver', 'steel',
     'tin', 'uranium', 'zinc'
 ];
 global.raw_ores = [
@@ -52,13 +49,12 @@ global.raw_ores = [
 global.blocks = [
     'aluminum', 'apatite', 'brass',
     'bronze', 'cinnabar', 'constantan',
-    'copper', 'electrum', 'elementium', 'enderium',
+    'copper', 'electrum', 'enderium',
     'gold', 'infinitium', 'invar',
-    'iron', 'lead', 'lumium',
-    'manasteel', 'nickel', 'niter',
+    'iron', 'lead', 'lumium', 'nickel', 'niter',
     'osmium', 'peridot', 'ruby', 'sapphire',
     'signalum', 'silver', 'steel',
-    'sulfur', 'terrasteel', 'tin',
+    'sulfur', 'tin',
     'uranium', 'zinc'
 ];
 global.raw_ore_blocks = [
@@ -73,3 +69,13 @@ global.nests = [
     'gravel', 'sugar_cane', 'slimy', 'glowstone', 'soul_sand', 'nether_quartz', 'nether_gold',
     'nether_brick', 'end_stone', 'obsidian', 'bumble_bee', 'sugarbag', 'warped_bee', 'crimson_bee'
 ]
+if (Platform.isLoaded('refinedstorage')) global.dusts.push(
+    'nether_quartz', 'quartz_enriched_iron', 'quartz_enriched_copper');
+if (Platform.isLoaded('botania')) {
+    global.blocks.push(
+        'elementium', 'manasteel', 'terrasteel');
+    global.dusts.push(
+        'elementium', 'manasteel', 'terrasteel');
+    global.ingots.push(
+        'elementium', 'manasteel', 'terrasteel');
+}

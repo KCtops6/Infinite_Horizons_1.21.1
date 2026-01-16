@@ -88,17 +88,20 @@ ServerEvents.recipes(event => {
     ], 'createsifter:crushed_netherrack', "createsifter:string_mesh");
     event.recipes.createsifter.sifting([
         Output.of('minecraft:raw_gold', 0.25),
-        Output.of('kubejs:sulfur_gem', 0.5)
+        Output.of('kubejs:sulfur_gem', 0.5),
+        Output.of('minecraft:glowstone_dust', 0.375)
     ], 'createsifter:crushed_netherrack', "kubejs:iron_mesh");
     event.recipes.createsifter.sifting([
         Output.of('minecraft:netherite_scrap', 0.125),
         Output.of('minecraft:raw_gold', 0.75),
-        Output.of('kubejs:sulfur_gem', 0.675)
+        Output.of('kubejs:sulfur_gem', 0.675),
+        Output.of('minecraft:glowstone_dust', 0.5)
     ], 'createsifter:crushed_netherrack', "createsifter:brass_mesh");
     event.recipes.createsifter.sifting([
         Output.of('minecraft:netherite_scrap', 0.25),
         Output.of('minecraft:raw_gold', 0.5),
         Output.of('kubejs:sulfur_gem', 0.75),
+        Output.of('minecraft:glowstone_dust', 0.625)
     ], 'createsifter:crushed_netherrack', "kubejs:netherite_mesh");
 
     event.recipes.createsifter.sifting([

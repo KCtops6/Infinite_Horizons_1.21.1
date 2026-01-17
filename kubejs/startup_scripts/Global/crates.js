@@ -18,13 +18,6 @@ global.crateConfig = [
         ]
     },
     {
-        crate: 'bastion_treasure',
-        rules: [
-            { mobs: ['piglin'],       chance: 0.125 },
-            { mobs: ['piglin_brute'], chance: 0.25 }
-        ]
-    },
-    {
         crate: 'bastion',
         rules: [
             { mobs: ['piglin'],       chance: 0.25 },

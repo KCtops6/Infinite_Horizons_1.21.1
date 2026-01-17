@@ -223,4 +223,12 @@ ServerEvents.recipes(event => {
         S: 'minecraft:stick',
         N: 'minecraft:netherite_ingot'
     }).id('kubejs:netherite_mesh');
+    event.shaped('create:spout', [
+        ' C ',
+        ' R ',
+        '   '
+    ], {
+        C: 'create:copper_casing',
+        R: 'kubejs:rubber_sheet'
+    }).id('create:spout/from_rubber');
 });

@@ -22,4 +22,7 @@ ServerEvents.recipes(event => {
     event.remove({ id: 'createaddition:crafting/electrum_ingot_from_nugget'});
     event.remove({ id: 'createsifter:crafting/sturdy_mesh'});
     event.remove({ id: 'createsifter:crafting/advanced_sturdy_mesh'});
+    global.raw_ores.forEach(i => {
+        event.remove({ id: `createsifter:shapeless/raw_${i}_piece`});
+    });
 });

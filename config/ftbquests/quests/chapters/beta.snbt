@@ -1431,8 +1431,8 @@
 				item: { count: 1, id: "create_deep_dark:echo_ingot" }
 				type: "item"
 			}]
-			x: 22.0d
-			y: -2.0d
+			x: 21.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["246E7273A1E9A735"]
@@ -1520,6 +1520,208 @@
 			}]
 			x: 12.0d
 			y: 3.0d
+		}
+		{
+			dependencies: ["4243B129B50170C2"]
+			id: "4404A9853AA777BE"
+			rewards: [
+				{
+					id: "0C2F1B7F7CBF5C77"
+					item: {
+						count: 1
+						id: "create:powdered_obsidian"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "3573B5310D371900"
+					item: {
+						count: 1
+						id: "minecraft:obsidian"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4EEB2B57AE3704BB"
+				item: { count: 1, id: "create:powdered_obsidian" }
+				type: "item"
+			}]
+			x: 18.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["4404A9853AA777BE"]
+			id: "44592EF320BEC424"
+			rewards: [
+				{
+					id: "117CA4BCAC808466"
+					item: {
+						count: 1
+						id: "create:sturdy_sheet"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "21730E98E2EC3733"
+					item: {
+						count: 1
+						id: "create:powdered_obsidian"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6DE6E4CAEDAA570C"
+				item: { count: 1, id: "create:sturdy_sheet" }
+				type: "item"
+			}]
+			x: 18.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["44592EF320BEC424"]
+			id: "590984120F0BFDB9"
+			tasks: [{
+				id: "5FF9A0D97BD8F843"
+				item: { count: 1, id: "create:schedule" }
+				type: "item"
+			}]
+			x: 17.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"44592EF320BEC424"
+				"40B3B159DE68602F"
+			]
+			hide_dependency_lines: true
+			id: "7E651C4506D7D7D5"
+			tasks: [{
+				id: "4BDEFA2200A75752"
+				item: { count: 1, id: "create:railway_casing" }
+				type: "item"
+			}]
+			x: 18.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"131CB918E3D68522"
+				"5BC99E3F6FACEAD8"
+			]
+			id: "3271573EB6A6CEF0"
+			tasks: [{
+				id: "1985FE5DF827D0DA"
+				item: { count: 1, id: "create_deep_dark:echo_upgrade_smithing_template" }
+				type: "item"
+			}]
+			x: 22.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3271573EB6A6CEF0"]
+			id: "2B88200D9A5C8B4A"
+			tasks: [{
+				id: "519F8BE01E31D704"
+				item: { count: 1, id: "create_deep_dark:echo_sword" }
+				type: "item"
+			}]
+			x: 22.0d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"3271573EB6A6CEF0"
+				"78C38D600E58159C"
+			]
+			id: "659683E9C8FB1471"
+			tasks: [{
+				id: "099DCF9ABEF082DF"
+				item: { count: 1, id: "create_deep_dark:echo_armor_helmet" }
+				type: "item"
+			}]
+			x: 22.0d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"3271573EB6A6CEF0"
+				"658399DB3AD1D28A"
+			]
+			id: "24FE242AC8C195D1"
+			tasks: [{
+				id: "3EE8E8C2EA81992A"
+				item: { count: 1, id: "create_deep_dark:echo_armor_chestplate" }
+				type: "item"
+			}]
+			x: 23.0d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"3271573EB6A6CEF0"
+				"0345CCEC59322E78"
+			]
+			id: "0340734DA7374FD6"
+			tasks: [{
+				id: "35B85D4CBA40778D"
+				item: { count: 1, id: "create_deep_dark:echo_armor_leggings" }
+				type: "item"
+			}]
+			x: 23.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"3271573EB6A6CEF0"
+				"551CC7E896138597"
+			]
+			id: "72EF21534979A08D"
+			tasks: [{
+				id: "55FF6910D464B460"
+				item: { count: 1, id: "create_deep_dark:echo_armor_boots" }
+				type: "item"
+			}]
+			x: 23.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["1B77644BEEAB24EB"]
+			icon: {
+				id: "create_deep_dark:echo_cake"
+			}
+			id: "4A5A806D0035B7FA"
+			tasks: [
+				{
+					id: "43BCDA2F7CC7A24C"
+					item: { count: 1, id: "create_deep_dark:echo_cake_base" }
+					type: "item"
+				}
+				{
+					id: "7550F5562360F510"
+					item: { count: 1, id: "create_deep_dark:echo_cake" }
+					type: "item"
+				}
+			]
+			x: 21.0d
+			y: -2.0d
+		}
+		{
+			id: "1B77644BEEAB24EB"
+			tasks: [{
+				id: "097F9944A7C14FFD"
+				item: { count: 1, id: "create_deep_dark:sculk_flour" }
+				type: "item"
+			}]
+			x: 20.0d
+			y: -2.0d
 		}
 	]
 }

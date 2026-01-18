@@ -15,6 +15,7 @@ ServerEvents.recipes(event => {
         Output.of('minecraft:raw_gold', 0.125),
         Output.of('create:raw_zinc', 0.375),
         Output.of('kubejs:raw_tin', 0.25),
+        Output.of('kubejs:raw_aluminum', 0.125),
         Output.of('kubejs:apatite_gem', 0.125),
         Output.of('kubejs:cinnabar_gem', 0.125),
         Output.of('kubejs:niter_gem', 0.125)
@@ -29,6 +30,7 @@ ServerEvents.recipes(event => {
         Output.of('minecraft:raw_gold', 0.25),
         Output.of('create:raw_zinc', 0.5),
         Output.of('kubejs:raw_tin', 0.375),
+        Output.of('kubejs:raw_aluminum', 0.25),
         Output.of('kubejs:apatite_gem', 0.25),
         Output.of('kubejs:cinnabar_gem', 0.25),
         Output.of('kubejs:niter_gem', 0.25)

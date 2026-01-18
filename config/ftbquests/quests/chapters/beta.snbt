@@ -1710,18 +1710,19 @@
 					type: "item"
 				}
 			]
-			x: 21.0d
-			y: -2.0d
+			x: 20.0d
+			y: -1.0d
 		}
 		{
+			dependencies: ["4243B129B50170C2"]
 			id: "1B77644BEEAB24EB"
 			tasks: [{
 				id: "097F9944A7C14FFD"
 				item: { count: 1, id: "create_deep_dark:sculk_flour" }
 				type: "item"
 			}]
-			x: 20.0d
-			y: -2.0d
+			x: 19.0d
+			y: -1.0d
 		}
 	]
 }

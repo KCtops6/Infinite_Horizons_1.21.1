@@ -472,7 +472,7 @@
 				type: "item"
 			}]
 			x: 13.0d
-			y: -2.0d
+			y: -1.0d
 		}
 		{
 			dependencies: [
@@ -1288,8 +1288,8 @@
 				item: { count: 1, id: "forestervillager:foresters_table" }
 				type: "item"
 			}]
-			x: 20.0d
-			y: 7.0d
+			x: 18.0d
+			y: 5.0d
 		}
 		{
 			dependencies: ["1037DA8CC7AAF5BD"]
@@ -1331,8 +1331,8 @@
 					type: "item"
 				}
 			]
-			x: 20.0d
-			y: 5.0d
+			x: 18.0d
+			y: 4.0d
 		}
 		{
 			dependencies: ["1037DA8CC7AAF5BD"]
@@ -1374,8 +1374,8 @@
 					type: "item"
 				}
 			]
-			x: 22.0d
-			y: 5.0d
+			x: 19.0d
+			y: 4.0d
 		}
 		{
 			dependencies: ["1037DA8CC7AAF5BD"]
@@ -1417,8 +1417,8 @@
 					type: "item"
 				}
 			]
-			x: 22.0d
-			y: 7.0d
+			x: 19.0d
+			y: 5.0d
 		}
 		{
 			dependencies: ["1037DA8CC7AAF5BD"]
@@ -1460,8 +1460,8 @@
 					type: "item"
 				}
 			]
-			x: 18.0d
-			y: 9.0d
+			x: 17.0d
+			y: 6.0d
 		}
 		{
 			dependencies: ["1037DA8CC7AAF5BD"]
@@ -1503,8 +1503,8 @@
 					type: "item"
 				}
 			]
-			x: 20.0d
-			y: 9.0d
+			x: 18.0d
+			y: 6.0d
 		}
 		{
 			dependencies: ["1037DA8CC7AAF5BD"]
@@ -1546,8 +1546,8 @@
 					type: "item"
 				}
 			]
-			x: 22.0d
-			y: 9.0d
+			x: 19.0d
+			y: 6.0d
 		}
 		{
 			dependencies: ["1037DA8CC7AAF5BD"]
@@ -1589,8 +1589,8 @@
 					type: "item"
 				}
 			]
-			x: 18.0d
-			y: 7.0d
+			x: 17.0d
+			y: 5.0d
 		}
 		{
 			dependencies: ["497252ADF991FABA"]

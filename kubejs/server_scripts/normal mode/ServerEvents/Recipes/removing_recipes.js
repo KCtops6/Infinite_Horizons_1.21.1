@@ -20,4 +20,6 @@ ServerEvents.recipes(event => {
     event.remove({ id: 'create:crafting/materials/zinc_ingot_from_compacting'});
     event.remove({ id: 'createaddition:crafting/electrum_ingot_from_electrum_block'});
     event.remove({ id: 'createaddition:crafting/electrum_ingot_from_nugget'});
+    event.remove({ id: 'createsifter:crafting/sturdy_mesh'});
+    event.remove({ id: 'createsifter:crafting/advanced_sturdy_mesh'});
 });

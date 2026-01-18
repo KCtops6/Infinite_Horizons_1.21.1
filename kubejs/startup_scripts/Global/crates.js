@@ -86,14 +86,14 @@ global.crateConfig = [
     },
     {
         crate: 'stronghold_altar',
-        rules: [ { mobs: ['silverfish'], chance: 0.25 }]
+        rules: [ { mobs: ['silverfish'], chance: 0.0625 }]
     },
     {
         crate: 'stronghold_storeroom',
-        rules: [ { mobs: ['silverfish'], chance: 0.5 }]
+        rules: [ { mobs: ['silverfish'], chance: 0.125 }]
     },
     {
         crate: 'stronghold_library',
-        rules: [ { mobs: ['silverfish'], chance: 0.125 }]
+        rules: [ { mobs: ['silverfish'], chance: 0.03125 }]
     }
 ];

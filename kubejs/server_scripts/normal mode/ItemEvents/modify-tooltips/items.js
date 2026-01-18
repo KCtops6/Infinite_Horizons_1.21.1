@@ -322,6 +322,17 @@ ItemEvents.modifyTooltips(event => {
             .append(Text.darkPurple('.')));
     });
 
+    event.modify('kubejs:raw_aluminum', { shift: false }, tooltip => {
+        tooltip.insert(1, SHIFT_HINT);
+    });
+    event.modify('kubejs:raw_aluminum', { shift: true }, tooltip => {
+        tooltip.insert(1, Text.darkAqua('Obtained by sifting ')
+            .append(Text.aqua('Gravel').bold()));
+        tooltip.insert(2, Text.darkPurple('You need at least a ')
+            .append(Text.lightPurple('Brass Mesh').bold())
+            .append(Text.darkPurple('.')));
+    });
+
     ['kubejs:peridot_gem', 'kubejs:ruby_gem', 'kubejs:sapphire_gem'].forEach(gem => {
         event.modify(gem, { shift: false }, tooltip => {
             tooltip.insert(1, SHIFT_HINT);

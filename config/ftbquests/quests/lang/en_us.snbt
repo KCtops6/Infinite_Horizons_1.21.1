@@ -36,7 +36,7 @@
 	quest.073087ED7AC745F3.quest_desc: ["The &lMechanical Mixer&r is an essential tool for combining ingredients into advanced recipes. Powered by rotational energy, it can mix materials like dough, alloys, and other compounds with ease. Set it up, power it with your existing energy source, and automate the mixing process for efficient crafting in your mechanical systems."]
 	quest.073087ED7AC745F3.quest_subtitle: "Crafting with Precision"
 	quest.073087ED7AC745F3.title: "Mixing Mastery"
-	quest.07B1B6C8502FD122.quest_desc: ["&lObsidian&r is a crucial material for various advanced crafts, including portals and reinforced tools. The easiest way to obtain it is by combining lava and water, but with the right automation, you can produce it efficiently. Whether you mine it manually or find a way to generate it passively, having a steady supply of Obsidian will open the path to greater possibilities!"]
+	quest.07B1B6C8502FD122.quest_desc: [""]
 	quest.07B1B6C8502FD122.quest_subtitle: "Obtaining Obsidian"
 	quest.07B1B6C8502FD122.title: "Unbreakable Resolve"
 	quest.0886E9D3C195E26E.quest_desc: [""]
@@ -176,15 +176,16 @@
 	quest.31950EF5E62EC10F.quest_desc: ["The natural flow of water can be transformed into rotational energy with a &lWater Wheel&r. Craft and place one near flowing water to generate power for your mechanical systems. This early energy source is key for automating tasks and building more complex machines. Use the power of the current to fuel your creations!"]
 	quest.31950EF5E62EC10F.quest_subtitle: "The Power of Water"
 	quest.31950EF5E62EC10F.title: "Harnessing the Current"
+	quest.3348BA67DB93A7A5.title: "Tuff"
 	quest.33FD237C4BEF8440.quest_desc: ["Use an Empty Blaze Burner on a Nether Portal (left-click) to reignite its core and obtain a Blaze Burner."]
 	quest.33FD237C4BEF8440.quest_subtitle: "Acquire a Blaze Burner"
 	quest.33FD237C4BEF8440.title: "Ignite the Flame"
 	quest.346117052F12664B.quest_desc: ["The &lIron Generator&r is an upgrade from the Copper Generator, doubling the generation rate to 16 FE/t and increasing the transfer rate to 64 FE/t. With a 10,000 FE internal buffer, it provides more consistent energy for your machines. It still runs on solid fuel and lacks a charge slot or 64x upgrade support, but it’s a solid choice for scaling up your power network. Upgrade from a Copper Generator or craft one from scratch."]
 	quest.346117052F12664B.quest_subtitle: "A stronger, more efficient generator"
 	quest.346117052F12664B.title: " Ironing Out Your Power"
-	quest.35B8E383C14A9B9D.quest_desc: ["To obtain &lCobbled Deepslate&r, you'll need to process &lTuff&r step by step. Breaking Tuff with a Stone Hammer or better turns it into &lTuff Gravel&r. Using an Iron Trowel or better on Tuff Gravel gives you &lDeepslate Pebbles&r, which can be crafted into Cobbled Deepslate by combining four of them. While this method works, crafting Deepslate Seeds will save you time and effort in the long run!"]
+	quest.35B8E383C14A9B9D.quest_desc: [""]
 	quest.35B8E383C14A9B9D.quest_subtitle: "Crafting Cobbled Deepslate"
-	quest.35B8E383C14A9B9D.title: "Into the Depths"
+	quest.35B8E383C14A9B9D.title: "Deepslate"
 	quest.362821657E098F7A.quest_desc: [
 		"Obtained by right clicking a &lhoney treat&r on a &lbone block&r."
 		""
@@ -281,6 +282,7 @@
 		"Best source of &oghast tears&r."
 	]
 	quest.4A1E5999C36E4743.title: "Ghostly Bee"
+	quest.4A5A806D0035B7FA.title: "Echo Cake"
 	quest.4A5F42E6E34A7926.quest_desc: ["You can obtain a water bee by simply right clicking a water bucket on a vanilla bee."]
 	quest.4BB559E512BBA041.title: "Crop Collecting"
 	quest.4C56D51BFE4C7920.quest_desc: ["Obtained by right clicking a &lhoney treat&r on &lcoarse dirt&r, &lgravel&r, or &lsand&r."]

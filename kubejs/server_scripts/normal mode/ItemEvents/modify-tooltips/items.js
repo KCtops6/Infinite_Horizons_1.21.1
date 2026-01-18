@@ -296,18 +296,32 @@ ItemEvents.modifyTooltips(event => {
             .append(Text.lightPurple('Iron Mesh').bold())
             .append(Text.darkPurple('.')));
     });
-    ['minecraft:diamond', 'mysticalagriculture:prosperity_shard'].forEach(item => {
-        event.modify(item, { shift: false }, tooltip => {
-            tooltip.insert(1, SHIFT_HINT);
-        });
-        event.modify(item, { shift: true }, tooltip => {
-            tooltip.insert(1, Text.darkAqua('Obtained by sifting ')
-                .append(Text.aqua('Deepslate').bold()));
-            tooltip.insert(2, Text.darkPurple('You need at least a ')
-                .append(Text.lightPurple('Brass Mesh').bold())
-                .append(Text.darkPurple('.')));
-        });
+
+    event.modify('minecraft:diamond', { shift: false }, tooltip => {
+        tooltip.insert(1, SHIFT_HINT);
     });
+    event.modify('minecraft:diamond', { shift: true }, tooltip => {
+        tooltip.insert(1, Text.darkAqua('Obtained by sifting ')
+            .append(Text.aqua('Deepslate').bold()));
+        tooltip.insert(2, Text.darkPurple('You need at least a ')
+            .append(Text.lightPurple('Brass Mesh').bold())
+            .append(Text.darkPurple('.')));
+        tooltip.insert(3, Text.darkGreen('Also obtained from ')
+            .append(Text.green('Loot Crates').bold())
+            .append(Text.darkGreen('.')));
+    });
+
+    event.modify('mysticalagriculture:prosperity_shard', { shift: false }, tooltip => {
+        tooltip.insert(1, SHIFT_HINT);
+    });
+    event.modify('mysticalagriculture:prosperity_shard', { shift: true }, tooltip => {
+        tooltip.insert(1, Text.darkAqua('Obtained by sifting ')
+            .append(Text.aqua('Deepslate').bold()));
+        tooltip.insert(2, Text.darkPurple('You need at least a ')
+            .append(Text.lightPurple('Brass Mesh').bold())
+            .append(Text.darkPurple('.')));
+    });
+
     ['kubejs:peridot_gem', 'kubejs:ruby_gem', 'kubejs:sapphire_gem'].forEach(gem => {
         event.modify(gem, { shift: false }, tooltip => {
             tooltip.insert(1, SHIFT_HINT);
@@ -319,6 +333,31 @@ ItemEvents.modifyTooltips(event => {
             tooltip.insert(2, Text.darkPurple('You need a ')
                 .append(Text.lightPurple('Netherite Mesh').bold())
                 .append(Text.darkPurple(' to find these rare gems.')));
+        });
+    });
+
+    [
+        'minecraft:netherite_upgrade_smithing_template', 
+        'minecraft:sentry_armor_trim_smithing_template', 
+        'minecraft:vex_armor_trim_smithing_template', 
+        'minecraft:wild_armor_trim_smithing_template', 
+        'minecraft:coast_armor_trim_smithing_template', 
+        'minecraft:dune_armor_trim_smithing_template', 
+        'minecraft:ward_armor_trim_smithing_template', 
+        'minecraft:ward_armor_trim_smithing_template', 
+        'minecraft:silence_armor_trim_smithing_template', 
+        'minecraft:snout_armor_trim_smithing_template', 
+        'minecraft:rib_armor_trim_smithing_template', 
+        'minecraft:eye_armor_trim_smithing_template', 
+        'minecraft:spire_armor_trim_smithing_template'
+    ].forEach(t => {
+        event.modify(t, { shift: false }, tooltip => {
+            tooltip.insert(1, SHIFT_HINT);
+        });
+        event.modify(t, { shift: true }, tooltip => {
+            tooltip.insert(1, Text.darkGreen('Obtained from ')
+                .append(Text.green('Loot Crates').bold())
+                .append(Text.darkGreen('.')));
         });
     });
 });

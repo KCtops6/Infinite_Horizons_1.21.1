@@ -371,4 +371,71 @@ ItemEvents.modifyTooltips(event => {
                 .append(Text.darkGreen('.')));
         });
     });
+
+    /**
+     * Mystical Agriculture Specific Drop Tooltips
+     */
+
+    // 1. Essence Tooltips: Specific Mob lists and Minimum Sword Requirements
+    const ESSENCE_DATA = [
+        {
+            id: 'mysticalagriculture:prudentium_essence',
+            minSword: 'Prudentium',
+            mobs: 'Pig, Chicken, Cow, Sheep, Squid, Fish, Slime, Turtle, or Armadillo'
+        },
+        {
+            id: 'mysticalagriculture:tertium_essence',
+            minSword: 'Tertium',
+            mobs: 'Zombie, Skeleton, Creeper, Spider, Phantom, or Rabbit'
+        },
+        {
+            id: 'mysticalagriculture:imperium_essence',
+            minSword: 'Imperium',
+            mobs: 'Breeze, Blaze, Ghast, or Enderman'
+        },
+        {
+            id: 'mysticalagriculture:supremium_essence',
+            minSword: 'Supremium',
+            mobs: 'Wither Skeletons'
+        },
+        {
+            id: 'mysticalagradditions:insanium_essence',
+            minSword: 'Awakened Supremium',
+            mobs: 'The Wither or Ender Dragon'
+        }
+    ];
+
+    ESSENCE_DATA.forEach(essence => {
+        addShiftTooltip(event, essence.id, [
+            Text.lightPurple('Drops from: ')
+                .append(Text.darkPurple(essence.mobs).bold()),
+            Text.green('Requires: ')
+                .append(Text.darkGreen(`${essence.minSword} Sword`).bold())
+                .append(Text.green(' or better.'))
+        ]);
+    });
+
+    const SWORD_TIERS = [
+        { id: 'prudentium', drops: ['Prudentium'] },
+        { id: 'tertium', drops: ['Prudentium', 'Tertium'] },
+        { id: 'imperium', drops: ['Prudentium', 'Tertium', 'Imperium'] },
+        { id: 'supremium', drops: ['Prudentium', 'Tertium', 'Imperium', 'Supremium'] },
+        { id: 'awakened_supremium', drops: ['Prudentium', 'Tertium', 'Imperium', 'Supremium', 'Insanium'] }
+    ];
+
+    SWORD_TIERS.forEach(tier => {
+        const swordId = `mysticalagriculture:${tier.id}_sword`;
+        
+        event.modify(swordId, { shift: false }, tooltip => {
+            tooltip.insert(1, SHIFT_HINT);
+        });
+
+        event.modify(swordId, { shift: true }, tooltip => {
+            tooltip.insert(1, Text.gold("Allows drops for:").bold());
+            tier.drops.forEach((essenceName, index) => {
+                tooltip.insert(2 + index, Text.green(`- ${essenceName} Essence`));
+            });
+            tooltip.insert(2 + tier.drops.length, Text.gray("Note: Replaces standard Inferium drops."));
+        });
+    });
 });

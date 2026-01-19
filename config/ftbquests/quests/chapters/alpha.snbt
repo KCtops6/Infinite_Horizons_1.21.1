@@ -294,7 +294,7 @@
 				type: "item"
 			}]
 			x: 10.0d
-			y: 5.0d
+			y: 7.0d
 		}
 		{
 			dependencies: ["2271A8EDA3C7F64C"]
@@ -314,7 +314,7 @@
 				type: "item"
 			}]
 			x: 10.0d
-			y: 7.0d
+			y: 9.0d
 		}
 		{
 			dependencies: ["3642E2D78B348AE3"]
@@ -381,7 +381,10 @@
 			y: -2.0d
 		}
 		{
-			dependencies: ["64DA461B29FC54FC"]
+			dependencies: [
+				"64DA461B29FC54FC"
+				"528AC4A13D35951B"
+			]
 			icon: {
 				id: "minecraft:copper_ingot"
 			}
@@ -395,20 +398,13 @@
 				random_bonus: 2
 				type: "item"
 			}]
-			tasks: [
-				{
-					id: "64F44EBB9305343B"
-					item: { count: 1, id: "create:crushed_raw_copper" }
-					type: "item"
-				}
-				{
-					id: "612FB13AED21863E"
-					item: { count: 1, id: "minecraft:copper_ingot" }
-					type: "item"
-				}
-			]
-			x: 8.0d
-			y: 3.0d
+			tasks: [{
+				id: "612FB13AED21863E"
+				item: { count: 1, id: "minecraft:copper_ingot" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 4.0d
 		}
 		{
 			dependencies: ["2AFC343E56D3BA1B"]
@@ -460,8 +456,8 @@
 					type: "item"
 				}
 			]
-			x: 15.0d
-			y: -4.0d
+			x: 17.0d
+			y: -2.0d
 		}
 		{
 			dependencies: ["3642E2D78B348AE3"]
@@ -494,8 +490,8 @@
 				item: { count: 1, id: "minecraft:diamond" }
 				type: "item"
 			}]
-			x: 17.0d
-			y: -4.0d
+			x: 19.0d
+			y: -2.0d
 		}
 		{
 			dependencies: ["7E6FA6BACC7B007E"]
@@ -515,12 +511,12 @@
 				type: "item"
 			}]
 			x: 19.0d
-			y: -2.0d
+			y: -4.0d
 		}
 		{
 			dependencies: [
 				"170192578F1D5CA0"
-				"35B8E383C14A9B9D"
+				"528AC4A13D35951B"
 			]
 			id: "11332A8490D1FD31"
 			rewards: [{
@@ -537,15 +533,14 @@
 				item: { count: 1, id: "minecraft:redstone" }
 				type: "item"
 			}]
-			x: 15.0d
-			y: -6.0d
+			x: 12.0d
+			y: 5.0d
 		}
 		{
 			dependencies: [
 				"170192578F1D5CA0"
 				"528AC4A13D35951B"
 			]
-			hide_dependency_lines: true
 			id: "0886E9D3C195E26E"
 			rewards: [
 				{
@@ -572,13 +567,12 @@
 				item: { count: 1, id: "minecraft:lapis_lazuli" }
 				type: "item"
 			}]
-			x: 19.0d
-			y: -6.0d
+			x: 13.0d
+			y: 3.0d
 		}
 		{
 			dependencies: [
 				"07B1B6C8502FD122"
-				"0886E9D3C195E26E"
 				"20CEFFF2715407F7"
 			]
 			id: "1BEB220EF0DCE259"
@@ -587,8 +581,8 @@
 				item: { count: 1, id: "minecraft:enchanting_table" }
 				type: "item"
 			}]
-			x: 19.0d
-			y: -4.0d
+			x: 21.0d
+			y: -2.0d
 		}
 		{
 			dependencies: ["11332A8490D1FD31"]
@@ -598,8 +592,8 @@
 				item: { count: 1, id: "minecraft:crafter" }
 				type: "item"
 			}]
-			x: 15.0d
-			y: -7.0d
+			x: 13.0d
+			y: 5.0d
 		}
 		{
 			dependencies: [
@@ -607,6 +601,7 @@
 				"215396364C37E4C1"
 				"0886E9D3C195E26E"
 			]
+			hide_dependency_lines: false
 			id: "2BA93DCA9442D7E9"
 			tasks: [
 				{
@@ -620,8 +615,8 @@
 					type: "item"
 				}
 			]
-			x: 19.0d
-			y: -8.0d
+			x: 14.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["170192578F1D5CA0"]
@@ -631,8 +626,8 @@
 				item: { count: 1, id: "minecraft:nautilus_shell" }
 				type: "item"
 			}]
-			x: 21.0d
-			y: -4.0d
+			x: 13.0d
+			y: -3.0d
 		}
 		{
 			dependencies: ["389417B265BC9BCB"]
@@ -642,8 +637,8 @@
 				item: { count: 1, id: "minecraft:heart_of_the_sea" }
 				type: "item"
 			}]
-			x: 21.0d
-			y: -5.0d
+			x: 13.0d
+			y: -4.0d
 		}
 		{
 			dependencies: ["60A8C196D02E31BA"]
@@ -653,8 +648,8 @@
 				item: { count: 1, id: "minecraft:conduit" }
 				type: "item"
 			}]
-			x: 21.0d
-			y: -6.0d
+			x: 13.0d
+			y: -5.0d
 		}
 		{
 			dependencies: [
@@ -668,7 +663,7 @@
 				type: "item"
 			}]
 			x: 8.0d
-			y: 7.0d
+			y: 9.0d
 		}
 		{
 			dependencies: ["2271A8EDA3C7F64C"]
@@ -679,7 +674,7 @@
 				type: "item"
 			}]
 			x: 12.0d
-			y: 7.0d
+			y: 9.0d
 		}
 		{
 			dependencies: ["40B85C791F3753C2"]
@@ -690,7 +685,7 @@
 				type: "item"
 			}]
 			x: 12.0d
-			y: 8.0d
+			y: 10.0d
 		}
 		{
 			dependencies: ["2204AA3E838C4962"]
@@ -1052,8 +1047,8 @@
 				item: { count: 1, id: "minecraft:sea_lantern" }
 				type: "item"
 			}]
-			x: 19.0d
-			y: -9.0d
+			x: 15.0d
+			y: 4.0d
 		}
 		{
 			dependencies: ["57401F4BD3952C56"]
@@ -1197,10 +1192,13 @@
 				type: "item"
 			}]
 			x: 10.0d
-			y: 8.0d
+			y: 10.0d
 		}
 		{
-			dependencies: ["64DA461B29FC54FC"]
+			dependencies: [
+				"64DA461B29FC54FC"
+				"528AC4A13D35951B"
+			]
 			id: "19603D7BAE364AC6"
 			rewards: [{
 				id: "5E8E2951663E2694"
@@ -1216,7 +1214,7 @@
 				item: { count: 1, id: "minecraft:coal" }
 				type: "item"
 			}]
-			x: 7.0d
+			x: 9.0d
 			y: 3.0d
 		}
 		{
@@ -1687,7 +1685,7 @@
 				type: "item"
 			}]
 			x: 11.0d
-			y: 5.0d
+			y: 7.0d
 		}
 		{
 			dependencies: ["04410D3CF8C6FA7D"]
@@ -1701,7 +1699,7 @@
 				type: "item"
 			}]
 			x: 12.0d
-			y: 5.0d
+			y: 7.0d
 		}
 		{
 			dependencies: ["62DBB6855DF2639C"]
@@ -1978,8 +1976,8 @@
 					type: "item"
 				}
 			]
-			x: 14.0d
-			y: -4.0d
+			x: 17.0d
+			y: -3.0d
 		}
 	]
 }

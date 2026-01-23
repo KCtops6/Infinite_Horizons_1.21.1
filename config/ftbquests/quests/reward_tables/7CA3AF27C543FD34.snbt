@@ -1,0 +1,124 @@
+{
+	id: "7CA3AF27C543FD34"
+	loot_crate: {
+		color: 19968
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "jungle_pyramid"
+	}
+	loot_size: 1
+	order_index: 8
+	rewards: [
+		{
+			count: 4
+			id: "266BB31DD28D0A83"
+			item: {
+				count: 1
+				id: "minecraft:bone"
+			}
+			random_bonus: 2
+			weight: 61.5f
+		}
+		{
+			count: 3
+			id: "3FAAACEE2E5ADE8E"
+			item: {
+				count: 1
+				id: "minecraft:rotten_flesh"
+			}
+			random_bonus: 4
+			weight: 52.9f
+		}
+		{
+			count: 2
+			id: "2640EB18BE2BFD70"
+			item: {
+				count: 1
+				id: "minecraft:gold_ingot"
+			}
+			random_bonus: 5
+			weight: 50.6f
+		}
+		{
+			id: "1EDFF25F1B0C5CEA"
+			item: {
+				count: 1
+				id: "minecraft:bamboo"
+			}
+			random_bonus: 2
+			weight: 50.6f
+		}
+		{
+			id: "3244FB3C5A5B587F"
+			item: {
+				count: 1
+				id: "minecraft:iron_ingot"
+			}
+			random_bonus: 4
+			weight: 37.0f
+		}
+		{
+			count: 2
+			id: "00206A2B27B2DEE8"
+			item: {
+				count: 1
+				id: "minecraft:wild_armor_trim_smithing_template"
+			}
+			weight: 33.3f
+		}
+		{
+			id: "2F837156FE14A79D"
+			item: {
+				count: 1
+				id: "minecraft:leather"
+			}
+			random_bonus: 4
+			weight: 12.7f
+		}
+		{
+			id: "762B081ACCC2A319"
+			item: {
+				count: 1
+				id: "minecraft:diamond"
+			}
+			random_bonus: 2
+			weight: 12.7f
+		}
+		{
+			id: "1C00A39638BEF638"
+			item: {
+				count: 1
+				id: "minecraft:emerald"
+			}
+			random_bonus: 2
+			weight: 8.6f
+		}
+		{
+			id: "5E7E82D73571C8A1"
+			item: {
+				count: 1
+				id: "minecraft:iron_horse_armor"
+			}
+			weight: 4.4f
+		}
+		{
+			id: "5E4A53B91FAAA759"
+			item: {
+				count: 1
+				id: "minecraft:golden_horse_armor"
+			}
+			weight: 4.4f
+		}
+		{
+			id: "44495935429EBC9C"
+			item: {
+				count: 1
+				id: "minecraft:diamond_horse_armor"
+			}
+			weight: 4.4f
+		}
+	]
+}

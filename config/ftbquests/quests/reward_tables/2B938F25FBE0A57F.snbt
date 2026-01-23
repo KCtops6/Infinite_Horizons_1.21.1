@@ -1,0 +1,128 @@
+{
+	id: "2B938F25FBE0A57F"
+	loot_crate: {
+		color: 43690
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "buried_treasure"
+	}
+	loot_size: 1
+	order_index: 13
+	rewards: [
+		{
+			id: "670E886572A6F8B9"
+			item: {
+				count: 1
+				id: "minecraft:heart_of_the_sea"
+			}
+			weight: 100.0f
+		}
+		{
+			id: "5805C664D23FB676"
+			item: {
+				count: 1
+				id: "minecraft:iron_ingot"
+			}
+			random_bonus: 3
+			weight: 99.4f
+		}
+		{
+			id: "4915D18660906DDB"
+			item: {
+				count: 1
+				id: "minecraft:gold_ingot"
+			}
+			random_bonus: 3
+			weight: 88.0f
+		}
+		{
+			count: 2
+			id: "184FFB28D043DB2D"
+			item: {
+				count: 1
+				id: "minecraft:cooked_cod"
+			}
+			random_bonus: 2
+			weight: 75.0f
+		}
+		{
+			count: 2
+			id: "1E36E2F3D1A7D14C"
+			item: {
+				count: 1
+				id: "minecraft:cooked_salmon"
+			}
+			random_bonus: 2
+			weight: 75.0f
+		}
+		{
+			id: "3CFE5A9FBABEECC3"
+			item: {
+				components: {
+					"minecraft:potion_contents": {
+						potion: "minecraft:water_breathing"
+					}
+				}
+				count: 1
+				id: "minecraft:potion"
+			}
+			weight: 66.7f
+		}
+		{
+			id: "5EE6C6AC0E940421"
+			item: {
+				count: 1
+				id: "minecraft:tnt"
+			}
+			random_bonus: 1
+			weight: 62.7f
+		}
+		{
+			count: 4
+			id: "6ACE76A3C088E6C6"
+			item: {
+				count: 1
+				id: "minecraft:emerald"
+			}
+			random_bonus: 4
+			weight: 59.9f
+		}
+		{
+			id: "286C13B93ED74351"
+			item: {
+				count: 1
+				id: "minecraft:prismarine_crystals"
+			}
+			random_bonus: 4
+			weight: 59.9f
+		}
+		{
+			id: "72443C79437C69E7"
+			item: {
+				count: 1
+				id: "minecraft:diamond"
+			}
+			random_bonus: 1
+			weight: 59.9f
+		}
+		{
+			id: "34AB1A23F430639E"
+			item: {
+				count: 1
+				id: "minecraft:leather_chestplate"
+			}
+			weight: 16.7f
+		}
+		{
+			id: "25CF5C0DC6CFA340"
+			item: {
+				count: 1
+				id: "minecraft:iron_sword"
+			}
+			weight: 16.7f
+		}
+	]
+}

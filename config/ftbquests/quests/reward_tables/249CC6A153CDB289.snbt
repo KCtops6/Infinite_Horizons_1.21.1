@@ -1,0 +1,95 @@
+{
+	id: "249CC6A153CDB289"
+	loot_crate: {
+		color: 43690
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "shipwreck_treasure"
+	}
+	loot_size: 1
+	order_index: 17
+	rewards: [
+		{
+			id: "74017EFB6B5420A3"
+			item: {
+				count: 1
+				id: "minecraft:iron_ingot"
+			}
+			random_bonus: 4
+			weight: 97.4f
+		}
+		{
+			id: "2767064B0A7A8CCD"
+			item: {
+				count: 1
+				id: "minecraft:iron_nugget"
+			}
+			random_bonus: 9
+			weight: 94.5f
+		}
+		{
+			id: "5B3447239AB43A7D"
+			item: {
+				count: 1
+				id: "minecraft:emerald"
+			}
+			random_bonus: 4
+			weight: 73.7f
+		}
+		{
+			id: "01E994A1E218327E"
+			item: {
+				count: 1
+				id: "minecraft:lapis_lazuli"
+			}
+			random_bonus: 9
+			weight: 61.5f
+		}
+		{
+			id: "573EBC6CEC6795E6"
+			item: {
+				count: 1
+				id: "minecraft:gold_nugget"
+			}
+			random_bonus: 9
+			weight: 36.6f
+		}
+		{
+			id: "1C4CF1A3EB84DE02"
+			item: {
+				count: 1
+				id: "minecraft:gold_ingot"
+			}
+			random_bonus: 4
+			weight: 26.5f
+		}
+		{
+			count: 2
+			id: "5A7C85894862D4CB"
+			item: {
+				count: 1
+				id: "minecraft:coast_armor_trim_smithing_template"
+			}
+			weight: 16.7f
+		}
+		{
+			id: "5BF57616AA62B3E6"
+			item: {
+				count: 1
+				id: "minecraft:experience_bottle"
+			}
+			weight: 14.1f
+		}
+		{
+			id: "31B4DDD7026C72AE"
+			item: {
+				count: 1
+				id: "minecraft:diamond"
+			}
+			weight: 14.1f
+		}
+	]
+}

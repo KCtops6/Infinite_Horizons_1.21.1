@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "render_type": "cutout",
+  "textures": { 
+    "up": "kubejs:block/dormant_trial_spawner_top", 
+    "down": "kubejs:block/dormant_trial_spawner_bottom", 
+    "north": "kubejs:block/dormant_trial_spawner_side", 
+    "south": "kubejs:block/dormant_trial_spawner_side", 
+    "west": "kubejs:block/dormant_trial_spawner_side", 
+    "east": "kubejs:block/dormant_trial_spawner_side" 
+  } 
+}

@@ -1,0 +1,218 @@
+{
+	id: "1BB1DCEB3ADCCD34"
+	loot_crate: {
+		color: 11141290
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "end_city"
+	}
+	loot_size: 9
+	order_index: 0
+	rewards: [
+		{
+			count: 2
+			id: "1529E43B65BB0B0F"
+			item: {
+				count: 1
+				id: "minecraft:gold_ingot"
+			}
+			random_bonus: 5
+			weight: 0.1764706f
+		}
+		{
+			count: 4
+			id: "3534954432B7495D"
+			item: {
+				count: 1
+				id: "minecraft:iron_ingot"
+			}
+			random_bonus: 4
+			weight: 0.11764706f
+		}
+		{
+			id: "0E83B7985EBD0559"
+			item: {
+				count: 1
+				id: "minecraft:beetroot_seeds"
+			}
+			random_bonus: 9
+			weight: 0.05882353f
+		}
+		{
+			count: 2
+			id: "25825CC857894856"
+			item: {
+				count: 1
+				id: "minecraft:diamond"
+			}
+			random_bonus: 5
+			weight: 0.05882353f
+		}
+		{
+			id: "44A05C79E9D8260C"
+			item: {
+				count: 1
+				id: "minecraft:saddle"
+			}
+			weight: 0.03529412f
+		}
+		{
+			id: "431D41401763EE0E"
+			item: {
+				count: 1
+				id: "minecraft:iron_pickaxe"
+			}
+			weight: 0.03529412f
+		}
+		{
+			id: "56F98DBC48C2FE2C"
+			item: {
+				count: 1
+				id: "minecraft:iron_shovel"
+			}
+			weight: 0.03529412f
+		}
+		{
+			id: "7BB8E3C9EDAB05D1"
+			item: {
+				count: 1
+				id: "minecraft:iron_sword"
+			}
+			weight: 0.03529412f
+		}
+		{
+			id: "4159CC870EF3908B"
+			item: {
+				count: 1
+				id: "minecraft:iron_helmet"
+			}
+			weight: 0.03529412f
+		}
+		{
+			id: "40DBD47F5045D7CF"
+			item: {
+				count: 1
+				id: "minecraft:iron_chestplate"
+			}
+			weight: 0.03529412f
+		}
+		{
+			id: "1F49C06289109717"
+			item: {
+				count: 1
+				id: "minecraft:iron_leggings"
+			}
+			weight: 0.03529412f
+		}
+		{
+			id: "49084BBA07DAF7A4"
+			item: {
+				count: 1
+				id: "minecraft:iron_boots"
+			}
+			weight: 0.03529412f
+		}
+		{
+			id: "51FC88DD6332C36B"
+			item: {
+				count: 1
+				id: "minecraft:diamond_shovel"
+			}
+			weight: 0.03529412f
+		}
+		{
+			id: "083C1B4350111A61"
+			item: {
+				count: 1
+				id: "minecraft:diamond_pickaxe"
+			}
+			weight: 0.03529412f
+		}
+		{
+			id: "1DF5C7BD1949B2E2"
+			item: {
+				count: 1
+				id: "minecraft:diamond_sword"
+			}
+			weight: 0.03529412f
+		}
+		{
+			id: "6541475342C087FA"
+			item: {
+				count: 1
+				id: "minecraft:diamond_helmet"
+			}
+			weight: 0.03529412f
+		}
+		{
+			id: "4EABEFAFBD852C43"
+			item: {
+				count: 1
+				id: "minecraft:diamond_chestplate"
+			}
+			weight: 0.03529412f
+		}
+		{
+			id: "5EA1DC47B8853CFC"
+			item: {
+				count: 1
+				id: "minecraft:diamond_leggings"
+			}
+			weight: 0.03529412f
+		}
+		{
+			id: "2013FFD12BFEE102"
+			item: {
+				count: 1
+				id: "minecraft:diamond_boots"
+			}
+			weight: 0.03529412f
+		}
+		{
+			count: 2
+			id: "4BEA31CFC50F0DAC"
+			item: {
+				count: 1
+				id: "minecraft:emerald"
+			}
+			random_bonus: 5
+			weight: 0.023529412f
+		}
+		{
+			id: "6BEA1C18CB558B28"
+			item: {
+				count: 1
+				id: "minecraft:spire_armor_trim_smithing_template"
+			}
+			weight: 0.011764706f
+		}
+		{
+			id: "339A97D4E416BD31"
+			item: {
+				count: 1
+				id: "minecraft:iron_horse_armor"
+			}
+			weight: 0.011764706f
+		}
+		{
+			id: "17C237F8EDA238E9"
+			item: {
+				count: 1
+				id: "minecraft:golden_horse_armor"
+			}
+			weight: 0.011764706f
+		}
+		{
+			id: "335926B8829BBB41"
+			item: {
+				count: 1
+				id: "minecraft:diamond_horse_armor"
+			}
+			weight: 0.011764706f
+		}
+	]
+	use_title: true
+}

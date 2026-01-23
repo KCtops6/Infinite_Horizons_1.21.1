@@ -1,0 +1,215 @@
+{
+	id: "0C1CF05CCCD5916C"
+	loot_crate: {
+		color: 7226397
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "woodland_mansion"
+	}
+	loot_size: 9
+	order_index: 7
+	rewards: [
+		{
+			id: "15BCFAEC5D72FC2A"
+			item: {
+				count: 1
+				id: "minecraft:bone"
+			}
+			random_bonus: 7
+			weight: 0.25f
+		}
+		{
+			id: "465AB1270928AB9A"
+			item: {
+				count: 1
+				id: "minecraft:rotten_flesh"
+			}
+			random_bonus: 7
+			weight: 0.25f
+		}
+		{
+			id: "4EB9A49873225631"
+			item: {
+				count: 1
+				id: "minecraft:gunpowder"
+			}
+			random_bonus: 7
+			weight: 0.25f
+		}
+		{
+			id: "7EB971A12ECA0423"
+			item: {
+				count: 1
+				id: "minecraft:string"
+			}
+			random_bonus: 7
+			weight: 0.25f
+		}
+		{
+			id: "24F3570666A4AE04"
+			item: {
+				count: 1
+				id: "minecraft:vex_armor_trim_smithing_template"
+			}
+			weight: 0.5f
+		}
+		{
+			id: "75B650FA050E46C6"
+			item: {
+				count: 1
+				id: "minecraft:lead"
+			}
+			weight: 0.15748031f
+		}
+		{
+			id: "1162DA2779E9FF57"
+			item: {
+				count: 1
+				id: "minecraft:name_tag"
+			}
+			weight: 0.15748031f
+		}
+		{
+			id: "42D93B9D9C4E829D"
+			item: {
+				count: 1
+				id: "minecraft:wheat"
+			}
+			random_bonus: 3
+			weight: 0.114285715f
+		}
+		{
+			id: "0D8CCA780DF5D0C5"
+			item: {
+				count: 1
+				id: "minecraft:bread"
+			}
+			weight: 0.114285715f
+		}
+		{
+			id: "24FDA2908D39CA4D"
+			item: {
+				count: 1
+				id: "minecraft:music_disc_13"
+			}
+			weight: 0.11811024f
+		}
+		{
+			id: "445630D063C68697"
+			item: {
+				count: 1
+				id: "minecraft:music_disc_cat"
+			}
+			weight: 0.11811024f
+		}
+		{
+			id: "1B5F9ACDD8674FE4"
+			item: {
+				count: 1
+				id: "minecraft:golden_apple"
+			}
+			weight: 0.11811024f
+		}
+		{
+			id: "6EAAE0703B46C98D"
+			item: {
+				count: 1
+				id: "minecraft:diamond_hoe"
+			}
+			weight: 0.11811024f
+		}
+		{
+			id: "2CAECC5DE95D1580"
+			item: {
+				count: 1
+				id: "minecraft:coal"
+			}
+			random_bonus: 3
+			weight: 0.08571429f
+		}
+		{
+			id: "4CAEEA6B8F69D204"
+			item: {
+				count: 1
+				id: "minecraft:redstone"
+			}
+			random_bonus: 3
+			weight: 0.08571429f
+		}
+		{
+			id: "57C04223DB81C637"
+			item: {
+				count: 1
+				id: "minecraft:chainmail_chestplate"
+			}
+			weight: 0.07874016f
+		}
+		{
+			count: 2
+			id: "6BB7F1F3C901139F"
+			item: {
+				count: 1
+				id: "minecraft:beetroot_seeds"
+			}
+			random_bonus: 2
+			weight: 0.057142857f
+		}
+		{
+			count: 2
+			id: "14ECA3E4955A19CE"
+			item: {
+				count: 1
+				id: "minecraft:pumpkin_seeds"
+			}
+			random_bonus: 2
+			weight: 0.057142857f
+		}
+		{
+			count: 2
+			id: "41B575627804EA3E"
+			item: {
+				count: 1
+				id: "minecraft:melon_seeds"
+			}
+			random_bonus: 2
+			weight: 0.057142857f
+		}
+		{
+			id: "70BE10EACB78E7F0"
+			item: {
+				count: 1
+				id: "minecraft:iron_ingot"
+			}
+			random_bonus: 3
+			weight: 0.057142857f
+		}
+		{
+			id: "77CF38CDED6C88D5"
+			item: {
+				count: 1
+				id: "minecraft:bucket"
+			}
+			weight: 0.057142857f
+		}
+		{
+			id: "3C2FF800953E6101"
+			item: {
+				count: 1
+				id: "minecraft:gold_ingot"
+			}
+			random_bonus: 3
+			weight: 0.028571429f
+		}
+		{
+			id: "5B2AB2F34E136792"
+			item: {
+				count: 1
+				id: "minecraft:enchanted_golden_apple"
+			}
+			weight: 0.015748031f
+		}
+	]
+}

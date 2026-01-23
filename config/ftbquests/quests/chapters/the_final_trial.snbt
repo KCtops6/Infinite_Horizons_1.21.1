@@ -1,0 +1,309 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "the_final_trial"
+	group: "0BA6C43BB6B5DE06"
+	hide_quest_until_deps_complete: true
+	icon: {
+		id: "minecraft:dragon_egg"
+	}
+	id: "2A5182EC401BA623"
+	order_index: 6
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"0E60F9BBC7FAA538"
+				"695E4E0F9551D449"
+				"6AFFE5A781CA5CEB"
+			]
+			id: "028B65D1FCD8A3BA"
+			tasks: [{
+				id: "4026A53407BF7F80"
+				item: { count: 1, id: "kubejs:nether_key" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["028B65D1FCD8A3BA"]
+			id: "22729CC5840DAFF0"
+			tasks: [{
+				dimension: "minecraft:the_nether"
+				icon: {
+					components: {
+						"minecraft:profile": {
+							id: [I;
+								806523663
+								-1155054857
+								-2087728779
+								-579371496
+							]
+							properties: [{
+								name: "textures"
+								value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTljNmEzNzhhNzJkYTE3NTgzMWM5Mzk0ZmE0NWViNzM0M2YzMWQ3ZDA1OGZhNzZhOWE2NDZiZTAwN2I3ODg4ZCJ9fX0="
+							}]
+						}
+					}
+					id: "minecraft:player_head"
+				}
+				id: "4ADD9AB4E3607AAB"
+				type: "dimension"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["22729CC5840DAFF0"]
+			id: "7D7E92D03B850543"
+			tasks: [{
+				id: "4DB61CA44DBAC5EC"
+				item: { count: 1, id: "kubejs:end_key" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["22729CC5840DAFF0"]
+			id: "1FBA0DB56959CCE4"
+			rewards: [{
+				id: "4057FB1073BCB47A"
+				item: {
+					count: 1
+					id: "minecraft:saddle"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					components: {
+						"minecraft:profile": {
+							id: [I;
+								1540698924
+								-955495724
+								-1441155172
+								-1921625949
+							]
+							properties: [{
+								name: "textures"
+								value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTI1ODUxYTg2ZWUxYzU0Yzk0ZmM1YmVkMDE3ODIzZGZiM2JhMDhlZGRiY2FiMmE5MTRlZjQ1YjU5NmMxNjAzIn19fQ=="
+							}]
+						}
+					}
+					id: "minecraft:player_head"
+				}
+				id: "78677E7486B9BA7B"
+				observe_type: 5
+				timer: 0L
+				to_observe: "minecraft:strider"
+				type: "observation"
+			}]
+			x: 1.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["22729CC5840DAFF0"]
+			id: "438327C506158D11"
+			tasks: [{
+				icon: {
+					components: {
+						"minecraft:profile": {
+							id: [I;
+								1729945401
+								355288528
+								-1632054387
+								-1556138007
+							]
+							properties: [{
+								name: "textures"
+								value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDUzZTRjNTYxZWJhYWM3ZmNiOWRlNzU4MDhlYzZhMDBiYzVkYjI5MDdiNWNlNGEyNGIwMDNlMTVlYTQyNGJmNiJ9fX0="
+							}]
+						}
+					}
+					id: "minecraft:player_head"
+				}
+				id: "45179C9681DEDDB1"
+				structure: "minecraft:bastion_remnant"
+				type: "structure"
+			}]
+			x: 3.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["438327C506158D11"]
+			id: "2783F48C938752C0"
+			tasks: [{
+				entity: "minecraft:piglin_brute"
+				icon: {
+					components: {
+						"!ftbquests:icon": { }
+						"ftbquests:entity_face": "minecraft:piglin_brute"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "29AE4DCAE647CCC7"
+				type: "kill"
+				value: 1L
+			}]
+			x: 3.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["22729CC5840DAFF0"]
+			id: "069E801FCFDFF8A3"
+			tasks: [{
+				icon: {
+					components: {
+						"minecraft:profile": {
+							id: [I;
+								-1657000387
+								-620055286
+								1790300323
+								-1143645018
+							]
+							properties: [{
+								name: "textures"
+								value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmNjM2E1OGZlNGM3ZGNiMTQ0N2RiNjdiZTQzMjAyZDhhNGJmNTAzMTQwOTBiN2EyZDU5MDdlMTJmYTQ3MTFiNiJ9fX0="
+							}]
+						}
+					}
+					id: "minecraft:player_head"
+				}
+				id: "677C4C295A195E5F"
+				structure: "minecraft:ruined_portal_nether"
+				type: "structure"
+			}]
+			x: -1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["22729CC5840DAFF0"]
+			id: "3142277EBB223EEE"
+			tasks: [{
+				icon: {
+					components: {
+						"minecraft:profile": {
+							id: [I;
+								-1711400186
+								-1300936647
+								-2105443740
+								1128396835
+							]
+							properties: [{
+								name: "textures"
+								value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTgzYjc3MDgyNWY3MTdmNzUxN2U3ZmI2ZjgwYjBjNGJkMWE4MGExMmFkZmQ0NDZkMjBlZjlmZTgyZDY2ZjUxMCJ9fX0="
+							}]
+						}
+					}
+					id: "minecraft:player_head"
+				}
+				id: "478EF7396C5BCF8E"
+				structure: "minecraft:fortress"
+				type: "structure"
+			}]
+			x: -1.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["7D7E92D03B850543"]
+			id: "1C4A9CB7E5BB3097"
+			tasks: [{
+				entity: "minecraft:ender_dragon"
+				icon: {
+					id: "minecraft:dragon_head"
+				}
+				id: "31D8B7990E990714"
+				type: "kill"
+				value: 1L
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1C4A9CB7E5BB3097"]
+			id: "07C77697C67B7AA4"
+			tasks: [{
+				icon: {
+					components: {
+						"minecraft:profile": {
+							id: [I;
+								1053300309
+								-2052765578
+								-2109617239
+								-922800146
+							]
+							properties: [{
+								name: "textures"
+								value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzE4ZDZiNGM5YTg2NDA0ODQ2OTczMWJhNDcyZmE1MzAyNDQ5MzFmNjM5NTk5ZTBjOGIwMzUxYTBkMmE3YjAzOSJ9fX0="
+							}]
+						}
+					}
+					id: "minecraft:player_head"
+				}
+				id: "6CBE6AC06EEEFBDB"
+				structure: "minecraft:end_city"
+				type: "structure"
+			}]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["07C77697C67B7AA4"]
+			id: "4EAAEA8A76C68E97"
+			tasks: [{
+				id: "2A1B33F56862C3C8"
+				item: { count: 1, id: "minecraft:elytra" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["07C77697C67B7AA4"]
+			id: "1666AC314EC2E4DA"
+			tasks: [{
+				entity: "minecraft:shulker"
+				icon: {
+					components: {
+						"!ftbquests:icon": { }
+						"ftbquests:entity_face": "minecraft:shulker"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "7D5DDC5CDF4EB6EC"
+				type: "kill"
+				value: 1L
+			}]
+			x: 6.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["1666AC314EC2E4DA"]
+			id: "533D847BEE60E5A5"
+			tasks: [{
+				id: "7B4EC78C1F2439BB"
+				item: { count: 1, id: "minecraft:shulker_shell" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["533D847BEE60E5A5"]
+			id: "15B26FAE9B48ABA3"
+			tasks: [{
+				icon: {
+					id: "minecraft:shulker_box"
+				}
+				id: "65132A4E053F1FF4"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:shulker_boxes)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 1.0d
+		}
+	]
+}

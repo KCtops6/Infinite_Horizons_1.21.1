@@ -1,0 +1,59 @@
+{
+	id: "5AB0D349F8989A23"
+	loot_crate: {
+		color: 5592405
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "stronghold_library"
+	}
+	loot_size: 1
+	order_index: 11
+	rewards: [
+		{
+			id: "7347E31C5E7DB468"
+			item: {
+				count: 1
+				id: "minecraft:eye_armor_trim_smithing_template"
+			}
+			weight: 100.0f
+		}
+		{
+			count: 2
+			id: "571187805ECCD9D3"
+			item: {
+				count: 1
+				id: "minecraft:paper"
+			}
+			random_bonus: 5
+			weight: 89.2f
+		}
+		{
+			id: "32802C4B378A495F"
+			item: {
+				count: 1
+				id: "minecraft:book"
+			}
+			random_bonus: 2
+			weight: 89.2f
+		}
+		{
+			id: "3B988B7210E15B3A"
+			item: {
+				count: 1
+				id: "minecraft:compass"
+			}
+			weight: 10.9f
+		}
+		{
+			id: "4011D3F9653B3053"
+			item: {
+				count: 1
+				id: "minecraft:map"
+			}
+			weight: 10.9f
+		}
+	]
+}

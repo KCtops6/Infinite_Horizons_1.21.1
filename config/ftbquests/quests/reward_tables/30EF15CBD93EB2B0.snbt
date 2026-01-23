@@ -1,0 +1,80 @@
+{
+	id: "30EF15CBD93EB2B0"
+	loot_crate: {
+		color: 5592405
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "stronghold_storeroom"
+	}
+	loot_size: 1
+	order_index: 10
+	rewards: [
+		{
+			id: "13C4F4B7F083650D"
+			item: {
+				count: 1
+				id: "minecraft:apple"
+			}
+			random_bonus: 2
+			weight: 47.5f
+		}
+		{
+			id: "60F4CC6F10A236D6"
+			item: {
+				count: 1
+				id: "minecraft:bread"
+			}
+			random_bonus: 2
+			weight: 47.5f
+		}
+		{
+			count: 3
+			id: "1A37A6319D5CB8C7"
+			item: {
+				count: 1
+				id: "minecraft:coal"
+			}
+			random_bonus: 5
+			weight: 34.3f
+		}
+		{
+			id: "3F14000C5869D7A1"
+			item: {
+				count: 1
+				id: "minecraft:iron_ingot"
+			}
+			random_bonus: 4
+			weight: 34.3f
+		}
+		{
+			count: 4
+			id: "479C2414A0039CE3"
+			item: {
+				count: 1
+				id: "minecraft:redstone"
+			}
+			random_bonus: 5
+			weight: 18.6f
+		}
+		{
+			id: "21DD056EFCEC39E4"
+			item: {
+				count: 1
+				id: "minecraft:gold_ingot"
+			}
+			random_bonus: 2
+			weight: 18.6f
+		}
+		{
+			id: "187072C70D8A4EAB"
+			item: {
+				count: 1
+				id: "minecraft:iron_pickaxe"
+			}
+			weight: 4.0f
+		}
+	]
+}

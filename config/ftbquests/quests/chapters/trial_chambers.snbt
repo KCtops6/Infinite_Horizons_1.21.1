@@ -1,0 +1,437 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "trial_chambers"
+	group: "0BA6C43BB6B5DE06"
+	hide_quest_until_deps_complete: true
+	icon: {
+		id: "minecraft:trial_key"
+	}
+	id: "64FE7FCF6127CD6A"
+	images: [
+		{
+			click: "https://github.com/KCtops6/Infinite_Horizons_1.21.1/wiki/Trial-Spawners"
+			height: 0.75d
+			hover: ["Creating Trial Spawners"]
+			image: "minecraft:block/bookshelf"
+			rotation: 0.0d
+			width: 0.75d
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/trial_spawner_side_active"
+			rotation: 0.0d
+			width: 0.5d
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			click: "https://github.com/KCtops6/Infinite_Horizons_1.21.1/wiki/Trial-Spawners"
+			height: 0.75d
+			hover: ["Creating Trial Vaults"]
+			image: "minecraft:block/bookshelf"
+			rotation: 0.0d
+			width: 0.75d
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/vault_front_ejecting"
+			rotation: 0.0d
+			width: 0.5d
+			x: 0.0d
+			y: -1.0d
+		}
+	]
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["742231C130AAC014"]
+			id: "041C0F5E471298D2"
+			tasks: [{
+				icon: {
+					id: "minecraft:trial_spawner"
+				}
+				id: "64C236BBD9DCF520"
+				observe_type: 0
+				timer: 0L
+				to_observe: "minecraft:trial_spawner"
+				type: "observation"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["4D76020C12C3809E"]
+			icon: {
+				id: "minecraft:breeze_rod"
+			}
+			id: "08FE4B67BF5BEFEE"
+			rewards: [
+				{
+					id: "0CD721F94B75B5B7"
+					item: {
+						count: 1
+						id: "minecraft:breeze_rod"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "136366FE9A28E981"
+					item: {
+						count: 1
+						id: "minecraft:wind_charge"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "0C7F91A0CC799F45"
+					item: { count: 1, id: "minecraft:breeze_rod" }
+					type: "item"
+				}
+				{
+					id: "5E64E0E662C49E53"
+					item: { count: 1, id: "minecraft:wind_charge" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 5.0d
+		}
+		{
+			dependencies: [
+				"1E55E9E9E3B8ECEB"
+				"00F5A80404525056"
+			]
+			id: "680620315DCA63A9"
+			tasks: [{
+				id: "5E8B9CDF45B7A70E"
+				item: { count: 1, id: "minecraft:flow_armor_trim_smithing_template" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["1E55E9E9E3B8ECEB"]
+			hide_dependency_lines: true
+			id: "1B7DBB9574BC073D"
+			tasks: [{
+				id: "7AE186B1143D5088"
+				item: { count: 1, id: "minecraft:bolt_armor_trim_smithing_template" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["1E55E9E9E3B8ECEB"]
+			hide_dependency_lines: true
+			id: "0A5C7E518EC89BBD"
+			tasks: [{
+				id: "0D9DDD584ECA126E"
+				item: { count: 1, id: "minecraft:heavy_core" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 7.0d
+		}
+		{
+			dependencies: [
+				"0A5C7E518EC89BBD"
+				"08FE4B67BF5BEFEE"
+			]
+			id: "0BAB1379BEFB5DE5"
+			tasks: [{
+				id: "0D50BE7D54CA14A1"
+				item: { count: 1, id: "minecraft:mace" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["08FE4B67BF5BEFEE"]
+			id: "07E0B9364D4DD284"
+			tasks: [{
+				id: "465FF60C1C5741E5"
+				item: { count: 1, id: "minecraft:wind_charge" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["041C0F5E471298D2"]
+			hide_dependency_lines: true
+			icon: {
+				components: {
+					"!ftbquests:icon": { }
+					"ftbquests:entity_face": "minecraft:slime"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "3EAEC140055DB143"
+			rewards: [{
+				id: "77C2C3A77FB987A8"
+				item: {
+					count: 1
+					id: "minecraft:slime_ball"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [
+				{
+					entity: "minecraft:slime"
+					icon: {
+						components: {
+							"!ftbquests:icon": { }
+							"ftbquests:entity_face": "minecraft:slime"
+						}
+						id: "ftbquests:custom_icon"
+					}
+					id: "32080E3CB589B878"
+					type: "kill"
+					value: 1L
+				}
+				{
+					id: "2A239BBD66ADE6DD"
+					item: { count: 1, id: "minecraft:slime_ball" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["041C0F5E471298D2"]
+			hide_dependency_lines: true
+			id: "2A5688459A5F90FD"
+			tasks: [{
+				entity: "minecraft:husk"
+				icon: {
+					components: {
+						"!ftbquests:icon": { }
+						"ftbquests:entity_face": "minecraft:husk"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "4D6763EAD299BB3E"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["041C0F5E471298D2"]
+			id: "00F5A80404525056"
+			tasks: [{
+				id: "1402AAF1980AE030"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:drinks/ominous)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["742231C130AAC014"]
+			hide_dependent_lines: true
+			id: "1E55E9E9E3B8ECEB"
+			tasks: [{
+				icon: {
+					id: "minecraft:vault"
+				}
+				id: "1B6D2A206694B182"
+				observe_type: 0
+				timer: 0L
+				to_observe: "minecraft:vault"
+				type: "observation"
+			}]
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["1E55E9E9E3B8ECEB"]
+			hide_dependency_lines: true
+			id: "38767F10D189CE9D"
+			tasks: [{
+				id: "58EB7432C73062F7"
+				item: { count: 1, id: "minecraft:guster_banner_pattern" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["1E55E9E9E3B8ECEB"]
+			hide_dependency_lines: true
+			id: "45B07DFEED018C6E"
+			tasks: [{
+				id: "42D2A9CE0A9B4076"
+				item: { count: 1, id: "minecraft:trident" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["041C0F5E471298D2"]
+			id: "4D76020C12C3809E"
+			tasks: [{
+				entity: "minecraft:breeze"
+				icon: {
+					components: {
+						"!ftbquests:icon": { }
+						"ftbquests:entity_face": "minecraft:breeze"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "77310FD68DBCFAE8"
+				type: "kill"
+				value: 1L
+			}]
+			x: 2.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["1E55E9E9E3B8ECEB"]
+			hide_dependency_lines: true
+			id: "54EC0A185D73AA5B"
+			tasks: [{
+				id: "63EC01EEE66B43AA"
+				item: { count: 1, id: "minecraft:music_disc_precipice" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["7DCD55B7E458CF00"]
+			id: "6AFFE5A781CA5CEB"
+			tasks: [{
+				id: "0102414EEAD00E84"
+				item: { count: 1, id: "minecraft:totem_of_undying" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["00F5A80404525056"]
+			id: "7DCD55B7E458CF00"
+			tasks: [{
+				entity: "minecraft:evoker"
+				icon: {
+					components: {
+						"!ftbquests:icon": { }
+						"ftbquests:entity_face": "minecraft:evoker"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "06F56F0B8CE584F2"
+				type: "kill"
+				value: 1L
+			}]
+			x: 5.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"1E55E9E9E3B8ECEB"
+				"00F5A80404525056"
+			]
+			id: "7B321615E5A4737C"
+			tasks: [{
+				id: "3F8D22B5C7DD300C"
+				item: { count: 1, id: "minecraft:music_disc_creator" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["00F5A80404525056"]
+			id: "4F5A4A3DC46FB8A5"
+			tasks: [{
+				id: "32817E3BB0F7EB4C"
+				item: { count: 1, id: "minecraft:flow_banner_pattern" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["7DCD55B7E458CF00"]
+			id: "329942AD2F6AF1C0"
+			rewards: [
+				{
+					id: "1D6E82D38FCA0D99"
+					item: {
+						count: 1
+						id: "minecraft:vex_armor_trim_smithing_template"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "5BF124421FCE746F"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "2163D8391BF0B5A3"
+					item: {
+						count: 1
+						id: "pamhc2foodextended:epicbltitem"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "791B757129E316CF"
+				item: { count: 1, id: "minecraft:vex_armor_trim_smithing_template" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["732EE5DB19BC573C"]
+			icon: {
+				id: "kubejs:trial_core"
+			}
+			id: "742231C130AAC014"
+			tasks: [
+				{
+					id: "01ACE9D1B9CEF0FC"
+					item: { count: 1, id: "kubejs:trial_core" }
+					type: "item"
+				}
+				{
+					id: "6DDEBB14434A434A"
+					item: { count: 1, id: "kubejs:dormant_trial_spawner" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+	]
+}

@@ -1,0 +1,184 @@
+{
+	id: "16976502880DAF4C"
+	loot_crate: {
+		color: 5592405
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "stronghold_altar"
+	}
+	loot_size: 1
+	order_index: 14
+	rewards: [
+		{
+			id: "78416128599423F4"
+			item: {
+				count: 1
+				id: "minecraft:apple"
+			}
+			random_bonus: 2
+			weight: 32.9f
+		}
+		{
+			id: "0DDBD498B1C78AFE"
+			item: {
+				count: 1
+				id: "minecraft:bread"
+			}
+			random_bonus: 2
+			weight: 32.9f
+		}
+		{
+			id: "1108B83F8E321265"
+			item: {
+				count: 1
+				id: "minecraft:iron_ingot"
+			}
+			random_bonus: 4
+			weight: 22.8f
+		}
+		{
+			id: "10C007F7B8217AC6"
+			item: {
+				count: 1
+				id: "minecraft:ender_pearl"
+			}
+			weight: 22.8f
+		}
+		{
+			count: 4
+			id: "476B05F31E672CC3"
+			item: {
+				count: 1
+				id: "minecraft:redstone"
+			}
+			random_bonus: 5
+			weight: 11.9f
+		}
+		{
+			id: "6E792A1B626BC5F5"
+			item: {
+				count: 1
+				id: "minecraft:gold_ingot"
+			}
+			random_bonus: 2
+			weight: 11.9f
+		}
+		{
+			id: "5F6C9C6D33A3C7E8"
+			item: {
+				count: 1
+				id: "minecraft:iron_pickaxe"
+			}
+			weight: 11.9f
+		}
+		{
+			id: "3B9DCC98018A45C2"
+			item: {
+				count: 1
+				id: "minecraft:iron_sword"
+			}
+			weight: 11.9f
+		}
+		{
+			id: "5686F798ADA6848A"
+			item: {
+				count: 1
+				id: "minecraft:iron_helmet"
+			}
+			weight: 11.9f
+		}
+		{
+			id: "7E0D71CBA7A4F56E"
+			item: {
+				count: 1
+				id: "minecraft:iron_chestplate"
+			}
+			weight: 11.9f
+		}
+		{
+			id: "6268050AFD839F74"
+			item: {
+				count: 1
+				id: "minecraft:iron_leggings"
+			}
+			weight: 11.9f
+		}
+		{
+			id: "0F75F9A91D711F57"
+			item: {
+				count: 1
+				id: "minecraft:iron_boots"
+			}
+			weight: 11.9f
+		}
+		{
+			id: "0D8D319BE2269C02"
+			item: {
+				count: 1
+				id: "minecraft:eye_armor_trim_smithing_template"
+			}
+			weight: 10.0f
+		}
+		{
+			id: "401502363BBCEBCC"
+			item: {
+				count: 1
+				id: "minecraft:diamond"
+			}
+			random_bonus: 2
+			weight: 7.3f
+		}
+		{
+			id: "116E44268FBD79AD"
+			item: {
+				count: 1
+				id: "minecraft:leather"
+			}
+			random_bonus: 4
+			weight: 2.5f
+		}
+		{
+			id: "51E6F96097528B3A"
+			item: {
+				count: 1
+				id: "minecraft:music_disc_otherside"
+			}
+			weight: 2.5f
+		}
+		{
+			id: "4166FBBA473677E1"
+			item: {
+				count: 1
+				id: "minecraft:iron_horse_armor"
+			}
+			weight: 2.5f
+		}
+		{
+			id: "267C89694AEFA033"
+			item: {
+				count: 1
+				id: "minecraft:golden_apple"
+			}
+			weight: 2.5f
+		}
+		{
+			id: "547C78D8B65CF8CA"
+			item: {
+				count: 1
+				id: "minecraft:golden_horse_armor"
+			}
+			weight: 2.5f
+		}
+		{
+			id: "5C8798B4134FC335"
+			item: {
+				count: 1
+				id: "minecraft:diamond_horse_armor"
+			}
+			weight: 2.5f
+		}
+	]
+}

@@ -25,4 +25,5 @@ ServerEvents.recipes(event => {
     global.raw_ores.forEach(i => {
         event.remove({ id: `createsifter:shapeless/raw_${i}_piece`});
     });
+    event.remove({ id: /^createsifter:shapeless\/([\w-]+)_pebble$/ });
 });

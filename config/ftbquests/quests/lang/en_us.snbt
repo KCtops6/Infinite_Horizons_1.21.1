@@ -1,5 +1,4 @@
 {
-	chapter.02795623E294F878.title: "Pam's Harvestcraft"
 	chapter.0770A91FCAC26B5E.title: "Zeta"
 	chapter.17F179085511CF63.chapter_subtitle: ["Getting Started"]
 	chapter.17F179085511CF63.title: "Alpha"
@@ -329,7 +328,7 @@
 	quest.617A387AA59B3D89.quest_desc: ["The &lCrafter&r is a low-capacity storage block designed for automated crafting. It functions as a crafting table that crafts items when powered, ejecting them into the world or into a container it faces. Its inventory can be locked to prevent unwanted items from being inserted, allowing you to control the crafting process. Utilize this tool to streamline your automated crafting setups and enhance your efficiency."]
 	quest.617A387AA59B3D89.quest_subtitle: "Harness the Power of the Crafter"
 	quest.617A387AA59B3D89.title: "Crafting with Automation"
-	quest.62DBB6855DF2639C.quest_desc: ["With wood in hand, it's time to craft one of the most important blocks in your journey—the Crafting Table. This essential workstation unlocks countless recipes, allowing you to turn raw materials into tools, building blocks, and more. Simply arrange four wooden planks in your inventory crafting grid to get started!"]
+	quest.62DBB6855DF2639C.quest_desc: [""]
 	quest.62DBB6855DF2639C.quest_subtitle: "Crafting the Basics"
 	quest.62DBB6855DF2639C.title: "Workbench Wonders"
 	quest.64A01D798C19E655.quest_desc: ["The &lHalitosis Generator&r is the pinnacle of your energy-generating journey. With an impressive generation rate of 128 FE/t and an incredible transfer rate of 16,384 FE/t, this generator can handle massive energy demands. Fueled by Dragon's Breath, it provides a robust and efficient energy source, consuming at a rate of 1 FE/t. The Halitosis Generator offers a substantial buffer capacity of 9,800,000 FE, ensuring that your systems stay powered even during prolonged periods of high demand. Upgrade from Ender to Halitosis and tap into the awe-inspiring power of the Dragon's Breath."]

@@ -129,4 +129,22 @@ ServerEvents.recipes(event => {
         Output.of('minecraft:sugar_cane', 0.125),
         Output.of('minecraft:nautilus_shell', 0.0625),
     ], 'minecraft:sand','createsifter:string_mesh').waterlogged(true);
+    
+    event.recipes.createsifter.sifting([
+        Output.of('mysticalagriculture:soul_dust', 0.25)
+    ], 'minecraft:soul_sand','kubejs:copper_mesh');
+    event.recipes.createsifter.sifting([
+        Output.of('minecraft:ghast_tear', 0.125),
+        Output.of('mysticalagriculture:soul_dust', 0.375)
+    ], 'minecraft:soul_sand','kubejs:iron_mesh');
+    event.recipes.createsifter.sifting([
+        Output.of('minecraft:ghast_tear', 0.125),
+        Output.of('mysticalagriculture:soul_dust', 0.375),
+        Output.of('mysticalagriculture:soulium_dust', 0.125)
+    ], 'minecraft:soul_sand','createsifter:brass_mesh');
+    event.recipes.createsifter.sifting([
+        Output.of('minecraft:ghast_tear', 0.25),
+        Output.of('mysticalagriculture:soul_dust', 0.5),
+        Output.of('mysticalagriculture:soulium_dust', 0.25)
+    ], 'minecraft:soul_sand','kubejs:netherite_mesh');
 })

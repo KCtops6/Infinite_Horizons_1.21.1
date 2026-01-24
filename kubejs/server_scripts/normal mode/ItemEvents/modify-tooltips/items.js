@@ -66,6 +66,9 @@ const AE2_CABLE_VARIANTS = [
   "covered_dense",
   "smart_dense"
 ];
+function formatMinecraftId(str) {
+    return str.replace(/_/g, ' ').replace(/\b\w/g, char => char.toUpperCase());
+}
 ItemEvents.modifyTooltips(event => {
     Object.entries(SIMPLE_TOOLTIPS).forEach(([itemId, line]) => {
         addShiftTooltip(event, itemId, [line]);
@@ -436,6 +439,63 @@ ItemEvents.modifyTooltips(event => {
                 tooltip.insert(2 + index, Text.green(`- ${essenceName} Essence`));
             });
             tooltip.insert(2 + tier.drops.length, Text.gray("Note: Replaces standard Inferium drops."));
+        });
+    });
+
+    event.modify('minecraft:bamboo', { shift: false }, tooltip => {
+        tooltip.insert(1, SHIFT_HINT);
+    });
+    event.modify('minecraft:bamboo', { shift: true }, tooltip => {
+        tooltip.insert(1, Text.darkGreen('Obtained from ')
+            .append(Text.green('Loot Crates').bold())
+            .append(Text.green('.')));
+        tooltip.insert(2, Text.green('Otherwise, you can craft it from nature essence.'));
+    });
+
+    event.modify('minecraft:scaffolding', { shift: false }, tooltip => {
+        tooltip.insert(1, SHIFT_HINT);
+    });
+    event.modify('minecraft:scaffolding', { shift: true }, tooltip => {
+        tooltip.insert(1, Text.green('Can also be crafted from ')
+            .append(Text.green('Farmer\'s Delight').bold())
+            .append(Text.green(' canvas.')));
+    });
+
+    event.modify('kubejs:trial_core', { shift: false }, tooltip => {
+        tooltip.insert(1, SHIFT_HINT);
+    });
+    event.modify('kubejs:trial_core', { shift: true }, tooltip => {
+        tooltip.insert(1, Text.aqua('Rare drop from ')
+            .append(Text.darkAqua('overworld mobs').bold())
+            .append(Text.aqua('.')));
+    });
+
+    global.crateConfig.forEach(c => {
+        let crateName = c.crate;
+        let id = "ftbquests:lootcrate[ftbquests:loot_crate=\"" + crateName + "\"]";
+        let title = formatMinecraftId(crateName) + " Loot Crate";
+        let allMobsRaw = [];
+        c.rules.forEach(function(rule) {
+            rule.mobs.forEach(function(mob) {
+                allMobsRaw.push(mob);
+            });
+        });
+        let uniqueMobs = allMobsRaw.filter(function(item, pos) {
+            return allMobsRaw.indexOf(item) == pos;
+        });
+        let formattedMobs = uniqueMobs.map(function(m) { 
+            return formatMinecraftId(m); 
+        }).join(', ');
+        event.modify(id, function(tooltip) {
+            tooltip.insert(0, Text.gold(title).bold());
+        });
+        event.modify(id, { shift: false }, function(tooltip) {
+            tooltip.insert(1, SHIFT_HINT);
+        });
+        event.modify(id, { shift: true }, function(tooltip) {
+            tooltip.insert(1, Text.aqua('Rare drop from ')
+                .append(Text.darkAqua(formattedMobs).bold())
+                .append(Text.aqua('.')));
         });
     });
 });

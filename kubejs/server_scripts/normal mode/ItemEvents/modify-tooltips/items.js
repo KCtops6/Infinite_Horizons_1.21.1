@@ -336,6 +336,39 @@ ItemEvents.modifyTooltips(event => {
             .append(Text.darkPurple('.')));
     });
 
+    event.modify('mysticalagriculture:soul_dust', { shift: false }, tooltip => {
+        tooltip.insert(1, SHIFT_HINT);
+    });
+    event.modify('mysticalagriculture:soul_dust', { shift: true }, tooltip => {
+        tooltip.insert(1, Text.darkAqua('Obtained by sifting ')
+            .append(Text.aqua('Soul Sand').bold()));
+        tooltip.insert(2, Text.darkPurple('You need at least a ')
+            .append(Text.lightPurple('Copper Mesh').bold())
+            .append(Text.darkPurple('.')));
+    });
+
+    event.modify('minecraft:ghast_tear', { shift: false }, tooltip => {
+        tooltip.insert(1, SHIFT_HINT);
+    });
+    event.modify('minecraft:ghast_tear', { shift: true }, tooltip => {
+        tooltip.insert(1, Text.darkAqua('Obtained by sifting ')
+            .append(Text.aqua('Soul Sand').bold()));
+        tooltip.insert(2, Text.darkPurple('You need at least a ')
+            .append(Text.lightPurple('Iron Mesh').bold())
+            .append(Text.darkPurple('.')));
+    });
+
+    event.modify('mysticalagriculture:soulium_dust', { shift: false }, tooltip => {
+        tooltip.insert(1, SHIFT_HINT);
+    });
+    event.modify('mysticalagriculture:soulium_dust', { shift: true }, tooltip => {
+        tooltip.insert(1, Text.darkAqua('Obtained by sifting ')
+            .append(Text.aqua('Soul Sand').bold()));
+        tooltip.insert(2, Text.darkPurple('You need at least a ')
+            .append(Text.lightPurple('Brass Mesh').bold())
+            .append(Text.darkPurple('.')));
+    });
+
     ['kubejs:peridot_gem', 'kubejs:ruby_gem', 'kubejs:sapphire_gem'].forEach(gem => {
         event.modify(gem, { shift: false }, tooltip => {
             tooltip.insert(1, SHIFT_HINT);
@@ -375,11 +408,6 @@ ItemEvents.modifyTooltips(event => {
         });
     });
 
-    /**
-     * Mystical Agriculture Specific Drop Tooltips
-     */
-
-    // 1. Essence Tooltips: Specific Mob lists and Minimum Sword Requirements
     const ESSENCE_DATA = [
         {
             id: 'mysticalagriculture:prudentium_essence',

@@ -3,6 +3,7 @@
 	default_quest_shape: ""
 	filename: "eta"
 	group: "3C16C4C95F1091C7"
+	hide_quest_until_deps_complete: true
 	icon: {
 		id: "ae2:item_storage_cell_1k"
 	}
@@ -155,6 +156,7 @@
 			y: -2.0d
 		}
 		{
+			dependencies: ["64DA461B29FC54FC"]
 			id: "247F804592204833"
 			tasks: [{
 				id: "50F4AA577F665C0E"

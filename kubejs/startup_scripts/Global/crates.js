@@ -95,5 +95,9 @@ global.crateConfig = [
     {
         crate: 'stronghold_library',
         rules: [ { mobs: ['silverfish'], chance: 0.03125 }]
+    },
+    {
+        crate: 'buried_treasure',
+        rules: [ { mobs: ['drowned'], chance: 0.125 }]
     }
 ];

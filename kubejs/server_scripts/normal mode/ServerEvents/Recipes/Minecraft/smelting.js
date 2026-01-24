@@ -3,10 +3,15 @@ ServerEvents.recipes(event => {
     global.ingots.forEach(ingot => {
         if (global.raw_ores.includes(ingot)) {
             event.smelting(`kubejs:${ingot}_ingot`, `kubejs:raw_${ingot}`).xp(0.7);
-        } else if (global.dusts.includes(ingot)) {
+        }
+        if (global.dusts.includes(ingot)) {
             event.smelting(`kubejs:${ingot}_ingot`, `kubejs:${ingot}_dust`).xp(0.7);
         }
     });
+    event.smelting('minecraft:iron_ingot', 'kubejs:iron_dust').xp(0.7);
+    event.smelting('minecraft:gold_ingot', 'kubejs:gold_dust').xp(0.7);
+    event.smelting('minecraft:copper_ingot', 'kubejs:copper_dust').xp(0.7);
+    event.smelting('minecraft:netherite_ingot', 'kubejs:netherite_dust').xp(0.7);
     if (Platform.isLoaded('refinedstorage')) {
         event.smelting('refinedstorage:quartz_enriched_iron', 'kubejs:quartz_enriched_iron_dust');
         event.smelting('refinedstorage:quartz_enriched_copper', 'kubejs:quartz_enriched_copper_dust');

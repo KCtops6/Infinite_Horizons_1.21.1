@@ -3,6 +3,7 @@
 	default_quest_shape: ""
 	filename: "delta"
 	group: "0BA6C43BB6B5DE06"
+	hide_quest_until_deps_complete: true
 	icon: {
 		id: "mysticalagriculture:inferium_essence"
 	}

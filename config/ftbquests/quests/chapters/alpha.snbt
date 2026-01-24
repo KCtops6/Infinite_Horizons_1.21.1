@@ -11,6 +11,7 @@
 	images: [
 		{
 			click: "https://github.com/KCtops6/Infinite_Horizons_1.21.1/wiki/Using-Trowels"
+			dependency: "62DBB6855DF2639C"
 			height: 0.75d
 			hover: ["Using Trowels on Wiki"]
 			image: "minecraft:block/bookshelf"
@@ -21,6 +22,7 @@
 		}
 		{
 			click: "https://github.com/KCtops6/Infinite_Horizons_1.21.1/wiki/Loot-Crates"
+			dependency: "7E6FA6BACC7B007E"
 			height: 0.75d
 			hover: ["Loot Crate Information on Wiki"]
 			image: "minecraft:block/bookshelf"
@@ -30,6 +32,7 @@
 			y: -1.0d
 		}
 		{
+			dependency: "7E6FA6BACC7B007E"
 			height: 0.5d
 			image: "ftbquests:block/loot_crate_opener"
 			rotation: 0.0d
@@ -38,6 +41,7 @@
 			y: -1.0d
 		}
 		{
+			dependency: "62DBB6855DF2639C"
 			height: 0.5d
 			image: "kubejs:item/iron_trowel"
 			rotation: 0.0d
@@ -1266,7 +1270,7 @@
 				type: "item"
 			}]
 			x: 7.0d
-			y: -2.0d
+			y: -1.0d
 		}
 		{
 			dependencies: ["3642E2D78B348AE3"]
@@ -1978,6 +1982,51 @@
 			]
 			x: 17.0d
 			y: -3.0d
+		}
+		{
+			dependencies: ["7E6FA6BACC7B007E"]
+			hide_dependency_lines: true
+			id: "31F4207EAC78EA61"
+			tasks: [{
+				id: "673A845AF00DC139"
+				item: { count: 1, id: "minecraft:bamboo" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["31F4207EAC78EA61"]
+			id: "331A230C762840DD"
+			tasks: [{
+				id: "64DE75C0D5F670B8"
+				item: { count: 1, id: "minecraft:scaffolding" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["073087ED7AC745F3"]
+			id: "1BDB6FD6DAAEC74A"
+			tasks: [{
+				id: "44644975FBBBBAA0"
+				item: { count: 1, id: "minecraft:mud" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["1BDB6FD6DAAEC74A"]
+			id: "7B3F2CE22A99F565"
+			tasks: [{
+				id: "256455AE3F590D14"
+				item: { count: 1, id: "minecraft:packed_mud" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -5.0d
 		}
 	]
 }

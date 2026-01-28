@@ -217,6 +217,7 @@
 			dependencies: ["041C0F5E471298D2"]
 			hide_dependency_lines: true
 			id: "2A5688459A5F90FD"
+			optional: true
 			tasks: [{
 				entity: "minecraft:husk"
 				icon: {
@@ -230,8 +231,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 0.0d
-			y: 4.0d
+			x: -2.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["041C0F5E471298D2"]
@@ -432,6 +433,26 @@
 			]
 			x: 0.0d
 			y: 0.0d
+		}
+		{
+			dependencies: ["041C0F5E471298D2"]
+			hide_dependency_lines: true
+			id: "6FAB74DAC0709900"
+			tasks: [{
+				entity: "minecraft:blaze"
+				icon: {
+					components: {
+						"!ftbquests:icon": { }
+						"ftbquests:entity_face": "minecraft:blaze"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "0C7E48B8D72ADD3F"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: 4.0d
 		}
 	]
 }

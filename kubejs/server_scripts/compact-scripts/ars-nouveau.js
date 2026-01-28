@@ -38,7 +38,6 @@ if (Platform.isLoaded('ars_nouveau')) {
             'ars_nouveau:drygmy_shard'
         ];
 
-        // Helper to add the shift-logic easily
         const addSmartTooltip = (item, line) => {
             event.modify(item, { shift: false }, t => t.insert(1, SHIFT_HINT));
             event.modify(item, { shift: true }, t => t.insert(1, line));
@@ -51,6 +50,12 @@ if (Platform.isLoaded('ars_nouveau')) {
         SHARDS.forEach(s => 
             addSmartTooltip(s, Text.darkGreen('Obtained from a ').append(Text.green('Shady Wizard').bold()).append('.'))
         );
+
+        addSmartTooltip('ars_nouveau:sourceberry_bush', Text.darkGreen('Obtained from ')
+            .append(Text.green('Sweet Berries').bold())
+            .append(Text.darkGreen(' in an '))
+            .append(Text.green('Imbuement Chamber').bold())
+            .append(Text.darkGreen('.')));
 
         Object.entries(leafDrops).forEach(([leaf, data]) => {
             addSmartTooltip(data.pod, Text.darkGreen('Chance to drop from ').append(Text.green(data.name).bold()).append('.'));

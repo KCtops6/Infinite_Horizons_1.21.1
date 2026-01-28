@@ -699,8 +699,8 @@
 				item: { count: 1, id: "minecraft:name_tag" }
 				type: "item"
 			}]
-			x: -2.5d
-			y: 0.0d
+			x: -3.0d
+			y: -3.0d
 		}
 		{
 			dependencies: ["5A382D145AA88DD9"]
@@ -1889,7 +1889,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 3.0d
+			y: 6.0d
 		}
 		{
 			dependencies: ["6F2840F05660704F"]
@@ -1900,7 +1900,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 3.0d
+			y: 6.0d
 		}
 		{
 			dependencies: ["7E6FA6BACC7B007E"]
@@ -1911,7 +1911,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 3.0d
+			y: 6.0d
 		}
 		{
 			dependencies: ["7E6FA6BACC7B007E"]
@@ -1931,7 +1931,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 4.0d
+			y: 7.0d
 		}
 		{
 			dependencies: ["7E6FA6BACC7B007E"]
@@ -1951,7 +1951,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 4.0d
+			y: 7.0d
 		}
 		{
 			dependencies: ["35B8E383C14A9B9D"]
@@ -2027,6 +2027,54 @@
 			}]
 			x: 4.0d
 			y: -5.0d
+		}
+		{
+			dependencies: ["7E6FA6BACC7B007E"]
+			hide_dependency_lines: true
+			id: "1B0B345B1B376950"
+			tasks: [{
+				id: "24764CCAF7D882BF"
+				item: { count: 1, id: "minecraft:leather" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["62DBB6855DF2639C"]
+			id: "453FF4D18DF3D3D7"
+			tasks: [{
+				id: "01313F3F078F90F7"
+				item: { count: 1, id: "farmersdelight:cutting_board" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["453FF4D18DF3D3D7"]
+			id: "46A5E29FA510A91F"
+			tasks: [{
+				id: "175CDB69F4D79FF9"
+				item: { count: 1, id: "minecraft:paper" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"46A5E29FA510A91F"
+				"1B0B345B1B376950"
+			]
+			id: "63FB7295B442F0A3"
+			tasks: [{
+				id: "0819D9FABCDC866B"
+				item: { count: 1, id: "minecraft:book" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 3.0d
 		}
 	]
 }

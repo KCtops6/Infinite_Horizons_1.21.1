@@ -266,6 +266,7 @@
 	quest.42471A2F2D437E75.title: "Slimy Bee"
 	quest.43E02654DCB3489D.quest_desc: ["Obtained by right clicking a &lhoney treat&r on a &lsnow block&r."]
 	quest.43E02654DCB3489D.title: "Sweat Bee"
+	quest.46A5E29FA510A91F.quest_desc: ["Highly recommend you craft this with bark in the early game."]
 	quest.47812BC09FFAD71A.quest_desc: [
 		"Obtained by right clicking a &lhoney treat&r on a &lquartz block&r."
 		""
@@ -331,6 +332,7 @@
 	quest.62DBB6855DF2639C.quest_desc: [""]
 	quest.62DBB6855DF2639C.quest_subtitle: "Crafting the Basics"
 	quest.62DBB6855DF2639C.title: "Workbench Wonders"
+	quest.63FB7295B442F0A3.quest_desc: ["Good way to get early enchanted books with emeralds."]
 	quest.64A01D798C19E655.quest_desc: ["The &lHalitosis Generator&r is the pinnacle of your energy-generating journey. With an impressive generation rate of 128 FE/t and an incredible transfer rate of 16,384 FE/t, this generator can handle massive energy demands. Fueled by Dragon's Breath, it provides a robust and efficient energy source, consuming at a rate of 1 FE/t. The Halitosis Generator offers a substantial buffer capacity of 9,800,000 FE, ensuring that your systems stay powered even during prolonged periods of high demand. Upgrade from Ender to Halitosis and tap into the awe-inspiring power of the Dragon's Breath."]
 	quest.64A01D798C19E655.quest_subtitle: "Channel the mighty force of the Dragon"
 	quest.64A01D798C19E655.title: "The Breath of Power"
@@ -415,6 +417,7 @@
 	task.09B393CC04B069E1.title: "Any #sophisticatedstorage:netherite_upgrades"
 	task.0A98FCD364E35752.title: "Enter Immersive Engineering"
 	task.0BD3A38EC2C6CE67.title: "Find a Stronghold."
+	task.0C7E48B8D72ADD3F.title: "Kill a Blaze"
 	task.0C9E547572CBA87E.title: "Assemble a Squeezer"
 	task.1002B199F4A7DDC3.title: "Observe a Grindstone"
 	task.111FF24730E1E06B.title: "Observe a Brewing Stand."
@@ -445,7 +448,7 @@
 	task.2EC0140CC254EA63.title: "Craft a fluid storage cell."
 	task.30319FC6F26BC172.title: "Any #sophisticated:advanced_void_upgrades"
 	task.31D8B7990E990714.title: "Kill the Ender Dragon."
-	task.32080E3CB589B878.title: "Kill a Slime."
+	task.32080E3CB589B878.title: "Kill a Slime"
 	task.35DBF5A6561B3A66.title: "Harvest logs."
 	task.36C620A510598435.title: "Observe a Blast Furnace"
 	task.38E0BE74D0393D6D.title: "Observe a Smithing Table."
@@ -458,8 +461,9 @@
 	task.45179C9681DEDDB1.title: "Enter a Bastion Remnant."
 	task.478EF7396C5BCF8E.title: "Find a Nether Fortress."
 	task.4ADD9AB4E3607AAB.title: "Enter the Nether!"
+	task.4CB698275F9FE7E5.title: "Enter Ars Nouveau."
 	task.4CDB7CBDB76C0F32.title: "go to the end"
-	task.4D6763EAD299BB3E.title: "Kill a Husk."
+	task.4D6763EAD299BB3E.title: "Kill a Husk"
 	task.4DA2C42C8ED94D99.title: "Craft a Shulker Box."
 	task.5071C7B2EC85DAAC.title: "check this box"
 	task.522147DE7E3ED21D.title: "Any #sophisticatedstorage:base_tier_wooden_storage"

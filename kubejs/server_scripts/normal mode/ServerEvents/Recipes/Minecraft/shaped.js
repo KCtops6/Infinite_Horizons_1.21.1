@@ -1,5 +1,5 @@
 ServerEvents.recipes(event => {
-    const saplings = [  //
+    const saplings = [
         'pamhc2trees:apple_sapling',
         'pamhc2trees:apricot_sapling',
         'pamhc2trees:avocado_sapling',
@@ -43,6 +43,13 @@ ServerEvents.recipes(event => {
         'pamhc2trees:soursop_sapling',
         'pamhc2trees:hazelnut_sapling'
     ];
+
+    if (Platform.isLoaded('ars_nouveau')) saplings.push(
+        'ars_nouveau:blue_archwood_sapling',
+        'ars_nouveau:red_archwood_sapling',
+        'ars_nouveau:purple_archwood_sapling',
+        'ars_nouveau:green_archwood_sapling'
+    );
 
     /**
      * Define the essence items

@@ -41,6 +41,13 @@ BlockEvents.rightClicked('kubejs:dormant_trial_spawner', event => {
         'minecraft:coal_block': { mob: 'wither_skeleton'},
         'minecraft:mossy_cobblestone': { mob: 'zombie' }
     };
+
+    if (Platform.isLoaded('ars_nouveau')) {
+        TRIAL_CONFIG['ars_nouveau:blue_archwood_wood'] = { mob: 'ars_nouveau:wilden_guardian'};
+        TRIAL_CONFIG['ars_nouveau:purple_archwood_wood'] = { mob: 'ars_nouveau:wilden_hunter'};
+        TRIAL_CONFIG['ars_nouveau:red_archwood_wood'] = { mob: 'ars_nouveau:wilden_stalker'};
+    }
+
     if (item.id !== 'kubejs:trial_core') return;
     const TIME = level.getDayTime() % 24000;
     if (TIME < 13000 || TIME > 23000) {
@@ -64,7 +71,12 @@ BlockEvents.rightClicked('kubejs:dormant_trial_spawner', event => {
         return;
     }
     const hasOminous = player.potionEffects.isActive('minecraft:trial_omen');
-    let targetMob = `minecraft:${trial.mob}`;
+    let rawMob = (hasOminous && trial.ominousMob) ? trial.ominousMob : (trial.mob || null);
+    if (!rawMob) {
+        player.displayClientMessage(Text.red('The core shudders... this ritual requires a Trial Omen.'), true);
+        return;
+    }
+    let targetMob = rawMob.includes(':') ? rawMob : `minecraft:${rawMob}`;
     if (hasOminous && trial.ominousMob) {
         targetMob = trial.ominousMob;
     }

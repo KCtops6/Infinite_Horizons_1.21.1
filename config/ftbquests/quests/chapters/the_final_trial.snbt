@@ -13,7 +13,6 @@
 	quests: [
 		{
 			dependencies: [
-				"0E60F9BBC7FAA538"
 				"695E4E0F9551D449"
 				"6AFFE5A781CA5CEB"
 			]

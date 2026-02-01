@@ -3,12 +3,11 @@
 	default_quest_shape: ""
 	filename: "zeta"
 	group: "3C16C4C95F1091C7"
-	hide_quest_until_deps_complete: true
 	icon: {
 		id: "generatorgalore:iron_generator"
 	}
-	id: "1B73F34BAB8F6FCD"
-	order_index: 1
+	id: "6BD9909ED295A2C2"
+	order_index: 2
 	quest_links: [ ]
 	quests: [
 		{
@@ -16,9 +15,9 @@
 				"11332A8490D1FD31"
 				"5A382D145AA88DD9"
 			]
-			id: "196A568A00583805"
+			id: "7DD2D0726F0F6412"
 			tasks: [{
-				id: "1083FDFDB1E22EEF"
+				id: "0355A66BF3EA51FA"
 				item: { count: 1, id: "generatorgalore:copper_generator" }
 				type: "item"
 			}]
@@ -30,15 +29,15 @@
 			icon: {
 				id: "generatorgalore:iron_generator"
 			}
-			id: "346117052F12664B"
+			id: "5891D981A614AC39"
 			tasks: [
 				{
-					id: "6578F95CDAB50B85"
+					id: "47B9124D089E51DB"
 					item: { count: 1, id: "generatorgalore:iron_generator" }
 					type: "item"
 				}
 				{
-					id: "594EE34854236A72"
+					id: "33034EDB2316BFCD"
 					item: { count: 1, id: "generatorgalore:copper_to_iron_upgrade" }
 					type: "item"
 				}
@@ -54,15 +53,15 @@
 			icon: {
 				id: "generatorgalore:gold_generator"
 			}
-			id: "1883DFF81CD530A0"
+			id: "6CD069CE83EB4045"
 			tasks: [
 				{
-					id: "03658D07F6FD0116"
+					id: "3CD8123AEF57E544"
 					item: { count: 1, id: "generatorgalore:gold_generator" }
 					type: "item"
 				}
 				{
-					id: "08A986C7900D4745"
+					id: "01B8574F07017133"
 					item: { count: 1, id: "generatorgalore:iron_to_gold_upgrade" }
 					type: "item"
 				}
@@ -75,16 +74,16 @@
 			icon: {
 				id: "generatorgalore:culinary_generator"
 			}
-			id: "662C6D7106C0C6D2"
+			id: "165793E8A8167A17"
 			optional: true
 			tasks: [
 				{
-					id: "36E2E6F36191520A"
+					id: "2ACBBEED361FC258"
 					item: { count: 1, id: "generatorgalore:culinary_generator" }
 					type: "item"
 				}
 				{
-					id: "5747CE6025CEDE97"
+					id: "306D73B777564941"
 					item: { count: 1, id: "generatorgalore:gold_to_culinary_upgrade" }
 					type: "item"
 				}
@@ -100,15 +99,15 @@
 			icon: {
 				id: "generatorgalore:diamond_generator"
 			}
-			id: "3ED909426B9083D9"
+			id: "0442C6261B8CD557"
 			tasks: [
 				{
-					id: "029C4AB75F6C46D4"
+					id: "405EA5448B469796"
 					item: { count: 1, id: "generatorgalore:diamond_generator" }
 					type: "item"
 				}
 				{
-					id: "1A01DF648CE32C56"
+					id: "39E05308C4EB00EB"
 					item: { count: 1, id: "generatorgalore:gold_to_diamond_upgrade" }
 					type: "item"
 				}
@@ -122,15 +121,15 @@
 			icon: {
 				id: "generatorgalore:emerald_generator"
 			}
-			id: "040ABB916C18346A"
+			id: "341BE21A7D637760"
 			tasks: [
 				{
-					id: "50678EDD11677832"
+					id: "36C09FB00CB5F3FF"
 					item: { count: 1, id: "generatorgalore:emerald_generator" }
 					type: "item"
 				}
 				{
-					id: "660128F6B5C47B9F"
+					id: "77DABFD87D678ECD"
 					item: { count: 1, id: "generatorgalore:diamond_to_emerald_upgrade" }
 					type: "item"
 				}
@@ -143,15 +142,15 @@
 			icon: {
 				id: "generatorgalore:netherite_generator"
 			}
-			id: "720A2F80D5E73A17"
+			id: "36D3D256AC56416A"
 			tasks: [
 				{
-					id: "350848991705C2B3"
+					id: "346F3760BC3CB1E3"
 					item: { count: 1, id: "generatorgalore:netherite_generator" }
 					type: "item"
 				}
 				{
-					id: "4153472255053859"
+					id: "5C1D6EA6EB045D8F"
 					item: { count: 1, id: "generatorgalore:diamond_to_netherite_upgrade" }
 					type: "item"
 				}
@@ -164,16 +163,16 @@
 			icon: {
 				id: "generatorgalore:enchantment_generator"
 			}
-			id: "169040E33441DBE9"
+			id: "61C89A44F5BEC855"
 			optional: true
 			tasks: [
 				{
-					id: "36D935BD9BDF0890"
+					id: "608261AC1F1A5AF3"
 					item: { count: 1, id: "generatorgalore:enchantment_generator" }
 					type: "item"
 				}
 				{
-					id: "3DA717C16B1C2910"
+					id: "72AB4FC0BC158738"
 					item: { count: 1, id: "generatorgalore:obsidian_to_enchantment_upgrade" }
 					type: "item"
 				}
@@ -189,15 +188,15 @@
 			icon: {
 				id: "generatorgalore:obsidian_generator"
 			}
-			id: "76B1BFA765F786BE"
+			id: "5EDCE72140C1E698"
 			tasks: [
 				{
-					id: "34F6D93BA450F47B"
+					id: "3EA932480985420A"
 					item: { count: 1, id: "generatorgalore:obsidian_generator" }
 					type: "item"
 				}
 				{
-					id: "5F32B4C69FB70505"
+					id: "74A0EE88ED9A7CE5"
 					item: { count: 1, id: "generatorgalore:diamond_to_obsidian_upgrade" }
 					type: "item"
 				}
@@ -210,16 +209,16 @@
 			icon: {
 				id: "generatorgalore:ender_generator"
 			}
-			id: "4FC13F2C6001CFC4"
+			id: "5B5CC5E7D39F71BD"
 			optional: true
 			tasks: [
 				{
-					id: "5A625321B9A465C5"
+					id: "1BE3C9F0DF097EAA"
 					item: { count: 1, id: "generatorgalore:ender_generator" }
 					type: "item"
 				}
 				{
-					id: "7B99AB57C7EDBBB8"
+					id: "458FA5EC50DE4569"
 					item: { count: 1, id: "generatorgalore:obsidian_to_ender_upgrade" }
 					type: "item"
 				}
@@ -232,16 +231,16 @@
 			icon: {
 				id: "generatorgalore:halitosis_generator"
 			}
-			id: "64A01D798C19E655"
+			id: "067FB71E2142A4E3"
 			optional: true
 			tasks: [
 				{
-					id: "301397ADCDB5BACD"
+					id: "0F708B75E7F86D07"
 					item: { count: 1, id: "generatorgalore:halitosis_generator" }
 					type: "item"
 				}
 				{
-					id: "0E827E7DFF007566"
+					id: "0C9DC0C07175C731"
 					item: { count: 1, id: "generatorgalore:ender_to_halitosis_upgrade" }
 					type: "item"
 				}
@@ -254,16 +253,16 @@
 			icon: {
 				id: "generatorgalore:honey_generator"
 			}
-			id: "0372C7453493CA18"
+			id: "4FE8A27DA6A22D1D"
 			optional: true
 			tasks: [
 				{
-					id: "433A7A4244DFD01B"
+					id: "5CDE24497A61C185"
 					item: { count: 1, id: "generatorgalore:honey_generator" }
 					type: "item"
 				}
 				{
-					id: "084417B8A0882B5C"
+					id: "059A29B4A798D9C5"
 					item: { count: 1, id: "generatorgalore:culinary_to_honey_upgrade" }
 					type: "item"
 				}
@@ -276,15 +275,15 @@
 			icon: {
 				id: "generatorgalore:magmatic_generator"
 			}
-			id: "5D769F0200A177C1"
+			id: "2F42ABA2C17BCDC2"
 			tasks: [
 				{
-					id: "51B5C0BA7554EA85"
+					id: "569E6FE4ACFAF3A4"
 					item: { count: 1, id: "generatorgalore:magmatic_generator" }
 					type: "item"
 				}
 				{
-					id: "40853AE9B94BFE6F"
+					id: "3415063BE8A774A8"
 					item: { count: 1, id: "generatorgalore:obsidian_to_magmatic_upgrade" }
 					type: "item"
 				}
@@ -297,16 +296,16 @@
 			icon: {
 				id: "generatorgalore:potion_generator"
 			}
-			id: "08AA4A1FF88BADA2"
+			id: "306E653F8F9905CA"
 			optional: true
 			tasks: [
 				{
-					id: "255A210A0C6FD134"
+					id: "1E153A930EA5F942"
 					item: { count: 1, id: "generatorgalore:potion_generator" }
 					type: "item"
 				}
 				{
-					id: "14DAA77905607A02"
+					id: "388ED80E07716FAC"
 					item: { count: 1, id: "generatorgalore:culinary_to_potion_upgrade" }
 					type: "item"
 				}
@@ -319,15 +318,15 @@
 			icon: {
 				id: "generatorgalore:netherstar_generator"
 			}
-			id: "74596AC8CCF849C2"
+			id: "63C681B0F01F334F"
 			tasks: [
 				{
-					id: "5B203968EE9BC570"
+					id: "47BFDC527B36330F"
 					item: { count: 1, id: "generatorgalore:netherstar_generator" }
 					type: "item"
 				}
 				{
-					id: "38FB22FEDAEF2365"
+					id: "7208FF4FE589EC9C"
 					item: { count: 1, id: "generatorgalore:netherite_to_netherstar_upgrade" }
 					type: "item"
 				}

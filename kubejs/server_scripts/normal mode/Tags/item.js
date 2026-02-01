@@ -92,4 +92,9 @@ ServerEvents.tags('item', event => {
     })
     event.add('c:ingots/andesite_alloy', 'create:andesite_alloy');
     event.add('c:ingots/andesite_alloy', 'kubejs:stone_alloy');
+
+    event.add('kubejs:coral_blocks', [
+        'minecraft:tube_coral_block', 'minecraft:brain_coral_block', 'minecraft:bubble_coral_block',
+        'minecraft:fire_coral_block', 'minecraft:horn_coral_block'
+    ]);
 })

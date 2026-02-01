@@ -68,3 +68,6 @@ config/ars_nouveau*
 config/curios*
 config/ferritecore*
 config/sophisticated*
+config/konkrete/
+config/allayinajar-common.toml
+config/journeymap-server.toml

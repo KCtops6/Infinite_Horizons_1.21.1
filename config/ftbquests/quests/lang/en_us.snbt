@@ -264,6 +264,7 @@
 		"Reasonable source of &oslime&r."
 	]
 	quest.42471A2F2D437E75.title: "Slimy Bee"
+	quest.435A71902EEC1F07.quest_desc: ["Allays in a Jar have a chance to drop from pillager related mobs."]
 	quest.43E02654DCB3489D.quest_desc: ["Obtained by right clicking a &lhoney treat&r on a &lsnow block&r."]
 	quest.43E02654DCB3489D.title: "Sweat Bee"
 	quest.45CA7C288211D9FF.quest_desc: ["Once you have enough of these, you can make &lCoral Seeds&l."]
@@ -503,6 +504,7 @@
 	task.6395DE6E1A9429CB.title: "Obtain a Sponge Bee"
 	task.6509A635775E13FF.title: "Rotational Energy Setup"
 	task.65132A4E053F1FF4.title: "Craft a Shulker Box."
+	task.66BA2429DC3F98C1.title: "Observe an Allay"
 	task.677C4C295A195E5F.title: "Find a Ruined Portal."
 	task.681C3F6F7BBCAD30.title: "Craft a plastic block"
 	task.684423D2B76D2981.title: "Any #sophisticated:feeding_upgrades"

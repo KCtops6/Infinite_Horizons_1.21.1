@@ -1423,7 +1423,6 @@
 		{
 			dependencies: [
 				"75427194B86E02D5"
-				"5BC99E3F6FACEAD8"
 				"732EE5DB19BC573C"
 			]
 			id: "131CB918E3D68522"
@@ -1613,10 +1612,7 @@
 			y: 3.0d
 		}
 		{
-			dependencies: [
-				"131CB918E3D68522"
-				"5BC99E3F6FACEAD8"
-			]
+			dependencies: ["131CB918E3D68522"]
 			id: "3271573EB6A6CEF0"
 			tasks: [{
 				id: "1985FE5DF827D0DA"

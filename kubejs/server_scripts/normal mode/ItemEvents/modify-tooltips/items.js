@@ -383,7 +383,7 @@ ItemEvents.modifyTooltips(event => {
         });
     });
 
-    [
+    const LOOT_CRATE_ITEMS = [
         'minecraft:netherite_upgrade_smithing_template', 
         'minecraft:sentry_armor_trim_smithing_template', 
         'minecraft:vex_armor_trim_smithing_template', 
@@ -391,13 +391,22 @@ ItemEvents.modifyTooltips(event => {
         'minecraft:coast_armor_trim_smithing_template', 
         'minecraft:dune_armor_trim_smithing_template', 
         'minecraft:ward_armor_trim_smithing_template', 
-        'minecraft:ward_armor_trim_smithing_template', 
         'minecraft:silence_armor_trim_smithing_template', 
         'minecraft:snout_armor_trim_smithing_template', 
         'minecraft:rib_armor_trim_smithing_template', 
         'minecraft:eye_armor_trim_smithing_template', 
-        'minecraft:spire_armor_trim_smithing_template'
-    ].forEach(t => {
+        'minecraft:spire_armor_trim_smithing_template',
+        'minecraft:iron_horse_armor',
+        'minecraft:golden_horse_armor',
+        'minecraft:diamond_horse_armor',
+        'minecraft:music_disc_13',
+        'minecraft:music_disc_cat',
+        'minecraft:music_disc_otherside',
+        'minecraft:music_disc_pigstep',
+        'minecraft:disc_fragment_5'
+    ];
+    
+    LOOT_CRATE_ITEMS.forEach(t => {
         event.modify(t, { shift: false }, tooltip => {
             tooltip.insert(1, SHIFT_HINT);
         });

@@ -191,7 +191,7 @@
 		"Reasonable source of &obone meal&r."
 	]
 	quest.362821657E098F7A.title: "Skeleton Bee"
-	quest.3642E2D78B348AE3.quest_desc: ["With a &lStone Trowel&r in hand, gravel becomes more than just a stepping stone—it’s your first source of iron. Sift through gravel to find &lCrushed Raw Iron&r, then smelt it down into a shiny &lIron Ingot&r. With iron, stronger tools and better equipment are within reach!"]
+	quest.3642E2D78B348AE3.quest_desc: [""]
 	quest.3642E2D78B348AE3.quest_subtitle: "Sifting for Strength"
 	quest.3642E2D78B348AE3.title: "Iron Beginnings"
 	quest.365435DAA933478D.quest_desc: [
@@ -266,6 +266,7 @@
 	quest.42471A2F2D437E75.title: "Slimy Bee"
 	quest.43E02654DCB3489D.quest_desc: ["Obtained by right clicking a &lhoney treat&r on a &lsnow block&r."]
 	quest.43E02654DCB3489D.title: "Sweat Bee"
+	quest.45CA7C288211D9FF.quest_desc: ["Once you have enough of these, you can make &lCoral Seeds&l."]
 	quest.46A5E29FA510A91F.quest_desc: ["Highly recommend you craft this with bark in the early game."]
 	quest.47812BC09FFAD71A.quest_desc: [
 		"Obtained by right clicking a &lhoney treat&r on a &lquartz block&r."
@@ -305,6 +306,7 @@
 	quest.528AC4A13D35951B.quest_desc: ["Sometimes, you need a little extra force to break through. Craft a &lStone Hammer&r, then use it to break cobblestone into &lGravel&r. This simple tool will help you expand your resource pool and provide the materials needed for future advancements. Keep hammering away."]
 	quest.528AC4A13D35951B.quest_subtitle: "Turning Stone into Gravel"
 	quest.528AC4A13D35951B.title: "Hammering the Basics"
+	quest.533C4047C3C9F6A2.quest_desc: ["More renewable material for belts than rubber sheets."]
 	quest.53AC5BC20682441D.quest_desc: ["You may struggle to find certain animals in the superflat environment. This is what the modpack's feed items are for."]
 	quest.545A6FF013A3C65C.quest_desc: ["Probably the most useful essence in the modpack."]
 	quest.57401F4BD3952C56.quest_desc: ["In a world without forests, villages are your best source of wood. Chop down trees in a village to gather logs—essential for crafting tools, structures, and more. Make sure to replant saplings when possible to keep resources sustainable!"]
@@ -326,9 +328,6 @@
 	quest.5D00196D169F65C2.title: "A Gateway’s Influence"
 	quest.5D769F0200A177C1.quest_desc: ["The &lMagmatic Generator&r is a significant upgrade, providing efficient power from the ever-flowing force of lava. With a generation rate of 40 FE/t and a transfer rate of 512 FE/t, it allows you to convert lava into Forge Energy (FE) efficiently. It consumes lava at a rate of 0.4 FE/t and has a substantial buffer capacity of 500,000 FE. Upgrade your Obsidian Generator to the Magmatic Generator and unlock the power of lava as a fuel source, enabling a steady stream of energy for your expanding needs."]
 	quest.5D769F0200A177C1.quest_subtitle: "Harnessing the Magma"
-	quest.617A387AA59B3D89.quest_desc: ["The &lCrafter&r is a low-capacity storage block designed for automated crafting. It functions as a crafting table that crafts items when powered, ejecting them into the world or into a container it faces. Its inventory can be locked to prevent unwanted items from being inserted, allowing you to control the crafting process. Utilize this tool to streamline your automated crafting setups and enhance your efficiency."]
-	quest.617A387AA59B3D89.quest_subtitle: "Harness the Power of the Crafter"
-	quest.617A387AA59B3D89.title: "Crafting with Automation"
 	quest.62DBB6855DF2639C.quest_desc: [""]
 	quest.62DBB6855DF2639C.quest_subtitle: "Crafting the Basics"
 	quest.62DBB6855DF2639C.title: "Workbench Wonders"
@@ -346,6 +345,8 @@
 	quest.66CC1872F77E4EE6.quest_subtitle: "Preparing for the Future"
 	quest.66CC1872F77E4EE6.title: "Winds of Change"
 	quest.6B053EAB0CB56AE7.title: "Kitchen Essentials"
+	quest.6B326C5826B6B4DB.quest_desc: ["Useful villager for good early game foods."]
+	quest.6B326C5826B6B4DB.quest_subtitle: "Butcher Villager"
 	quest.6BC4240AF36D8AA9.quest_desc: ["The Nether’s influence can reshape the Overworld. By placing Sandstone near an active Nether Portal, the heat and energy from the portal will gradually darken it, transforming it into &lBlackstone&r. This method provides an Overworld-friendly way to obtain Blackstone, making it a valuable resource for builders and crafters alike."]
 	quest.6BC4240AF36D8AA9.quest_subtitle: "Transforming Sandstone into Blackstone"
 	quest.6BC4240AF36D8AA9.title: "Shadowed Sands"
@@ -411,12 +412,14 @@
 	reward_table.7CA3AF27C543FD34.title: "Jungle Pyramid"
 	task.02FD29192B135BC0.title: "Construct the Bottling Machine"
 	task.049328BEB49A0C63.title: "Any #sophisticated:auto_smelting_upgrades"
+	task.04BD6DA98B4C7D44.title: "Observe a Smoker"
 	task.05A1297F925E6922.title: "Craft a Juice Item."
 	task.06F56F0B8CE584F2.title: "Kill an Evoker."
 	task.081F16B216B3A4E0.title: "Any #sophisticated:advanced_compacting_upgrades"
 	task.09B393CC04B069E1.title: "Any #sophisticatedstorage:netherite_upgrades"
 	task.0A98FCD364E35752.title: "Enter Immersive Engineering"
 	task.0BD3A38EC2C6CE67.title: "Find a Stronghold."
+	task.0BE83ACD14C2D91D.title: "Craft a Bed"
 	task.0C7E48B8D72ADD3F.title: "Kill a Blaze"
 	task.0C9E547572CBA87E.title: "Assemble a Squeezer"
 	task.1002B199F4A7DDC3.title: "Observe a Grindstone"
@@ -433,13 +436,17 @@
 	task.18C58601831336A4.title: "Any #sophisticatedstorage:iron_storages"
 	task.18D7038439CDF699.title: "Construct the Bottling Machine"
 	task.1B6D2A206694B182.title: "Create a Vault."
+	task.1B894D69EB04100D.title: "Observe a Lectern"
 	task.1F0741044C7EBCBF.title: "Welcome to Infinite Horizons 2!"
 	task.20F10AB288B9B858.title: "Craft Concrete"
 	task.22EFF4295996F3B4.title: "Observe an Engineer's Workbench."
+	task.231E526F25164D31.title: "Interface with a Wandering Trader"
 	task.23F9812A10B9EDCF.title: "Any #sophisticated:auto_blasting_upgrades"
 	task.25812E1A01567F7C.title: "Any #sophisticated:smoking_upgrades"
 	task.27149F550CA01926.title: "Any #curios:back"
+	task.27C789CCB0565D5D.title: "Kill a Creeper"
 	task.28E2BD21ADC08C2D.title: "Any #sophisticated:blasting_upgrades"
+	task.2924166B1556959E.title: "Kill a Spider"
 	task.29AE4DCAE647CCC7.title: "Kill a Piglin Brute."
 	task.2BB146FC3DFF7CB8.title: "Any #sophisticated:void_upgrades"
 	task.2BBABE6D3F58A4FF.title: "Any #sophisticatedstorage:diamond_upgrades"
@@ -449,27 +456,36 @@
 	task.30319FC6F26BC172.title: "Any #sophisticated:advanced_void_upgrades"
 	task.31D8B7990E990714.title: "Kill the Ender Dragon."
 	task.32080E3CB589B878.title: "Kill a Slime"
+	task.324A9CD9F7530BE2.title: "Observe a Blast Furnace"
+	task.32C316FB72EF6A93.title: "Kill a Chicken"
+	task.34AC3E80379DF9FF.title: "Kill an Enderman"
 	task.35DBF5A6561B3A66.title: "Harvest logs."
 	task.36C620A510598435.title: "Observe a Blast Furnace"
+	task.38211EC72D1A2A4D.title: "Observe a Composter"
 	task.38E0BE74D0393D6D.title: "Observe a Smithing Table."
+	task.39D200FFEC3AB7B0.title: "Kill a Sheep"
 	task.3D87643B6DE64FF6.title: "Obtain a Water Bee"
 	task.3D94047A9C0C9797.title: "Any #c:juices"
 	task.3F38B2A629773F00.title: "Any #sophisticatedstorage:gold_upgrades"
+	task.4064B3EE2D60C119.title: "Kill a Zombie"
 	task.40DA8ED52BE6492A.title: "Any #sophisticated:magnet_upgrades"
 	task.410A38954F068438.title: "Any #sophisticatedstorage:iron_upgrades"
 	task.426C6EF46092E0A3.title: "Any #sophisticated:auto_smoking_upgrades"
 	task.45179C9681DEDDB1.title: "Enter a Bastion Remnant."
 	task.478EF7396C5BCF8E.title: "Find a Nether Fortress."
+	task.4921D67F775FC145.title: "Obtain a Coral Block"
 	task.4ADD9AB4E3607AAB.title: "Enter the Nether!"
+	task.4CAC9DAE57537B05.title: "Kill a Rabbit"
 	task.4CB698275F9FE7E5.title: "Enter Ars Nouveau."
 	task.4CDB7CBDB76C0F32.title: "go to the end"
 	task.4D6763EAD299BB3E.title: "Kill a Husk"
+	task.4DA169A62880240C.title: "Kill a Cow"
 	task.4DA2C42C8ED94D99.title: "Craft a Shulker Box."
+	task.4EECDE7D1595D72F.title: "Observe a Grindstone"
 	task.5071C7B2EC85DAAC.title: "check this box"
 	task.522147DE7E3ED21D.title: "Any #sophisticatedstorage:base_tier_wooden_storage"
 	task.523D0C50943B6B1F.title: "Craft Concrete Powder"
 	task.52D9230F4ED65A75.title: "Any #sophisticated:crafting_upgrades"
-	task.53A3B5BA035251AA.title: "Obtain an animal feed."
 	task.53C2C947DC840D17.title: "Any #sophisticated:smelting_upgrades"
 	task.5479C4378BCFF9F5.title: "Any #sophisticated:filter_upgrades"
 	task.5506F1A98B72C7B1.title: "Any #sophisticatedstorage:netherite_storages"
@@ -482,6 +498,7 @@
 	task.5A8534B4DD19A691.title: "Craft Sand Paper."
 	task.5A9ADEB7C349E1CA.title: "Craft an item storage cell."
 	task.5D2C3D8D94140C4E.title: "Pam's Harvestcraft"
+	task.62DBA270B6176AB1.title: "Observe a Brewing Stand"
 	task.6335A2495218B5F6.title: "Any #sophisticatedstorage:upgrade"
 	task.6395DE6E1A9429CB.title: "Obtain a Sponge Bee"
 	task.6509A635775E13FF.title: "Rotational Energy Setup"
@@ -490,12 +507,17 @@
 	task.681C3F6F7BBCAD30.title: "Craft a plastic block"
 	task.684423D2B76D2981.title: "Any #sophisticated:feeding_upgrades"
 	task.68703082EA0761EC.title: "Any #sophisticated:stonecutter_upgrades"
+	task.68D1A70BF2CC4024.title: "Observe a Smithing Table"
+	task.695160F6EB2C701A.title: "Kill a Skeleton"
 	task.6C11616C65D7F631.title: "Any #sophisticated:pickup_upgrades"
+	task.6C1DAF36D60895A2.title: "Kill a Pig"
 	task.6CBE6AC06EEEFBDB.title: "Visit an End City."
 	task.6D73C458FCAB9A85.title: "Any #sophisticated:advanced_magnet_upgrades"
 	task.6F526BEC8B38F756.title: "Any #sophisticatedstorage:copper_storages"
+	task.6FD1402A7A230017.title: "Kill a Pillager"
 	task.6FF29BA6B39ED82E.title: "Kill 25 Breezes."
 	task.70901D36D39D3797.title: "Kill 15 Evokers."
+	task.74017466DBFBDCF2.title: "Observe a Horse"
 	task.7570386276C99EBD.title: "Obtain any wool."
 	task.77310FD68DBCFAE8.title: "Kill a Breeze"
 	task.779D6F34909CC0A0.title: "Any #c:jellies"

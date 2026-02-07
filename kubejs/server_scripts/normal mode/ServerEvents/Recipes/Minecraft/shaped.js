@@ -208,9 +208,9 @@ ServerEvents.recipes(event => {
     global.gems.forEach(i => {
         if (global.blocks.includes(i)) {
             event.shaped(`kubejs:${i}_block`, [
-                'III',
-                'III',
-                'III'
+                'II ',
+                'II ',
+                '   '
             ], {
                 I: `kubejs:${i}_gem`
             }).id(`${i}_block_from_gem`);

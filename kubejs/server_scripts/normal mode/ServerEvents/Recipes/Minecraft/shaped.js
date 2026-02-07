@@ -196,6 +196,15 @@ ServerEvents.recipes(event => {
             }).id(`${i}_block_from_ingot`);
         }
     });
+    global.raw_ores.forEach(i => {
+        event.shaped(`kubejs:block_of_raw_${i}`, [
+            'RRR',
+            'RRR',
+            'RRR'
+        ], {
+            R: `kubejs:raw_${i}`
+        }).id(`raw_${i}_block`);
+    })
     global.gems.forEach(i => {
         if (global.blocks.includes(i)) {
             event.shaped(`kubejs:${i}_block`, [

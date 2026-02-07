@@ -58,7 +58,7 @@ global.blocks = [
     'uranium', 'zinc'
 ];
 global.raw_ore_blocks = [
-    'aluminum', 'lead', 'silver', 'nickel', 'uranium'
+    'aluminum', 'lead', 'osmium', 'silver', 'tin', 'nickel', 'uranium'
 ];
 global.stones = [
     'tuff', 'deepslate', 'diorite', 'granite', 'andesite'

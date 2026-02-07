@@ -119,6 +119,18 @@ let recipes = [
         catalyst: 'minecraft:netherrack',
         consumeFirstBlock: false,
         consumeSecondBlock: false
+    }, /* Tuff */ {
+        result: 'minecraft:tuff',
+        advanced: false,
+        input1: 'minecraft:water',
+        input2: 'minecraft:lava',
+        requirements: [{
+            "type": "mechanicals:min_speed",
+            "value": 16.0
+        }],
+        catalyst: 'minecraft:tuff',
+        consumeFirstBlock: false,
+        consumeSecondBlock: false
     }
 ]
 ServerEvents.recipes(event => {

@@ -112,26 +112,31 @@
 				"1E55E9E9E3B8ECEB"
 				"00F5A80404525056"
 			]
+			hide_dependency_lines: true
 			id: "680620315DCA63A9"
+			optional: true
+			size: 0.5d
 			tasks: [{
 				id: "5E8B9CDF45B7A70E"
 				item: { count: 1, id: "minecraft:flow_armor_trim_smithing_template" }
 				type: "item"
 			}]
 			x: 6.0d
-			y: 2.0d
+			y: 1.25d
 		}
 		{
 			dependencies: ["1E55E9E9E3B8ECEB"]
 			hide_dependency_lines: true
 			id: "1B7DBB9574BC073D"
+			optional: true
+			size: 0.5d
 			tasks: [{
 				id: "7AE186B1143D5088"
 				item: { count: 1, id: "minecraft:bolt_armor_trim_smithing_template" }
 				type: "item"
 			}]
-			x: 3.0d
-			y: -3.0d
+			x: 2.0d
+			y: -2.75d
 		}
 		{
 			dependencies: ["1E55E9E9E3B8ECEB"]
@@ -232,7 +237,7 @@
 				value: 1L
 			}]
 			x: -2.0d
-			y: 3.0d
+			y: 6.0d
 		}
 		{
 			dependencies: ["041C0F5E471298D2"]
@@ -242,7 +247,7 @@
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:drinks/ominous)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 5.0d
+			x: 6.0d
 			y: 2.0d
 		}
 		{
@@ -325,7 +330,7 @@
 				item: { count: 1, id: "minecraft:totem_of_undying" }
 				type: "item"
 			}]
-			x: 5.0d
+			x: 6.0d
 			y: 5.0d
 		}
 		{
@@ -344,7 +349,7 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 5.0d
+			x: 6.0d
 			y: 4.0d
 		}
 		{
@@ -358,7 +363,7 @@
 				item: { count: 1, id: "minecraft:music_disc_creator" }
 				type: "item"
 			}]
-			x: 6.0d
+			x: 7.0d
 			y: 3.0d
 		}
 		{
@@ -369,12 +374,18 @@
 				item: { count: 1, id: "minecraft:flow_banner_pattern" }
 				type: "item"
 			}]
-			x: 6.0d
+			x: 7.0d
 			y: 1.0d
 		}
 		{
-			dependencies: ["7DCD55B7E458CF00"]
+			dependencies: [
+				"7DCD55B7E458CF00"
+				"274846B360B66C5C"
+			]
+			dependency_requirement: "one_completed"
+			hide_dependency_lines: true
 			id: "329942AD2F6AF1C0"
+			optional: true
 			rewards: [
 				{
 					id: "1D6E82D38FCA0D99"
@@ -405,13 +416,14 @@
 					type: "item"
 				}
 			]
+			size: 0.5d
 			tasks: [{
 				id: "791B757129E316CF"
 				item: { count: 1, id: "minecraft:vex_armor_trim_smithing_template" }
 				type: "item"
 			}]
-			x: 6.0d
-			y: 5.0d
+			x: 5.0d
+			y: 4.0d
 		}
 		{
 			dependencies: ["732EE5DB19BC573C"]
@@ -451,8 +463,581 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 0.0d
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["041C0F5E471298D2"]
+			hide_dependency_lines: true
+			id: "64339571CD7A85DA"
+			tasks: [{
+				entity: "minecraft:drowned"
+				icon: {
+					components: {
+						"!ftbquests:icon": { }
+						"ftbquests:entity_face": "minecraft:drowned"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "58182A77D3A031A2"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"64339571CD7A85DA"
+				"1F16859FE1A9CAE9"
+			]
+			id: "2E6627F0020B7BC2"
+			optional: true
+			rewards: [{
+				id: "7CFF52F8B40B8DC7"
+				item: {
+					count: 1
+					id: "minecraft:sniffer_egg"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [{
+				id: "17CFB72CF9CDE50F"
+				item: { count: 1, id: "minecraft:sniffer_egg" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2E6627F0020B7BC2"]
+			id: "3915FCA3790B51B9"
+			optional: true
+			tasks: [{
+				icon: {
+					components: {
+						"!ftbquests:icon": { }
+						"ftbquests:entity_face": "minecraft:sniffer"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "46361AD87458631F"
+				observe_type: 0
+				timer: 0L
+				to_observe: "minecraft:air"
+				type: "observation"
+			}]
+			x: -4.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["3915FCA3790B51B9"]
+			icon: {
+				id: "minecraft:torchflower"
+			}
+			id: "52571AADE617EDF4"
+			optional: true
+			rewards: [
+				{
+					id: "00FA2657DDFD810D"
+					item: {
+						count: 1
+						id: "minecraft:torchflower"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "2B5872DE3C80EE0F"
+					item: {
+						count: 1
+						id: "minecraft:torchflower_seeds"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "6A85F388A3BF7F7F"
+					item: { count: 1, id: "minecraft:torchflower_seeds" }
+					type: "item"
+				}
+				{
+					id: "0FA9C3790B7DBDEB"
+					item: { count: 1, id: "minecraft:torchflower" }
+					type: "item"
+				}
+			]
+			x: -5.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["3915FCA3790B51B9"]
+			icon: {
+				id: "minecraft:pitcher_plant"
+			}
+			id: "75CEB0236ED429E8"
+			optional: true
+			rewards: [
+				{
+					id: "73A71ADFDB3EB112"
+					item: {
+						count: 1
+						id: "minecraft:pitcher_plant"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "6E095D4C443B457A"
+					item: {
+						count: 1
+						id: "minecraft:pitcher_pod"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "4B631C764D46D45A"
+					item: { count: 1, id: "minecraft:pitcher_pod" }
+					type: "item"
+				}
+				{
+					id: "123A6986164FD7B3"
+					item: { count: 1, id: "minecraft:pitcher_plant" }
+					type: "item"
+				}
+			]
+			x: -5.0d
 			y: 4.0d
+		}
+		{
+			dependencies: ["2A5688459A5F90FD"]
+			hide_dependency_lines: true
+			id: "7F5BAC7E9351445C"
+			optional: true
+			size: 0.5d
+			tasks: [{
+				id: "570E927F5A029735"
+				item: { count: 1, id: "minecraft:archer_pottery_sherd" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 5.25d
+		}
+		{
+			dependencies: ["2A5688459A5F90FD"]
+			hide_dependency_lines: true
+			id: "3DAB8D385D06EC08"
+			optional: true
+			size: 0.5d
+			tasks: [{
+				id: "1EFFDCDAEC6F5B50"
+				item: { count: 1, id: "minecraft:prize_pottery_sherd" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 5.25d
+		}
+		{
+			dependencies: ["2A5688459A5F90FD"]
+			hide_dependency_lines: true
+			id: "6EADA666DC98869A"
+			optional: true
+			size: 0.5d
+			tasks: [{
+				id: "09F3C6809C13B5D0"
+				item: { count: 1, id: "minecraft:brewer_pottery_sherd" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 6.75d
+		}
+		{
+			dependencies: ["2A5688459A5F90FD"]
+			hide_dependency_lines: true
+			id: "613CBDAB6501B984"
+			optional: true
+			size: 0.5d
+			tasks: [{
+				id: "5D8CF89BA7C78F94"
+				item: { count: 1, id: "minecraft:miner_pottery_sherd" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 5.25d
+		}
+		{
+			dependencies: ["2A5688459A5F90FD"]
+			hide_dependency_lines: true
+			id: "620251BA6CB41CB0"
+			optional: true
+			size: 0.5d
+			tasks: [{
+				id: "47BDD40EEE6158CB"
+				item: { count: 1, id: "minecraft:arms_up_pottery_sherd" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 6.75d
+		}
+		{
+			dependencies: ["2A5688459A5F90FD"]
+			hide_dependency_lines: true
+			id: "2D5CCDB350FB5D24"
+			optional: true
+			size: 0.5d
+			tasks: [{
+				id: "3E728513640D525D"
+				item: { count: 1, id: "minecraft:skull_pottery_sherd" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 6.75d
+		}
+		{
+			dependencies: ["2A5688459A5F90FD"]
+			hide_dependency_lines: true
+			id: "4A6B93E9659DDF76"
+			optional: true
+			size: 0.5d
+			tasks: [{
+				id: "6FBC71C231B198FA"
+				item: { count: 1, id: "minecraft:dune_armor_trim_smithing_template" }
+				type: "item"
+			}]
+			x: -1.25d
+			y: 6.0d
+		}
+		{
+			dependencies: ["64339571CD7A85DA"]
+			hide_dependency_lines: true
+			id: "2714E5B67978D2DE"
+			optional: true
+			size: 0.5d
+			tasks: [{
+				id: "4FA63505BC8B3ED8"
+				item: { count: 1, id: "minecraft:angler_pottery_sherd" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 2.25d
+		}
+		{
+			dependencies: ["64339571CD7A85DA"]
+			hide_dependency_lines: true
+			id: "6C8F4D021A0AF8EB"
+			optional: true
+			size: 0.5d
+			tasks: [{
+				id: "458F68F5C28E09D7"
+				item: { count: 1, id: "minecraft:shelter_pottery_sherd" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 2.25d
+		}
+		{
+			dependencies: ["64339571CD7A85DA"]
+			hide_dependency_lines: true
+			id: "175ABA916909CC08"
+			optional: true
+			size: 0.5d
+			tasks: [{
+				id: "13DD9A96FA45B26A"
+				item: { count: 1, id: "minecraft:snort_pottery_sherd" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 2.25d
+		}
+		{
+			dependencies: ["64339571CD7A85DA"]
+			hide_dependency_lines: true
+			id: "25E7BBD7D767655C"
+			optional: true
+			size: 0.5d
+			tasks: [{
+				id: "4E7D3CDE09686092"
+				item: { count: 1, id: "minecraft:blade_pottery_sherd" }
+				type: "item"
+			}]
+			x: -2.75d
+			y: 3.75d
+		}
+		{
+			dependencies: ["64339571CD7A85DA"]
+			hide_dependency_lines: true
+			id: "0FEE32719CCD4EC0"
+			optional: true
+			size: 0.5d
+			tasks: [{
+				id: "02D422C0AC3BD748"
+				item: { count: 1, id: "minecraft:explorer_pottery_sherd" }
+				type: "item"
+			}]
+			x: -2.25d
+			y: 3.75d
+		}
+		{
+			dependencies: ["64339571CD7A85DA"]
+			hide_dependency_lines: true
+			id: "75BCBEED7BAB5245"
+			optional: true
+			size: 0.5d
+			tasks: [{
+				id: "35F9D050BE00641E"
+				item: { count: 1, id: "minecraft:mourner_pottery_sherd" }
+				type: "item"
+			}]
+			x: -1.75d
+			y: 3.75d
+		}
+		{
+			dependencies: ["64339571CD7A85DA"]
+			hide_dependency_lines: true
+			id: "3F7B6F420D82BAD9"
+			optional: true
+			size: 0.5d
+			tasks: [{
+				id: "1067525F7C8CA99D"
+				item: { count: 1, id: "minecraft:plenty_pottery_sherd" }
+				type: "item"
+			}]
+			x: -1.25d
+			y: 3.75d
+		}
+		{
+			dependencies: ["64339571CD7A85DA"]
+			hide_dependency_lines: true
+			id: "01A278B41B6F0419"
+			optional: true
+			size: 0.5d
+			tasks: [{
+				id: "5D5B817DCC8AB3FB"
+				item: { count: 1, id: "minecraft:coast_armor_trim_smithing_template" }
+				type: "item"
+			}]
+			x: -1.25d
+			y: 3.0d
+		}
+		{
+			dependencies: ["041C0F5E471298D2"]
+			hide_dependency_lines: true
+			id: "0A4D1FFFA7EEA761"
+			tasks: [{
+				entity: "minecraft:wither_skeleton"
+				icon: {
+					components: {
+						"!ftbquests:icon": { }
+						"ftbquests:entity_face": "minecraft:wither_skeleton"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "54FDB9583B6D5D66"
+				type: "kill"
+				value: 1L
+			}]
+			x: 9.0d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"6FAB74DAC0709900"
+				"0A4D1FFFA7EEA761"
+			]
+			dependency_requirement: "one_completed"
+			hide_dependency_lines: true
+			id: "4908F4F58F9486F7"
+			optional: true
+			size: 0.5d
+			tasks: [{
+				id: "531E4BD21403AC59"
+				item: { count: 1, id: "minecraft:rib_armor_trim_smithing_template" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["041C0F5E471298D2"]
+			hide_dependency_lines: true
+			id: "2513062705FC9485"
+			tasks: [{
+				entity: "minecraft:elder_guardian"
+				icon: {
+					components: {
+						"!ftbquests:icon": { }
+						"ftbquests:entity_face": "minecraft:elder_guardian"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "15177D93514CBCD0"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["2513062705FC9485"]
+			icon: {
+				id: "minecraft:sponge"
+			}
+			id: "6B4111F7BFF585CC"
+			rewards: [{
+				id: "21D024416EBDD39E"
+				item: {
+					count: 1
+					id: "minecraft:sponge"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "734C2B768176DF64"
+					item: { count: 1, id: "minecraft:wet_sponge" }
+					type: "item"
+				}
+				{
+					id: "02972E1091CE4B02"
+					item: { count: 1, id: "minecraft:sponge" }
+					type: "item"
+				}
+			]
+			x: -1.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["2513062705FC9485"]
+			hide_dependency_lines: true
+			id: "76330F1D6F513D0F"
+			optional: true
+			size: 0.5d
+			tasks: [{
+				id: "39875C9B24574B07"
+				item: { count: 1, id: "minecraft:tide_armor_trim_smithing_template" }
+				type: "item"
+			}]
+			x: 0.75d
+			y: 8.0d
+		}
+		{
+			dependencies: ["041C0F5E471298D2"]
+			hide_dependency_lines: true
+			id: "274846B360B66C5C"
+			tasks: [{
+				entity: "minecraft:vindicator"
+				icon: {
+					components: {
+						"!ftbquests:icon": { }
+						"ftbquests:entity_face": "minecraft:vindicator"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "7DFB04BFCEE7289C"
+				type: "kill"
+				value: 1L
+			}]
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["041C0F5E471298D2"]
+			hide_dependency_lines: true
+			id: "3C4D988050933C23"
+			tasks: [{
+				entity: "minecraft:piglin"
+				icon: {
+					components: {
+						"!ftbquests:icon": { }
+						"ftbquests:entity_face": "minecraft:piglin"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "4FDB1BF2C5636CEE"
+				type: "kill"
+				value: 1L
+			}]
+			x: 9.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["00F5A80404525056"]
+			hide_dependency_lines: true
+			id: "7617E6F0B3A48B6C"
+			tasks: [{
+				entity: "minecraft:piglin_brute"
+				icon: {
+					components: {
+						"!ftbquests:icon": { }
+						"ftbquests:entity_face": "minecraft:piglin_brute"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "1E57F7481DD185B5"
+				type: "kill"
+				value: 1L
+			}]
+			x: 9.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"3C4D988050933C23"
+				"7617E6F0B3A48B6C"
+			]
+			dependency_requirement: "one_completed"
+			hide_dependency_lines: true
+			id: "3C0857E8B41DDB0B"
+			optional: true
+			size: 0.5d
+			tasks: [{
+				id: "5C26B7970928441B"
+				item: { count: 1, id: "minecraft:snout_armor_trim_smithing_template" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["742231C130AAC014"]
+			dependency_requirement: "one_completed"
+			hide_dependency_lines: true
+			id: "296C851C67C619B6"
+			tasks: [{
+				entity: "minecraft:silverfish"
+				icon: {
+					components: {
+						"!ftbquests:icon": { }
+						"ftbquests:entity_face": "minecraft:silverfish"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "0EE0BCEF3A464737"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["296C851C67C619B6"]
+			id: "095F3EC1721CE3B9"
+			tasks: [{
+				id: "54AD34923EC1F432"
+				item: { count: 1, id: "minecraft:eye_armor_trim_smithing_template" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -2.0d
 		}
 	]
 }

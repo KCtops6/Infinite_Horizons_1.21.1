@@ -161,5 +161,53 @@
 			}
 			weight: 2.4f
 		}
+		{
+			id: "2DCEB6200026761E"
+			item: {
+				count: 1
+				id: "minecraft:archer_pottery_sherd"
+			}
+			weight: 0.67f
+		}
+		{
+			id: "7AB4C7905F89FADF"
+			item: {
+				count: 1
+				id: "minecraft:miner_pottery_sherd"
+			}
+			weight: 0.67f
+		}
+		{
+			id: "76A965C3FA20919B"
+			item: {
+				count: 1
+				id: "minecraft:prize_pottery_sherd"
+			}
+			weight: 0.67f
+		}
+		{
+			id: "52B4970710448541"
+			item: {
+				count: 1
+				id: "minecraft:skull_pottery_sherd"
+			}
+			weight: 0.67f
+		}
+		{
+			id: "647CC4D2AC5D5FD5"
+			item: {
+				count: 1
+				id: "minecraft:arms_up_pottery_sherd"
+			}
+			weight: 1.25f
+		}
+		{
+			id: "55A463539ECF7F27"
+			item: {
+				count: 1
+				id: "minecraft:brewer_pottery_sherd"
+			}
+			weight: 1.25f
+		}
 	]
 }

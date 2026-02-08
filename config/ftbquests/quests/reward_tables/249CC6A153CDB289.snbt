@@ -91,5 +91,37 @@
 			}
 			weight: 14.1f
 		}
+		{
+			id: "1519F7631A46EE69"
+			item: {
+				count: 1
+				id: "minecraft:blade_pottery_sherd"
+			}
+			weight: 0.3f
+		}
+		{
+			id: "5764D29CD96C236F"
+			item: {
+				count: 1
+				id: "minecraft:explorer_pottery_sherd"
+			}
+			weight: 0.3f
+		}
+		{
+			id: "64020240B55C411A"
+			item: {
+				count: 1
+				id: "minecraft:mourner_pottery_sherd"
+			}
+			weight: 0.3f
+		}
+		{
+			id: "487D64652F968C27"
+			item: {
+				count: 1
+				id: "minecraft:plenty_pottery_sherd"
+			}
+			weight: 0.3f
+		}
 	]
 }

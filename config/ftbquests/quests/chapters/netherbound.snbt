@@ -110,44 +110,6 @@
 			y: 1.0d
 		}
 		{
-			dependencies: ["041C0F5E471298D2"]
-			icon: {
-				id: "minecraft:wither_skeleton_skull"
-			}
-			id: "287FB95D062FF224"
-			rewards: [{
-				id: "0421C37FD243EF97"
-				item: {
-					count: 1
-					id: "minecraft:wither_skeleton_skull"
-				}
-				random_bonus: 2
-				type: "item"
-			}]
-			tasks: [
-				{
-					entity: "minecraft:wither_skeleton"
-					icon: {
-						components: {
-							"!ftbquests:icon": { }
-							"ftbquests:entity_face": "minecraft:wither_skeleton"
-						}
-						id: "ftbquests:custom_icon"
-					}
-					id: "3322E1157AA75A66"
-					type: "kill"
-					value: 1L
-				}
-				{
-					id: "618EB1E8A8A493B6"
-					item: { count: 1, id: "minecraft:wither_skeleton_skull" }
-					type: "item"
-				}
-			]
-			x: 0.0d
-			y: -4.0d
-		}
-		{
 			dependencies: ["27AD5982B40072FD"]
 			id: "348E9391E99E4887"
 			tasks: [{
@@ -240,10 +202,7 @@
 			y: -1.75d
 		}
 		{
-			dependencies: [
-				"041C0F5E471298D2"
-				"0FB0C1EE923FA930"
-			]
+			dependencies: ["041C0F5E471298D2"]
 			id: "1FE42BC33648C5DB"
 			tasks: [{
 				id: "6F3B4B516DFFE7D5"
@@ -274,20 +233,6 @@
 			}]
 			x: -2.0d
 			y: -1.0d
-		}
-		{
-			dependencies: [
-				"041C0F5E471298D2"
-				"1A192DCD24F759CB"
-			]
-			id: "38ED22FBE6045792"
-			tasks: [{
-				id: "77CA06193E8FD853"
-				item: { count: 1, id: "minecraft:magma_cream" }
-				type: "item"
-			}]
-			x: 4.0d
-			y: -3.0d
 		}
 		{
 			dependencies: [
@@ -388,90 +333,6 @@
 			y: -1.0d
 		}
 		{
-			dependencies: ["465C87D45CF7C220"]
-			hide_dependent_lines: true
-			id: "3E571F8FEDEEFDCB"
-			rewards: [
-				{
-					id: "1A4D401AB5C96FEC"
-					item: {
-						count: 1
-						id: "minecraft:netherite_upgrade_smithing_template"
-					}
-					random_bonus: 2
-					type: "item"
-				}
-				{
-					count: 3
-					id: "6DCE525B2E1B9213"
-					item: {
-						count: 1
-						id: "minecraft:diamond"
-					}
-					random_bonus: 2
-					type: "item"
-				}
-			]
-			tasks: [{
-				id: "518E0E9661D332EC"
-				item: { count: 1, id: "minecraft:netherite_upgrade_smithing_template" }
-				type: "item"
-			}]
-			x: -2.0d
-			y: 1.0d
-		}
-		{
-			dependencies: ["041C0F5E471298D2"]
-			id: "465C87D45CF7C220"
-			tasks: [{
-				entity: "minecraft:piglin"
-				icon: {
-					components: {
-						"!ftbquests:icon": { }
-						"ftbquests:entity_face": "minecraft:piglin"
-					}
-					id: "ftbquests:custom_icon"
-				}
-				id: "07C632E10A44BE41"
-				type: "kill"
-				value: 1L
-			}]
-			x: -2.0d
-			y: 2.0d
-		}
-		{
-			dependencies: ["465C87D45CF7C220"]
-			id: "700A34A580333240"
-			rewards: [
-				{
-					id: "272533DA28142E1D"
-					item: {
-						count: 1
-						id: "minecraft:snout_armor_trim_smithing_template"
-					}
-					random_bonus: 2
-					type: "item"
-				}
-				{
-					count: 3
-					id: "266E6C78116FE348"
-					item: {
-						count: 1
-						id: "minecraft:diamond"
-					}
-					random_bonus: 2
-					type: "item"
-				}
-			]
-			tasks: [{
-				id: "1F4496B790EA3B9C"
-				item: { count: 1, id: "minecraft:snout_armor_trim_smithing_template" }
-				type: "item"
-			}]
-			x: -1.0d
-			y: 2.0d
-		}
-		{
 			dependencies: ["732EE5DB19BC573C"]
 			id: "776025C659C44009"
 			rewards: [{
@@ -492,10 +353,7 @@
 			y: 3.0d
 		}
 		{
-			dependencies: [
-				"732EE5DB19BC573C"
-				"3E571F8FEDEEFDCB"
-			]
+			dependencies: ["732EE5DB19BC573C"]
 			hide_dependency_lines: true
 			id: "78C38D600E58159C"
 			optional: true
@@ -509,10 +367,7 @@
 			y: 2.75d
 		}
 		{
-			dependencies: [
-				"732EE5DB19BC573C"
-				"3E571F8FEDEEFDCB"
-			]
+			dependencies: ["732EE5DB19BC573C"]
 			hide_dependency_lines: true
 			id: "658399DB3AD1D28A"
 			optional: true
@@ -526,10 +381,7 @@
 			y: 2.75d
 		}
 		{
-			dependencies: [
-				"732EE5DB19BC573C"
-				"3E571F8FEDEEFDCB"
-			]
+			dependencies: ["732EE5DB19BC573C"]
 			hide_dependency_lines: true
 			id: "0345CCEC59322E78"
 			optional: true
@@ -543,10 +395,7 @@
 			y: 3.25d
 		}
 		{
-			dependencies: [
-				"732EE5DB19BC573C"
-				"3E571F8FEDEEFDCB"
-			]
+			dependencies: ["732EE5DB19BC573C"]
 			hide_dependency_lines: true
 			id: "551CC7E896138597"
 			optional: true
@@ -560,10 +409,7 @@
 			y: 3.25d
 		}
 		{
-			dependencies: [
-				"732EE5DB19BC573C"
-				"3E571F8FEDEEFDCB"
-			]
+			dependencies: ["732EE5DB19BC573C"]
 			hide_dependency_lines: true
 			id: "4DF5ED1CE71EEE93"
 			optional: true
@@ -577,10 +423,7 @@
 			y: 3.75d
 		}
 		{
-			dependencies: [
-				"732EE5DB19BC573C"
-				"3E571F8FEDEEFDCB"
-			]
+			dependencies: ["732EE5DB19BC573C"]
 			hide_dependency_lines: true
 			id: "4899BF4C3AFB69B6"
 			optional: true
@@ -594,10 +437,7 @@
 			y: 3.75d
 		}
 		{
-			dependencies: [
-				"732EE5DB19BC573C"
-				"3E571F8FEDEEFDCB"
-			]
+			dependencies: ["732EE5DB19BC573C"]
 			hide_dependency_lines: true
 			id: "56E2CB3C01C4FAFD"
 			optional: true
@@ -611,10 +451,7 @@
 			y: 3.75d
 		}
 		{
-			dependencies: [
-				"732EE5DB19BC573C"
-				"3E571F8FEDEEFDCB"
-			]
+			dependencies: ["732EE5DB19BC573C"]
 			hide_dependency_lines: true
 			id: "7D49AF282850A612"
 			optional: true
@@ -628,10 +465,7 @@
 			y: 4.25d
 		}
 		{
-			dependencies: [
-				"732EE5DB19BC573C"
-				"3E571F8FEDEEFDCB"
-			]
+			dependencies: ["732EE5DB19BC573C"]
 			hide_dependency_lines: true
 			id: "238923FC439B15AE"
 			optional: true
@@ -645,43 +479,7 @@
 			y: 4.25d
 		}
 		{
-			dependencies: ["041C0F5E471298D2"]
-			id: "0FB0C1EE923FA930"
-			tasks: [{
-				entity: "minecraft:blaze"
-				icon: {
-					components: {
-						"!ftbquests:icon": { }
-						"ftbquests:entity_face": "minecraft:blaze"
-					}
-					id: "ftbquests:custom_icon"
-				}
-				id: "3F3AD8042770490F"
-				type: "kill"
-				value: 1L
-			}]
-			x: -2.0d
-			y: -4.0d
-		}
-		{
-			dependencies: [
-				"0FB0C1EE923FA930"
-				"287FB95D062FF224"
-			]
-			id: "51E8E4162108898B"
-			tasks: [{
-				id: "5037BADDEAA13872"
-				item: { count: 1, id: "minecraft:rib_armor_trim_smithing_template" }
-				type: "item"
-			}]
-			x: -1.0d
-			y: -5.0d
-		}
-		{
-			dependencies: [
-				"27115761CCA7ADB6"
-				"287FB95D062FF224"
-			]
+			dependencies: ["27115761CCA7ADB6"]
 			id: "12AE6346D00AA264"
 			rewards: [{
 				id: "11DF0A481AE20E63"
@@ -701,40 +499,7 @@
 			y: -3.0d
 		}
 		{
-			dependencies: ["041C0F5E471298D2"]
-			id: "1A192DCD24F759CB"
-			tasks: [{
-				entity: "minecraft:magma_cube"
-				icon: {
-					components: {
-						"!ftbquests:icon": { }
-						"ftbquests:entity_face": "minecraft:magma_cube"
-					}
-					id: "ftbquests:custom_icon"
-				}
-				id: "65595508689DBDDB"
-				type: "kill"
-				value: 1L
-			}]
-			x: 3.0d
-			y: -3.0d
-		}
-		{
-			dependencies: ["465C87D45CF7C220"]
-			id: "27D51B14E7F8A98B"
-			tasks: [{
-				id: "0EC1ED6463690038"
-				item: { count: 1, id: "minecraft:piglin_banner_pattern" }
-				type: "item"
-			}]
-			x: -2.0d
-			y: 3.0d
-		}
-		{
-			dependencies: [
-				"27115761CCA7ADB6"
-				"287FB95D062FF224"
-			]
+			dependencies: ["27115761CCA7ADB6"]
 			icon: {
 				components: {
 					"!ftbquests:icon": { }

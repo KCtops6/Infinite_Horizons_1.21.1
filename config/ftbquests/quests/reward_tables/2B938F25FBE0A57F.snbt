@@ -124,5 +124,29 @@
 			}
 			weight: 16.7f
 		}
+		{
+			id: "795F26647F5C65FF"
+			item: {
+				count: 1
+				id: "minecraft:angler_pottery_sherd"
+			}
+			weight: 0.56f
+		}
+		{
+			id: "1BF031D683AA3772"
+			item: {
+				count: 1
+				id: "minecraft:shelter_pottery_sherd"
+			}
+			weight: 0.56f
+		}
+		{
+			id: "5B3E84FE04095FD6"
+			item: {
+				count: 1
+				id: "minecraft:snort_pottery_sherd"
+			}
+			weight: 0.56f
+		}
 	]
 }

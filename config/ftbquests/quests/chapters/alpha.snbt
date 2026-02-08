@@ -2615,7 +2615,7 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 0.0d
+			x: 1.0d
 			y: -2.0d
 		}
 		{
@@ -2912,6 +2912,102 @@
 			]
 			x: -3.0d
 			y: -4.0d
+		}
+		{
+			dependencies: ["7E6FA6BACC7B007E"]
+			hide_dependency_lines: true
+			id: "1F16859FE1A9CAE9"
+			tasks: [{
+				id: "6EC49AAA91EF98E3"
+				item: { count: 1, id: "minecraft:moss_block" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["211BF4A68D1D2CBE"]
+			hide_dependency_lines: true
+			id: "4CE626711661EC94"
+			optional: true
+			size: 0.5d
+			tasks: [{
+				id: "0A4B8622C27BE21C"
+				item: { count: 1, id: "minecraft:sentry_armor_trim_smithing_template" }
+				type: "item"
+			}]
+			x: -3.75d
+			y: -3.0d
+		}
+		{
+			dependencies: ["5B344A38715979C6"]
+			hide_dependency_lines: true
+			id: "362F91222B5DDD62"
+			optional: true
+			size: 0.5d
+			tasks: [{
+				id: "7FA76B2D0F71864E"
+				item: { count: 1, id: "minecraft:wild_armor_trim_smithing_template" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.75d
+		}
+		{
+			dependencies: [
+				"5B344A38715979C6"
+				"17B2959C191DD2C6"
+				"7639FDCB3A13E2BF"
+				"132BA1207D041791"
+				"0F31FA5A2CCBC38F"
+			]
+			dependency_requirement: "one_completed"
+			hide_dependency_lines: true
+			id: "5274C44DBDD8FA59"
+			optional: true
+			size: 0.5d
+			tasks: [{
+				id: "2598346BFFD6D557"
+				item: { count: 1, id: "minecraft:silence_armor_trim_smithing_template" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -3.75d
+		}
+		{
+			dependencies: [
+				"5B344A38715979C6"
+				"17B2959C191DD2C6"
+				"7639FDCB3A13E2BF"
+				"132BA1207D041791"
+				"0F31FA5A2CCBC38F"
+			]
+			dependency_requirement: "one_completed"
+			hide_dependency_lines: true
+			id: "5FBAC9045B469936"
+			optional: true
+			size: 0.5d
+			tasks: [{
+				id: "5FC5465225B648F9"
+				item: { count: 1, id: "minecraft:ward_armor_trim_smithing_template" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -3.75d
+		}
+		{
+			dependencies: ["0F31FA5A2CCBC38F"]
+			hide_dependency_lines: true
+			id: "05FE12EB3CD17A7C"
+			optional: true
+			size: 0.5d
+			tasks: [{
+				id: "3EE909B8F8B4BB35"
+				item: { count: 1, id: "minecraft:spire_armor_trim_smithing_template" }
+				type: "item"
+			}]
+			x: 1.75d
+			y: -2.0d
 		}
 	]
 }

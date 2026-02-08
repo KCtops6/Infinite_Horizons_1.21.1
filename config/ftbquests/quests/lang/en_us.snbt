@@ -163,6 +163,7 @@
 	quest.2DE910ED267EC744.quest_subtitle: "Harness the Essence of Mobs"
 	quest.2DE910ED267EC744.title: "Crafting with the Soul Jar"
 	quest.2E3C3B797975843F.quest_desc: ["Limited uses other than for \"Awakening\" crafting much later on."]
+	quest.2E6627F0020B7BC2.quest_desc: ["Obtained through the Shipwreck Supply loot crates from Drowned mobs."]
 	quest.2EEB389CD9B0976B.quest_desc: ["The &lTinkering Table&r is a crucial tool for upgrading Mystical Agriculture tools, weapons, and armor. By using this table, you can enhance the capabilities of your gear, improving its durability, effectiveness, and special attributes. Whether you’re looking to make your tools more efficient or strengthen your armor, the Tinkering Table is the key to unlocking the full potential of your mystical creations."]
 	quest.2EEB389CD9B0976B.quest_subtitle: "Upgrading Your Mystical Gear"
 	quest.2EEB389CD9B0976B.title: "Tinkering for Power"
@@ -304,6 +305,7 @@
 	quest.4FCED4F5C0320523.quest_desc: ["Obtained from using a stone trowel (or higher) on dirt or grass. The crushed version of this block (obtained by breaking with a hammer) has the same trowel drops as normal gravel."]
 	quest.4FCED4F5C0320523.quest_subtitle: "Crafting the Building Blocks"
 	quest.4FCED4F5C0320523.title: "Andesite Essentials"
+	quest.52571AADE617EDF4.title: "Torchflowers"
 	quest.528AC4A13D35951B.quest_desc: ["Sometimes, you need a little extra force to break through. Craft a &lStone Hammer&r, then use it to break cobblestone into &lGravel&r. This simple tool will help you expand your resource pool and provide the materials needed for future advancements. Keep hammering away."]
 	quest.528AC4A13D35951B.quest_subtitle: "Turning Stone into Gravel"
 	quest.528AC4A13D35951B.title: "Hammering the Basics"
@@ -348,6 +350,7 @@
 	quest.6B053EAB0CB56AE7.title: "Kitchen Essentials"
 	quest.6B326C5826B6B4DB.quest_desc: ["Useful villager for good early game foods."]
 	quest.6B326C5826B6B4DB.quest_subtitle: "Butcher Villager"
+	quest.6B4111F7BFF585CC.title: "Sponge"
 	quest.6BC4240AF36D8AA9.quest_desc: ["The Nether’s influence can reshape the Overworld. By placing Sandstone near an active Nether Portal, the heat and energy from the portal will gradually darken it, transforming it into &lBlackstone&r. This method provides an Overworld-friendly way to obtain Blackstone, making it a valuable resource for builders and crafters alike."]
 	quest.6BC4240AF36D8AA9.quest_subtitle: "Transforming Sandstone into Blackstone"
 	quest.6BC4240AF36D8AA9.title: "Shadowed Sands"
@@ -429,6 +432,7 @@
 	task.137E4FCCE42753C8.title: "Any #sophisticated:advanced_pickup_upgrades"
 	task.1402AAF1980AE030.title: "Obtain an Ominous Bottle."
 	task.150DA982F22B0CCB.title: "Any #sophisticatedstorage:gold_storages"
+	task.15177D93514CBCD0.title: "Kill an Elder Guardian"
 	task.154ED8DD236C5EE5.title: "Reliable Power Source for Applied Energistics 2"
 	task.159C9E809E5BBFD8.title: "Any #sophisticated:advanced_filter_upgrades"
 	task.174F5F1106681A08.title: "Assemble a Blast Furnace"
@@ -473,6 +477,7 @@
 	task.410A38954F068438.title: "Any #sophisticatedstorage:iron_upgrades"
 	task.426C6EF46092E0A3.title: "Any #sophisticated:auto_smoking_upgrades"
 	task.45179C9681DEDDB1.title: "Enter a Bastion Remnant."
+	task.46361AD87458631F.title: "Observe a Sniffer"
 	task.478EF7396C5BCF8E.title: "Find a Nether Fortress."
 	task.4921D67F775FC145.title: "Obtain a Coral Block"
 	task.4ADD9AB4E3607AAB.title: "Enter the Nether!"
@@ -493,6 +498,7 @@
 	task.55108392EA23FEC5.title: "Any #sophisticated:advanced_feeding_upgrades"
 	task.5706085FFADF5FB5.title: "Any #sophisticated:compacting_upgrades"
 	task.57C3AB6C7C5750BB.title: "Obtain Iron Armor from an Armorer Villager."
+	task.58182A77D3A031A2.title: "Kill a Drowned"
 	task.59AACF98ECAB1132.title: "Any #sophisticatedstorage:diamond_storages"
 	task.59B8D4A25C0E1F68.title: "Observe a Stonecutter"
 	task.5A702F712D92A8C9.title: "Any #c:cheese"

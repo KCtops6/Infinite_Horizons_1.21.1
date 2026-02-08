@@ -167,5 +167,13 @@
 			random_bonus: 1
 			weight: 7.5f
 		}
+		{
+			id: "5C7CF80B7DA75899"
+			item: {
+				count: 1
+				id: "minecraft:sniffer_egg"
+			}
+			weight: 0.36f
+		}
 	]
 }

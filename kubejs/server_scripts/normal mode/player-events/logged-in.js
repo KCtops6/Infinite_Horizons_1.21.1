@@ -12,5 +12,5 @@ PlayerEvents.loggedIn(event => {
         Text.red('Note, the mod '),
         Text.darkRed('Generators Galore').bold(),
         Text.red(' is scheduled for removal in Version 2.1.')
-    ])
+    ]);
 });

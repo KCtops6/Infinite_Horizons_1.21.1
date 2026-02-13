@@ -520,8 +520,9 @@
 		{
 			dependencies: [
 				"170192578F1D5CA0"
-				"33D6090BFA547D8B"
+				"0A32D1747C313758"
 			]
+			dependency_requirement: "one_completed"
 			id: "11332A8490D1FD31"
 			rewards: [
 				{
@@ -557,14 +558,11 @@
 				item: { count: 1, id: "minecraft:redstone" }
 				type: "item"
 			}]
-			x: -3.0d
-			y: 8.0d
+			x: -2.0d
+			y: 4.0d
 		}
 		{
-			dependencies: [
-				"170192578F1D5CA0"
-				"33D6090BFA547D8B"
-			]
+			dependencies: ["170192578F1D5CA0"]
 			id: "0886E9D3C195E26E"
 			rewards: [
 				{
@@ -601,7 +599,7 @@
 				type: "item"
 			}]
 			x: -2.0d
-			y: 8.0d
+			y: 6.0d
 		}
 		{
 			dependencies: [
@@ -647,8 +645,8 @@
 				item: { count: 1, id: "minecraft:nautilus_shell" }
 				type: "item"
 			}]
-			x: 2.0d
-			y: 4.0d
+			x: 5.0d
+			y: 5.0d
 		}
 		{
 			dependencies: [
@@ -1613,10 +1611,7 @@
 			y: 5.0d
 		}
 		{
-			dependencies: [
-				"497252ADF991FABA"
-				"3669B1306B9EF7D4"
-			]
+			dependencies: ["497252ADF991FABA"]
 			id: "0A32D1747C313758"
 			rewards: [{
 				count: 3
@@ -1634,10 +1629,10 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 2.0d
+			y: 6.0d
 		}
 		{
-			dependencies: ["0B4907DC57D21E6D"]
+			dependencies: ["0A32D1747C313758"]
 			id: "53AC5BC20682441D"
 			rewards: [
 				{
@@ -1702,12 +1697,11 @@
 					type: "item"
 				}
 			]
-			x: -1.0d
-			y: 5.0d
+			x: 2.0d
+			y: 4.0d
 		}
 		{
 			dependencies: ["7E6FA6BACC7B007E"]
-			hide_dependent_lines: true
 			id: "497252ADF991FABA"
 			tasks: [{
 				icon: {
@@ -1723,7 +1717,7 @@
 				to_observe: "minecraft:villager"
 				type: "observation"
 			}]
-			x: -1.0d
+			x: 0.0d
 			y: 2.0d
 		}
 		{
@@ -2096,110 +2090,7 @@
 			y: 3.0d
 		}
 		{
-			dependencies: ["497252ADF991FABA"]
-			id: "6C4FDFF35F1492D0"
-			rewards: [{
-				id: "6DAE0D421A382B16"
-				item: {
-					count: 1
-					id: "minecraft:emerald"
-				}
-				random_bonus: 2
-				type: "item"
-			}]
-			tasks: [{
-				icon: {
-					components: {
-						"ftbquests:icon": "minecraft:block/smithing_table_front"
-					}
-					id: "ftbquests:custom_icon"
-				}
-				id: "68D1A70BF2CC4024"
-				observe_type: 0
-				timer: 0L
-				to_observe: "minecraft:smithing_table"
-				type: "observation"
-			}]
-			x: -3.0d
-			y: 6.0d
-		}
-		{
-			dependencies: ["497252ADF991FABA"]
-			id: "01AD5D969099BD05"
-			tasks: [{
-				icon: {
-					components: {
-						"ftbquests:icon": "minecraft:block/blast_furnace_front_on"
-					}
-					id: "ftbquests:custom_icon"
-				}
-				id: "324A9CD9F7530BE2"
-				observe_type: 0
-				timer: 0L
-				to_observe: "minecraft:blast_furnace"
-				type: "observation"
-			}]
-			x: -3.0d
-			y: 4.0d
-		}
-		{
-			dependencies: ["497252ADF991FABA"]
-			id: "2EFF745D6536FFF5"
-			tasks: [{
-				icon: {
-					id: "minecraft:grindstone"
-				}
-				id: "4EECDE7D1595D72F"
-				observe_type: 0
-				timer: 0L
-				to_observe: "minecraft:grindstone"
-				type: "observation"
-			}]
-			x: -1.0d
-			y: 4.0d
-		}
-		{
-			dependencies: ["497252ADF991FABA"]
-			hide_dependent_lines: true
-			id: "0B4907DC57D21E6D"
-			tasks: [{
-				icon: {
-					components: {
-						"ftbquests:icon": "minecraft:block/composter_side"
-					}
-					id: "ftbquests:custom_icon"
-				}
-				id: "38211EC72D1A2A4D"
-				observe_type: 0
-				timer: 0L
-				to_observe: "minecraft:composter"
-				type: "observation"
-			}]
-			x: -2.0d
-			y: 5.0d
-		}
-		{
-			dependencies: ["497252ADF991FABA"]
-			hide_dependent_lines: true
-			id: "33D6090BFA547D8B"
-			tasks: [{
-				icon: {
-					components: {
-						"ftbquests:icon": "minecraft:item/brewing_stand"
-					}
-					id: "ftbquests:custom_icon"
-				}
-				id: "62DBA270B6176AB1"
-				observe_type: 0
-				timer: 0L
-				to_observe: "minecraft:brewing_stand"
-				type: "observation"
-			}]
-			x: -2.0d
-			y: 6.0d
-		}
-		{
-			dependencies: ["33D6090BFA547D8B"]
+			dependencies: ["0A32D1747C313758"]
 			icon: {
 				id: "minecraft:glowstone_dust"
 			}
@@ -2245,50 +2136,11 @@
 					type: "item"
 				}
 			]
-			x: -1.0d
-			y: 8.0d
+			x: -2.0d
+			y: 5.0d
 		}
 		{
-			dependencies: ["33D6090BFA547D8B"]
-			id: "2DFC981F6FBDAAB3"
-			rewards: [
-				{
-					id: "6370EF35971901FA"
-					item: {
-						count: 1
-						id: "minecraft:emerald"
-					}
-					random_bonus: 2
-					type: "item"
-				}
-				{
-					id: "379FC5C090F183C7"
-					item: {
-						count: 1
-						id: "minecraft:ender_pearl"
-					}
-					random_bonus: 2
-					type: "item"
-				}
-				{
-					id: "39FF607DDDFE2771"
-					item: {
-						count: 1
-						id: "pamhc2foodextended:chickentendersitem"
-					}
-					type: "item"
-				}
-			]
-			tasks: [{
-				id: "11861B2E04CC9D4C"
-				item: { count: 1, id: "minecraft:ender_pearl" }
-				type: "item"
-			}]
-			x: -3.0d
-			y: 9.0d
-		}
-		{
-			dependencies: ["33D6090BFA547D8B"]
+			dependencies: ["0A32D1747C313758"]
 			id: "050981ABE9425101"
 			rewards: [
 				{
@@ -2324,10 +2176,10 @@
 				type: "item"
 			}]
 			x: -2.0d
-			y: 9.0d
+			y: 8.0d
 		}
 		{
-			dependencies: ["33D6090BFA547D8B"]
+			dependencies: ["0A32D1747C313758"]
 			id: "117B34F7EB4DB72A"
 			rewards: [
 				{
@@ -2362,11 +2214,11 @@
 				item: { count: 1, id: "minecraft:experience_bottle" }
 				type: "item"
 			}]
-			x: -1.0d
-			y: 9.0d
+			x: -2.0d
+			y: 7.0d
 		}
 		{
-			dependencies: ["7E6FA6BACC7B007E"]
+			dependencies: ["0A32D1747C313758"]
 			hide_dependent_lines: true
 			id: "3669B1306B9EF7D4"
 			rewards: [{
@@ -2392,8 +2244,8 @@
 				to_observe: "minecraft:wandering_trader"
 				type: "observation"
 			}]
-			x: 1.0d
-			y: 2.0d
+			x: 2.0d
+			y: 6.0d
 		}
 		{
 			dependencies: ["7E6FA6BACC7B007E"]
@@ -2655,44 +2507,7 @@
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(kubejs:coral_blocks)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 1.0d
-			y: 4.0d
-		}
-		{
-			dependencies: ["497252ADF991FABA"]
-			id: "34F11C0803BFBB1F"
-			tasks: [{
-				icon: {
-					id: "minecraft:lectern"
-				}
-				id: "1B894D69EB04100D"
-				observe_type: 0
-				timer: 0L
-				to_observe: "minecraft:lectern"
-				type: "observation"
-			}]
-			x: -2.0d
-			y: 4.0d
-		}
-		{
-			dependencies: ["497252ADF991FABA"]
-			hide_dependency_lines: true
-			hide_dependent_lines: true
-			id: "6B326C5826B6B4DB"
-			tasks: [{
-				icon: {
-					components: {
-						"ftbquests:icon": "minecraft:block/smoker_front_on"
-					}
-					id: "ftbquests:custom_icon"
-				}
-				id: "04BD6DA98B4C7D44"
-				observe_type: 0
-				timer: 0L
-				to_observe: "minecraft:smoker"
-				type: "observation"
-			}]
-			x: -3.0d
+			x: 4.0d
 			y: 5.0d
 		}
 		{
@@ -2723,8 +2538,8 @@
 				item: { count: 1, id: "minecraft:sugar_cane" }
 				type: "item"
 			}]
-			x: 1.0d
-			y: 5.0d
+			x: 4.0d
+			y: 6.0d
 		}
 		{
 			dependencies: [
@@ -2758,8 +2573,8 @@
 				item: { count: 1, id: "minecraft:cactus" }
 				type: "item"
 			}]
-			x: 2.0d
-			y: 5.0d
+			x: 5.0d
+			y: 6.0d
 		}
 		{
 			dependencies: ["3669B1306B9EF7D4"]
@@ -2789,8 +2604,8 @@
 				item: { count: 1, id: "minecraft:kelp" }
 				type: "item"
 			}]
-			x: 3.0d
-			y: 5.0d
+			x: 6.0d
+			y: 6.0d
 		}
 		{
 			dependencies: ["3669B1306B9EF7D4"]
@@ -2828,8 +2643,8 @@
 				item: { count: 1, id: "minecraft:melon_seeds" }
 				type: "item"
 			}]
-			x: 1.0d
-			y: 6.0d
+			x: 4.0d
+			y: 7.0d
 		}
 		{
 			dependencies: ["3669B1306B9EF7D4"]
@@ -2867,8 +2682,8 @@
 				item: { count: 1, id: "minecraft:pumpkin_seeds" }
 				type: "item"
 			}]
-			x: 2.0d
-			y: 6.0d
+			x: 5.0d
+			y: 7.0d
 		}
 		{
 			dependencies: ["211BF4A68D1D2CBE"]
@@ -2922,8 +2737,8 @@
 				item: { count: 1, id: "minecraft:moss_block" }
 				type: "item"
 			}]
-			x: 6.0d
-			y: 5.0d
+			x: -5.0d
+			y: 1.0d
 		}
 		{
 			dependencies: ["211BF4A68D1D2CBE"]

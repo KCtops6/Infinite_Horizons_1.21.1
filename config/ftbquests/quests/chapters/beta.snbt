@@ -343,15 +343,15 @@
 			y: -8.0d
 		}
 		{
-			dependencies: ["27115761CCA7ADB6"]
+			dependencies: ["247655472A2FFA4B"]
 			id: "1284CA2D49C1FE72"
 			tasks: [{
 				id: "18E42C63E1492A68"
 				item: { count: 1, id: "create:scoria" }
 				type: "item"
 			}]
-			x: 0.0d
-			y: 4.0d
+			x: -2.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["579D7FD06F5DC4D7"]
@@ -362,7 +362,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: -3.0d
+			y: -2.0d
 		}
 		{
 			dependencies: ["1B922950A7570482"]
@@ -405,10 +405,7 @@
 			y: 3.0d
 		}
 		{
-			dependencies: [
-				"27AD5982B40072FD"
-				"579D7FD06F5DC4D7"
-			]
+			dependencies: ["579D7FD06F5DC4D7"]
 			id: "33FD237C4BEF8440"
 			rewards: [
 				{
@@ -623,8 +620,8 @@
 		}
 		{
 			dependencies: [
-				"01AEEA186BB50BB0"
 				"11332A8490D1FD31"
+				"1C5D9691CB7290BA"
 			]
 			icon: {
 				id: "create:polished_rose_quartz"
@@ -1156,6 +1153,7 @@
 				"6346D688C76ED68C"
 				"40B3B159DE68602F"
 			]
+			hide_dependent_lines: true
 			id: "0257C2107FC7B356"
 			rewards: [
 				{
@@ -1203,8 +1201,8 @@
 				item: { count: 1, id: "create:mechanical_crafter" }
 				type: "item"
 			}]
-			x: 16.0d
-			y: -2.0d
+			x: 15.0d
+			y: -3.0d
 		}
 		{
 			dependencies: [
@@ -1421,10 +1419,7 @@
 			y: 0.0d
 		}
 		{
-			dependencies: [
-				"75427194B86E02D5"
-				"732EE5DB19BC573C"
-			]
+			dependencies: ["75427194B86E02D5"]
 			id: "131CB918E3D68522"
 			tasks: [{
 				id: "16E8808DA093A4AA"
@@ -1634,10 +1629,7 @@
 			y: 1.0d
 		}
 		{
-			dependencies: [
-				"3271573EB6A6CEF0"
-				"78C38D600E58159C"
-			]
+			dependencies: ["3271573EB6A6CEF0"]
 			id: "659683E9C8FB1471"
 			tasks: [{
 				id: "099DCF9ABEF082DF"
@@ -1648,10 +1640,7 @@
 			y: -1.0d
 		}
 		{
-			dependencies: [
-				"3271573EB6A6CEF0"
-				"658399DB3AD1D28A"
-			]
+			dependencies: ["3271573EB6A6CEF0"]
 			id: "24FE242AC8C195D1"
 			tasks: [{
 				id: "3EE8E8C2EA81992A"
@@ -1662,10 +1651,7 @@
 			y: -1.0d
 		}
 		{
-			dependencies: [
-				"3271573EB6A6CEF0"
-				"0345CCEC59322E78"
-			]
+			dependencies: ["3271573EB6A6CEF0"]
 			id: "0340734DA7374FD6"
 			tasks: [{
 				id: "35B85D4CBA40778D"
@@ -1676,10 +1662,7 @@
 			y: 0.0d
 		}
 		{
-			dependencies: [
-				"3271573EB6A6CEF0"
-				"551CC7E896138597"
-			]
+			dependencies: ["3271573EB6A6CEF0"]
 			id: "72EF21534979A08D"
 			tasks: [{
 				id: "55FF6910D464B460"

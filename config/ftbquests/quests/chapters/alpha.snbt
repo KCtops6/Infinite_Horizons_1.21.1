@@ -514,8 +514,8 @@
 				item: { count: 1, id: "minecraft:obsidian" }
 				type: "item"
 			}]
-			x: 19.0d
-			y: -4.0d
+			x: 21.0d
+			y: 0.0d
 		}
 		{
 			dependencies: [
@@ -562,7 +562,11 @@
 			y: 4.0d
 		}
 		{
-			dependencies: ["170192578F1D5CA0"]
+			dependencies: [
+				"170192578F1D5CA0"
+				"0A32D1747C313758"
+			]
+			dependency_requirement: "one_completed"
 			id: "0886E9D3C195E26E"
 			rewards: [
 				{
@@ -617,8 +621,8 @@
 		}
 		{
 			dependencies: [
-				"27115761CCA7ADB6"
 				"215396364C37E4C1"
+				"247655472A2FFA4B"
 			]
 			hide_dependency_lines: false
 			id: "2BA93DCA9442D7E9"
@@ -634,7 +638,7 @@
 					type: "item"
 				}
 			]
-			x: 14.0d
+			x: 13.0d
 			y: 3.0d
 		}
 		{
@@ -1044,7 +1048,7 @@
 				item: { count: 1, id: "minecraft:sea_lantern" }
 				type: "item"
 			}]
-			x: 15.0d
+			x: 13.0d
 			y: 4.0d
 		}
 		{
@@ -2822,6 +2826,91 @@
 				type: "item"
 			}]
 			x: 1.75d
+			y: -2.0d
+		}
+		{
+			dependencies: ["3A5350E432EAF52E"]
+			id: "6BC11A537E4FD770"
+			tasks: [{
+				id: "7E004279F92BC39E"
+				item: { count: 1, id: "minecraft:mycelium" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["3669B1306B9EF7D4"]
+			hide_dependency_lines: true
+			id: "3A5350E432EAF52E"
+			rewards: [{
+				id: "0CD45B4AF9E0D753"
+				item: {
+					count: 1
+					id: "farmersdelight:brown_mushroom_colony"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [{
+				id: "5C26AB76F398904F"
+				item: { count: 1, id: "minecraft:brown_mushroom" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["3669B1306B9EF7D4"]
+			hide_dependency_lines: true
+			id: "15DFAF096812289B"
+			rewards: [{
+				id: "1B292905D20BA33F"
+				item: {
+					count: 1
+					id: "farmersdelight:red_mushroom_colony"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [{
+				id: "75DBAE4D7D91DB9B"
+				item: { count: 1, id: "minecraft:red_mushroom" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["3642E2D78B348AE3"]
+			hide_dependency_lines: true
+			id: "14FF82F5ED2A5948"
+			tasks: [{
+				id: "7D35C05FD4C3CAE9"
+				item: { count: 1, id: "minecraft:flint_and_steel" }
+				type: "item"
+			}]
+			x: 14.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["5872241D6E8743EB"]
+			id: "5B34F7C3CE36AAAD"
+			rewards: [{
+				id: "6C7A9D5A621B7F72"
+				item: {
+					count: 1
+					id: "minecraft:charcoal"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [{
+				id: "0750D9922B6A3735"
+				item: { count: 1, id: "minecraft:charcoal" }
+				type: "item"
+			}]
+			x: 6.0d
 			y: -2.0d
 		}
 	]

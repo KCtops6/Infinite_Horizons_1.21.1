@@ -12,10 +12,7 @@
 	quest_links: [ ]
 	quests: [
 		{
-			dependencies: [
-				"695E4E0F9551D449"
-				"6AFFE5A781CA5CEB"
-			]
+			dependencies: ["6AFFE5A781CA5CEB"]
 			id: "028B65D1FCD8A3BA"
 			tasks: [{
 				id: "4026A53407BF7F80"

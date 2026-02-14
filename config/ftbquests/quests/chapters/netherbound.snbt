@@ -12,66 +12,32 @@
 	quest_links: [ ]
 	quests: [
 		{
-			dependencies: ["07B1B6C8502FD122"]
-			hide_dependent_lines: true
-			id: "5D00196D169F65C2"
-			rewards: [{
-				id: "67E8403AE64AF8D1"
-				item: {
-					count: 1
-					id: "farmersdelight:nether_salad"
-				}
-				random_bonus: 2
-				type: "item"
-			}]
+			dependencies: [
+				"07B1B6C8502FD122"
+				"14FF82F5ED2A5948"
+			]
+			id: "5919D1E15E9E01D0"
 			tasks: [{
-				id: "6A18641F14187A7C"
-				item: { count: 1, id: "minecraft:flint_and_steel" }
-				type: "item"
+				icon: {
+					components: {
+						"ftbquests:icon": "minecraft:block/nether_portal"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "4788BFFD15F44F44"
+				observe_type: 0
+				timer: 0L
+				to_observe: "minecraft:nether_portal"
+				type: "observation"
 			}]
 			x: 0.0d
 			y: 0.0d
 		}
 		{
-			dependencies: ["5D00196D169F65C2"]
-			id: "74AED40DCEDCCA58"
+			dependencies: ["5919D1E15E9E01D0"]
+			id: "1C5D9691CB7290BA"
 			rewards: [{
-				id: "706EB746A197B493"
-				item: {
-					count: 1
-					id: "minecraft:magma_block"
-				}
-				random_bonus: 2
-				type: "item"
-			}]
-			tasks: [{
-				id: "57B3050D2AF8CF22"
-				item: { count: 1, id: "minecraft:magma_block" }
-				type: "item"
-			}]
-			x: 4.0d
-			y: 0.0d
-		}
-		{
-			dependencies: ["5D00196D169F65C2"]
-			id: "27AD5982B40072FD"
-			tasks: [{
-				id: "3375AC72ABEB32EE"
-				item: { count: 1, id: "minecraft:netherrack" }
-				type: "item"
-			}]
-			x: 2.0d
-			y: 1.0d
-		}
-		{
-			dependencies: [
-				"5D00196D169F65C2"
-				"215396364C37E4C1"
-			]
-			dependency_requirement: "one_completed"
-			id: "01AEEA186BB50BB0"
-			rewards: [{
-				id: "7ED4EBC0F9EC7214"
+				id: "3168342E76900152"
 				item: {
 					count: 1
 					id: "minecraft:quartz"
@@ -80,470 +46,53 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "32E2755DF41B0F32"
+				id: "21E54E8F07E9EF6C"
 				item: { count: 1, id: "minecraft:quartz" }
 				type: "item"
 			}]
 			x: 2.0d
-			y: -1.0d
+			y: -2.0d
 		}
 		{
-			dependencies: ["5D00196D169F65C2"]
-			id: "27115761CCA7ADB6"
+			dependencies: ["5919D1E15E9E01D0"]
+			id: "247655472A2FFA4B"
+			rewards: [{
+				id: "016B0FDDF5998B42"
+				item: {
+					count: 1
+					id: "minecraft:soul_sand"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
 			tasks: [{
-				id: "313F7A19A601281A"
+				id: "5BC834F30E787BA1"
 				item: { count: 1, id: "minecraft:soul_sand" }
 				type: "item"
 			}]
-			x: 0.0d
-			y: -2.0d
-		}
-		{
-			dependencies: ["5D00196D169F65C2"]
-			id: "37480F6CE7572160"
-			tasks: [{
-				id: "538C3C2E6664155A"
-				item: { count: 1, id: "minecraft:nether_wart" }
-				type: "item"
-			}]
-			x: 4.0d
-			y: 1.0d
-		}
-		{
-			dependencies: ["27AD5982B40072FD"]
-			id: "348E9391E99E4887"
-			tasks: [{
-				id: "6993CED34FE6E45F"
-				item: { count: 1, id: "minecraft:nether_bricks" }
-				type: "item"
-			}]
-			x: 1.0d
-			y: 2.0d
-		}
-		{
-			dependencies: ["5D00196D169F65C2"]
-			id: "7BD5A9600467E742"
-			tasks: [{
-				id: "328CAD77C9572A5C"
-				item: { count: 1, id: "minecraft:red_nether_bricks" }
-				type: "item"
-			}]
-			x: 2.0d
-			y: 0.0d
-		}
-		{
-			dependencies: ["01AEEA186BB50BB0"]
-			hide_dependency_lines: true
-			id: "4A6D85AD1E19548F"
-			optional: true
-			size: 0.5d
-			tasks: [{
-				id: "1023CADF57B6AE65"
-				item: { count: 1, id: "ae2:nether_quartz_axe" }
-				type: "item"
-			}]
-			x: 2.75d
-			y: -0.75d
-		}
-		{
-			dependencies: ["01AEEA186BB50BB0"]
-			hide_dependency_lines: true
-			id: "6A998D0D4FB8D3CA"
-			optional: true
-			size: 0.5d
-			tasks: [{
-				id: "7B4CDC8AA9BD70CC"
-				item: { count: 1, id: "ae2:nether_quartz_pickaxe" }
-				type: "item"
-			}]
-			x: 2.75d
-			y: -1.25d
-		}
-		{
-			dependencies: ["01AEEA186BB50BB0"]
-			hide_dependency_lines: true
-			id: "353EB58E3300A9B7"
-			optional: true
-			size: 0.5d
-			tasks: [{
-				id: "689C7A1E8CB71B8A"
-				item: { count: 1, id: "ae2:nether_quartz_hoe" }
-				type: "item"
-			}]
-			x: 2.75d
-			y: -1.75d
-		}
-		{
-			dependencies: ["01AEEA186BB50BB0"]
-			hide_dependency_lines: true
-			id: "2013ADD849BB1110"
-			optional: true
-			size: 0.5d
-			tasks: [{
-				id: "758984877FBD4C6E"
-				item: { count: 1, id: "ae2:nether_quartz_shovel" }
-				type: "item"
-			}]
-			x: 1.75d
-			y: -1.75d
-		}
-		{
-			dependencies: ["01AEEA186BB50BB0"]
-			hide_dependency_lines: true
-			id: "6F9230552807FEF0"
-			optional: true
-			size: 0.5d
-			tasks: [{
-				id: "66B14CB59DA71AD6"
-				item: { count: 1, id: "ae2:nether_quartz_sword" }
-				type: "item"
-			}]
-			x: 2.25d
-			y: -1.75d
-		}
-		{
-			dependencies: ["041C0F5E471298D2"]
-			id: "1FE42BC33648C5DB"
-			tasks: [{
-				id: "6F3B4B516DFFE7D5"
-				item: { count: 1, id: "minecraft:blaze_rod" }
-				type: "item"
-			}]
-			x: -2.0d
-			y: -3.0d
-		}
-		{
-			dependencies: ["1FE42BC33648C5DB"]
-			id: "43B1B409F246A98E"
-			tasks: [{
-				id: "3079B5F01A638F8F"
-				item: { count: 1, id: "minecraft:blaze_powder" }
-				type: "item"
-			}]
-			x: -2.0d
-			y: -2.0d
-		}
-		{
-			dependencies: ["43B1B409F246A98E"]
-			id: "5765CD9C7D0E0B05"
-			tasks: [{
-				id: "564DAE68ABBE1623"
-				item: { count: 1, id: "minecraft:fire_charge" }
-				type: "item"
-			}]
-			x: -2.0d
-			y: -1.0d
-		}
-		{
-			dependencies: [
-				"28018BE994F02339"
-				"58380D6136DF37AD"
-			]
-			id: "732EE5DB19BC573C"
-			rewards: [
-				{
-					id: "0E5C3AB4F9C601FC"
-					item: {
-						count: 1
-						id: "minecraft:netherite_ingot"
-					}
-					random_bonus: 2
-					type: "item"
-				}
-				{
-					count: 3
-					id: "2115CEEE898E6B4D"
-					item: {
-						count: 1
-						id: "minecraft:netherite_scrap"
-					}
-					random_bonus: 1
-					type: "item"
-				}
-				{
-					id: "5A3474FE72066B46"
-					item: {
-						count: 1
-						id: "pamhc2foodextended:gourmetporkburgeritem"
-					}
-					random_bonus: 2
-					type: "item"
-				}
-			]
-			tasks: [{
-				id: "0CD1ACDF12DA824C"
-				item: { count: 1, id: "minecraft:netherite_ingot" }
-				type: "item"
-			}]
-			x: 2.0d
-			y: 3.0d
-		}
-		{
-			dependencies: ["27AD5982B40072FD"]
-			id: "58380D6136DF37AD"
-			rewards: [
-				{
-					id: "7446DFBFE53532FD"
-					item: {
-						count: 1
-						id: "minecraft:netherite_scrap"
-					}
-					random_bonus: 2
-					type: "item"
-				}
-				{
-					id: "239C84A04D22DAB2"
-					item: {
-						count: 1
-						id: "pamhc2foodextended:spicymustardporkitem"
-					}
-					random_bonus: 2
-					type: "item"
-				}
-			]
-			tasks: [{
-				id: "577E470E5F2837E9"
-				item: { count: 1, id: "minecraft:netherite_scrap" }
-				type: "item"
-			}]
 			x: 2.0d
 			y: 2.0d
 		}
 		{
-			dependencies: [
-				"5D00196D169F65C2"
-				"40B85C791F3753C2"
-			]
-			id: "6BC4240AF36D8AA9"
-			rewards: [{
-				id: "2346BFF0B80FF539"
-				item: {
-					count: 1
-					id: "minecraft:blackstone"
-				}
-				random_bonus: 2
-				type: "item"
-			}]
+			dependencies: ["1C5D9691CB7290BA"]
+			id: "22C90205C72184D6"
 			tasks: [{
-				id: "0631B3A3C0B448EF"
-				item: { count: 1, id: "minecraft:blackstone" }
-				type: "item"
-			}]
-			x: 4.0d
-			y: -1.0d
-		}
-		{
-			dependencies: ["732EE5DB19BC573C"]
-			id: "776025C659C44009"
-			rewards: [{
-				id: "1C27E272091A99E1"
-				item: {
-					count: 1
-					id: "minecraft:netherite_ingot"
-				}
-				random_bonus: 2
-				type: "item"
-			}]
-			tasks: [{
-				id: "077493C7D271D142"
-				item: { count: 1, id: "minecraft:lodestone" }
+				id: "55D7FC9439C23536"
+				item: { count: 1, id: "minecraft:observer" }
 				type: "item"
 			}]
 			x: 1.0d
-			y: 3.0d
+			y: -3.0d
 		}
 		{
-			dependencies: ["732EE5DB19BC573C"]
-			hide_dependency_lines: true
-			id: "78C38D600E58159C"
-			optional: true
-			size: 0.5d
+			dependencies: ["1C5D9691CB7290BA"]
+			id: "63BF48606B33DD65"
 			tasks: [{
-				id: "2BB09CE6D29716A4"
-				item: { count: 1, id: "minecraft:netherite_helmet" }
-				type: "item"
-			}]
-			x: 2.75d
-			y: 2.75d
-		}
-		{
-			dependencies: ["732EE5DB19BC573C"]
-			hide_dependency_lines: true
-			id: "658399DB3AD1D28A"
-			optional: true
-			size: 0.5d
-			tasks: [{
-				id: "6B376D838DA4FBCE"
-				item: { count: 1, id: "minecraft:netherite_chestplate" }
-				type: "item"
-			}]
-			x: 3.25d
-			y: 2.75d
-		}
-		{
-			dependencies: ["732EE5DB19BC573C"]
-			hide_dependency_lines: true
-			id: "0345CCEC59322E78"
-			optional: true
-			size: 0.5d
-			tasks: [{
-				id: "111947F2D1F12CDB"
-				item: { count: 1, id: "minecraft:netherite_leggings" }
-				type: "item"
-			}]
-			x: 2.75d
-			y: 3.25d
-		}
-		{
-			dependencies: ["732EE5DB19BC573C"]
-			hide_dependency_lines: true
-			id: "551CC7E896138597"
-			optional: true
-			size: 0.5d
-			tasks: [{
-				id: "307DEFC19CED3654"
-				item: { count: 1, id: "minecraft:netherite_boots" }
-				type: "item"
-			}]
-			x: 3.25d
-			y: 3.25d
-		}
-		{
-			dependencies: ["732EE5DB19BC573C"]
-			hide_dependency_lines: true
-			id: "4DF5ED1CE71EEE93"
-			optional: true
-			size: 0.5d
-			tasks: [{
-				id: "53E21B5033F85FDE"
-				item: { count: 1, id: "minecraft:netherite_pickaxe" }
-				type: "item"
-			}]
-			x: 1.5d
-			y: 3.75d
-		}
-		{
-			dependencies: ["732EE5DB19BC573C"]
-			hide_dependency_lines: true
-			id: "4899BF4C3AFB69B6"
-			optional: true
-			size: 0.5d
-			tasks: [{
-				id: "2F334ED9C68BEE97"
-				item: { count: 1, id: "minecraft:netherite_shovel" }
+				id: "65A2026B2CE90808"
+				item: { count: 1, id: "minecraft:comparator" }
 				type: "item"
 			}]
 			x: 2.0d
-			y: 3.75d
-		}
-		{
-			dependencies: ["732EE5DB19BC573C"]
-			hide_dependency_lines: true
-			id: "56E2CB3C01C4FAFD"
-			optional: true
-			size: 0.5d
-			tasks: [{
-				id: "1DD19BC45F2BC353"
-				item: { count: 1, id: "minecraft:netherite_hoe" }
-				type: "item"
-			}]
-			x: 2.5d
-			y: 3.75d
-		}
-		{
-			dependencies: ["732EE5DB19BC573C"]
-			hide_dependency_lines: true
-			id: "7D49AF282850A612"
-			optional: true
-			size: 0.5d
-			tasks: [{
-				id: "5E12E3AF86CC7A0D"
-				item: { count: 1, id: "minecraft:netherite_sword" }
-				type: "item"
-			}]
-			x: 1.75d
-			y: 4.25d
-		}
-		{
-			dependencies: ["732EE5DB19BC573C"]
-			hide_dependency_lines: true
-			id: "238923FC439B15AE"
-			optional: true
-			size: 0.5d
-			tasks: [{
-				id: "0325D032870B4D93"
-				item: { count: 1, id: "minecraft:netherite_axe" }
-				type: "item"
-			}]
-			x: 2.25d
-			y: 4.25d
-		}
-		{
-			dependencies: ["27115761CCA7ADB6"]
-			id: "12AE6346D00AA264"
-			rewards: [{
-				id: "11DF0A481AE20E63"
-				item: {
-					count: 1
-					id: "minecraft:wither_rose"
-				}
-				random_bonus: 2
-				type: "item"
-			}]
-			tasks: [{
-				id: "00B7871C987FC1E8"
-				item: { count: 1, id: "minecraft:wither_rose" }
-				type: "item"
-			}]
-			x: 1.0d
-			y: -3.0d
-		}
-		{
-			dependencies: ["27115761CCA7ADB6"]
-			icon: {
-				components: {
-					"!ftbquests:icon": { }
-					"ftbquests:entity_face": "minecraft:wither"
-				}
-				id: "ftbquests:custom_icon"
-			}
-			id: "695E4E0F9551D449"
-			tasks: [
-				{
-					entity: "minecraft:wither"
-					icon: {
-						components: {
-							"!ftbquests:icon": { }
-							"ftbquests:entity_face": "minecraft:wither"
-						}
-						id: "ftbquests:custom_icon"
-					}
-					id: "003B43483B32A6E5"
-					type: "kill"
-					value: 1L
-				}
-				{
-					id: "06D6BDC27634B605"
-					item: { count: 1, id: "minecraft:nether_star" }
-					type: "item"
-				}
-			]
-			x: 0.0d
-			y: -3.0d
-		}
-		{
-			dependencies: [
-				"695E4E0F9551D449"
-				"07B1B6C8502FD122"
-				"174AD92AAE3A1FAF"
-			]
-			id: "4D3DA47EFEC3DDC6"
-			tasks: [{
-				id: "3C6E9FB9765DA0BD"
-				item: { count: 1, id: "minecraft:beacon" }
-				type: "item"
-			}]
-			x: -1.0d
 			y: -3.0d
 		}
 	]

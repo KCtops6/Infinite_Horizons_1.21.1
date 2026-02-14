@@ -20,9 +20,6 @@
 	chapter.76260707B1BAF870.title: "Applied Energistics"
 	chapter_group.0BA6C43BB6B5DE06.title: "Main Progression"
 	chapter_group.3C16C4C95F1091C7.title: "Optional Endeavors"
-	quest.01AEEA186BB50BB0.quest_desc: ["The Nether Portal’s energy doesn’t just bring heat—it also alters stone into valuable resources. If you place Stone near an active portal, it will slowly transform into Nether Quartz Ore. Mine it to collect &lNether Quartz&r, an essential material for redstone components, decorative blocks, and more. Even without stepping into the Nether, you can still harness its unique resources!"]
-	quest.01AEEA186BB50BB0.quest_subtitle: "Harvesting Nether Quartz"
-	quest.01AEEA186BB50BB0.title: "Crystals of the Nether"
 	quest.0372C7453493CA18.quest_desc: ["The &lHoney Generator&r is a sweet upgrade, offering a more efficient power source that converts honey into energy. With a generation rate of 64 FE/t and a transfer rate of 512 FE/t, it consumes only 0.5 FE/t while drawing power from honey. This upgrade from the Culinary Generator provides a buffer capacity of 500,000 FE, ensuring that your energy needs are met with this naturally sweet solution!"]
 	quest.0372C7453493CA18.quest_subtitle: "Upgrade to the Honey Generator"
 	quest.0372C7453493CA18.title: "Sweet Power"
@@ -37,7 +34,7 @@
 	quest.073087ED7AC745F3.quest_desc: ["The &lMechanical Mixer&r is an essential tool for combining ingredients into advanced recipes. Powered by rotational energy, it can mix materials like dough, alloys, and other compounds with ease. Set it up, power it with your existing energy source, and automate the mixing process for efficient crafting in your mechanical systems."]
 	quest.073087ED7AC745F3.quest_subtitle: "Crafting with Precision"
 	quest.073087ED7AC745F3.title: "Mixing Mastery"
-	quest.07B1B6C8502FD122.quest_desc: [""]
+	quest.07B1B6C8502FD122.quest_desc: ["You can find them in blacksmiths or make them naturally."]
 	quest.07B1B6C8502FD122.quest_subtitle: "Obtaining Obsidian"
 	quest.07B1B6C8502FD122.title: "Unbreakable Resolve"
 	quest.0886E9D3C195E26E.quest_desc: [""]
@@ -65,7 +62,7 @@
 	quest.11332A8490D1FD31.quest_subtitle: "Cleric Trade"
 	quest.11332A8490D1FD31.title: "Early Redstone"
 	quest.117B34F7EB4DB72A.quest_subtitle: "Cleric Trade"
-	quest.1284CA2D49C1FE72.quest_desc: ["The intense heat of the furnace can burn away the souls trapped in Soul Sand, leaving behind solidified &lScoria&r. This dark, volcanic stone is perfect for building or crafting unique blocks. Toss some Soul Sand into a furnace and see what remains after the fire has done its work."]
+	quest.1284CA2D49C1FE72.quest_desc: [""]
 	quest.1284CA2D49C1FE72.quest_subtitle: "Smelting the Sands of the Nether"
 	quest.1284CA2D49C1FE72.title: "Charred Remnants"
 	quest.169040E33441DBE9.quest_desc: ["The &lEnchantment Generator&r is a powerful upgrade, taking your energy generation to the next level. With a generation rate of 40 FE/t and a transfer rate of 1,024 FE/t, this generator draws its power from the very essence of enchantments. It consumes energy at a rate of 1 FE/t and offers a buffer capacity of 1,000,000 FE, making it an excellent choice for systems that require both efficiency and substantial energy reserves. Upgrade from the Obsidian Generator to the Enchantment Generator and unlock the power of enchantments as a unique fuel source."]
@@ -144,12 +141,6 @@
 	quest.26760351A93ADC05.quest_desc: ["The wind can be harnessed to generate rotational energy. Craft a &lWindmill Bearing&r and gather enough &lSails&r to build your Windmill. Once assembled, place it in an open area to capture the wind’s energy and power your mechanical systems. Let the wind carry you to new heights of automation!"]
 	quest.26760351A93ADC05.quest_subtitle: "Tapping into the Breeze"
 	quest.26760351A93ADC05.title: "Winds of Progress"
-	quest.27115761CCA7ADB6.quest_desc: ["The Nether Portal’s influence reaches beyond stone, twisting Sand into &lSoul Sand&r. This eerie material is essential for farming Nether Wart, crafting Soul Torches, and even slowing down enemies. Place sand near the portal and let the transformation take place—who knows what lost souls might be lurking within?"]
-	quest.27115761CCA7ADB6.quest_subtitle: "The Birth of Soul Sand"
-	quest.27115761CCA7ADB6.title: "Whispering Sands"
-	quest.27AD5982B40072FD.quest_desc: ["The Nether Portal’s presence seeps into the world, corrupting nearby Stone into &lNetherrack&r. While it may not seem valuable at first, this fiery rock has its uses in crafting and smelting. Let the portal do its work, then gather as much as you need—no Nether travel required!"]
-	quest.27AD5982B40072FD.quest_subtitle: "The Spread of Netherrack"
-	quest.27AD5982B40072FD.title: "Corrupted Stone"
 	quest.28018BE994F02339.quest_desc: [""]
 	quest.28018BE994F02339.quest_subtitle: "A Precious Find"
 	quest.28018BE994F02339.title: "Goldfinger"
@@ -213,9 +204,6 @@
 	quest.37387A044CF14796.quest_desc: ["&lDirt Seeds&r grow into &lDirt Essence&r, a useful resource for several early-game crafts. This essence plays an important role in crafting essential materials and tools, making it a valuable asset as you progress through the early stages of Mystical Agriculture. Start planting and gather Dirt Essence to help with your initial crafting needs!"]
 	quest.37387A044CF14796.quest_subtitle: "Harnessing Dirt Essence"
 	quest.37387A044CF14796.title: "Seeds of the Earth"
-	quest.37480F6CE7572160.quest_desc: ["The Nether Portal’s corruption doesn’t stop at stone and sand—it even alters crops. When Wheat Crops are exposed to the portal’s energy, they transform into &lNether Wart&r, an essential ingredient for brewing powerful potions. If you want to harness the magic of alchemy, start by planting wheat in the right place and let the Nether do the rest!"]
-	quest.37480F6CE7572160.quest_subtitle: "From Wheat to Nether Wart"
-	quest.37480F6CE7572160.title: "Cursed Harvest"
 	quest.377BA8A03F1850C5.quest_desc: [
 		"Obtained by breeding an &lslimy bee&r with a &ldiamond bee&r."
 		""
@@ -334,9 +322,6 @@
 	quest.5C6BCB357546F47A.quest_subtitle: "The Infusion Altar"
 	quest.5C6BCB357546F47A.title: "Ritual of Growth"
 	quest.5CBC838755D23495.quest_desc: ["Obtained from using a stone trowel (or higher) on dirt or grass. The crushed version of this block (obtained by breaking with a hammer) has the same trowel drops as normal gravel."]
-	quest.5D00196D169F65C2.quest_desc: ["Even though you can’t enter the Nether just yet, activating a &lNether Portal&r still has its uses. Craft a &lFlint and Steel&r and light the portal to begin its transformation effect. Nearby blocks will slowly turn into their Nether equivalents, giving you access to some Nether-exclusive materials without ever stepping through. Keep this in mind as you plan for the late game when you’ll eventually unlock the &lNether Key&r and explore what lies beyond!"]
-	quest.5D00196D169F65C2.quest_subtitle: "Lighting the Nether Portal"
-	quest.5D00196D169F65C2.title: "A Gateway’s Influence"
 	quest.5D769F0200A177C1.quest_desc: ["The &lMagmatic Generator&r is a significant upgrade, providing efficient power from the ever-flowing force of lava. With a generation rate of 40 FE/t and a transfer rate of 512 FE/t, it allows you to convert lava into Forge Energy (FE) efficiently. It consumes lava at a rate of 0.4 FE/t and has a substantial buffer capacity of 500,000 FE. Upgrade your Obsidian Generator to the Magmatic Generator and unlock the power of lava as a fuel source, enabling a steady stream of energy for your expanding needs."]
 	quest.5D769F0200A177C1.quest_subtitle: "Harnessing the Magma"
 	quest.62DBB6855DF2639C.quest_desc: [""]
@@ -357,10 +342,7 @@
 	quest.66CC1872F77E4EE6.title: "Winds of Change"
 	quest.6B053EAB0CB56AE7.title: "Kitchen Essentials"
 	quest.6B4111F7BFF585CC.title: "Sponge"
-	quest.6BC4240AF36D8AA9.quest_desc: ["The Nether’s influence can reshape the Overworld. By placing Sandstone near an active Nether Portal, the heat and energy from the portal will gradually darken it, transforming it into &lBlackstone&r. This method provides an Overworld-friendly way to obtain Blackstone, making it a valuable resource for builders and crafters alike."]
-	quest.6BC4240AF36D8AA9.quest_subtitle: "Transforming Sandstone into Blackstone"
-	quest.6BC4240AF36D8AA9.title: "Shadowed Sands"
-	quest.6F234337CE289CD4.quest_desc: ["With &lAndesite&r and &lIron&r in hand, it’s time to craft the cornerstone of Create’s mechanical systems—&lAndesite Alloy&r. Combine Andesite with Iron to forge this versatile material. Andesite Alloy will be used in various Create machines, unlocking your potential for automation and advancement."]
+	quest.6F234337CE289CD4.quest_desc: [""]
 	quest.6F234337CE289CD4.quest_subtitle: "Forging the Andesite Alloy"
 	quest.6F234337CE289CD4.title: "The Heart of Creation"
 	quest.7112ED278B1CE804.quest_desc: ["Look at JEI for all of the useful crafts with this item."]
@@ -380,9 +362,6 @@
 		"Good, steady source of &olapis lazuli&r."
 	]
 	quest.7493025197A7AA31.title: "Lapis Bee"
-	quest.74AED40DCEDCCA58.quest_desc: ["With the Nether Portal active, its influence begins to spread. Any Stone placed near the portal will slowly transform into &lMagma Blocks&r, a useful material for various contraptions, traps, and even lava generation. Take advantage of this passive conversion to gather magma without ever stepping foot in the Nether!"]
-	quest.74AED40DCEDCCA58.quest_subtitle: "Magma from the Nether’s Influence"
-	quest.74AED40DCEDCCA58.title: "The Heat Spreads"
 	quest.74B7E90FE385180A.quest_desc: ["The brass mesh unlocks &6netherite scrap&r production."]
 	quest.76B1BFA765F786BE.quest_desc: ["The &lObsidian Generator&r is a powerful upgrade that brings your energy generation to a new level. With a generation rate of 128 FE/t and a transfer rate of 512 FE/t, this generator ensures a stable and efficient energy flow. With a substantial buffer capacity of 500,000 FE and a consumption rate of just 0.6, it is an excellent choice for long-term power needs. Fueling on solid resources, it offers a seamless upgrade from the Diamond Generator, providing the energy boost your systems demand."]
 	quest.76B1BFA765F786BE.quest_subtitle: "A new tier of efficiency for energy generation"
@@ -486,6 +465,7 @@
 	task.426C6EF46092E0A3.title: "Any #sophisticated:auto_smoking_upgrades"
 	task.45179C9681DEDDB1.title: "Enter a Bastion Remnant."
 	task.46361AD87458631F.title: "Observe a Sniffer"
+	task.4788BFFD15F44F44.title: "Observe a Nether Portal"
 	task.478EF7396C5BCF8E.title: "Find a Nether Fortress."
 	task.4921D67F775FC145.title: "Obtain a Coral Block"
 	task.4ADD9AB4E3607AAB.title: "Enter the Nether!"

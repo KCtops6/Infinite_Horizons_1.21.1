@@ -1,4 +1,4 @@
-stone; [netherrack>10 + magma_block>2 + nether_quartz_ore>1],
+stone; [netherrack>100 + magma_block>75 + nether_quartz_ore>25 + ancient_debris>1],
 short_grass; [nether_sprouts>1],
 cobblestone; [blackstone>1],
 grass_block; [crimson_nylium>1],

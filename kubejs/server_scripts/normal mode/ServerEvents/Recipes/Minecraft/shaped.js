@@ -247,4 +247,11 @@ ServerEvents.recipes(event => {
         C: 'create:copper_casing',
         R: 'kubejs:rubber_sheet'
     }).id('create:spout/from_rubber');
+    event.shaped('create:limestone', [
+        'PP ',
+        'PP ',
+        '   '
+    ], {
+        P: 'kubejs:limestone_pebble'
+    }).id('limestone_from_pebble');
 });

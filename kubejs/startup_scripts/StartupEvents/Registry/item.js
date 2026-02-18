@@ -9,7 +9,7 @@ StartupEvents.registry('item', event => {
     const items = [
         'stone_pebble', 'andesite_pebble', 'deepslate_pebble', 'diorite_pebble', 'granite_pebble',
         'chicken_feed', 'cow_feed', 'pig_feed', 'sheep_feed', 'rabbit_feed', 'horse_feed', 'infernal_matter', 
-        'tuff_pebble'
+        'tuff_pebble', 'limestone_pebble'
     ];
     const formatName = (id) => {
         return id.split('_').map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' ');

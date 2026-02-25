@@ -1,0 +1,25 @@
+global.pams_grinding_recipes = {
+    'pamhc2trees:nutmegitem': 'pamhc2foodextended:groundnutmegitem',
+    'minecraft:cocoa_beans': 'pamhc2foodextended:cocoapowderitem',
+    'pamhc2foodcore:sunflowerseedsitem': 'pamhc2foodextended:sunflowerseedsbutteritem',
+    'pamhc2trees:walnutitem': 'pamhc2foodextended:walnutbutteritem',
+    'pamhc2trees:hazelnutitem': 'pamhc2foodextended:hazelnutbutteritem',
+    'pamhc2crops:peanutitem': 'pamhc2foodextended:peanutbutteritem',
+    'pamhc2crops:cornitem': 'pamhc2foodextended:cornmealitem',
+    'pamhc2trees:peppercornitem': 'pamhc2foodextended:blackpepperitem',
+    'pamhc2trees:cinnamonitem': 'pamhc2foodextended:groundcinnamonitem',
+    'pamhc2trees:cashewitem': 'pamhc2foodextended:cashewbutteritem',
+    'pamhc2trees:almonditem': 'pamhc2foodextended:almondbutteritem',
+    'pamhc2trees:pistachioitem': 'pamhc2foodextended:pistachiobutteritem',
+    'pamhc2trees:chestnutitem': 'pamhc2foodextended:chestnutbutteritem',
+    'pamhc2trees:pecanitem': 'pamhc2foodextended:pecanbutteritem',
+};
+global.pams_grinding_recipes_tag_input = {
+    'c:rawrabbit': 'pamhc2foodcore:groundrabbititem',
+    'c:rawbeef': 'pamhc2foodcore:groundbeefitem',
+    'c:flour_plants': 'pamhc2foodcore:flouritem',
+    'c:rawchicken': 'pamhc2foodcore:groundchickenitem',
+    'c:rawmutton': 'pamhc2foodcore:groundmuttonitem',
+    'c:rawpork': 'pamhc2foodcore:groundporkitem',
+    'c:rawfish': 'pamhc2foodcore:groundfishitem',
+};

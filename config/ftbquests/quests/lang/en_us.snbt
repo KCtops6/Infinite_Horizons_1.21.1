@@ -132,6 +132,7 @@
 	quest.246E7273A1E9A735.quest_desc: ["Brass is a very useful alloy in Create as it is used for later-game infrastructure. "]
 	quest.246E7273A1E9A735.quest_subtitle: "Very Useful Alloy"
 	quest.25451C960D037A8C.quest_desc: ["You need Ashy Mining Bees for &lIron&r, &lTin&r, &lCopper&r, and &lAluminum&r Bees."]
+	quest.2570628600673C7B.quest_desc: ["Crafted with water and air essences."]
 	quest.26215DB2808C33BA.quest_desc: [
 		"Obtained by right clicking a &lsapphire block&r on a &ldiamond bee&r."
 		""

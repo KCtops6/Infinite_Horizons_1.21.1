@@ -111,4 +111,10 @@ ServerEvents.recipes(event => {
             ]
         });
     }
+    event.custom({
+        type: "create:milling",
+        ingredients: [{ item: 'minecraft:ender_pearl'}],
+        processing_time: 125,
+        results: [{ id: 'kubejs:ender_pearl_dust' }]
+    }).id('kubejs:milling/ender_pearl_dust');
 });

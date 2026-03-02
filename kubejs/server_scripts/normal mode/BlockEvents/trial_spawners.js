@@ -7,7 +7,6 @@ BlockEvents.rightClicked('kubejs:dormant_trial_spawner', event => {
         'minecraft:moss_block': { mob: 'slime' },
         'minecraft:chiseled_sandstone': { mob: 'husk' },
         'minecraft:stone_bricks': { mob: 'silverfish' },
-        'minecraft:packed_ice': { mob: 'stray' },
         'minecraft:chiseled_polished_blackstone': { 
             mob: 'piglin',
             ominousMob: 'piglin_brute'
@@ -34,7 +33,10 @@ BlockEvents.rightClicked('kubejs:dormant_trial_spawner', event => {
         'minecraft:magma_block': { mob: 'magma_cube' },
         'minecraft:lime_wool': { mob: 'phantom' },
         'minecraft:purpur_block': { mob: 'shulker' },
-        'minecraft:bone_block': { mob: 'skeleton' },
+        'minecraft:bone_block': {
+            mob: 'skeleton',
+            ominousMob: 'stray'
+        },
         'minecraft:white_wool': { mob: 'spider' },
         'minecraft:sculk': { ominousMob: 'warden' },
         'minecraft:spruce_planks': { mob: 'witch' },

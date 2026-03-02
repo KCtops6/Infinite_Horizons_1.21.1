@@ -254,4 +254,12 @@ ServerEvents.recipes(event => {
     ], {
         P: 'kubejs:limestone_pebble'
     }).id('limestone_from_pebble');
+    event.shaped('minecraft:chorus_flower', [
+        'ENE',
+        'ENE',
+        'ENE'
+    ], {
+        E: 'mysticalagriculture:end_essence',
+        N: 'mysticalagriculture:nature_essence'
+    }).id('kubejs:crafting/mystical_agriculture/chorus_flower');
 });

@@ -1182,8 +1182,8 @@
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(minecraft:wool)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 10.0d
-			y: -4.0d
+			x: 11.0d
+			y: -3.0d
 		}
 		{
 			dependencies: ["174AD92AAE3A1FAF"]
@@ -2912,6 +2912,182 @@
 			}]
 			x: 6.0d
 			y: -2.0d
+		}
+		{
+			dependencies: [
+				"7112ED278B1CE804"
+				"2E3C3B797975843F"
+			]
+			id: "2570628600673C7B"
+			rewards: [
+				{
+					id: "19623A824407FAC0"
+					item: {
+						count: 1
+						id: "minecraft:snowball"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "5B47FEA17655ACB8"
+					item: {
+						count: 1
+						id: "mysticalagriculture:water_essence"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "648D126B540EEBAB"
+					item: {
+						count: 1
+						id: "mysticalagriculture:ice_essence"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4034067E438FD850"
+				item: { count: 1, id: "minecraft:snowball" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["2570628600673C7B"]
+			id: "5106E6774A304C40"
+			rewards: [
+				{
+					id: "1C45DEF4E937134D"
+					item: {
+						count: 1
+						id: "minecraft:snow_block"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "0B9A7242DBE1960B"
+					item: {
+						count: 1
+						id: "minecraft:snowball"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7DE00D61EA7D3904"
+				item: { count: 1, id: "minecraft:snow_block" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: -5.0d
+		}
+		{
+			dependencies: [
+				"5106E6774A304C40"
+				"579D7FD06F5DC4D7"
+			]
+			id: "5513C4B3A3874C78"
+			rewards: [
+				{
+					id: "3713AE4CE38888F2"
+					item: {
+						count: 1
+						id: "minecraft:ice"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 9
+					id: "26C5643659A7B951"
+					item: {
+						count: 1
+						id: "minecraft:snow_block"
+					}
+					random_bonus: 18
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7ADC71A15C0ED436"
+				item: { count: 1, id: "minecraft:ice" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["5513C4B3A3874C78"]
+			id: "3437CEB81A485A79"
+			rewards: [
+				{
+					id: "06BE55C207634D1C"
+					item: {
+						count: 1
+						id: "minecraft:packed_ice"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 27
+					id: "073348FF8DDD05E6"
+					item: {
+						count: 1
+						id: "minecraft:ice"
+					}
+					random_bonus: 18
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7392FB61A240B57E"
+				item: { count: 1, id: "minecraft:packed_ice" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["3437CEB81A485A79"]
+			id: "235511A090F48DE2"
+			rewards: [
+				{
+					id: "28B5041C78F92CFC"
+					item: {
+						count: 1
+						id: "minecraft:blue_ice"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 9
+					id: "1E6E49D586CA6679"
+					item: {
+						count: 1
+						id: "minecraft:packed_ice"
+					}
+					random_bonus: 18
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "775AED83DD489B23"
+				item: { count: 1, id: "minecraft:blue_ice" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: -5.0d
 		}
 	]
 }

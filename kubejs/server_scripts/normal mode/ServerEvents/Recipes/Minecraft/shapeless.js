@@ -15,4 +15,7 @@ ServerEvents.recipes(event => {
         }
     });
     event.shapeless(Item.of('create_deep_dark:echo_ingot', 9), ['create_deep_dark:echo_block']);
+    event.shapeless('minecraft:snowball', [
+        'mysticalagriculture:air_essence', 'mysticalagriculture:water_essence'
+    ]);
 });

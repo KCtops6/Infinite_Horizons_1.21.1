@@ -72,3 +72,6 @@ config/konkrete/
 config/allayinajar-common.toml
 config/journeymap-server.toml
 config/ftbultimine*
+config/guardvillagers-common-1.toml.bak
+config/guardvillagers-common-2.toml.bak
+config/guardvillagers-common.toml

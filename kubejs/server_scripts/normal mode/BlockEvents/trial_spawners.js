@@ -33,15 +33,13 @@ BlockEvents.rightClicked('kubejs:dormant_trial_spawner', event => {
         'minecraft:magma_block': { mob: 'magma_cube' },
         'minecraft:lime_wool': { mob: 'phantom' },
         'minecraft:purpur_block': { mob: 'shulker' },
-        'minecraft:bone_block': {
-            mob: 'skeleton',
-            ominousMob: 'stray'
-        },
+        'minecraft:bone_block': { mob: 'skeleton' },
         'minecraft:white_wool': { mob: 'spider' },
         'minecraft:sculk': { ominousMob: 'warden' },
         'minecraft:spruce_planks': { mob: 'witch' },
         'minecraft:coal_block': { mob: 'wither_skeleton'},
-        'minecraft:mossy_cobblestone': { mob: 'zombie' }
+        'minecraft:mossy_cobblestone': { mob: 'zombie' },
+        'minecraft:packed_ice': { mob: 'stray' }
     };
 
     if (Platform.isLoaded('ars_nouveau')) {

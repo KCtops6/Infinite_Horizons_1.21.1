@@ -148,16 +148,16 @@ ServerEvents.recipes(event => {
         Output.of('mysticalagriculture:soulium_dust', 0.25)
     ], 'minecraft:soul_sand','kubejs:netherite_mesh');
 
-    event.recipes.createsifter.sifintg([
+    event.recipes.createsifter.sifting([
         Output.of('kubejs:raw_aluminum', 0.375),
         Output.of('kubejs:raw_uranium', 0.25),
         Output.of('kubejs:ender_pearl_dust', 0.25),
         Output.of('minecraft:chorus_fruit', 0.125)
     ], 'createsifter:crushed_end_stone', 'createsifter:brass_mesh');
-    event.recipes.createsifter.sifintg([
+    event.recipes.createsifter.sifting([
         Output.of('kubejs:raw_aluminum', 0.5),
         Output.of('kubejs:raw_uranium', 0.375),
         Output.of('kubejs:ender_pearl_dust', 0.375),
         Output.of('minecraft:chorus_fruit', 0.25)
     ], 'createsifter:crushed_end_stone', 'kubejs:netherite_mesh');
-})
+});

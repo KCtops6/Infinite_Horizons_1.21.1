@@ -39,6 +39,7 @@ const SIMPLE_TOOLTIPS = {
     "kubejs:diorite_pebble": "Obtained from sifting dirt or using trowels.",
     "kubejs:granite_pebble": "Obtained from sifting dirt or using trowels.",
     "kubejs:deepslate_pebble": "Obtained from sifting dirt or using trowels.",
+    "kubejs:limestone_pebble": "Obtained from sifting dirt or using trowels.",
     "minecraft:pumpkin_seeds": "Can be sifted from dirt.",
     "minecraft:melon_seeds": "Can be sifted from dirt.",
     "farmersdelight:wild_rice": "Can be sifted from dirt.",

@@ -20,23 +20,16 @@ global.dusts = [
     'uranium', 'zinc', 'platinum', 'iridium'
 ];
 global.plates = [
-    'aluminum', 'brass', 'bronze',
-    'constantan', 'copper', 'electrum',
-    'enderium', 'gold', 'infinitium',
-    'invar', 'iron', 'lead',
-    'lumium', 'netherite',
-    'nickel', 'signalum', 'silver', 'steel', 'tin', 'uranium', 'zinc', 'platinum'
+    'brass', 'copper', 'electrum', 'gold', 'iron', 'netherite', 'zinc'
 ];
 global.gems = [
     'apatite', 'cinnabar', 'niter', 'peridot', 'ruby', 'sapphire', 'sulfur'
 ];
 global.gears = [
-    'bronze', 'constantan', 'copper', 'diamond', 'electrum', 'enderium', 'gold', 'invar',
-    'iron', 'lead', 'lumium', 'netherite', 'nickel', 'signalum', 'silver', 'tin'
+    'diamond', 'gold', 'iron'
 ];
 global.nuggets = [
-    'aluminum', 'brass', 'bronze', 'constantan',
-    'copper', 'electrum', 'enderium', 
+    'constantan', 'copper', 'electrum', 'enderium', 
     'invar', 'lead', 'lumium', 
     'netherite', 'nickel', 'osmium',
     'signalum', 'silver', 'steel',

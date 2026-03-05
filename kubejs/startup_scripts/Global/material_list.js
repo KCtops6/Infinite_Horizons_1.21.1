@@ -5,7 +5,7 @@ global.ingots = [
     'lumium', 'nickel',
     'osmium', 'signalum', 'silver',
     'steel',
-    'tin', 'uranium', 'zinc', 'platinum'
+    'tin', 'uranium', 'zinc', 'platinum', 'iridium'
 ];
 global.dusts = [
     'aluminum', 'brass',
@@ -17,7 +17,7 @@ global.dusts = [
     'lumium', 'netherite', 'nickel', 'niter',
     'osmium', 'signalum', 'sulfur',
     'silver', 'steel', 'tin',
-    'uranium', 'zinc', 'platinum'
+    'uranium', 'zinc', 'platinum', 'iridium'
 ];
 global.plates = [
     'aluminum', 'brass', 'bronze',
@@ -40,11 +40,11 @@ global.nuggets = [
     'invar', 'lead', 'lumium', 
     'netherite', 'nickel', 'osmium',
     'signalum', 'silver', 'steel',
-    'tin', 'uranium', 'zinc', 'platinum'
+    'tin', 'uranium', 'zinc', 'platinum', 'iridium'
 ];
 global.raw_ores = [
     'aluminum', 'lead', 'nickel', 'osmium', 'silver',
-    'tin', 'uranium', 'platinum'
+    'tin', 'uranium', 'platinum', 'iridium'
 ];
 global.blocks = [
     'aluminum', 'apatite', 'brass',
@@ -55,10 +55,10 @@ global.blocks = [
     'osmium', 'peridot', 'ruby', 'sapphire',
     'signalum', 'silver', 'steel',
     'sulfur', 'tin',
-    'uranium', 'zinc', 'platinum'
+    'uranium', 'zinc', 'platinum', 'iridium'
 ];
 global.raw_ore_blocks = [
-    'aluminum', 'lead', 'osmium', 'silver', 'tin', 'nickel', 'uranium', 'platinum'
+    'aluminum', 'lead', 'osmium', 'silver', 'tin', 'nickel', 'uranium', 'platinum', 'iridium'
 ];
 global.stones = [
     'tuff', 'deepslate', 'diorite', 'granite', 'andesite'

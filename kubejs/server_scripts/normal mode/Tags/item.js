@@ -97,4 +97,11 @@ ServerEvents.tags('item', event => {
         'minecraft:tube_coral_block', 'minecraft:brain_coral_block', 'minecraft:bubble_coral_block',
         'minecraft:fire_coral_block', 'minecraft:horn_coral_block'
     ]);
+    event.add('kubejs:smoothies', [
+        /pamhc2foodextended:.+smoothieitem/, /pamhc2foodcore:.+smoothieitem/
+    ]);
+    event.add('kubejs:pie', /pamhc2foodextended:.+pieitem/);
+    event.add('kubejs:jelly_toast', /pamhc2foodextended:.+jellytoastitem/);
+    event.add('kubejs:flavored_yogurts', /pamhc2foodextended:.+yogurtitem/);
+    event.add('kubejs:jelly_sandwiches', /pamhc2foodextended:.+jellysandwichitem/);
 })

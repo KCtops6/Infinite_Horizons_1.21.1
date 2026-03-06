@@ -3094,5 +3094,28 @@
 			x: 10.0d
 			y: -5.0d
 		}
+		{
+			dependencies: ["62DBB6855DF2639C"]
+			hide_dependency_lines: true
+			id: "20FB1A32048FB729"
+			tasks: [{
+				id: "0DB032DAD984C1E8"
+				item: { count: 1, id: "minecraft:sugar" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["65A380AB7FA95B7D"]
+			id: "1F6FABC0933AEBFC"
+			tasks: [{
+				id: "2CCA7DD003CEF3A5"
+				item: { count: 1, id: "minecraft:terracotta" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 10.0d
+		}
 	]
 }

@@ -1,0 +1,161 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "pams_harvestcraft"
+	group: "3C16C4C95F1091C7"
+	id: "3F59A832DFAEE407"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["62DBB6855DF2639C"]
+			id: "0CDD8D169131E9E5"
+			tasks: [{
+				id: "351BCD1FB9BC0978"
+				item: { count: 1, id: "pamhc2foodcore:mixingbowlitem" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"0CDD8D169131E9E5"
+				"2570628600673C7B"
+			]
+			id: "6A9016331D28A32B"
+			tasks: [{
+				id: "2AE4129EA0B06203"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(kubejs:smoothies)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["1F6FABC0933AEBFC"]
+			id: "2A6F92D4AF34033B"
+			tasks: [{
+				id: "47C92639CBC8FB69"
+				item: { count: 1, id: "pamhc2foodcore:juiceritem" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["2A6F92D4AF34033B"]
+			id: "4BAEAB8EA186C889"
+			tasks: [{
+				id: "1D5DDB5A2A7286C0"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:juices)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"4B4BE1FC32626EB9"
+				"20FB1A32048FB729"
+			]
+			id: "13E545B7C893DD69"
+			tasks: [{
+				id: "123938E3F07AEAF3"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:jellies)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["5A382D145AA88DD9"]
+			id: "4B4BE1FC32626EB9"
+			tasks: [{
+				id: "47DBFEA29A2C26C5"
+				item: { count: 1, id: "pamhc2foodcore:saucepanitem" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["13E545B7C893DD69"]
+			id: "41B8E583D99A14E3"
+			tasks: [{
+				id: "7CA9A53A2E0873A3"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(kubejs:jelly_toast)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"13E545B7C893DD69"
+				"2DF5B5F30FA6148D"
+			]
+			id: "72C8897D78F9CFAF"
+			tasks: [{
+				id: "4BC9A9A50B3258F6"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(kubejs:jelly_sandwiches)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["061B13FB7F5EAA60"]
+			id: "2DF5B5F30FA6148D"
+			tasks: [{
+				id: "62922B368F94FBCA"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:nutbutters)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["40F041C17BEAADEE"]
+			id: "061B13FB7F5EAA60"
+			tasks: [{
+				id: "233A2C7539F5B860"
+				item: { count: 1, id: "pamhc2foodcore:grinderitem" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -2.0d
+		}
+		{
+			id: "6134EF3DAB0B03FC"
+			tasks: [{
+				id: "2E982032F0E699CF"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(kubejs:flavored_yogurts)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 4.0d
+		}
+		{
+			id: "147E61697D17CF61"
+			tasks: [{
+				id: "29B99CF757517B5F"
+				item: { count: 1, id: "pamhc2foodcore:cuttingboarditem" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["4B4BE1FC32626EB9"]
+			id: "44CA48C4139F3DC3"
+			tasks: [{
+				id: "3B8810C2401C5A05"
+				item: { count: 1, id: "pamhc2foodcore:yogurtitem" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+	]
+}

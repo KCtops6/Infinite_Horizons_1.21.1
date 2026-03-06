@@ -6,6 +6,7 @@
 	chapter.2A5182EC401BA623.title: "Omega"
 	chapter.2F34CC58AE75DDE7.chapter_subtitle: ["Early-Game \"Non-Digital\" Storage"]
 	chapter.2F34CC58AE75DDE7.title: "Sophisticated Mods"
+	chapter.3F59A832DFAEE407.title: "Pam's Harvestcraft"
 	chapter.55AA5265FF6363C1.title: "Zeta"
 	chapter.5E07E3741CBC3BFE.chapter_subtitle: ["Nether Items and Blocks"]
 	chapter.5E07E3741CBC3BFE.title: "Beta"
@@ -111,6 +112,7 @@
 	quest.20CEFFF2715407F7.quest_desc: [""]
 	quest.20CEFFF2715407F7.quest_subtitle: "Finding Diamonds"
 	quest.20CEFFF2715407F7.title: "Diamonds are Forever"
+	quest.20FB1A32048FB729.quest_desc: ["There are a few ways to get sugar. Check JEI."]
 	quest.21E2B653C69880FF.quest_desc: ["Fundamental crafting component in Mystical Agriculture."]
 	quest.2204AA3E838C4962.quest_desc: ["Transform &oorganic matter&r and &owater&r into &lPulp&r using the Mechanical Mixer. Once you have enough pulp, use the Mechanical Press to turn it into &lCardboard&r. Cardboard serves as a cost-effective material, especially for crafting items like books. It’s a simple yet valuable resource that can streamline your crafting process. Get mixing and pressing to unlock its potential!"]
 	quest.2204AA3E838C4962.quest_subtitle: "From Pulp to Cardboard"
@@ -415,6 +417,7 @@
 	task.0C9E547572CBA87E.title: "Assemble a Squeezer"
 	task.1002B199F4A7DDC3.title: "Observe a Grindstone"
 	task.111FF24730E1E06B.title: "Observe a Brewing Stand."
+	task.123938E3F07AEAF3.title: "Any #c:jellies"
 	task.125C98160D57B81B.title: "Obtain Chainmail Armor from an Armorer Villager."
 	task.137E4FCCE42753C8.title: "Any #sophisticated:advanced_pickup_upgrades"
 	task.1402AAF1980AE030.title: "Obtain an Ominous Bottle."
@@ -429,6 +432,7 @@
 	task.18D7038439CDF699.title: "Construct the Bottling Machine"
 	task.1B6D2A206694B182.title: "Create a Vault."
 	task.1B894D69EB04100D.title: "Observe a Lectern"
+	task.1D5DDB5A2A7286C0.title: "Craft a juice item"
 	task.1F0741044C7EBCBF.title: "Welcome to Infinite Horizons 2!"
 	task.20F10AB288B9B858.title: "Craft Concrete"
 	task.22EFF4295996F3B4.title: "Observe an Engineer's Workbench."
@@ -440,10 +444,12 @@
 	task.28E2BD21ADC08C2D.title: "Any #sophisticated:blasting_upgrades"
 	task.2924166B1556959E.title: "Kill a Spider"
 	task.29AE4DCAE647CCC7.title: "Kill a Piglin Brute."
+	task.2AE4129EA0B06203.title: "Craft a smoothie item"
 	task.2BB146FC3DFF7CB8.title: "Any #sophisticated:void_upgrades"
 	task.2BBABE6D3F58A4FF.title: "Any #sophisticatedstorage:diamond_upgrades"
 	task.2C4D546AE253CBDD.title: "Observe an Engineer's Crafting Table."
 	task.2D769F0F763C040B.title: "Assemble the Coke Oven"
+	task.2E982032F0E699CF.title: "Craft Flavored Yogurt"
 	task.2EC0140CC254EA63.title: "Craft a fluid storage cell."
 	task.30319FC6F26BC172.title: "Any #sophisticated:advanced_void_upgrades"
 	task.31D8B7990E990714.title: "Kill the Ender Dragon."
@@ -469,6 +475,7 @@
 	task.478EF7396C5BCF8E.title: "Find a Nether Fortress."
 	task.4921D67F775FC145.title: "Obtain a Coral Block"
 	task.4ADD9AB4E3607AAB.title: "Enter the Nether!"
+	task.4BC9A9A50B3258F6.title: "Craft a Jelly Sandwich"
 	task.4CAC9DAE57537B05.title: "Kill a Rabbit"
 	task.4CB698275F9FE7E5.title: "Enter Ars Nouveau."
 	task.4CDB7CBDB76C0F32.title: "go to the end"
@@ -493,6 +500,7 @@
 	task.5A8534B4DD19A691.title: "Craft Sand Paper."
 	task.5A9ADEB7C349E1CA.title: "Craft an item storage cell."
 	task.5D2C3D8D94140C4E.title: "Pam's Harvestcraft"
+	task.62922B368F94FBCA.title: "Craft any Nut Butter"
 	task.62DBA270B6176AB1.title: "Observe a Brewing Stand"
 	task.6335A2495218B5F6.title: "Any #sophisticatedstorage:upgrade"
 	task.6395DE6E1A9429CB.title: "Obtain a Sponge Bee"
@@ -519,6 +527,7 @@
 	task.779D6F34909CC0A0.title: "Any #c:jellies"
 	task.77D7C9FB811D97C1.title: "Any #sophisticated:void_upgrades"
 	task.78677E7486B9BA7B.title: "Find a Strider."
+	task.7CA9A53A2E0873A3.title: "Craft Jelly Toast"
 	task.7D5DDC5CDF4EB6EC.title: "Kill a Shulker."
 	task.7DC414DB130CC223.title: "Craft a digital crafting storage block."
 	task.7DC78BA3F070AEA6.title: "Craft an Advanced Beehive."

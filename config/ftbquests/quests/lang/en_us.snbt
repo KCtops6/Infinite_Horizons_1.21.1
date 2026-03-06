@@ -306,6 +306,7 @@
 		""
 		"All but Horse Feeds can be obtained by trading with a level one villager. Horse feed is level two."
 	]
+	quest.53AC5BC20682441D.title: "Animal Feeds"
 	quest.545A6FF013A3C65C.quest_desc: ["Probably the most useful essence in the modpack."]
 	quest.57401F4BD3952C56.quest_desc: ["In a world without forests, villages are your best source of wood. Chop down trees in a village to gather logs—essential for crafting tools, structures, and more. Make sure to replant saplings when possible to keep resources sustainable!"]
 	quest.57401F4BD3952C56.quest_subtitle: "The Key to Survival"

@@ -2069,7 +2069,11 @@
 			y: 1.0d
 		}
 		{
-			dependencies: ["453FF4D18DF3D3D7"]
+			dependencies: [
+				"453FF4D18DF3D3D7"
+				"429628617B4B0925"
+			]
+			dependency_requirement: "one_completed"
 			id: "46A5E29FA510A91F"
 			tasks: [{
 				id: "175CDB69F4D79FF9"
@@ -2516,6 +2520,7 @@
 		}
 		{
 			dependencies: ["3669B1306B9EF7D4"]
+			hide_dependent_lines: true
 			id: "429628617B4B0925"
 			rewards: [
 				{

@@ -41,4 +41,10 @@ ServerEvents.recipes(event => {
          'pamhc2foodcore:flouritem',    // specifically replace this one
          'create:wheat_flour'   // force it to use Create's wheat flour
     ); // Replace Pam's HarvestCraft flour with Create's wheat flour
+
+    event.replaceInput(
+        { input: 'pamhc2foodcore:chocolatebaritem' },
+        'pamhc2foodcore:chocolatebaritem',
+        'create:bar_of_chocolate'
+    )
 })

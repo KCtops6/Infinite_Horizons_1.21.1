@@ -127,27 +127,36 @@
 			y: -2.0d
 		}
 		{
+			dependencies: [
+				"44CA48C4139F3DC3"
+				"147E61697D17CF61"
+			]
 			id: "6134EF3DAB0B03FC"
 			tasks: [{
 				id: "2E982032F0E699CF"
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(kubejs:flavored_yogurts)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 1.0d
-			y: 4.0d
+			x: 2.0d
+			y: 3.0d
 		}
 		{
+			dependencies: ["5A382D145AA88DD9"]
 			id: "147E61697D17CF61"
 			tasks: [{
 				id: "29B99CF757517B5F"
 				item: { count: 1, id: "pamhc2foodcore:cuttingboarditem" }
 				type: "item"
 			}]
-			x: 0.0d
-			y: 4.0d
+			x: 1.0d
+			y: 3.0d
 		}
 		{
-			dependencies: ["4B4BE1FC32626EB9"]
+			dependencies: [
+				"4B4BE1FC32626EB9"
+				"1B0B345B1B376950"
+				"2AFC343E56D3BA1B"
+			]
 			id: "44CA48C4139F3DC3"
 			tasks: [{
 				id: "3B8810C2401C5A05"

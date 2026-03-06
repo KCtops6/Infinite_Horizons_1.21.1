@@ -46,5 +46,11 @@ ServerEvents.recipes(event => {
         { input: 'pamhc2foodcore:chocolatebaritem' },
         'pamhc2foodcore:chocolatebaritem',
         'create:bar_of_chocolate'
-    )
+    );
+
+    event.replaceInput(
+        { input: 'pamhc2crops:riceitem' },
+        'pamhc2crops:riceitem',
+        'farmersdelight:rice'
+    );
 })

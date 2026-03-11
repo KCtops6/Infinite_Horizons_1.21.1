@@ -117,4 +117,26 @@ ServerEvents.recipes(event => {
         processing_time: 125,
         results: [{ id: 'kubejs:ender_pearl_dust' }]
     }).id('kubejs:milling/ender_pearl_dust');
+
+    // pam's harvestcraft saucepan recipes translated to create heated mixing
+    const SAUCEPAN = 'pamhc2foodcore:saucepanitem';
+    event.forEachRecipe({ input: SAUCEPAN }, recipe => {
+        let ingredientsJson = [];
+        recipe.getOriginalRecipeIngredients().forEach(i => {
+            if (!i.test(SAUCEPAN)) {
+                ingredientsJson.push(i.toJson());
+            }
+        });
+        let resultJson = [{
+            count: recipe.originalRecipeResult.count,
+            id: recipe.originalRecipeResult.id
+        }];
+        let cleanID = recipe.originalRecipeResult.id.replace(':', '_');
+        event.custom({
+            type: "create:mixing",
+            ingredients: ingredientsJson,
+            results: resultJson,
+            heat_requirement: "heated"
+        }).id(`create:mixing/kubejs/${cleanID}`); 
+    });
 });

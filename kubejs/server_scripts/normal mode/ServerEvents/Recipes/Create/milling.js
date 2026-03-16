@@ -80,25 +80,25 @@ ServerEvents.recipes(event => {
             ]
         }).id('kubejs:milling/quartz_enriched_iron_dust');
     }
-    if (global.pams_grinding_recipes) {
-        Object.entries(global.pams_grinding_recipes).forEach(([input, output]) => {
-            event.custom({
-                type: "create:milling",
-                ingredients: [{ item: input }],
-                processing_time: 250,
-                results: [{ id: output, count: 2 }]
-            }).id(`kubejs:milling/${output.split(':')[1]}_from_${input.split(':')[1]}`);
+
+    const GRINDER_ITEM = 'pamhc2foodcore:grinderitem';
+    event.forEachRecipe({ input: GRINDER_ITEM }, recipe => {
+        let ingredientsJson = [];
+        recipe.getOriginalRecipeIngredients().forEach(i => {
+            if (!i.test(GRINDER_ITEM)) {
+                ingredientsJson.push(i.toJson());
+            }
         });
-    }
-    if (global.pams_grinding_recipes_tag_input) {
-        Object.entries(global.pams_grinding_recipes_tag_input).forEach(([input, output]) => {
-            let count = output.includes('raw') ? 2 : 1; 
-            event.custom({
-                type: "create:milling",
-                ingredients: [{ tag: input }],
-                processing_time: 250,
-                results: [{ id: output, count: count * 2}]
-            }).id(`kubejs:milling/${output.split(':')[1]}_from_tag_${input.replace(':', '_')}`);
-        });
-    }
+        let resultJson = [{
+            count: recipe.originalRecipeResult.count * 2,
+            id: recipe.originalRecipeResult.id
+        }];
+        let cleanID = recipe.originalRecipeResult.id.replace(':', '_');
+        event.custom({
+            type: "create:milling",
+            ingredients: ingredientsJson,
+            processing_time: 250,
+            results: resultJson,
+        }).id(`create:milling/kubejs/${cleanID}`);
+    });
 });

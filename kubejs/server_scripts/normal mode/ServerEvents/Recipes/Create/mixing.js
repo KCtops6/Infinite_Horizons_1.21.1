@@ -139,4 +139,24 @@ ServerEvents.recipes(event => {
             heat_requirement: "heated"
         }).id(`create:mixing/kubejs/${cleanID}`); 
     });
+
+    const MIXING_BOWL_ITEM = 'pamhc2foodcore:mixingbowlitem';
+    event.forEachRecipe({ input: MIXING_BOWL_ITEM }, recipe => {
+        let ingredientsJson = [];
+        recipe.getOriginalRecipeIngredients().forEach(i => {
+            if (!i.test(MIXING_BOWL_ITEM)) {
+                ingredientsJson.push(i.toJson());
+            }
+        });
+        let resultJson = [{
+            count: recipe.originalRecipeResult.count,
+            id: recipe.originalRecipeResult.id
+        }];
+        let cleanID = recipe.originalRecipeResult.id.replace(':', '_');
+        event.custom({
+            type: "create:mixing",
+            ingredients: ingredientsJson,
+            results: resultJson
+        }).id(`create:mixing/kubejs/${cleanID}`); 
+    });
 });

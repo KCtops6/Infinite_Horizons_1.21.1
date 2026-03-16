@@ -71,9 +71,11 @@ ServerEvents.recipes(event => {
         Output.of('minecraft:raw_iron', 0.25),
         Output.of('minecraft:raw_copper', 0.125),
         Output.of('minecraft:raw_gold', 0.375),
+        Output.of('kubejs:raw_iridium', 0.03125),
         Output.of('kubejs:raw_lead', 0.5),
         Output.of('kubejs:raw_nickel', 0.25),
         Output.of('kubejs:raw_osmium', 0.375),
+        Output.of('kubejs:raw_platinum', 0.0625),
         Output.of('kubejs:raw_silver', 0.5),
         Output.of('kubejs:raw_uranium', 0.25),
         Output.of('kubejs:peridot_gem', 0.125),
@@ -150,12 +152,16 @@ ServerEvents.recipes(event => {
 
     event.recipes.createsifter.sifting([
         Output.of('kubejs:raw_aluminum', 0.375),
+        Output.of('kubejs:raw_iridium', 0.03125),
+        Output.of('kubejs:raw_platinum', 0.0625),
         Output.of('kubejs:raw_uranium', 0.25),
         Output.of('kubejs:ender_pearl_dust', 0.25),
-        Output.of('minecraft:chorus_fruit', 0.125)
+        Output.of('minecraft:chorus_fruit', 0.125),
     ], 'createsifter:crushed_end_stone', 'createsifter:brass_mesh');
     event.recipes.createsifter.sifting([
         Output.of('kubejs:raw_aluminum', 0.5),
+        Output.of('kubejs:raw_iridium', 0.0625),
+        Output.of('kubejs:raw_platinum', 0.0125),
         Output.of('kubejs:raw_uranium', 0.375),
         Output.of('kubejs:ender_pearl_dust', 0.375),
         Output.of('minecraft:chorus_fruit', 0.25)

@@ -83,22 +83,24 @@ ServerEvents.recipes(event => {
 
     const GRINDER_ITEM = 'pamhc2foodcore:grinderitem';
     event.forEachRecipe({ input: GRINDER_ITEM }, recipe => {
-        let ingredientsJson = [];
-        recipe.getOriginalRecipeIngredients().forEach(i => {
-            if (!i.test(GRINDER_ITEM)) {
-                ingredientsJson.push(i.toJson());
-            }
-        });
-        let resultJson = [{
-            count: recipe.originalRecipeResult.count * 2,
-            id: recipe.originalRecipeResult.id
-        }];
-        let cleanID = recipe.originalRecipeResult.id.replace(':', '_');
-        event.custom({
-            type: "create:milling",
-            ingredients: ingredientsJson,
-            processing_time: 250,
-            results: resultJson,
-        }).id(`create:milling/kubejs/${cleanID}`);
+        if (recipe.getOriginalRecipeIngredients().size() == 2) {
+            let ingredientsJson = [];
+            recipe.getOriginalRecipeIngredients().forEach(i => {
+                if (!i.test(GRINDER_ITEM)) {
+                    ingredientsJson.push(i.toJson());
+                }
+            });
+            let resultJson = [{
+                count: recipe.originalRecipeResult.count * 2,
+                id: recipe.originalRecipeResult.id
+            }];
+            let cleanID = recipe.originalRecipeResult.id.replace(':', '_');
+            event.custom({
+                type: "create:milling",
+                ingredients: ingredientsJson,
+                processing_time: 250,
+                results: resultJson,
+            }).id(`create:milling/kubejs/${cleanID}`);
+        }
     });
 });

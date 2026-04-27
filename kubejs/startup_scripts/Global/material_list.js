@@ -1,9 +1,8 @@
 global.ingots = [
     'aluminum', 'brass', 'bronze',
-    'constantan', 'electrum', 'enderium',
-    'infinitium', 'invar', 'lead',
-    'lumium', 'nickel',
-    'osmium', 'signalum', 'silver',
+    'constantan', 'electrum',
+    'infinitium', 'invar', 'lead', 'nickel',
+    'osmium', 'silver',
     'steel',
     'tin', 'uranium', 'zinc', 'platinum', 'iridium'
 ];
@@ -11,11 +10,9 @@ global.dusts = [
     'aluminum', 'brass',
     'bronze',
     'constantan', 'copper',
-    'diamond', 'electrum',
-    'enderium', 'gold', 'invar',
-    'iron', 'lead',
-    'lumium', 'netherite', 'nickel', 'niter',
-    'osmium', 'signalum', 'sulfur',
+    'diamond', 'electrum', 'gold', 'invar',
+    'iron', 'lead', 'netherite', 'nickel', 'niter',
+    'osmium', 'sulfur',
     'silver', 'steel', 'tin',
     'uranium', 'zinc', 'platinum', 'iridium'
 ];
@@ -29,10 +26,8 @@ global.gears = [
     'diamond', 'gold', 'iron'
 ];
 global.nuggets = [
-    'constantan', 'copper', 'electrum', 'enderium', 
-    'invar', 'lead', 'lumium', 
-    'netherite', 'nickel', 'osmium',
-    'signalum', 'silver', 'steel',
+    'constantan', 'copper', 'electrum',
+    'invar', 'lead', 'netherite', 'nickel', 'osmium', 'silver', 'steel',
     'tin', 'uranium', 'zinc', 'platinum', 'iridium'
 ];
 global.raw_ores = [
@@ -42,11 +37,10 @@ global.raw_ores = [
 global.blocks = [
     'aluminum', 'apatite', 'brass',
     'bronze', 'cinnabar', 'constantan',
-    'copper', 'electrum', 'enderium',
+    'copper', 'electrum',
     'gold', 'infinitium', 'invar',
-    'iron', 'lead', 'lumium', 'nickel', 'niter',
-    'osmium', 'peridot', 'ruby', 'sapphire',
-    'signalum', 'silver', 'steel',
+    'iron', 'lead', 'nickel', 'niter',
+    'osmium', 'peridot', 'ruby', 'sapphire', 'silver', 'steel',
     'sulfur', 'tin',
     'uranium', 'zinc', 'platinum', 'iridium'
 ];

@@ -154,4 +154,78 @@ ServerEvents.recipes(event => {
         E: 'mysticalagriculture:end_essence',
         N: 'mysticalagriculture:nature_essence'
     }).id('kubejs:crafting/mystical_agriculture/chorus_flower');
+    let mesh_types = ['copper', 'iron'];
+    mesh_types.forEach((type) => {
+        event.shaped(Item.of(`kubejs:${type}_mesh`), [
+            'SSS',
+            'SCS',
+            'SSS'   
+        ], {
+            C: `createaddition:${type}_wire`,
+            S: 'minecraft:stick'
+        }).id(`kubejs:shaped/kubejs/${type}_mesh`);
+    });
+    const HAMMER_MAPPINGS = [
+        { input: 'minecraft:cobblestone', output: 'kubejs:stone_hammer'},
+        { input: 'minecraft:iron_ingot', output: 'kubejs:iron_hammer'}
+    ];
+    HAMMER_MAPPINGS.forEach(m => {
+        event.shaped(Item.of(m.output, 1), [
+            'HHH',
+            'HS ',
+            ' S '
+        ], {
+            H: m.input,
+            S: 'minecraft:stick'
+        });
+    });
+    event.shaped(Item.of('create:brass_tunnel', 3), [
+        'E  ',
+        'BB ',
+        'RR '
+    ], {
+        E: 'create:electron_tube',
+        B: 'kubejs:brass_ingot',
+        R: 'kubejs:rubber_sheet'
+    }).id('kubejs:shaped/create/brass_tunnel_from_rubber_sheet');
+    event.shaped(Item.of('create:brass_funnel', 3), [
+        ' E ',
+        ' B ',
+        ' R '
+    ], {
+        E: 'create:electron_tube',
+        B: 'kubejs:brass_ingot',
+        R: 'kubejs:rubber_sheet'
+    }).id('kubejs:shaped/create/brass_funnel_from_rubber_sheet');
+    event.shaped(Item.of('create:belt_connector', 2), [
+        'RRR',
+        'RRR',
+        '   '
+    ], {
+        R: 'kubejs:rubber_sheet'
+    }).id('kubejs:shaped/create/belt_connector_from_rubber_sheet');
+    event.shaped(Item.of('create:andesite_tunnel', 3), [
+        'AA ',
+        'RR ',
+        '   '
+    ], {
+        A: 'create:andesite_alloy',
+        R: 'kubejs:rubber_sheet'
+    }).id('kubejs:shaped/create/andesite_tunnel_from_rubber_sheet');
+    event.shaped(Item.of('create:andesite_funnel', 3), [
+        ' A ',
+        ' R ',
+        '   '
+    ], {
+        A: 'create:andesite_alloy',
+        R: 'kubejs:rubber_sheet'
+    }).id('kubejs:shaped/create/andesite_funnel_from_rubber_sheet');
+    event.shaped(Item.of('minecraft:powder_snow_bucket', 1), [
+        ' I ',
+        'IBI',
+        ' I '
+    ],{
+        B: 'minecraft:bucket',
+        I: 'mysticalagriculture:ice_essence'
+    }).id('kubejs:shaped/minecraft/powder_snow_bucket_from_ice_essence');
 });

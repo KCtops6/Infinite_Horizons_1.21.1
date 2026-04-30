@@ -12,6 +12,7 @@
 	quest_links: [ ]
 	quests: [
 		{
+			dependencies: ["7E6FA6BACC7B007E"]
 			dependency_requirement: "one_completed"
 			id: "0F4C5B2728A47022"
 			rewards: [

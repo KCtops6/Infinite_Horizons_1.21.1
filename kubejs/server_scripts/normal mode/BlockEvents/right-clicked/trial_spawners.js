@@ -47,6 +47,14 @@ BlockEvents.rightClicked('kubejs:dormant_trial_spawner', event => {
         TRIAL_CONFIG['ars_nouveau:purple_archwood_wood'] = { mob: 'ars_nouveau:wilden_hunter'};
         TRIAL_CONFIG['ars_nouveau:red_archwood_wood'] = { mob: 'ars_nouveau:wilden_stalker'};
     }
+    if (Platform.isLoaded('irons_spellbooks')) {
+        TRIAL_CONFIG['kubejs:ruby_block'] = { ominousMob: 'irons_spellbooks:archevoker'};
+        TRIAL_CONFIG['minecraft:mossy_cobblestone'] = { ominousMob: 'irons_spellbooks:catacombs_zombie'};
+        TRIAL_CONFIG['minecraft:netherite_block'] = { ominousMob: 'irons_spellbooks:citadel_keeper' };
+        TRIAL_CONFIG['kubejs:cinnabar_block'] = { ominousMob: 'irons_spellbooks:cultist' };
+        TRIAL_CONFIG['minecraft:smooth_stone'] = { ominousMob: 'irons_spellbooks:cursed_armor_stand' };
+        TRIAL_CONFIG['minecraft:mossy_stone_bricks'] = { ominousMob: 'irons_spellbooks:necromancer' };
+    }
 
     if (item.id !== 'kubejs:trial_core') return;
     const TIME = level.getDayTime() % 24000;

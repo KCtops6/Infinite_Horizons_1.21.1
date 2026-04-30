@@ -426,6 +426,7 @@
 			y: 4.0d
 		}
 		{
+			dependencies: ["7E6FA6BACC7B007E"]
 			icon: {
 				id: "kubejs:trial_core"
 			}

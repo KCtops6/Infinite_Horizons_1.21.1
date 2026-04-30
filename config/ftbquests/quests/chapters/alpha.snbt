@@ -17,7 +17,7 @@
 			image: "minecraft:block/bookshelf"
 			rotation: 0.0d
 			width: 0.75d
-			x: 6.0d
+			x: 7.0d
 			y: 1.0d
 		}
 		{
@@ -46,7 +46,7 @@
 			image: "kubejs:item/iron_trowel"
 			rotation: 0.0d
 			width: 0.5d
-			x: 6.0d
+			x: 7.0d
 			y: 1.0d
 		}
 	]
@@ -1702,7 +1702,7 @@
 				}
 			]
 			x: 2.0d
-			y: 4.0d
+			y: 8.0d
 		}
 		{
 			dependencies: ["7E6FA6BACC7B007E"]
@@ -2261,16 +2261,18 @@
 			hide_dependent_lines: true
 			id: "3F20361F1BBB90C4"
 			tasks: [{
-				entity: "minecraft:sheep"
 				icon: {
 					components: {
-						"ftbquests:icon": "minecraft:textures/entity_icon/sheep/sheep.png"
+						"!ftbquests:icon": { }
+						"ftbquests:entity_face": "minecraft:sheep"
 					}
 					id: "ftbquests:custom_icon"
 				}
-				id: "39D200FFEC3AB7B0"
-				type: "kill"
-				value: 1L
+				id: "4EE9307862D841CF"
+				observe_type: 5
+				timer: 0L
+				to_observe: "minecraft:sheep"
+				type: "observation"
 			}]
 			x: -2.0d
 			y: 0.0d
@@ -3116,6 +3118,144 @@
 			}]
 			x: 8.0d
 			y: 10.0d
+		}
+		{
+			dependencies: [
+				"170192578F1D5CA0"
+				"35B8E383C14A9B9D"
+			]
+			id: "2A98A9A0750F70A8"
+			tasks: [{
+				id: "04B6A70C86FC923A"
+				item: { count: 1, id: "minecraft:amethyst_shard" }
+				type: "item"
+			}]
+			x: 18.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["7E6FA6BACC7B007E"]
+			id: "5ECDF75B4FB0305A"
+			tasks: [{
+				entity: "minecraft:phantom"
+				icon: {
+					components: {
+						"!ftbquests:icon": { }
+						"ftbquests:entity_face": "minecraft:phantom"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "36F6CC0F532B7B0C"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["5ECDF75B4FB0305A"]
+			id: "1EA7010BF181DE39"
+			tasks: [{
+				id: "221B0079A7C557E0"
+				item: { count: 1, id: "minecraft:phantom_membrane" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["62DBB6855DF2639C"]
+			id: "2A553A455C28E3AC"
+			tasks: [{
+				id: "77CC9E0846EE3837"
+				item: { count: 1, id: "minecraft:fishing_rod" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["2A553A455C28E3AC"]
+			id: "3CB469010CFD0742"
+			tasks: [{
+				id: "209CE4FFC775F967"
+				item: { count: 1, id: "minecraft:pufferfish" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["7E6FA6BACC7B007E"]
+			id: "0DA20250B3C48286"
+			rewards: [{
+				id: "181452D90649948C"
+				item: {
+					count: 1
+					id: "minecraft:potato"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [{
+				id: "239CB276714F52F5"
+				item: { count: 1, id: "minecraft:potato" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["7E6FA6BACC7B007E"]
+			id: "40E6DDFE67CFC556"
+			rewards: [{
+				id: "31AE96DE941571EA"
+				item: {
+					count: 1
+					id: "minecraft:carrot"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [{
+				id: "307EA3EE41CFE749"
+				item: { count: 1, id: "minecraft:carrot" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0DA20250B3C48286"]
+			id: "39D4BC8631D22A56"
+			rewards: [
+				{
+					id: "5B12B2C2702A6409"
+					item: {
+						count: 1
+						id: "minecraft:poisonous_potato"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "14D4765A2D005F61"
+					item: {
+						count: 1
+						id: "minecraft:potato"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6379392C36359CED"
+				item: { count: 1, id: "minecraft:poisonous_potato" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 4.0d
 		}
 	]
 }

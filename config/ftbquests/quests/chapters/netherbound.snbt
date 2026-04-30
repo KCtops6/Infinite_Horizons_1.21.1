@@ -95,5 +95,129 @@
 			x: 2.0d
 			y: -3.0d
 		}
+		{
+			dependencies: [
+				"0649CA1799A662D9"
+				"5FB8A06710330761"
+			]
+			id: "4F8553EC28A26753"
+			rewards: [
+				{
+					count: 3
+					id: "2CA1F92081C01686"
+					item: {
+						count: 1
+						id: "minecraft:netherite_scrap"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 16
+					id: "1FA796862977764E"
+					item: {
+						count: 1
+						id: "createsifter:crushed_netherrack"
+					}
+					random_bonus: 32
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "122CE3A678ADB03F"
+				item: { count: 1, id: "minecraft:netherite_scrap" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5919D1E15E9E01D0"]
+			id: "5FB8A06710330761"
+			tasks: [{
+				id: "331F86775FF42FCA"
+				item: { count: 1, id: "minecraft:netherrack" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"28018BE994F02339"
+				"4F8553EC28A26753"
+			]
+			id: "106B5CCECA9FF141"
+			rewards: [
+				{
+					id: "1C57C2499F245DC1"
+					item: {
+						count: 1
+						id: "minecraft:netherite_ingot"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "1496EC20A285F36E"
+					item: {
+						count: 1
+						id: "minecraft:netherite_scrap"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "70309368309B4263"
+					item: {
+						count: 1
+						id: "minecraft:gold_ingot"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "5A80AC6807A2AC19"
+				item: { count: 1, id: "minecraft:netherite_ingot" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["106B5CCECA9FF141"]
+			id: "48047449E6D18BE6"
+			rewards: [
+				{
+					id: "5A1484C1C0E5110A"
+					item: {
+						count: 1
+						id: "minecraft:netherite_block"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "547107BA8351B0C8"
+					item: {
+						count: 1
+						id: "minecraft:netherite_ingot"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0A92D8ECF3AA9265"
+				item: { count: 1, id: "minecraft:netherite_block" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
 	]
 }

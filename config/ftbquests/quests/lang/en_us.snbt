@@ -20,6 +20,7 @@
 	chapter.76260707B1BAF870.title: "Applied Energistics"
 	chapter_group.0BA6C43BB6B5DE06.title: "Main Progression"
 	chapter_group.3C16C4C95F1091C7.title: "Optional Endeavors"
+	quest.0198B4CB454E265D.quest_desc: ["Right click a piglin with arcane essence to get an apothecarist."]
 	quest.0372C7453493CA18.quest_desc: ["The &lHoney Generator&r is a sweet upgrade, offering a more efficient power source that converts honey into energy. With a generation rate of 64 FE/t and a transfer rate of 512 FE/t, it consumes only 0.5 FE/t while drawing power from honey. This upgrade from the Culinary Generator provides a buffer capacity of 500,000 FE, ensuring that your energy needs are met with this naturally sweet solution!"]
 	quest.0372C7453493CA18.quest_subtitle: "Upgrade to the Honey Generator"
 	quest.0372C7453493CA18.title: "Sweet Power"
@@ -529,6 +530,7 @@
 	task.6FF29BA6B39ED82E.title: "Kill 25 Breezes."
 	task.70901D36D39D3797.title: "Kill 15 Evokers."
 	task.70DC852B0A31C465.title: "Interface with a Priest"
+	task.721C0BDAC26115D6.title: "Interface with an Apothecarist"
 	task.74017466DBFBDCF2.title: "Observe a Horse"
 	task.7570386276C99EBD.title: "Obtain any wool."
 	task.77310FD68DBCFAE8.title: "Kill a Breeze"

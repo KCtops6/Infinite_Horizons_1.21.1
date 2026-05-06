@@ -81,7 +81,8 @@ ServerEvents.recipes(event => {
         Output.of('kubejs:peridot_gem', 0.125),
         Output.of('kubejs:ruby_gem', 0.125),
         Output.of('kubejs:sapphire_gem', 0.125),
-        Output.of('mysticalagriculture:prosperity_shard', 0.5)
+        Output.of('mysticalagriculture:prosperity_shard', 0.5),
+        Output.of('irons_spellbooks:raw_mithril', 0.25)
     ], 'kubejs:deepslate_gravel', 'kubejs:netherite_mesh');
 
     event.recipes.createsifter.sifting([

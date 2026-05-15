@@ -54,7 +54,7 @@
 	quest_links: [ ]
 	quests: [
 		{
-			dependencies: ["7E6FA6BACC7B007E"]
+			dependencies: ["4FCC6379B624055A"]
 			id: "57401F4BD3952C56"
 			rewards: [
 				{
@@ -221,7 +221,7 @@
 				}
 				{
 					id: "5C89177F9F37A84E"
-					item: { count: 1, id: "minecraft:iron_ingot" }
+					item: { }
 					type: "item"
 				}
 			]
@@ -354,37 +354,6 @@
 			y: 0.0d
 		}
 		{
-			dependencies: ["3642E2D78B348AE3"]
-			id: "7C75AE73B3CCD66E"
-			rewards: [
-				{
-					id: "60A1A897C342529E"
-					item: {
-						count: 1
-						id: "minecraft:iron_ingot"
-					}
-					random_bonus: 2
-					type: "item"
-				}
-				{
-					id: "649C64DFD063A799"
-					item: {
-						count: 1
-						id: "pamhc2foodextended:gingerchickenitem"
-					}
-					random_bonus: 2
-					type: "item"
-				}
-			]
-			tasks: [{
-				id: "46AEB24C5B2F89CF"
-				item: { count: 1, id: "kubejs:iron_trowel" }
-				type: "item"
-			}]
-			x: 15.0d
-			y: -2.0d
-		}
-		{
 			dependencies: [
 				"64DA461B29FC54FC"
 				"528AC4A13D35951B"
@@ -422,7 +391,6 @@
 			y: 0.0d
 		}
 		{
-			dependencies: ["7C75AE73B3CCD66E"]
 			icon: {
 				id: "minecraft:cobbled_deepslate"
 			}
@@ -464,17 +432,6 @@
 			y: -2.0d
 		}
 		{
-			dependencies: ["3642E2D78B348AE3"]
-			id: "102CBDC3FA5552DC"
-			tasks: [{
-				id: "7EE78E5C29F82AFF"
-				item: { count: 1, id: "kubejs:iron_hammer" }
-				type: "item"
-			}]
-			x: 13.0d
-			y: -1.0d
-		}
-		{
 			dependencies: [
 				"35B8E383C14A9B9D"
 				"0649CA1799A662D9"
@@ -498,7 +455,6 @@
 			y: -2.0d
 		}
 		{
-			dependencies: ["7E6FA6BACC7B007E"]
 			id: "07B1B6C8502FD122"
 			rewards: [{
 				id: "6436050F1D34B767"
@@ -516,108 +472,6 @@
 			}]
 			x: 21.0d
 			y: 0.0d
-		}
-		{
-			dependencies: [
-				"170192578F1D5CA0"
-				"0A32D1747C313758"
-			]
-			dependency_requirement: "one_completed"
-			id: "11332A8490D1FD31"
-			rewards: [
-				{
-					id: "586DB4C4CFC8CCA1"
-					item: {
-						count: 1
-						id: "minecraft:emerald"
-					}
-					random_bonus: 2
-					type: "item"
-				}
-				{
-					id: "75C89FE922BF9829"
-					item: {
-						count: 1
-						id: "minecraft:redstone"
-					}
-					random_bonus: 2
-					type: "item"
-				}
-				{
-					id: "2710640916F540EB"
-					item: {
-						count: 1
-						id: "pamhc2foodextended:raspberrysmoothieitem"
-					}
-					random_bonus: 2
-					type: "item"
-				}
-			]
-			tasks: [{
-				id: "083D6D95054A2190"
-				item: { count: 1, id: "minecraft:redstone" }
-				type: "item"
-			}]
-			x: -2.0d
-			y: 4.0d
-		}
-		{
-			dependencies: [
-				"170192578F1D5CA0"
-				"0A32D1747C313758"
-			]
-			dependency_requirement: "one_completed"
-			id: "0886E9D3C195E26E"
-			rewards: [
-				{
-					id: "6AC12DE60047E2FF"
-					item: {
-						count: 1
-						id: "minecraft:emerald"
-					}
-					random_bonus: 2
-					type: "item"
-				}
-				{
-					id: "27A9F50C2ACDD013"
-					item: {
-						count: 1
-						id: "minecraft:lapis_lazuli"
-					}
-					random_bonus: 2
-					type: "item"
-				}
-				{
-					id: "287DF57860814DBB"
-					item: {
-						count: 1
-						id: "pamhc2foodextended:blueberrypieitem"
-					}
-					random_bonus: 2
-					type: "item"
-				}
-			]
-			tasks: [{
-				id: "19008B1155FC94A6"
-				item: { count: 1, id: "minecraft:lapis_lazuli" }
-				type: "item"
-			}]
-			x: -2.0d
-			y: 6.0d
-		}
-		{
-			dependencies: [
-				"07B1B6C8502FD122"
-				"20CEFFF2715407F7"
-			]
-			id: "1BEB220EF0DCE259"
-			tasks: [{
-				id: "02BE2C450C831D8B"
-				item: { count: 1, id: "minecraft:enchanting_table" }
-				type: "item"
-			}]
-			x: 21.0d
-			y: -2.0d
 		}
 		{
 			dependencies: [
@@ -859,17 +713,6 @@
 		}
 		{
 			dependencies: ["28018BE994F02339"]
-			id: "6CE6FC69B9BA3D2D"
-			tasks: [{
-				id: "4C7CDAA3ECE56962"
-				item: { count: 1, id: "minecraft:golden_apple" }
-				type: "item"
-			}]
-			x: 18.0d
-			y: 2.0d
-		}
-		{
-			dependencies: ["28018BE994F02339"]
 			id: "444DCF89A61471A7"
 			rewards: [
 				{
@@ -899,43 +742,6 @@
 			}]
 			x: 17.0d
 			y: 2.0d
-		}
-		{
-			hide_dependent_lines: true
-			id: "7E6FA6BACC7B007E"
-			rewards: [
-				{
-					id: "3188E985E754DE75"
-					item: {
-						count: 1
-						id: "pamhc2foodextended:meatfeastpizzaitem"
-					}
-					random_bonus: 2
-					type: "item"
-				}
-				{
-					id: "3F1DD935E8D9B123"
-					item: {
-						count: 1
-						id: "waystones:waystone"
-					}
-					type: "item"
-				}
-				{
-					id: "182A1864D2ECC4B6"
-					item: {
-						count: 1
-						id: "waystones:warp_stone"
-					}
-					type: "item"
-				}
-			]
-			tasks: [{
-				id: "1F0741044C7EBCBF"
-				type: "checkmark"
-			}]
-			x: 0.0d
-			y: 0.0d
 		}
 		{
 			dependencies: ["3642E2D78B348AE3"]
@@ -1123,20 +929,6 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: -3.0d
-		}
-		{
-			dependencies: [
-				"33E81DD474FDE8DA"
-				"06C11C85AE952B68"
-			]
-			id: "7B7019B08691DC82"
-			tasks: [{
-				id: "73E4C0186D8548CC"
-				item: { count: 1, id: "minecraft:honeycomb" }
-				type: "item"
-			}]
-			x: 4.0d
 			y: -3.0d
 		}
 		{
@@ -1545,13 +1337,11 @@
 					type: "item"
 				}
 				{
-					count: 3
 					id: "356840475103A1F6"
 					item: {
 						count: 1
-						id: "minecraft:emerald"
+						id: "minecraft:apple"
 					}
-					random_bonus: 2
 					type: "item"
 				}
 			]
@@ -1705,7 +1495,6 @@
 			y: 8.0d
 		}
 		{
-			dependencies: ["7E6FA6BACC7B007E"]
 			id: "497252ADF991FABA"
 			tasks: [{
 				icon: {
@@ -1888,7 +1677,7 @@
 			y: 1.0d
 		}
 		{
-			dependencies: ["7E6FA6BACC7B007E"]
+			dependencies: ["4FCC6379B624055A"]
 			hide_dependency_lines: true
 			id: "6F2840F05660704F"
 			tasks: [{
@@ -1911,7 +1700,7 @@
 			y: -6.0d
 		}
 		{
-			dependencies: ["7E6FA6BACC7B007E"]
+			dependencies: ["4FCC6379B624055A"]
 			id: "5107BA5D5D9691F5"
 			tasks: [{
 				id: "235AEC573917FD95"
@@ -1922,7 +1711,7 @@
 			y: -6.0d
 		}
 		{
-			dependencies: ["7E6FA6BACC7B007E"]
+			dependencies: ["4FCC6379B624055A"]
 			id: "495820200053C81A"
 			rewards: [{
 				id: "06716C370734A8D4"
@@ -1942,7 +1731,7 @@
 			y: -5.0d
 		}
 		{
-			dependencies: ["7E6FA6BACC7B007E"]
+			dependencies: ["4FCC6379B624055A"]
 			id: "78E29EADACD52670"
 			rewards: [{
 				id: "6594125FA8C7AE56"
@@ -1992,7 +1781,6 @@
 			y: -3.0d
 		}
 		{
-			dependencies: ["7E6FA6BACC7B007E"]
 			hide_dependency_lines: true
 			id: "31F4207EAC78EA61"
 			tasks: [{
@@ -2037,7 +1825,7 @@
 			y: -5.0d
 		}
 		{
-			dependencies: ["7E6FA6BACC7B007E"]
+			dependencies: ["4FCC6379B624055A"]
 			hide_dependency_lines: true
 			hide_dependent_lines: true
 			id: "1B0B345B1B376950"
@@ -2256,7 +2044,7 @@
 			y: 6.0d
 		}
 		{
-			dependencies: ["7E6FA6BACC7B007E"]
+			dependencies: ["4FCC6379B624055A"]
 			hide_dependency_lines: true
 			hide_dependent_lines: true
 			id: "3F20361F1BBB90C4"
@@ -2295,7 +2083,7 @@
 			y: -1.0d
 		}
 		{
-			dependencies: ["7E6FA6BACC7B007E"]
+			dependencies: ["4FCC6379B624055A"]
 			hide_dependency_lines: true
 			hide_dependent_lines: true
 			id: "47561F28266DCA7A"
@@ -2315,7 +2103,7 @@
 			y: 1.0d
 		}
 		{
-			dependencies: ["7E6FA6BACC7B007E"]
+			dependencies: ["4FCC6379B624055A"]
 			id: "068FCE710FD49496"
 			tasks: [{
 				icon: {
@@ -2334,7 +2122,7 @@
 			y: -1.0d
 		}
 		{
-			dependencies: ["7E6FA6BACC7B007E"]
+			dependencies: ["4FCC6379B624055A"]
 			hide_dependency_lines: true
 			hide_dependent_lines: true
 			id: "3BB2A27C8DB24D46"
@@ -2354,7 +2142,7 @@
 			y: 0.0d
 		}
 		{
-			dependencies: ["7E6FA6BACC7B007E"]
+			dependencies: ["4FCC6379B624055A"]
 			hide_dependency_lines: true
 			hide_dependent_lines: true
 			id: "147E07C06E240EA0"
@@ -2374,7 +2162,7 @@
 			y: 1.0d
 		}
 		{
-			dependencies: ["7E6FA6BACC7B007E"]
+			dependencies: ["4FCC6379B624055A"]
 			hide_dependency_lines: true
 			hide_dependent_lines: true
 			id: "17B2959C191DD2C6"
@@ -2403,7 +2191,7 @@
 			y: -3.0d
 		}
 		{
-			dependencies: ["7E6FA6BACC7B007E"]
+			dependencies: ["4FCC6379B624055A"]
 			hide_dependency_lines: true
 			hide_dependent_lines: true
 			id: "5B344A38715979C6"
@@ -2423,7 +2211,7 @@
 			y: -3.0d
 		}
 		{
-			dependencies: ["7E6FA6BACC7B007E"]
+			dependencies: ["4FCC6379B624055A"]
 			hide_dependency_lines: true
 			hide_dependent_lines: true
 			id: "132BA1207D041791"
@@ -2443,7 +2231,7 @@
 			y: -3.0d
 		}
 		{
-			dependencies: ["7E6FA6BACC7B007E"]
+			dependencies: ["4FCC6379B624055A"]
 			hide_dependency_lines: true
 			hide_dependent_lines: true
 			id: "7639FDCB3A13E2BF"
@@ -2463,7 +2251,7 @@
 			y: -2.0d
 		}
 		{
-			dependencies: ["7E6FA6BACC7B007E"]
+			dependencies: ["4FCC6379B624055A"]
 			id: "0F31FA5A2CCBC38F"
 			tasks: [{
 				entity: "minecraft:enderman"
@@ -2481,7 +2269,7 @@
 			y: -2.0d
 		}
 		{
-			dependencies: ["7E6FA6BACC7B007E"]
+			dependencies: ["4FCC6379B624055A"]
 			id: "211BF4A68D1D2CBE"
 			tasks: [{
 				entity: "minecraft:pillager"
@@ -2589,37 +2377,6 @@
 		}
 		{
 			dependencies: ["3669B1306B9EF7D4"]
-			id: "533C4047C3C9F6A2"
-			rewards: [
-				{
-					id: "7A48EFE421189A42"
-					item: {
-						count: 1
-						id: "minecraft:kelp"
-					}
-					random_bonus: 2
-					type: "item"
-				}
-				{
-					id: "34DAFF26DF87F081"
-					item: {
-						count: 1
-						id: "minecraft:emerald"
-					}
-					random_bonus: 2
-					type: "item"
-				}
-			]
-			tasks: [{
-				id: "702170679641D9D0"
-				item: { count: 1, id: "minecraft:kelp" }
-				type: "item"
-			}]
-			x: 6.0d
-			y: 6.0d
-		}
-		{
-			dependencies: ["3669B1306B9EF7D4"]
 			id: "68D48881340EC02C"
 			rewards: [
 				{
@@ -2722,17 +2479,10 @@
 					type: "item"
 				}
 				{
-					icon: {
-						components: {
-							"!ftbquests:icon": { }
-							"ftbquests:entity_face": "minecraft:allay"
-						}
-						id: "ftbquests:custom_icon"
-					}
 					id: "66BA2429DC3F98C1"
-					observe_type: 5
+					observe_type: 0
 					timer: 0L
-					to_observe: "minecraft:allay"
+					to_observe: "minecraft:dirt"
 					type: "observation"
 				}
 			]
@@ -2740,7 +2490,6 @@
 			y: -4.0d
 		}
 		{
-			dependencies: ["7E6FA6BACC7B007E"]
 			hide_dependency_lines: true
 			id: "1F16859FE1A9CAE9"
 			tasks: [{
@@ -3134,7 +2883,7 @@
 			y: -1.0d
 		}
 		{
-			dependencies: ["7E6FA6BACC7B007E"]
+			dependencies: ["4FCC6379B624055A"]
 			id: "5ECDF75B4FB0305A"
 			tasks: [{
 				entity: "minecraft:phantom"
@@ -3186,7 +2935,7 @@
 			y: 2.0d
 		}
 		{
-			dependencies: ["7E6FA6BACC7B007E"]
+			dependencies: ["4FCC6379B624055A"]
 			id: "0DA20250B3C48286"
 			rewards: [{
 				id: "181452D90649948C"
@@ -3206,7 +2955,7 @@
 			y: 3.0d
 		}
 		{
-			dependencies: ["7E6FA6BACC7B007E"]
+			dependencies: ["4FCC6379B624055A"]
 			id: "40E6DDFE67CFC556"
 			rewards: [{
 				id: "31AE96DE941571EA"
@@ -3256,6 +3005,16 @@
 			}]
 			x: 2.0d
 			y: 4.0d
+		}
+		{
+			hide_dependent_lines: true
+			id: "4FCC6379B624055A"
+			tasks: [{
+				id: "0D1C0D106A2E981E"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
 		}
 	]
 }

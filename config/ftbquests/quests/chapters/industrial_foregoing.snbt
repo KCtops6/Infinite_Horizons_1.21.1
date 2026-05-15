@@ -9,70 +9,6 @@
 	quest_links: [ ]
 	quests: [
 		{
-			dependencies: ["11332A8490D1FD31"]
-			id: "5CE92F255234E2E3"
-			tasks: [{
-				id: "18B1C3094EE3219B"
-				type: "checkmark"
-			}]
-			x: 0.0d
-			y: 0.0d
-		}
-		{
-			dependencies: ["5CE92F255234E2E3"]
-			id: "71391FFFE2E5D214"
-			tasks: [{
-				id: "6F0E180EB65DCC52"
-				item: { count: 1, id: "industrialforegoing:machine_frame_pity" }
-				type: "item"
-			}]
-			x: 1.0d
-			y: 0.0d
-		}
-		{
-			dependencies: ["71391FFFE2E5D214"]
-			icon: {
-				id: "industrialforegoing:latex_bucket"
-			}
-			id: "597F93A388C877C0"
-			rewards: [
-				{
-					id: "3F2CA71C4A1DD157"
-					item: {
-						count: 1
-						id: "industrialforegoing:fluid_extractor"
-					}
-					random_bonus: 2
-					type: "item"
-				}
-				{
-					count: 3
-					id: "1DB6D72CCA71B9DE"
-					item: {
-						count: 1
-						id: "industrialforegoing:machine_frame_pity"
-					}
-					random_bonus: 2
-					type: "item"
-				}
-			]
-			tasks: [
-				{
-					id: "3057AB2CCC027E6A"
-					item: { count: 1, id: "industrialforegoing:fluid_extractor" }
-					type: "item"
-				}
-				{
-					id: "58EFDBC106C4E441"
-					item: { count: 1, id: "industrialforegoing:latex_bucket" }
-					type: "item"
-				}
-			]
-			x: 2.0d
-			y: 0.0d
-		}
-		{
-			dependencies: ["597F93A388C877C0"]
 			icon: {
 				id: "industrialforegoing:plastic"
 			}
@@ -274,17 +210,6 @@
 			y: 1.0d
 		}
 		{
-			dependencies: ["262469F2831282E0"]
-			id: "21D94E65457B5FAD"
-			tasks: [{
-				id: "7E033653B59935CC"
-				item: { count: 1, id: "industrialforegoing:resourceful_furnace" }
-				type: "item"
-			}]
-			x: 3.0d
-			y: 1.0d
-		}
-		{
 			dependencies: ["1FDA55004CC388CE"]
 			id: "05005E2D55AA6932"
 			optional: true
@@ -336,7 +261,6 @@
 			dependencies: [
 				"6947044F3785AF4D"
 				"21C1EEC538D5FDF1"
-				"695EE705E93EFEA7"
 				"1756B8EC683CE322"
 				"29D645D6804C5EE4"
 				"712AC14B58FFA294"
@@ -349,7 +273,6 @@
 				"325190FA0571A3AC"
 				"7E62801756972299"
 				"68C3CCF15C1D2A30"
-				"0F415E31119E2511"
 				"02F6F111754F27C3"
 			]
 			hide_dependency_lines: true
@@ -460,18 +383,6 @@
 			y: 5.0d
 		}
 		{
-			dependencies: ["02F6F111754F27C3"]
-			hide_dependency_lines: true
-			id: "0F415E31119E2511"
-			tasks: [{
-				id: "53A6746EEAC23D4A"
-				item: { count: 1, id: "industrialforegoing:mycelial_halitosis" }
-				type: "item"
-			}]
-			x: 4.0d
-			y: 5.0d
-		}
-		{
 			dependencies: ["6D636E2DD01DE3E2"]
 			hide_dependency_lines: true
 			id: "21C1EEC538D5FDF1"
@@ -517,18 +428,6 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 7.0d
-		}
-		{
-			dependencies: ["6D636E2DD01DE3E2"]
-			hide_dependency_lines: true
-			id: "695EE705E93EFEA7"
-			tasks: [{
-				id: "7A147B31ED1DA25D"
-				item: { count: 1, id: "industrialforegoing:mycelial_rocket" }
-				type: "item"
-			}]
-			x: 2.0d
 			y: 7.0d
 		}
 		{
@@ -616,18 +515,6 @@
 			y: 1.0d
 		}
 		{
-			dependencies: ["1857AD66F24841BA"]
-			id: "7790EF7300D0C42D"
-			tasks: [{
-				id: "099B171053181F0F"
-				item: { count: 1, id: "industrialforegoing:fluid_laser_base" }
-				type: "item"
-			}]
-			x: 11.0d
-			y: 0.0d
-		}
-		{
-			dependencies: ["7790EF7300D0C42D"]
 			id: "30BE3D1DBD90991E"
 			tasks: [{
 				id: "38DBEACB99C7157C"
@@ -638,18 +525,6 @@
 			y: 0.0d
 		}
 		{
-			dependencies: ["6D636E2DD01DE3E2"]
-			id: "1857AD66F24841BA"
-			tasks: [{
-				id: "6398E5213394A5A5"
-				item: { count: 1, id: "industrialforegoing:laser_drill" }
-				type: "item"
-			}]
-			x: 10.0d
-			y: 0.0d
-		}
-		{
-			dependencies: ["1857AD66F24841BA"]
 			id: "5F8E168138D213B2"
 			tasks: [{
 				id: "5435979CC2D40EB9"
@@ -713,19 +588,6 @@
 		{
 			dependencies: ["6D636E2DD01DE3E2"]
 			hide_dependency_lines: true
-			id: "230F862E9F50B4B5"
-			optional: true
-			tasks: [{
-				id: "74E1F92890C6AF3B"
-				item: { count: 1, id: "industrialforegoing:enchantment_extractor" }
-				type: "item"
-			}]
-			x: 8.0d
-			y: -2.0d
-		}
-		{
-			dependencies: ["6D636E2DD01DE3E2"]
-			hide_dependency_lines: true
 			id: "481B328B24F37F8F"
 			optional: true
 			tasks: [{
@@ -748,7 +610,6 @@
 			y: -1.0d
 		}
 		{
-			dependencies: ["71391FFFE2E5D214"]
 			hide_dependency_lines: true
 			id: "68C6B21F9C7A384A"
 			tasks: [{
@@ -760,7 +621,6 @@
 			y: -2.0d
 		}
 		{
-			dependencies: ["71391FFFE2E5D214"]
 			hide_dependency_lines: true
 			id: "6E850E0809286CF1"
 			tasks: [{

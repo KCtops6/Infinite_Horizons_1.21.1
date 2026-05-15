@@ -10,7 +10,7 @@
 		string_id: "mineshaft"
 	}
 	loot_size: 1
-	order_index: 16
+	order_index: 17
 	rewards: [
 		{
 			count: 4

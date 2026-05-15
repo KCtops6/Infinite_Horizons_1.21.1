@@ -12,10 +12,7 @@
 	quest_links: [ ]
 	quests: [
 		{
-			dependencies: [
-				"7B7019B08691DC82"
-				"7AAC808AC46EDE3E"
-			]
+			dependencies: ["7AAC808AC46EDE3E"]
 			id: "68694C1E921D810F"
 			tasks: [{
 				id: "5632617F2A30D0B1"
@@ -400,7 +397,7 @@
 			tasks: [
 				{
 					id: "4A80D6218ED55997"
-					item: { components: { "minecraft:entity_data": { id: "productivebees:configurable_bee", type: "productivebees:slimy" } }, count: 1, id: "productivebees:spawn_egg_configurable_bee" }
+					item: { }
 					type: "item"
 				}
 				{
@@ -979,18 +976,14 @@
 			y: -2.0d
 		}
 		{
-			dependencies: [
-				"59FAD5E6B74F9313"
-				"54D0230218BAF745"
-			]
 			id: "78DDD972FFA825F1"
 			tasks: [{
 				id: "48B98DF80FA2BBA3"
 				item: { components: { "productivebees:bee_type": "productivebees:radioactive" }, count: 1, id: "productivebees:configurable_honeycomb" }
 				type: "item"
 			}]
-			x: -6.0d
-			y: -1.0d
+			x: 0.0d
+			y: 0.0d
 		}
 		{
 			dependencies: [

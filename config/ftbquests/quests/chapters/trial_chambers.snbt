@@ -76,9 +76,8 @@
 					id: "0CD721F94B75B5B7"
 					item: {
 						count: 1
-						id: "minecraft:breeze_rod"
+						id: "minecraft:apple"
 					}
-					random_bonus: 2
 					type: "item"
 				}
 				{
@@ -292,7 +291,6 @@
 			y: -3.0d
 		}
 		{
-			dependencies: ["041C0F5E471298D2"]
 			id: "4D76020C12C3809E"
 			tasks: [{
 				entity: "minecraft:breeze"
@@ -307,8 +305,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 2.0d
-			y: 4.0d
+			x: 0.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["1E55E9E9E3B8ECEB"]
@@ -426,7 +424,6 @@
 			y: 4.0d
 		}
 		{
-			dependencies: ["7E6FA6BACC7B007E"]
 			icon: {
 				id: "kubejs:trial_core"
 			}
@@ -848,24 +845,6 @@
 			y: -2.0d
 		}
 		{
-			dependencies: [
-				"6FAB74DAC0709900"
-				"0A4D1FFFA7EEA761"
-			]
-			dependency_requirement: "one_completed"
-			hide_dependency_lines: true
-			id: "4908F4F58F9486F7"
-			optional: true
-			size: 0.5d
-			tasks: [{
-				id: "531E4BD21403AC59"
-				item: { count: 1, id: "minecraft:rib_armor_trim_smithing_template" }
-				type: "item"
-			}]
-			x: 9.0d
-			y: -1.0d
-		}
-		{
 			dependencies: ["041C0F5E471298D2"]
 			hide_dependency_lines: true
 			id: "2513062705FC9485"
@@ -1026,17 +1005,6 @@
 				value: 1L
 			}]
 			x: -2.0d
-			y: -2.0d
-		}
-		{
-			dependencies: ["296C851C67C619B6"]
-			id: "095F3EC1721CE3B9"
-			tasks: [{
-				id: "54AD34923EC1F432"
-				item: { count: 1, id: "minecraft:eye_armor_trim_smithing_template" }
-				type: "item"
-			}]
-			x: -3.0d
 			y: -2.0d
 		}
 	]

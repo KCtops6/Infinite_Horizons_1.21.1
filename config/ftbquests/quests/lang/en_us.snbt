@@ -27,9 +27,6 @@
 	quest.040ABB916C18346A.quest_desc: ["The &lEmerald Generator&r takes power generation to the next level, offering an impressive 256 FE/t generation rate and 512 FE/t transfer rate. With a massive 500,000 FE buffer capacity and a low 0.4 consumption rate, this upgrade is incredibly efficient. Fueling on solid resources, it guarantees a long-lasting and reliable energy supply for your systems. Upgrade from a Diamond Generator or craft an Emerald Generator to supercharge your energy network."]
 	quest.040ABB916C18346A.quest_subtitle: "The ultimate upgrade for your energy needs"
 	quest.040ABB916C18346A.title: "Emerald Power Surge"
-	quest.04F3232804097839.quest_desc: ["The &lMillstone&r is the perfect tool to automate the grinding process. Use it to automatically turn &oCobblestone into Gravel&r and &oGravel into Sand&r—no more hammering by hand. Power it with rotational energy from a &lWater Wheel&r or &lWindmill&r, and let it run smoothly as it processes your materials for you. Set it up and watch the grinding never stop!"]
-	quest.04F3232804097839.quest_subtitle: "Automating the Hammer"
-	quest.04F3232804097839.title: "Grinding Efficiency"
 	quest.050981ABE9425101.quest_subtitle: "Cleric Trade"
 	quest.050981ABE9425101.title: "Early Echo Shards"
 	quest.061B13FB7F5EAA60.quest_desc: ["Some of these recipes can be replicated with create milling or crushing."]
@@ -39,9 +36,6 @@
 	quest.07B1B6C8502FD122.quest_desc: ["You can find them in blacksmiths or make them naturally."]
 	quest.07B1B6C8502FD122.quest_subtitle: "Obtaining Obsidian"
 	quest.07B1B6C8502FD122.title: "Unbreakable Resolve"
-	quest.0886E9D3C195E26E.quest_desc: [""]
-	quest.0886E9D3C195E26E.quest_subtitle: "Cleric Trade"
-	quest.0886E9D3C195E26E.title: "Early Lapis"
 	quest.08AA4A1FF88BADA2.quest_desc: ["The &lPotion Generator&r taps into the power of potions to generate energy. With a generation rate of 8 FE/t and a transfer rate of 512 FE/t, it consumes 1 FE/t, drawing its fuel from potions. This upgrade from the Culinary Generator provides a buffer capacity of 250,000 FE, allowing you to harness the magical energy of potions for your power needs."]
 	quest.08AA4A1FF88BADA2.quest_subtitle: "Upgrade to the Potion Generator"
 	quest.08AA4A1FF88BADA2.title: "Brewing Power"
@@ -57,12 +51,6 @@
 	quest.0E2601518E952F8C.title: "Seeds of the Sea"
 	quest.0F4C5B2728A47022.quest_desc: ["You've successfully set up a solid foundation for power generation, providing a reliable energy source for your Applied Energistics 2 network. With this setup, you’ll be able to support your AE2 systems, ensuring a smooth and efficient operation. Check this quest to acknowledge that you're ready to power your devices!"]
 	quest.0F4C5B2728A47022.quest_subtitle: "Ensure a Steady Energy Flow"
-	quest.102CBDC3FA5552DC.quest_desc: ["The &lIron Hammer&r is a direct upgrade from the Stone Hammer, allowing you to break tougher materials with ease. It is essential for processing Tuff into Tuff Gravel and is required to obtain Deepslate Gravel. With this tool in hand, you're ready to break through stronger stone and progress further!"]
-	quest.102CBDC3FA5552DC.quest_subtitle: "Upgrading to Iron"
-	quest.102CBDC3FA5552DC.title: "A Stronger Strike"
-	quest.11332A8490D1FD31.quest_desc: [""]
-	quest.11332A8490D1FD31.quest_subtitle: "Cleric Trade"
-	quest.11332A8490D1FD31.title: "Early Redstone"
 	quest.117B34F7EB4DB72A.quest_subtitle: "Cleric Trade"
 	quest.1284CA2D49C1FE72.quest_desc: [""]
 	quest.1284CA2D49C1FE72.quest_subtitle: "Smelting the Sands of the Nether"
@@ -103,9 +91,6 @@
 	quest.19EC29C268AFA9C9.title: "Spatial Bee"
 	quest.1B922950A7570482.quest_desc: ["Check the box to acknowledge that you have a working source of rotational energy."]
 	quest.1B922950A7570482.quest_subtitle: "Early Game Power"
-	quest.1BEB220EF0DCE259.quest_desc: ["The &lEnchanting Table&r is a powerful tool that allows you to imbue your items with magical enchantments. To craft one, you'll need Diamonds, Obsidian, and Bookshelves for enhancing its functionality. Use this table to upgrade your gear and gain an edge in your adventures."]
-	quest.1BEB220EF0DCE259.quest_subtitle: "Unlock the Magic"
-	quest.1BEB220EF0DCE259.title: "Crafting the Enchanting Table"
 	quest.1DD31DACE3A3A35A.quest_desc: ["&lEarth Seeds&r grow into &lEarth Essence&r, which may not offer immediate benefits for early-game crafting, but it is vital for creating high-level gear in the end game. It's wise to start growing these now, so you’ll have a steady supply when you're ready to craft advanced equipment and unlock powerful recipes. Get a head start on your future progression!"]
 	quest.1DD31DACE3A3A35A.quest_subtitle: "Preparing for Greater Power"
 	quest.1DD31DACE3A3A35A.title: "Rooted in the Earth"
@@ -116,7 +101,6 @@
 	quest.20CEFFF2715407F7.quest_subtitle: "Finding Diamonds"
 	quest.20CEFFF2715407F7.title: "Diamonds are Forever"
 	quest.20FB1A32048FB729.quest_desc: ["There are a few ways to get sugar. Check JEI."]
-	quest.21E2B653C69880FF.quest_desc: ["Fundamental crafting component in Mystical Agriculture."]
 	quest.2204AA3E838C4962.quest_desc: ["Transform &oorganic matter&r and &owater&r into &lPulp&r using the Mechanical Mixer. Once you have enough pulp, use the Mechanical Press to turn it into &lCardboard&r. Cardboard serves as a cost-effective material, especially for crafting items like books. It’s a simple yet valuable resource that can streamline your crafting process. Get mixing and pressing to unlock its potential!"]
 	quest.2204AA3E838C4962.quest_subtitle: "From Pulp to Cardboard"
 	quest.2204AA3E838C4962.title: "Paper Trails"
@@ -221,7 +205,6 @@
 		""
 		"Good, steady source of &oprosperity shards&r."
 	]
-	quest.3AEF3DF55015B968.quest_desc: ["Alternative method to get inferium besides mob drops."]
 	quest.3C1AEE1D1076DC69.quest_desc: [
 		"Obtained by right clicking a &lruby block&r on a &ldiamond bee&r."
 		""
@@ -305,7 +288,6 @@
 	quest.528AC4A13D35951B.quest_desc: ["Use a &ohammer&r on &lcobblestone&r to get &lgravel&r."]
 	quest.528AC4A13D35951B.quest_subtitle: "Turning Stone into Gravel"
 	quest.528AC4A13D35951B.title: "Hammering the Basics"
-	quest.533C4047C3C9F6A2.quest_desc: ["More renewable material for belts than rubber sheets."]
 	quest.53AC5BC20682441D.quest_desc: [
 		"You may struggle to find certain animals in the superflat environment. This is what the modpack's feed items are for."
 		""
@@ -347,9 +329,6 @@
 	quest.66CC1872F77E4EE6.title: "Winds of Change"
 	quest.6B053EAB0CB56AE7.title: "Kitchen Essentials"
 	quest.6B4111F7BFF585CC.title: "Sponge"
-	quest.6F234337CE289CD4.quest_desc: [""]
-	quest.6F234337CE289CD4.quest_subtitle: "Forging the Andesite Alloy"
-	quest.6F234337CE289CD4.title: "The Heart of Creation"
 	quest.7112ED278B1CE804.quest_desc: ["Look at JEI for all of the useful crafts with this item."]
 	quest.71B4677400CE51F3.quest_desc: ["You can find lava in a blacksmith, craft fire seeds, or mix pebbles in a create mixer."]
 	quest.720A2F80D5E73A17.quest_desc: ["The &lNetherite Generator&r is the ultimate power source, capable of generating 256 FE/t with a transfer rate of 1024 FE/t. This upgrade from the Diamond Generator provides an efficient 0.4 FE/t consumption rate and boasts a buffer capacity of 1,000,000 FE. By using solid fuels, the Netherite Generator brings a reliable, high-output energy source to your setup. Upgrade now to harness the power of Netherite and fuel your machines with the most advanced energy production available."]
@@ -381,9 +360,6 @@
 	quest.7C42B99D6CD2EB48.title: "A Better Trowel"
 	quest.7C7513C71C94DAE4.quest_subtitle: "Cleric Trade"
 	quest.7C7513C71C94DAE4.title: "Early Glowstone"
-	quest.7C75AE73B3CCD66E.quest_desc: ["The &lIron Trowel&r is a step up from its predecessors, allowing you to uncover even more exclusive materials while still gathering everything a &lStone Trowel&r could. With increased durability and better drops, this tool is essential for expanding your resource collection. Upgrade now and see what hidden treasures await beneath the surface!"]
-	quest.7C75AE73B3CCD66E.quest_subtitle: "The Iron Advantage"
-	quest.7C75AE73B3CCD66E.title: "Digging Deeper"
 	quest.7D5453D77D188888.quest_desc: ["&lFire Seeds&r produce &lFire Essence&r, a versatile material used in various recipes. Most importantly, it can be crafted into &lLava Buckets&r, providing a renewable source of lava. Whether for smelting, power generation, or obsidian production, these seeds ensure you'll never run out of molten heat!"]
 	quest.7D5453D77D188888.quest_subtitle: "Harnessing Fire Essence"
 	quest.7D5453D77D188888.title: "Seeds of Flame"
@@ -419,6 +395,7 @@
 	task.0BE83ACD14C2D91D.title: "Craft a Bed"
 	task.0C7E48B8D72ADD3F.title: "Kill a Blaze"
 	task.0C9E547572CBA87E.title: "Assemble a Squeezer"
+	task.0D1C0D106A2E981E.title: "Welcome"
 	task.1002B199F4A7DDC3.title: "Observe a Grindstone"
 	task.111FF24730E1E06B.title: "Observe a Brewing Stand."
 	task.123938E3F07AEAF3.title: "Any #c:jellies"

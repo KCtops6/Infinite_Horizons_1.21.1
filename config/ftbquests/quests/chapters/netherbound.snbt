@@ -40,9 +40,8 @@
 				id: "3168342E76900152"
 				item: {
 					count: 1
-					id: "minecraft:quartz"
+					id: "minecraft:apple"
 				}
-				random_bonus: 2
 				type: "item"
 			}]
 			tasks: [{

@@ -10,7 +10,7 @@
 		string_id: "stronghold_library"
 	}
 	loot_size: 1
-	order_index: 12
+	order_index: 13
 	rewards: [
 		{
 			id: "7347E31C5E7DB468"

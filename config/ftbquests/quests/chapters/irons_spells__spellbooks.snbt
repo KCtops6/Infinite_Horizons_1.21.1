@@ -12,22 +12,6 @@
 	quest_links: [ ]
 	quests: [
 		{
-			dependencies: [
-				"0C4235D9A851A11E"
-				"00F5A80404525056"
-				"5DC51E518E74E9AA"
-			]
-			dependency_requirement: "one_completed"
-			id: "3D183F47AE00BF7D"
-			tasks: [{
-				id: "1FB015ABDC77621F"
-				item: { count: 1, id: "irons_spellbooks:arcane_essence" }
-				type: "item"
-			}]
-			x: 0.0d
-			y: 0.0d
-		}
-		{
 			dependencies: ["00F5A80404525056"]
 			id: "0C4235D9A851A11E"
 			tasks: [{
@@ -67,7 +51,6 @@
 			y: -4.0d
 		}
 		{
-			dependencies: ["3D183F47AE00BF7D"]
 			id: "41F52BAA4C638B99"
 			rewards: [
 				{
@@ -331,7 +314,6 @@
 			y: 9.0d
 		}
 		{
-			dependencies: ["3D183F47AE00BF7D"]
 			id: "4CC2BE5791925DC4"
 			tasks: [{
 				id: "12074ED671712E8A"
@@ -762,10 +744,7 @@
 			y: 9.25d
 		}
 		{
-			dependencies: [
-				"3D183F47AE00BF7D"
-				"3F20361F1BBB90C4"
-			]
+			dependencies: ["3F20361F1BBB90C4"]
 			id: "517E578009B81EB5"
 			rewards: [
 				{
@@ -778,13 +757,11 @@
 					type: "item"
 				}
 				{
-					count: 3
 					id: "0C7038E051EEB422"
 					item: {
 						count: 1
-						id: "irons_spellbooks:arcane_essence"
+						id: "minecraft:apple"
 					}
-					random_bonus: 2
 					type: "item"
 				}
 			]
@@ -874,9 +851,8 @@
 				id: "73C8037061505E26"
 				item: {
 					count: 1
-					id: "irons_spellbooks:magic_cloth"
+					id: "minecraft:apple"
 				}
-				random_bonus: 2
 				type: "item"
 			}]
 			size: 0.5d
@@ -889,10 +865,6 @@
 			y: -1.75d
 		}
 		{
-			dependencies: [
-				"7E6FA6BACC7B007E"
-				"3D183F47AE00BF7D"
-			]
 			id: "60F7DA1BF51C65DA"
 			tasks: [{
 				icon: {
@@ -944,10 +916,7 @@
 			y: 2.0d
 		}
 		{
-			dependencies: [
-				"1D944518701CBE82"
-				"35B8E383C14A9B9D"
-			]
+			dependencies: ["35B8E383C14A9B9D"]
 			id: "372AE6AC3C5835C2"
 			rewards: [{
 				id: "45FCA9681217A224"
@@ -967,10 +936,7 @@
 			y: 3.0d
 		}
 		{
-			dependencies: [
-				"3D183F47AE00BF7D"
-				"2BBC0EF3B50C5F65"
-			]
+			dependencies: ["2BBC0EF3B50C5F65"]
 			hide_dependent_lines: true
 			id: "381BB9456344A168"
 			tasks: [{
@@ -1079,7 +1045,6 @@
 			y: -3.75d
 		}
 		{
-			dependencies: ["3D183F47AE00BF7D"]
 			id: "0198B4CB454E265D"
 			rewards: [{
 				id: "18711EC3B49A1EDB"
@@ -1240,10 +1205,6 @@
 			y: 5.0d
 		}
 		{
-			dependencies: [
-				"7E6FA6BACC7B007E"
-				"3D183F47AE00BF7D"
-			]
 			id: "5174130FDC3B1AE1"
 			rewards: [{
 				count: 9
@@ -1283,7 +1244,7 @@
 			size: 0.5d
 			tasks: [{
 				id: "076516EB1890B33A"
-				item: { count: 1, id: "irons_spellbooks:cryomancer_helmet" }
+				item: { }
 				type: "item"
 			}]
 			x: -4.25d
@@ -1355,19 +1316,13 @@
 			y: 8.0d
 		}
 		{
-			dependencies: [
-				"7E6FA6BACC7B007E"
-				"3D183F47AE00BF7D"
-			]
 			id: "7D2CBB91564CCC73"
 			rewards: [{
-				count: 9
 				id: "716B37BAEA2FB912"
 				item: {
 					count: 1
-					id: "minecraft:emerald"
+					id: "minecraft:apple"
 				}
-				random_bonus: 18
 				type: "item"
 			}]
 			tasks: [{
@@ -1399,33 +1354,6 @@
 			y: 8.0d
 		}
 		{
-			dependencies: [
-				"376F9288AE1FED8B"
-				"5473EBD9AFC54884"
-				"4D3627B4EB65576C"
-				"0F65C475A6565409"
-			]
-			dependency_requirement: "one_completed"
-			id: "0A651F7E8F014C40"
-			rewards: [{
-				id: "0F1751FE837BBA07"
-				item: {
-					count: 1
-					id: "irons_spellbooks:pyrium_ingot"
-				}
-				random_bonus: 2
-				type: "item"
-			}]
-			tasks: [{
-				id: "192347631221CBEE"
-				item: { count: 1, id: "irons_spellbooks:pyrium_ingot" }
-				type: "item"
-			}]
-			x: 2.0d
-			y: 10.0d
-		}
-		{
-			dependencies: ["0A651F7E8F014C40"]
 			id: "336921C25E15EF84"
 			tasks: [{
 				id: "1DD87B97B7AE7256"
@@ -1454,10 +1382,7 @@
 			y: 10.0d
 		}
 		{
-			dependencies: [
-				"0A651F7E8F014C40"
-				"192A410621A56FA2"
-			]
+			dependencies: ["192A410621A56FA2"]
 			id: "7B84BA2649A6DC2B"
 			optional: true
 			tasks: [{
@@ -1574,7 +1499,7 @@
 			id: "55331700C01ADE39"
 			tasks: [{
 				id: "5149CBA5EA0A8280"
-				item: { count: 1, id: "irons_spellbooks:arcane_anvil" }
+				item: { }
 				type: "item"
 			}]
 			x: 6.0d
@@ -1636,7 +1561,7 @@
 			size: 0.5d
 			tasks: [{
 				id: "32E0F1E53EA4CAB2"
-				item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "irons_spellbooks:electromancer_chestplate" }
+				item: { }
 				type: "item"
 			}]
 			x: 4.25d

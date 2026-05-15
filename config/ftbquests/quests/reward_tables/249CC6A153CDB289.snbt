@@ -10,7 +10,7 @@
 		string_id: "shipwreck_treasure"
 	}
 	loot_size: 1
-	order_index: 18
+	order_index: 19
 	rewards: [
 		{
 			id: "74017EFB6B5420A3"

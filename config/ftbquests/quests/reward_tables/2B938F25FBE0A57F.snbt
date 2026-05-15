@@ -10,7 +10,7 @@
 		string_id: "buried_treasure"
 	}
 	loot_size: 1
-	order_index: 14
+	order_index: 15
 	rewards: [
 		{
 			id: "670E886572A6F8B9"

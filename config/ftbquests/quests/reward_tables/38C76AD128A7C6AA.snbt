@@ -10,7 +10,7 @@
 		string_id: "desert_pyramid"
 	}
 	loot_size: 1
-	order_index: 10
+	order_index: 11
 	rewards: [
 		{
 			id: "4BFDE1167A45C8A0"

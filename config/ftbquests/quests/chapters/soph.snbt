@@ -12,7 +12,6 @@
 	quest_links: [ ]
 	quests: [
 		{
-			dependencies: ["11332A8490D1FD31"]
 			icon: {
 				components: {
 					"sophisticatedstorage:wood_type": "oak"
@@ -42,10 +41,7 @@
 			y: 0.0d
 		}
 		{
-			dependencies: [
-				"11332A8490D1FD31"
-				"36DFAA43CB257B34"
-			]
+			dependencies: ["36DFAA43CB257B34"]
 			icon: {
 				components: {
 					"sophisticatedstorage:wood_type": "oak"
@@ -372,32 +368,24 @@
 			y: 3.0d
 		}
 		{
-			dependencies: ["7ED725C014AA66D3"]
-			dependency_requirement: "one_completed"
 			id: "748551ECE963BFC3"
 			tasks: [{
 				id: "081F16B216B3A4E0"
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(sophisticated:advanced_compacting_upgrades)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 4.0d
-			y: 4.0d
+			x: 0.0d
+			y: 0.0d
 		}
 		{
-			dependencies: [
-				"36DFAA43CB257B34"
-				"28C1E763BD82AE2A"
-			]
-			dependency_requirement: "one_completed"
-			hide_dependency_lines: true
 			id: "69E25B78BCD749AE"
 			tasks: [{
 				id: "77D7C9FB811D97C1"
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(sophisticated:void_upgrades)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 5.0d
-			y: 3.0d
+			x: 0.0d
+			y: 0.0d
 		}
 		{
 			dependencies: [

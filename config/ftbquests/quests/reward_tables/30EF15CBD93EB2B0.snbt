@@ -10,7 +10,7 @@
 		string_id: "stronghold_storeroom"
 	}
 	loot_size: 1
-	order_index: 11
+	order_index: 12
 	rewards: [
 		{
 			id: "13C4F4B7F083650D"

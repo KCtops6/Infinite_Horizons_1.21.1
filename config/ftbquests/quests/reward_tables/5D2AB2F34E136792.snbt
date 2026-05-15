@@ -1,0 +1,116 @@
+{
+	id: "5D2AB2F34E136792"
+	loot_crate: {
+		color: 5124177
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "evoker_fort"
+	}
+	loot_size: 15
+	order_index: 8
+	rewards: [
+		{
+			id: "27C04223DB81C637"
+			item: {
+				count: 1
+				id: "irons_spellbooks:arcane_essence"
+			}
+			random_bonus: 2
+			weight: 5.0f
+		}
+		{
+			id: "34ECA3E4955A19CE"
+			item: {
+				count: 1
+				id: "minecraft:raw_iron"
+			}
+			random_bonus: 4
+			weight: 5.0f
+		}
+		{
+			id: "6BB7F1F3C901139F"
+			item: {
+				count: 1
+				id: "minecraft:experience_bottle"
+			}
+			weight: 5.0f
+		}
+		{
+			id: "1162DA2779E9FF57"
+			item: {
+				count: 1
+				id: "minecraft:diamond"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "7EB971A12ECA0423"
+			item: {
+				count: 1
+				id: "minecraft:arrow"
+			}
+			random_bonus: 4
+			weight: 6.0f
+		}
+		{
+			id: "70BE10EACB78E7F0"
+			item: {
+				count: 1
+				id: "minecraft:emerald"
+			}
+			weight: 8.0f
+		}
+		{
+			id: "4CAEEA6B8F69D204"
+			item: {
+				count: 1
+				id: "minecraft:goat_horn"
+			}
+			weight: 1.45f
+		}
+		{
+			id: "15BCFAEC5D72FC2A"
+			item: {
+				count: 1
+				id: "irons_spellbooks:common_ink"
+			}
+			random_bonus: 4
+		}
+		{
+			id: "465AB1270928AB9A"
+			item: {
+				count: 1
+				id: "irons_spellbooks:silver_ring"
+			}
+			weight: 0.2f
+		}
+		{ id: "6EAAE0703B46C98D", item: { count: 1, id: "minecraft:iron_axe" } }
+		{
+			id: "24FDA2908D39CA4D"
+			item: {
+				count: 1
+				id: "minecraft:crossbow"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "4EB9A49873225631"
+			item: {
+				count: 1
+				id: "minecraft:arrow"
+			}
+			random_bonus: 32
+		}
+		{
+			id: "42D93B9D9C4E829D"
+			item: {
+				count: 1
+				id: "minecraft:torch"
+			}
+			random_bonus: 8
+		}
+	]
+}

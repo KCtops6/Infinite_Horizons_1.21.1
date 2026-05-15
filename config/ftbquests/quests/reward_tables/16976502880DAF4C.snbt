@@ -10,7 +10,7 @@
 		string_id: "stronghold_altar"
 	}
 	loot_size: 1
-	order_index: 14
+	order_index: 15
 	rewards: [
 		{
 			id: "78416128599423F4"

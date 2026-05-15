@@ -101,7 +101,11 @@ global.crateConfig = [
         rules: [ { mobs: ['drowned'], chance: 0.125 }]
     },
     {
-        crate: 'evoker_fort',
+        crate: 'citadel',
+        rules: [{ mobs: ['blaze', 'ghast', 'wither_skeleton'], chance: 0.25 }]
+    },
+    {
+        crate: 'evoker_tower',
         rules: [{ mobs: ['irons_spellbooks:archevoker'], chance: 0.5 }]
     }
 ];

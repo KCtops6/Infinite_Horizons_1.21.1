@@ -1,0 +1,212 @@
+{
+	id: "8D2CB3F34E136792"
+	loot_crate: {
+		color: 4465525
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "citadel"
+	}
+	loot_size: 20
+	order_index: 9
+	rewards: [
+		{
+			id: "2A1BFAEC5D72FC2A"
+			item: {
+				count: 8
+				id: "minecraft:paper"
+			}
+			random_bonus: 8
+			weight: 1.0f
+		}
+		{
+			id: "3B2CF1F3C901139F"
+			item: {
+				count: 0
+				id: "irons_spellbooks:ancient_knowledge_fragment"
+			}
+			random_bonus: 4
+			weight: 0.25f
+		}
+		{
+			id: "4C3DA22779E9FF57"
+			item: {
+				count: 0
+				id: "irons_spellbooks:chained_book"
+			}
+			random_bonus: 2
+			weight: 0.15f
+		}
+		{
+			id: "5D4EB9A498732256"
+			item: {
+				count: 1
+				id: "irons_spellbooks:ruined_book"
+			}
+			weight: 0.01f
+		}
+		{
+			id: "6E5FB70666A4AE04"
+			item: {
+				count: 1
+				id: "irons_spellbooks:disc_fragment_flame_still_burns"
+			}
+			weight: 0.4f
+		}
+		{
+			id: "7F6A71A12ECA0423"
+			item: {
+				count: 1
+				id: "irons_spellbooks:furled_map"
+			}
+			weight: 0.05f
+		}
+		{
+			id: "8A7B50FA050E46C6"
+			item: {
+				count: 1
+				id: "irons_spellbooks:scroll"
+			}
+			weight: 13.0f
+		}
+		{
+			id: "9B8CCA780DF5D0C5"
+			item: {
+				count: 0
+				id: "minecraft:book"
+			}
+			random_bonus: 8
+			weight: 0.25f
+		}
+		{
+			id: "0C9D93B9D9C4E829"
+			item: {
+				count: 1
+				id: "irons_spellbooks:pyrium_ingot"
+			}
+			weight: 1.0f
+		}
+		{
+			id: "1F2A3B4C5D6E7F8A"
+			item: {
+				count: 2
+				id: "irons_spellbooks:arcane_essence"
+			}
+			random_bonus: 14
+			weight: 1.0f
+		}
+		{
+			id: "2B3C4D5E6F7A8B9C"
+			item: {
+				count: 1
+				id: "irons_spellbooks:blank_rune"
+			}
+			weight: 5.0f
+		}
+		{
+			id: "3C4D5E6F7A8B9C0D"
+			item: {
+				count: 1
+				id: "minecraft:diamond"
+			}
+			random_bonus: 1
+			weight: 6.0f
+		}
+		{
+			id: "7A8B9C0D1E2F3A4B"
+			item: {
+				count: 1
+				id: "minecraft:netherite_ingot"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "8B9C0D1E2F3A4B5C"
+			item: {
+				count: 4
+				id: "minecraft:emerald"
+			}
+			random_bonus: 4
+			weight: 10.0f
+		}
+		{
+			id: "A1B2C3D4E5F67890"
+			item: {
+				count: 1
+				id: "irons_spellbooks:keeper_flamberge"
+			}
+			weight: 0.25f
+		}
+		{
+			id: "B2C3D4E5F67890A1"
+			item: {
+				count: 1
+				id: "minecraft:flint_and_steel"
+			}
+			weight: 0.55f
+		}
+		{
+			id: "C3D4E5F67890A1B2"
+			item: {
+				count: 0
+				id: "minecraft:lantern"
+			}
+			random_bonus: 8
+			weight: 1.0f
+		}
+		{
+			id: "D4E5F67890A1B2C3"
+			item: {
+				count: 4
+				id: "minecraft:soul_sand"
+			}
+			random_bonus: 4
+			weight: 1.0f
+		}
+		{
+			id: "E5F67890A1B2C3D4"
+			item: {
+				count: 4
+				id: "minecraft:bone"
+			}
+			random_bonus: 4
+			weight: 1.0f
+		}
+		{
+			id: "F67890A1B2C3D4E5"
+			item: {
+				count: 4
+				id: "minecraft:flint"
+			}
+			random_bonus: 4
+			weight: 1.0f
+		}
+		{
+			id: "01A2B3C4D5E6F7G8"
+			item: {
+				count: 1
+				id: "minecraft:ancient_debris"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "A2B3C4D5E6F7G8H9"
+			item: {
+				count: 1
+				id: "minecraft:crossbow"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "B3C4D5E6F7G8H9I0"
+			item: {
+				count: 0
+				id: "minecraft:arrow"
+			}
+			random_bonus: 32
+			weight: 1.0f
+		}
+	]
+}

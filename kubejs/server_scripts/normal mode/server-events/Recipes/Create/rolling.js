@@ -12,7 +12,7 @@ ServerEvents.recipes(event => {
                 count: recipe.originalRecipeResult.count * 2,
                 id: recipe.originalRecipeResult.id
             }];
-            let cleanID = recipe.originalRecipeResult.id.replace(':', '_');
+            let cleanID = recipe.getId().replace(':', '_');
             event.custom({
                 type: "createaddition:rolling",
                 ingredients: ingredientsJson,

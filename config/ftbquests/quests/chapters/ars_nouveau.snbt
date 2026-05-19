@@ -1,0 +1,402 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "ars_nouveau"
+	group: "3C16C4C95F1091C7"
+	id: "4D172D3DE635955D"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"3642E2D78B348AE3"
+				"63FB7295B442F0A3"
+			]
+			id: "07728AC300A744B3"
+			tasks: [{
+				id: "73246E2D3C39D271"
+				item: { count: 1, id: "ars_nouveau:novice_spell_book" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"07728AC300A744B3"
+				"3AA6710EC1CDB7E5"
+				"07B1B6C8502FD122"
+				"20CEFFF2715407F7"
+				"6890C3ED642DE1EC"
+			]
+			id: "62782008A49179A5"
+			tasks: [{
+				id: "58C36ACB8846FE5A"
+				item: { count: 1, id: "ars_nouveau:apprentice_spell_book" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"62782008A49179A5"
+				"00EA50C853AA5D23"
+				"0A32D1747C313758"
+				"7E7E157737CE73E5"
+				"1158A67E6BA69DF2"
+			]
+			id: "1FE22A9896CF19AD"
+			tasks: [{
+				id: "3124D589C6A430B8"
+				item: { count: 1, id: "ars_nouveau:archmage_spell_book" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["016B0E2E0F70CE86"]
+			id: "1158A67E6BA69DF2"
+			tasks: [{
+				id: "3C6C4B02C603D23C"
+				item: { count: 1, id: "ars_nouveau:wilden_tribute" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["06272B07BF2D6034"]
+			id: "016B0E2E0F70CE86"
+			tasks: [{
+				entity: "ars_nouveau:wilden_boss"
+				icon: {
+					components: {
+						"!ftbquests:icon": { }
+						"ftbquests:entity_face": "ars_nouveau:wilden_boss"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "24C4F71B0FA20DD6"
+				type: "kill"
+				value: 100L
+			}]
+			x: 3.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["586B88F96DF41BC1"]
+			id: "06272B07BF2D6034"
+			tasks: [{
+				id: "694AA3E0ACFEE368"
+				item: { count: 1, id: "ars_nouveau:ritual_wilden_summon" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["7533B419B449ECD1"]
+			id: "7B1D2ED879D96F5E"
+			rewards: [
+				{
+					id: "328C356B61064040"
+					item: {
+						count: 1
+						id: "ars_nouveau:magebloom"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "391E6CD618AB921B"
+					item: {
+						count: 1
+						id: "ars_nouveau:magebloom_crop"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4201DE99AC2C9972"
+				item: { count: 1, id: "ars_nouveau:magebloom" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["13AAA829058D8457"]
+			id: "7533B419B449ECD1"
+			rewards: [{
+				id: "651CA4D4DA85F7FE"
+				item: {
+					count: 1
+					id: "ars_nouveau:magebloom_crop"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [{
+				id: "685AEA7EA43365F0"
+				item: { count: 1, id: "ars_nouveau:magebloom_crop" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"28018BE994F02339"
+				"20CEFFF2715407F7"
+				"315324D12B5B7400"
+			]
+			id: "13AAA829058D8457"
+			tasks: [{
+				id: "1DC23026A76FDEC4"
+				item: { count: 1, id: "ars_nouveau:enchanting_apparatus" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["7B1D2ED879D96F5E"]
+			id: "4A694C8093EE9D9A"
+			rewards: [
+				{
+					id: "432B73B59702874F"
+					item: {
+						count: 1
+						id: "ars_nouveau:magebloom_fiber"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "5BD663AE3DA66D79"
+					item: {
+						count: 1
+						id: "ars_nouveau:magebloom"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2710C472954799EC"
+				item: { count: 1, id: "ars_nouveau:magebloom_fiber" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["4A694C8093EE9D9A"]
+			id: "72A248EEFDF26272"
+			rewards: [{
+				count: 3
+				id: "3AC0D8518DD69861"
+				item: {
+					count: 1
+					id: "ars_nouveau:magebloom_fiber"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [{
+				id: "1CAEA5C8265BBFAA"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(ars_nouveau:summon_bed)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["33E604CA82913A95"]
+			id: "20C2F90A8DD28542"
+			rewards: [
+				{
+					count: 8
+					id: "2D531C25A76537DC"
+					item: {
+						count: 1
+						id: "ars_nouveau:sourcestone"
+					}
+					random_bonus: 16
+					type: "item"
+				}
+				{
+					count: 3
+					id: "6DD94ABAFA97FFFC"
+					item: {
+						count: 1
+						id: "ars_nouveau:source_gem"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "78ABC6C3F728D36A"
+				item: { count: 1, id: "ars_nouveau:sourcestone" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"114D6FF6CAFC480C"
+				"48A835233E934344"
+			]
+			id: "33E604CA82913A95"
+			tasks: [{
+				id: "144D1FB6ACE84191"
+				item: { count: 1, id: "ars_nouveau:source_gem" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"3EECDA078F08EEB0"
+				"28018BE994F02339"
+			]
+			id: "114D6FF6CAFC480C"
+			tasks: [{
+				id: "1B1D0657C53A9965"
+				item: { count: 1, id: "ars_nouveau:imbuement_chamber" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["7154F5FB7B8BCFCB"]
+			id: "3EECDA078F08EEB0"
+			tasks: [{
+				id: "2C6378729F052216"
+				item: { count: 1, id: "ars_nouveau:archwood_planks" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"545A6FF013A3C65C"
+				"4DA41191475577D6"
+			]
+			id: "7154F5FB7B8BCFCB"
+			rewards: [{
+				count: 3
+				id: "0EB81283221C9376"
+				item: {
+					count: 1
+					id: "minecraft:bone_meal"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "61383F0ED56B2338"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(kubejs:archwood_saplings)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "75919F3F2B158008"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:logs/archwood)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"2BA2C2C96463234B"
+				"2A98A9A0750F70A8"
+			]
+			dependency_requirement: "one_completed"
+			id: "48A835233E934344"
+			tasks: [{
+				id: "19E1F2CAE2182001"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(kubejs:source_gem_material)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["315324D12B5B7400"]
+			hide_dependent_lines: true
+			id: "586B88F96DF41BC1"
+			tasks: [{
+				id: "7FBB1DF4C8D06601"
+				item: { count: 1, id: "ars_nouveau:ritual_brazier" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["20C2F90A8DD28542"]
+			id: "315324D12B5B7400"
+			rewards: [
+				{
+					id: "0D56D75E4826862C"
+					item: {
+						count: 1
+						id: "ars_nouveau:ritual_brazier"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "3CA56A9D7BAC82F8"
+					item: {
+						count: 1
+						id: "ars_nouveau:source_gem"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "43FB0195625A3862"
+					item: {
+						count: 1
+						id: "ars_nouveau:sourcestone"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "462552563673C5A1"
+				item: { count: 1, id: "ars_nouveau:arcane_pedestal" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 2.0d
+		}
+		{
+			id: "24329C67F9C572C6"
+			tasks: [{
+				id: "369429B2B5CCFD43"
+				item: { count: 1, id: "ars_nouveau:ritual_burrowing" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -2.0d
+		}
+	]
+}

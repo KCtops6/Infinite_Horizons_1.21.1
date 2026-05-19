@@ -1587,5 +1587,30 @@
 			x: 0.0d
 			y: 0.0d
 		}
+		{
+			dependencies: ["1B922950A7570482"]
+			id: "7D98C4E62C673493"
+			tasks: [{
+				id: "7ACBD87871BE0B74"
+				item: { count: 1, id: "create:millstone" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"7D98C4E62C673493"
+				"35B8E383C14A9B9D"
+			]
+			id: "1328DAF7EA0407C2"
+			tasks: [{
+				id: "3568C7A557934864"
+				item: { count: 1, id: "kubejs:deepslate_gravel" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 3.0d
+		}
 	]
 }

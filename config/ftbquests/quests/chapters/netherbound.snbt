@@ -218,5 +218,105 @@
 			x: 6.0d
 			y: 0.0d
 		}
+		{
+			dependencies: [
+				"1C5D9691CB7290BA"
+				"208BC88BEC060E83"
+			]
+			dependency_requirement: "one_completed"
+			id: "3AA6710EC1CDB7E5"
+			tasks: [{
+				id: "123C0B1B525D7863"
+				item: { count: 1, id: "minecraft:quartz_block" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"247655472A2FFA4B"
+				"62A8573000C8CD66"
+			]
+			id: "0979835D80B2B38E"
+			tasks: [{
+				entity: "minecraft:wither"
+				icon: {
+					components: {
+						"!ftbquests:icon": { }
+						"ftbquests:entity_face": "minecraft:wither"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "3B084BC5058B9747"
+				type: "kill"
+				value: 1L
+			}]
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"041C0F5E471298D2"
+				"5919D1E15E9E01D0"
+			]
+			dependency_requirement: "one_completed"
+			id: "0A4D1FFFA7EEA761"
+			tasks: [{
+				entity: "minecraft:wither_skeleton"
+				icon: {
+					components: {
+						"!ftbquests:icon": { }
+						"ftbquests:entity_face": "minecraft:wither_skeleton"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "54FDB9583B6D5D66"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["0A4D1FFFA7EEA761"]
+			id: "62A8573000C8CD66"
+			rewards: [{
+				id: "0C412751F4CE6D4E"
+				item: {
+					count: 1
+					id: "minecraft:wither_skeleton_skull"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [{
+				id: "01D09F85C36B060B"
+				item: { count: 1, id: "minecraft:wither_skeleton_skull" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["0979835D80B2B38E"]
+			id: "7E7E157737CE73E5"
+			rewards: [{
+				id: "5F193FA20A74FD46"
+				item: {
+					count: 1
+					id: "minecraft:nether_star"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [{
+				id: "548DBCD71E340C75"
+				item: { count: 1, id: "minecraft:nether_star" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
 	]
 }

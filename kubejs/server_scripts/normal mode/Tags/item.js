@@ -104,4 +104,7 @@ ServerEvents.tags('item', event => {
     event.add('kubejs:flavored_yogurts', /pamhc2foodextended:.+yogurtitem/);
     event.add('kubejs:jelly_sandwiches', /pamhc2foodextended:.+jellysandwichitem/);
     event.add('kubejs:archwood_saplings', /.*archwood_sapling/);
+    event.add('kubejs:source_gem_material', [
+        'minecraft:lapis_lazuli', 'minecraft:amethyst_shard'
+    ]);
 });

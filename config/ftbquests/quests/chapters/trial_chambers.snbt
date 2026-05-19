@@ -827,26 +827,6 @@
 		{
 			dependencies: ["041C0F5E471298D2"]
 			hide_dependency_lines: true
-			id: "0A4D1FFFA7EEA761"
-			tasks: [{
-				entity: "minecraft:wither_skeleton"
-				icon: {
-					components: {
-						"!ftbquests:icon": { }
-						"ftbquests:entity_face": "minecraft:wither_skeleton"
-					}
-					id: "ftbquests:custom_icon"
-				}
-				id: "54FDB9583B6D5D66"
-				type: "kill"
-				value: 1L
-			}]
-			x: 9.0d
-			y: -2.0d
-		}
-		{
-			dependencies: ["041C0F5E471298D2"]
-			hide_dependency_lines: true
 			id: "2513062705FC9485"
 			tasks: [{
 				entity: "minecraft:elder_guardian"
@@ -1006,6 +986,26 @@
 			}]
 			x: -2.0d
 			y: -2.0d
+		}
+		{
+			dependencies: ["6FAB74DAC0709900"]
+			id: "6890C3ED642DE1EC"
+			rewards: [{
+				id: "455EC5FED04D7138"
+				item: {
+					count: 1
+					id: "minecraft:blaze_rod"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [{
+				id: "4A36D0111804E0C3"
+				item: { count: 1, id: "minecraft:blaze_rod" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 0.0d
 		}
 	]
 }

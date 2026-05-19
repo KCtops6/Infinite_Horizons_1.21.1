@@ -22,7 +22,6 @@
 		}
 		{
 			click: "https://github.com/KCtops6/Infinite_Horizons_1.21.1/wiki/Loot-Crates"
-			dependency: "7E6FA6BACC7B007E"
 			height: 0.75d
 			hover: ["Loot Crate Information on Wiki"]
 			image: "minecraft:block/bookshelf"
@@ -32,7 +31,6 @@
 			y: -1.0d
 		}
 		{
-			dependency: "7E6FA6BACC7B007E"
 			height: 0.5d
 			image: "ftbquests:block/loot_crate_opener"
 			rotation: 0.0d
@@ -391,6 +389,7 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["3B75610FF5F5C112"]
 			icon: {
 				id: "minecraft:cobbled_deepslate"
 			}
@@ -1495,6 +1494,7 @@
 			y: 8.0d
 		}
 		{
+			dependencies: ["4FCC6379B624055A"]
 			id: "497252ADF991FABA"
 			tasks: [{
 				icon: {
@@ -1933,7 +1933,7 @@
 				}
 			]
 			x: -2.0d
-			y: 5.0d
+			y: 6.0d
 		}
 		{
 			dependencies: ["0A32D1747C313758"]
@@ -2252,6 +2252,7 @@
 		}
 		{
 			dependencies: ["4FCC6379B624055A"]
+			hide_dependent_lines: true
 			id: "0F31FA5A2CCBC38F"
 			tasks: [{
 				entity: "minecraft:enderman"
@@ -3015,6 +3016,78 @@
 			}]
 			x: 0.0d
 			y: 0.0d
+		}
+		{
+			dependencies: [
+				"0A32D1747C313758"
+				"3642E2D78B348AE3"
+			]
+			dependency_requirement: "one_completed"
+			hide_dependency_lines: true
+			id: "208BC88BEC060E83"
+			rewards: [{
+				id: "5DBE1AD57C4D1F37"
+				item: {
+					count: 1
+					id: "minecraft:emerald"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					id: "minecraft:stonecutter"
+				}
+				id: "30C4744E40A1C654"
+				observe_type: 0
+				timer: 0L
+				to_observe: "minecraft:stonecutter"
+				type: "observation"
+			}]
+			x: -3.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["0F31FA5A2CCBC38F"]
+			id: "00EA50C853AA5D23"
+			rewards: [{
+				id: "34E1D742A1ABA30E"
+				item: {
+					count: 1
+					id: "minecraft:ender_pearl"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [{
+				id: "45FABC5DCCC517E5"
+				item: { count: 1, id: "minecraft:ender_pearl" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["1328DAF7EA0407C2"]
+			id: "2BA2C2C96463234B"
+			tasks: [{
+				id: "32370B9917872295"
+				item: { count: 1, id: "minecraft:lapis_lazuli" }
+				type: "item"
+			}]
+			x: 17.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["3642E2D78B348AE3"]
+			id: "3B75610FF5F5C112"
+			tasks: [{
+				id: "631EEB414EBF5F10"
+				item: { count: 1, id: "kubejs:iron_trowel" }
+				type: "item"
+			}]
+			x: 13.0d
+			y: -2.0d
 		}
 	]
 }

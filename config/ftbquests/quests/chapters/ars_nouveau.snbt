@@ -388,15 +388,5 @@
 			x: 5.0d
 			y: 2.0d
 		}
-		{
-			id: "24329C67F9C572C6"
-			tasks: [{
-				id: "369429B2B5CCFD43"
-				item: { count: 1, id: "ars_nouveau:ritual_burrowing" }
-				type: "item"
-			}]
-			x: 5.0d
-			y: -2.0d
-		}
 	]
 }

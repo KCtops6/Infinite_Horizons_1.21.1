@@ -421,8 +421,8 @@
 			}]
 			tasks: [
 				{
-					id: "6445C708C1F83E52"
-					item: { }
+					id: "7EF4C61E03E30BB5"
+					item: { count: 1, id: "mysticalagriculture:nature_seeds" }
 					type: "item"
 				}
 				{

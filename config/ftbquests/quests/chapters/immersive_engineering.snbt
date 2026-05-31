@@ -1,0 +1,140 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "immersive_engineering"
+	group: "3C16C4C95F1091C7"
+	icon: {
+		components: {
+			"ftbquests:icon": "immersiveengineering:item/tool_hammer"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "7AFE3BBC043260D3"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"3642E2D78B348AE3"
+				"78E29EADACD52670"
+			]
+			id: "385713B8B9D3D09A"
+			rewards: [{
+				id: "53FD28A3D4F08AD5"
+				item: {
+					count: 1
+					id: "immersiveengineering:manual"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "25307CFA9CE237C8"
+				item: { count: 1, id: "immersiveengineering:hammer" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["385713B8B9D3D09A"]
+			icon: {
+				id: "kubejs:coal_coke"
+			}
+			id: "5325073801A73C95"
+			rewards: [
+				{
+					id: "4B13E8A0AD9B0C9C"
+					item: {
+						count: 1
+						id: "kubejs:coal_coke"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "7EB483B4B7EA465E"
+					item: {
+						count: 1
+						id: "immersiveengineering:creosote_bucket"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 27L
+					id: "5561F4ABA2A63A9A"
+					item: { count: 1, id: "immersiveengineering:cokebrick" }
+					type: "item"
+				}
+				{
+					id: "17B01246BE8AD398"
+					item: { count: 1, id: "kubejs:coal_coke" }
+					type: "item"
+				}
+				{
+					id: "397C951645698516"
+					item: { count: 1, id: "immersiveengineering:creosote_bucket" }
+					type: "item"
+				}
+			]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5325073801A73C95"]
+			icon: {
+				id: "kubejs:steel_ingot"
+			}
+			id: "1B33DFBE26624AAC"
+			rewards: [
+				{
+					id: "6620AC2C338B5E79"
+					item: {
+						count: 1
+						id: "kubejs:steel_ingot"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "2EE55B3801DD1EC0"
+					item: {
+						count: 1
+						id: "kubejs:coal_coke"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 27L
+					id: "1EA3518D5A4C2EF1"
+					item: { count: 1, id: "immersiveengineering:blastbrick" }
+					type: "item"
+				}
+				{
+					id: "1B1C4F42AB9C6E7D"
+					item: { count: 1, id: "kubejs:steel_ingot" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5325073801A73C95"]
+			id: "2286064EFF41E046"
+			tasks: [{
+				id: "58B08F38A513A44B"
+				item: { count: 1, id: "immersiveengineering:treated_wood_horizontal" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -1.0d
+		}
+	]
+}

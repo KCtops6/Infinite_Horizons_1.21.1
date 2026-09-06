@@ -96,3 +96,6 @@ config/better-advanced-tooltips-client.toml
 config/fancymenu/ui_themes/
 config/guardvillagers-common-3.toml.bak
 config/create*
+config/entityculling.json
+config/ftbquests-client.snbt
+config/mysticalagriculture*

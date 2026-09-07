@@ -1793,8 +1793,8 @@
 				item: { count: 1, id: "minecraft:bamboo" }
 				type: "item"
 			}]
-			x: -5.0d
-			y: 0.0d
+			x: 6.0d
+			y: 6.0d
 		}
 		{
 			dependencies: ["31F4207EAC78EA61"]
@@ -1804,8 +1804,8 @@
 				item: { count: 1, id: "minecraft:scaffolding" }
 				type: "item"
 			}]
-			x: -5.0d
-			y: -1.0d
+			x: 6.0d
+			y: 5.0d
 		}
 		{
 			dependencies: ["073087ED7AC745F3"]
@@ -2507,8 +2507,8 @@
 				item: { count: 1, id: "minecraft:moss_block" }
 				type: "item"
 			}]
-			x: -5.0d
-			y: 1.0d
+			x: 6.0d
+			y: 7.0d
 		}
 		{
 			dependencies: ["211BF4A68D1D2CBE"]

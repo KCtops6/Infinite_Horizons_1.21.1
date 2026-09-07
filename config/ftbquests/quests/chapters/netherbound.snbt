@@ -8,6 +8,7 @@
 		id: "minecraft:netherrack"
 	}
 	id: "5E07E3741CBC3BFE"
+	images: [ ]
 	order_index: 1
 	quest_links: [ ]
 	quests: [
@@ -25,6 +26,7 @@
 					id: "ftbquests:custom_icon"
 				}
 				id: "4788BFFD15F44F44"
+				observation_type: "block"
 				observe_type: 0
 				timer: 0L
 				to_observe: "minecraft:nether_portal"

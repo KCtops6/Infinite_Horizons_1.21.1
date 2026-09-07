@@ -10,9 +10,9 @@
 	id: "6B16A1E49845B379"
 	images: [
 		{
-			click: "https://github.com/KCtops6/Infinite_Horizons_1.21.1/wiki/Blaze-Burners"
+			click_action: "open_uri:https://github.com/KCtops6/Infinite_Horizons_1.21.1/wiki/Blaze-Burners"
 			height: 0.75d
-			hover: ["Obtaining Blaze Burners"]
+			id: "6277602A349E702F"
 			image: "minecraft:block/bookshelf"
 			rotation: 0.0d
 			width: 0.75d
@@ -20,9 +20,9 @@
 			y: -1.0d
 		}
 		{
-			click: "https://github.com/KCtops6/Infinite_Horizons_1.21.1/wiki/Sifting"
+			click_action: "open_uri:https://github.com/KCtops6/Infinite_Horizons_1.21.1/wiki/Sifting"
 			height: 0.75d
-			hover: ["Using Create Sifting"]
+			id: "5EB61020FD58F45F"
 			image: "minecraft:block/bookshelf"
 			rotation: 0.0d
 			width: 0.75d
@@ -31,6 +31,7 @@
 		}
 		{
 			height: 0.5d
+			id: "1219E1EED82FCCA2"
 			image: "minecraft:textures/entity_icon/blaze.png"
 			rotation: 0.0d
 			width: 0.5d
@@ -39,6 +40,7 @@
 		}
 		{
 			height: 0.5d
+			id: "7CC46A11B6DC9EC4"
 			image: "minecraft:block/gravel"
 			rotation: 0.0d
 			width: 0.5d

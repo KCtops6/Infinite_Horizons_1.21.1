@@ -22,6 +22,12 @@
 	chapter.7AFE3BBC043260D3.title: "Immersive Engineering"
 	chapter_group.0BA6C43BB6B5DE06.title: "Main Progression"
 	chapter_group.3C16C4C95F1091C7.title: "Optional Endeavors"
+	image.25D3255BCDD4F835.title: "Using Trowels on Wiki"
+	image.2C36D4F32FF40255.title: "Creating Trial Vaults"
+	image.2C83662ED957015D.title: "Creating Trial Spawners"
+	image.2DE4D708E8CDA48B.title: "Loot Crate Information on Wiki"
+	image.5EB61020FD58F45F.title: "Using Create Sifting"
+	image.6277602A349E702F.title: "Obtaining Blaze Burners"
 	quest.0198B4CB454E265D.quest_desc: ["Right click a piglin with arcane essence to get an apothecarist."]
 	quest.0372C7453493CA18.quest_desc: ["The &lHoney Generator&r is a sweet upgrade, offering a more efficient power source that converts honey into energy. With a generation rate of 64 FE/t and a transfer rate of 512 FE/t, it consumes only 0.5 FE/t while drawing power from honey. This upgrade from the Culinary Generator provides a buffer capacity of 500,000 FE, ensuring that your energy needs are met with this naturally sweet solution!"]
 	quest.0372C7453493CA18.quest_subtitle: "Upgrade to the Honey Generator"

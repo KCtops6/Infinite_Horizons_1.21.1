@@ -10,10 +10,10 @@
 	id: "17F179085511CF63"
 	images: [
 		{
-			click: "https://github.com/KCtops6/Infinite_Horizons_1.21.1/wiki/Using-Trowels"
+			click_action: "open_uri:https://github.com/KCtops6/Infinite_Horizons_1.21.1/wiki/Using-Trowels"
 			dependency: "62DBB6855DF2639C"
 			height: 0.75d
-			hover: ["Using Trowels on Wiki"]
+			id: "25D3255BCDD4F835"
 			image: "minecraft:block/bookshelf"
 			rotation: 0.0d
 			width: 0.75d
@@ -21,9 +21,9 @@
 			y: 1.0d
 		}
 		{
-			click: "https://github.com/KCtops6/Infinite_Horizons_1.21.1/wiki/Loot-Crates"
+			click_action: "open_uri:https://github.com/KCtops6/Infinite_Horizons_1.21.1/wiki/Loot-Crates"
 			height: 0.75d
-			hover: ["Loot Crate Information on Wiki"]
+			id: "2DE4D708E8CDA48B"
 			image: "minecraft:block/bookshelf"
 			rotation: 0.0d
 			width: 0.75d
@@ -32,6 +32,7 @@
 		}
 		{
 			height: 0.5d
+			id: "5A6F8D8700933040"
 			image: "ftbquests:block/loot_crate_opener"
 			rotation: 0.0d
 			width: 0.5d
@@ -41,6 +42,7 @@
 		{
 			dependency: "62DBB6855DF2639C"
 			height: 0.5d
+			id: "1307A4F770CDE26E"
 			image: "kubejs:item/iron_trowel"
 			rotation: 0.0d
 			width: 0.5d
@@ -872,6 +874,7 @@
 						id: "minecraft:bee_nest"
 					}
 					id: "5929F4C04A9E373F"
+					observation_type: "block"
 					observe_type: 0
 					timer: 0L
 					to_observe: "minecraft:bee_nest"
@@ -886,6 +889,7 @@
 						id: "ftbquests:custom_icon"
 					}
 					id: "04E88347BFFD24F6"
+					observation_type: "entity_type"
 					observe_type: 5
 					timer: 0L
 					to_observe: "minecraft:bee"
@@ -1505,6 +1509,7 @@
 					id: "ftbquests:custom_icon"
 				}
 				id: "13267DC24D108AFC"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "minecraft:villager"
@@ -2035,6 +2040,7 @@
 					id: "ftbquests:custom_icon"
 				}
 				id: "231E526F25164D31"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "minecraft:wandering_trader"
@@ -2057,6 +2063,7 @@
 					id: "ftbquests:custom_icon"
 				}
 				id: "4EE9307862D841CF"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "minecraft:sheep"
@@ -2113,6 +2120,7 @@
 					id: "ftbquests:custom_icon"
 				}
 				id: "74017466DBFBDCF2"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "mineraft:horse"
@@ -2481,6 +2489,7 @@
 				}
 				{
 					id: "66BA2429DC3F98C1"
+					observation_type: "block"
 					observe_type: 0
 					timer: 0L
 					to_observe: "minecraft:dirt"
@@ -3039,6 +3048,7 @@
 					id: "minecraft:stonecutter"
 				}
 				id: "30C4744E40A1C654"
+				observation_type: "block"
 				observe_type: 0
 				timer: 0L
 				to_observe: "minecraft:stonecutter"

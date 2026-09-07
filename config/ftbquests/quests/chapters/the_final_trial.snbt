@@ -8,6 +8,7 @@
 		id: "minecraft:dragon_egg"
 	}
 	id: "2A5182EC401BA623"
+	images: [ ]
 	order_index: 6
 	quest_links: [ ]
 	quests: [
@@ -92,6 +93,7 @@
 					id: "minecraft:player_head"
 				}
 				id: "78677E7486B9BA7B"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "minecraft:strider"

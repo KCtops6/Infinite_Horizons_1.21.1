@@ -3099,5 +3099,19 @@
 			x: 13.0d
 			y: -2.0d
 		}
+		{
+			dependencies: [
+				"528AC4A13D35951B"
+				"170192578F1D5CA0"
+			]
+			id: "750F49C9EEEFA5C4"
+			tasks: [{
+				id: "6F89C6F1664C6201"
+				item: { count: 1, id: "minecraft:redstone" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: 3.0d
+		}
 	]
 }

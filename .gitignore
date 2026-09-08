@@ -99,3 +99,9 @@ config/create*
 config/entityculling.json
 config/ftbquests-client.snbt
 config/mysticalagriculture*
+config/jei_mekanism_multiblocks-client.toml
+config/mekanism_unleashed-startup.toml
+config/mekanismcovers.json
+config/Mekanism/world-1.toml.bak
+config/Mekanism/world.toml
+config/MekanismEnchantableMekaSuit/gear.toml

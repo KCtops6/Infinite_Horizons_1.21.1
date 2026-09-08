@@ -1,8 +1,22 @@
 {
   "mod_priorities": [
     "minecraft",
+    "infinite_resources",
     "kubejs",
-    "create"
+    "crafttweaker",
+    "create",
+    "supplementaries",
+    "farmersdelight",
+    "thermal",
+    "immersiveengineering",
+    "mekanism",
+    "moremekanismprocessing",
+    "ae2",
+    "extendedcrafting",
+    "pamshc2crops",
+    "gtceu",
+    "productivebees",
+    "refinedstorage"
   ],
   "priority_overrides": {},
   "stone_variants": [

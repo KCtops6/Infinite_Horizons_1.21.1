@@ -3,6 +3,7 @@
 	chapter.0770A91FCAC26B5E.title: "Zeta"
 	chapter.17F179085511CF63.chapter_subtitle: ["Getting Started"]
 	chapter.17F179085511CF63.title: "Alpha"
+	chapter.18ED3119D763845F.title: "Mekanism"
 	chapter.1F10B15237CFBB52.title: "Delta"
 	chapter.2A5182EC401BA623.title: "Omega"
 	chapter.2F34CC58AE75DDE7.chapter_subtitle: ["Early-Game \"Non-Digital\" Storage"]
@@ -14,6 +15,7 @@
 	chapter.5E07E3741CBC3BFE.title: "Beta"
 	chapter.64FE7FCF6127CD6A.chapter_subtitle: ["Infinite Horizons Trial Chambers"]
 	chapter.64FE7FCF6127CD6A.title: "Epsilon"
+	chapter.6AFDD6AA987C45E7.title: "Mekanism"
 	chapter.6B16A1E49845B379.chapter_subtitle: ["Create and Addons"]
 	chapter.6B16A1E49845B379.title: "Gamma"
 	chapter.73BAD2E24E99AD1D.title: "Industrial Foregoing"
@@ -97,7 +99,6 @@
 		"Good, steady source of &ocertus quartz&r."
 	]
 	quest.19EC29C268AFA9C9.title: "Spatial Bee"
-	quest.1B33DFBE26624AAC.title: "Steel"
 	quest.1B922950A7570482.quest_desc: ["Check the box to acknowledge that you have a working source of rotational energy."]
 	quest.1B922950A7570482.quest_subtitle: "Early Game Power"
 	quest.1DD31DACE3A3A35A.quest_desc: ["&lEarth Seeds&r grow into &lEarth Essence&r, which may not offer immediate benefits for early-game crafting, but it is vital for creating high-level gear in the end game. It's wise to start growing these now, so you’ll have a steady supply when you're ready to craft advanced equipment and unlock powerful recipes. Get a head start on your future progression!"]
@@ -297,7 +298,6 @@
 	quest.528AC4A13D35951B.quest_desc: ["Use a &ohammer&r on &lcobblestone&r to get &lgravel&r."]
 	quest.528AC4A13D35951B.quest_subtitle: "Turning Stone into Gravel"
 	quest.528AC4A13D35951B.title: "Hammering the Basics"
-	quest.5325073801A73C95.title: "Coke Oven"
 	quest.53AC5BC20682441D.quest_desc: [
 		"You may struggle to find certain animals in the superflat environment. This is what the modpack's feed items are for."
 		""
@@ -396,6 +396,7 @@
 	task.02FD29192B135BC0.title: "Construct the Bottling Machine"
 	task.049328BEB49A0C63.title: "Any #sophisticated:auto_smelting_upgrades"
 	task.04BD6DA98B4C7D44.title: "Observe a Smoker"
+	task.0503BC283CB61780.title: "Craft Aluminum Scaffolding"
 	task.05A1297F925E6922.title: "Craft a Juice Item."
 	task.06F56F0B8CE584F2.title: "Kill an Evoker."
 	task.081F16B216B3A4E0.title: "Any #sophisticated:advanced_compacting_upgrades"
@@ -447,6 +448,7 @@
 	task.2D769F0F763C040B.title: "Assemble the Coke Oven"
 	task.2E982032F0E699CF.title: "Craft Flavored Yogurt"
 	task.2EC0140CC254EA63.title: "Craft a fluid storage cell."
+	task.2F3A4F97382689CB.title: "Craft Steel Scaffolding"
 	task.30319FC6F26BC172.title: "Any #sophisticated:advanced_void_upgrades"
 	task.30C4744E40A1C654.title: "Observe a Stonecutter"
 	task.31D8B7990E990714.title: "Kill the Ender Dragon."
@@ -520,6 +522,7 @@
 	task.6C11616C65D7F631.title: "Any #sophisticated:pickup_upgrades"
 	task.6C1DAF36D60895A2.title: "Kill a Pig"
 	task.6CBE6AC06EEEFBDB.title: "Visit an End City."
+	task.6D4B711C73B72EF8.title: "Construct a Metal Press"
 	task.6D73C458FCAB9A85.title: "Any #sophisticated:advanced_magnet_upgrades"
 	task.6F526BEC8B38F756.title: "Any #sophisticatedstorage:copper_storages"
 	task.6FD1402A7A230017.title: "Kill a Pillager"
